@@ -1,0 +1,20 @@
+# Alternative splicing
+
+↑ **Parent:** [Messenger RNA](messenger-rna.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Alternative_splicing)
+
+## ↑ Ancestors (9)
+
+1. [Messenger RNA](messenger-rna.md)
+2. [RNA](rna.md)
+3. [DNA](dna-split.md)
+4. [Molecular biology](molecular-biology-split.md)
+5. [Level of organization of bodies](level-of-organization-of-bodies.md)
+6. [Biology](biology-split.md)
+7. [Natural science](natural-science.md)
+8. [Science](science-split.md)
+9. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [100 Greatest Discoveries by the Discovery Channel (2004-2005)](100-greatest-discoveries-by-the-discovery-channel-2004-2005.md)

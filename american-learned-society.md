@@ -1,0 +1,18 @@
+# American learned society
+
+↑ **Parent:** [Learned society](learned-society.md)
+
+**Table of contents**
+
+- [American Physical Society](american-physical-society.md)
+  - [Reviews of Modern Physics](reviews-of-modern-physics.md)
+- [National Academy of Sciences](national-academy-of-sciences.md)
+
+## ↑ Ancestors (6)
+
+1. [Learned society](learned-society.md)
+2. [Education](education-split.md)
+3. [Social technology](social-technology-split.md)
+4. [Area of technology](area-of-technology.md)
+5. [Technology](technology-split.md)
+6. [Ciro Santilli's Homepage](split.md)

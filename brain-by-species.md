@@ -1,0 +1,42 @@
+# Brain by species
+
+↑ **Parent:** [Brain](brain-split.md)
+
+**Table of contents**
+
+- [Drosophila brain](drosophila-brain.md)
+  - [Drosophila connectome](drosophila-connectome.md)
+    - [FlyWire](flywire.md)
+    - [Neurokernel](neurokernel.md)
+    - [Virtual Fly Brain](virtual-fly-brain.md)
+- [Mouse brain](mouse-brain.md)
+  - [Allen Mouse Brain](allen-mouse-brain.md)
+    - [Allen Mouse Brain Common Coordinate Framework](allen-mouse-brain-common-coordinate-framework.md)
+      - [CCFv3](ccfv3.md)
+- [Human brain](human-brain.md)
+  - [Human brain connectome](human-brain-connectome.md)
+    - [High level human brain structure](high-level-human-brain-structure.md)
+      - [Brodmann area](brodmann-area.md)
+      - [Number of neurons in the human brain](number-of-neurons-in-the-human-brain.md)
+      - [Number of synapses in the human brain](number-of-synapses-in-the-human-brain.md)
+      - [Cerebral cortex](cerebral-cortex.md)
+        - [Allocortex](allocortex.md)
+        - [Neocortex](neocortex.md)
+        - [Cortical column](cortical-column.md)
+          - [Cortical minicolumn](cortical-minicolumn.md)
+      - [Allen Adult Human Brain](allen-adult-human-brain.md)
+    - [Human Connectome Project](human-connectome-project.md)
+  - [Human brain research project](human-brain-research-project.md)
+    - [Allen brain atlas](allen-brain-atlas.md)
+    - [NextBrain atlas](nextbrain-atlas.md)
+    - [Human Brain Project](human-brain-project.md)
+
+## ↑ Ancestors (7)
+
+1. [Brain](brain-split.md)
+2. [Organ (anatomy)](organ-anatomy.md)
+3. [Level of organization of bodies](level-of-organization-of-bodies.md)
+4. [Biology](biology-split.md)
+5. [Natural science](natural-science.md)
+6. [Science](science-split.md)
+7. [Ciro Santilli's Homepage](split.md)

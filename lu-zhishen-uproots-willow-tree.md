@@ -1,0 +1,42 @@
+# Lu Zhishen uproots willow tree
+
+↑ **Parent:** [Lu Zhishen scene](lu-zhishen-scene.md)
+
+- [https://en.wikipedia.org/wiki/File:Lu_Zhishen_Water_Margin_2.jpg](https://en.wikipedia.org/wiki/File:Lu_Zhishen_Water_Margin_2.jpg)
+- [https://artgallery.yale.edu/collections/objects/79307](https://artgallery.yale.edu/collections/objects/79307)
+
+## ↑ Ancestors (29)
+
+1. [Lu Zhishen scene](lu-zhishen-scene.md)
+2. [Lu Zhishen](lu-zhishen.md)
+3. [Water Margin character](water-margin-character.md)
+4. [Water Margin](water-margin.md)
+5. [Four Great Classic Novels](four-great-classic-novels.md)
+6. [Classic Chinese Novels](classic-chinese-novels.md)
+7. [Chinese book](chinese-book.md)
+8. [Chinese literature](chinese-literature.md)
+9. [Chinese art](chinese-art.md)
+10. [Chinese culture](chinese-culture.md)
+11. [China](china-split.md)
+12. [Country in East Asia](country-in-east-asia.md)
+13. [East Asia](east-asia.md)
+14. [Asia](asia.md)
+15. [List of continents](list-of-continents.md)
+16. [Continent](continent-split.md)
+17. [Earth](earth.md)
+18. [Planet in the Solar System](planet-in-the-solar-system.md)
+19. [Solar System](solar-system.md)
+20. [Orion Arm](orion-arm.md)
+21. [Arm of the Milky Way](arm-of-the-milky-way.md)
+22. [Milky Way](milky-way.md)
+23. [Local group](local-group.md)
+24. [Virgo Supercluster](virgo-supercluster.md)
+25. [Universe](universe.md)
+26. [Astronomy](astronomy-split.md)
+27. [Natural science](natural-science.md)
+28. [Science](science-split.md)
+29. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [The Water Margin (1998 TV series)](the-water-margin-1998-tv-series.md)
