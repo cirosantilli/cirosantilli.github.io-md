@@ -1,0 +1,63 @@
+# Oxford Nanopore Technologies
+
+↑ **Parent:** [DNA sequencing company](dna-sequencing-company.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies)
+
+They put a lot of emphasis into [base calling](base-calling.md). E.g.:
+- they have used [FPGAs](field-programmable-gate-array.md) to accelerate it on certain models: [https://twitter.com/nanopore/status/841671404588302338](https://twitter.com/nanopore/status/841671404588302338), sampe engineer: [https://www.linkedin.com/in/balaji-renganathan-31b98415/](https://www.linkedin.com/in/balaji-renganathan-31b98415/)
+
+**Table of contents**
+
+- [Oxford Nanopore Technologies product](oxford-nanopore-technologies-product.md)
+  - [PromethION](promethion.md)
+  - [Oxford Nanopore MinION](oxford-nanopore-minion.md)
+    - [How to use an Oxford Nanopore MinION to extract DNA from river water and determine which bacteria live in it](oxford-nanopore-river-bacteria.md)
+      - [Experiment background](oxford-nanopore-river-bacteria.md#experiment-background)
+      - [Overview of the experiment](oxford-nanopore-river-bacteria.md#overview-of-the-experiment)
+        - [Why Oxford Nanopore was used instead of Illumina for the sequencing](oxford-nanopore-river-bacteria.md#why-oxford-nanopore-was-used-instead-of-illumina-for-the-sequencing)
+      - [Sample collection](oxford-nanopore-river-bacteria.md#sample-collection)
+      - [DNA extraction](oxford-nanopore-river-bacteria.md#dna-extraction)
+        - [Filtration with vacuum pump](oxford-nanopore-river-bacteria.md#filtration-with-vacuum-pump)
+        - [Post filtration purification](oxford-nanopore-river-bacteria.md#post-filtration-purification)
+      - [PCR](oxford-nanopore-river-bacteria.md#pcr)
+        - [PCR verification with gel electrophoresis](oxford-nanopore-river-bacteria.md#pcr-verification-with-gel-electrophoresis)
+      - [Sequencing](oxford-nanopore-river-bacteria.md#sequencing)
+        - [Pre-sequencing preparation](oxford-nanopore-river-bacteria.md#pre-sequencing-preparation)
+        - [Using the Oxford Nanopore](oxford-nanopore-river-bacteria.md#using-the-oxford-nanopore)
+      - [Bioinformatics](oxford-nanopore-river-bacteria.md#bioinformatics)
+      - [Conclusions](oxford-nanopore-river-bacteria.md#conclusions)
+      - [Protocols used](oxford-nanopore-river-bacteria.md#protocols-used)
+        - [Qiagen DNeasy PowerWater Kit](oxford-nanopore-river-bacteria.md#qiagen-dneasy-powerwater-kit)
+        - [Qiagen QIAquick PCR Purification Kit](oxford-nanopore-river-bacteria.md#qiagen-qiaquick-pcr-purification-kit)
+        - [Oxford Nanopore SQK-LSK109 Ligation Sequencing Kit](oxford-nanopore-river-bacteria.md#oxford-nanopore-sqk-lsk109-ligation-sequencing-kit)
+      - [Equipment used](oxford-nanopore-river-bacteria.md#equipment-used)
+        - [Thermo Scientific Nalgene Polysulfone Reusable Bottle Top Filters](oxford-nanopore-river-bacteria.md#thermo-scientific-nalgene-polysulfone-reusable-bottle-top-filters)
+        - [KNF Laboport series laboratory vacuum pump](oxford-nanopore-river-bacteria.md#knf-laboport-series-laboratory-vacuum-pump)
+        - [Scientific Industries Inc. Vortex-Genie 2](oxford-nanopore-river-bacteria.md#scientific-industries-inc-vortex-genie-2)
+        - [VWR Micro Star 17 microcentrifuge](oxford-nanopore-river-bacteria.md#vwr-micro-star-17-microcentrifuge)
+        - [VELP Scientifica WIZARD IR Infrared Vortex Mixer](oxford-nanopore-river-bacteria.md#velp-scientifica-wizard-ir-infrared-vortex-mixer)
+        - [Marshal Scientific MJ Research PTC-200 Thermal Cycler](oxford-nanopore-river-bacteria.md#marshal-scientific-mj-research-ptc-200-thermal-cycler)
+        - [GE MagRack 6](oxford-nanopore-river-bacteria.md#ge-magrack-6)
+        - [BTLab Systems Mini Centrifuge](oxford-nanopore-river-bacteria.md#btlab-systems-mini-centrifuge)
+        - [Fisher Scientific UVP LM-26E Benchtop 2UV Transilluminator](oxford-nanopore-river-bacteria.md#fisher-scientific-uvp-lm-26e-benchtop-2uv-transilluminator)
+        - [Biochrom SimpliNano spectrophotometer](oxford-nanopore-river-bacteria.md#biochrom-simplinano-spectrophotometer)
+      - [External links to this page](oxford-nanopore-river-bacteria.md#external-links-to-this-page)
+
+## ↑ Ancestors (9)
+
+1. [DNA sequencing company](dna-sequencing-company.md)
+2. [DNA sequencing](dna-sequencing.md)
+3. [DNA](dna-split.md)
+4. [Molecular biology](molecular-biology-split.md)
+5. [Level of organization of bodies](level-of-organization-of-bodies.md)
+6. [Biology](biology-split.md)
+7. [Natural science](natural-science.md)
+8. [Science](science-split.md)
+9. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (4)
+
+- [Entrepreneurship in the United Kingdom](entrepreneurship-in-the-united-kingdom.md)
+- [Oxford Nanopore MinION](oxford-nanopore-minion.md)
+- [External links to this page](oxford-nanopore-river-bacteria/external-links-to-this-page.md)
+- [Overview of the experiment](oxford-nanopore-river-bacteria/overview-of-the-experiment.md)

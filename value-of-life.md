@@ -1,0 +1,20 @@
+# Value of life
+
+↑ **Parent:** [Economy](economy-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Value_of_life)
+
+## ↑ Ancestors (9)
+
+1. [Economy](economy-split.md)
+2. [Psychology](psychology.md)
+3. [Brain](brain-split.md)
+4. [Organ (anatomy)](organ-anatomy.md)
+5. [Level of organization of bodies](level-of-organization-of-bodies.md)
+6. [Biology](biology-split.md)
+7. [Natural science](natural-science.md)
+8. [Science](science-split.md)
+9. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Easy Problems That LLMs Get Wrong by Sean Williams and James Huckle](easy-problems-that-llms-get-wrong-by-sean-williams-and-james-huckle.md)

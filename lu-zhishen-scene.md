@@ -1,0 +1,40 @@
+# Lu Zhishen scene
+
+↑ **Parent:** [Lu Zhishen](lu-zhishen.md)  
+🏷️ **Tags:** [Water Margin scene](water-margin-scene.md)
+
+**Table of contents**
+
+- [Lu Zhishen uproots willow tree](lu-zhishen-uproots-willow-tree.md)
+- [Lu Zhishen saves Lin Chong](lu-zhishen-saves-lin-chong.md)
+
+## ↑ Ancestors (28)
+
+1. [Lu Zhishen](lu-zhishen.md)
+2. [Water Margin character](water-margin-character.md)
+3. [Water Margin](water-margin.md)
+4. [Four Great Classic Novels](four-great-classic-novels.md)
+5. [Classic Chinese Novels](classic-chinese-novels.md)
+6. [Chinese book](chinese-book.md)
+7. [Chinese literature](chinese-literature.md)
+8. [Chinese art](chinese-art.md)
+9. [Chinese culture](chinese-culture.md)
+10. [China](china-split.md)
+11. [Country in East Asia](country-in-east-asia.md)
+12. [East Asia](east-asia.md)
+13. [Asia](asia.md)
+14. [List of continents](list-of-continents.md)
+15. [Continent](continent-split.md)
+16. [Earth](earth.md)
+17. [Planet in the Solar System](planet-in-the-solar-system.md)
+18. [Solar System](solar-system.md)
+19. [Orion Arm](orion-arm.md)
+20. [Arm of the Milky Way](arm-of-the-milky-way.md)
+21. [Milky Way](milky-way.md)
+22. [Local group](local-group.md)
+23. [Virgo Supercluster](virgo-supercluster.md)
+24. [Universe](universe.md)
+25. [Astronomy](astronomy-split.md)
+26. [Natural science](natural-science.md)
+27. [Science](science-split.md)
+28. [Ciro Santilli's Homepage](split.md)

@@ -1,0 +1,38 @@
+# Placenta
+
+↑ **Parent:** [Placentalia](placentalia.md)  
+🏷️ **Tags:** [Animal anatomy](animal-anatomy.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Placenta)
+
+## ↑ Ancestors (26)
+
+1. [Placentalia](placentalia.md)
+2. [Theria subclade](theria-subclade.md)
+3. [Theria](theria.md)
+4. [Mammal subclade](mammal-subclade.md)
+5. [Mammal](mammal.md)
+6. [Synapsid subclade](synapsid-subclade.md)
+7. [Synapsid](synapsid.md)
+8. [Amniote subclade](amniote-subclade.md)
+9. [Amniote](amniote.md)
+10. [Tetrapod subclade](tetrapod-subclade.md)
+11. [Tetrapod](tetrapod.md)
+12. [Fish subclade](fish-subclade.md)
+13. [Fish](fish.md)
+14. [Vertebrate](vertebrate.md)
+15. [Chordate subclade](chordate-subclade.md)
+16. [Chordate](chordate.md)
+17. [Animal subclade](animal-subclade.md)
+18. [Animal](animal.md)
+19. [Eukarya subclade](eukarya-subclade.md)
+20. [Eukaryote](eukaryote.md)
+21. [Species](species.md)
+22. [Taxonomy](taxonomy-split.md)
+23. [Biology](biology-split.md)
+24. [Natural science](natural-science.md)
+25. [Science](science-split.md)
+26. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Marsupial](marsupial.md)

@@ -1,0 +1,43 @@
+# Laurasiatheria subclade
+
+↑ **Parent:** [Laurasiatheria](laurasiatheria.md)
+
+**Table of contents**
+
+- [Carnivora](carnivora.md)
+  - [Carnivora subclade](carnivora-subclade.md)
+    - [Bear](bear.md)
+- [Ungulate](ungulate.md)
+  - [Ungulate subclade](ungulate-subclade.md)
+    - [Cow](cow.md)
+
+## ↑ Ancestors (28)
+
+1. [Laurasiatheria](laurasiatheria.md)
+2. [Placentalia subclade](placentalia-subclade.md)
+3. [Placentalia](placentalia.md)
+4. [Theria subclade](theria-subclade.md)
+5. [Theria](theria.md)
+6. [Mammal subclade](mammal-subclade.md)
+7. [Mammal](mammal.md)
+8. [Synapsid subclade](synapsid-subclade.md)
+9. [Synapsid](synapsid.md)
+10. [Amniote subclade](amniote-subclade.md)
+11. [Amniote](amniote.md)
+12. [Tetrapod subclade](tetrapod-subclade.md)
+13. [Tetrapod](tetrapod.md)
+14. [Fish subclade](fish-subclade.md)
+15. [Fish](fish.md)
+16. [Vertebrate](vertebrate.md)
+17. [Chordate subclade](chordate-subclade.md)
+18. [Chordate](chordate.md)
+19. [Animal subclade](animal-subclade.md)
+20. [Animal](animal.md)
+21. [Eukarya subclade](eukarya-subclade.md)
+22. [Eukaryote](eukaryote.md)
+23. [Species](species.md)
+24. [Taxonomy](taxonomy-split.md)
+25. [Biology](biology-split.md)
+26. [Natural science](natural-science.md)
+27. [Science](science-split.md)
+28. [Ciro Santilli's Homepage](split.md)

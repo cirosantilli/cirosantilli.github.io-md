@@ -1,0 +1,27 @@
+# BBC
+
+↑ **Parent:** [Media company](media-company.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/BBC)
+
+**Table of contents**
+
+- [BBC program](bbc-program.md)
+
+## ↑ Ancestors (6)
+
+1. [Media company](media-company.md)
+2. [Media (communication)](media-communication.md)
+3. [Social technology](social-technology-split.md)
+4. [Area of technology](area-of-technology.md)
+5. [Technology](technology-split.md)
+6. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (7)
+
+- [Decimal day](decimal-day.md)
+- [eBay](ebay.md)
+- [Human vs computer chess](human-vs-computer-chess.md)
+- [Intercontinental ballistic missile](intercontinental-ballistic-missile.md)
+- [Internet](internet.md)
+- [Magnetic resonance imaging](magnetic-resonance-imaging.md)
+- [Rare-earth element](rare-earth-element.md)

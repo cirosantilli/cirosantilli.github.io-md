@@ -1,0 +1,51 @@
+<h1 id="q-and-a-website">Q&amp;A website</h1>
+
+↑ **Parent:** [Internet forum](internet-forum.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Q&A_software)
+
+**Table of contents**
+
+- [Quora](quora.md)
+- [Stack Overflow](stack-overflow.md)
+  - [Stack Overflow is doomed](stack-overflow.md#stack-overflow-is-doomed)
+    - [ChatGPT is killing Stack Overflow](stack-overflow.md#chatgpt-is-killing-stack-overflow)
+  - [The Machiavellian Stack Overflow contributor](stack-overflow.md#the-machiavellian-stack-overflow-contributor)
+  - [Stack Overflow Vote Fraud Script](stack-overflow.md#stack-overflow-vote-fraud-script)
+    - [Ciro Santilli's Stack Overflow suspension for vote fraud script 2019](stack-overflow.md#ciro-santilli-s-stack-overflow-suspension-for-vote-fraud-script-2019)
+  - [Stack Overflow should pay its top contributors](stack-overflow.md#stack-overflow-should-pay-its-top-contributors)
+  - [Fastest gun in the West problem](stack-overflow.md#fastest-gun-in-the-west-problem)
+  - [Bad Stack Overflow policies](stack-overflow.md#bad-stack-overflow-policies)
+    - [Closing questions as off-topic](stack-overflow.md#closing-questions-as-off-topic)
+    - [Stack Overflow content deletion](stack-overflow.md#stack-overflow-content-deletion)
+    - [Stack Overflow policy that you cannot harshly criticize the character of a politician](stack-overflow.md#stack-overflow-policy-that-you-cannot-harshly-criticize-the-character-of-a-politician)
+    - [Stack Overflow link-only answer policy](stack-overflow.md#stack-overflow-link-only-answer-policy)
+    - [Stack Overflow no duplicate answers policy](stack-overflow.md#stack-overflow-no-duplicate-answers-policy)
+    - [Stack Overflow maximum 200 daily reputation limit](stack-overflow.md#stack-overflow-maximum-200-daily-reputation-limit)
+  - [Stack Overflow user](stack-overflow.md#stack-overflow-user)
+    - [Epic Stack Overflow users](stack-overflow.md#epic-stack-overflow-users)
+    - [Stack Overflow users Ciro Santilli dislikes](stack-overflow.md#stack-overflow-users-ciro-santilli-dislikes)
+    - [Anonymous Stack Overflow users who are likely professionals hiding the company the work at](stack-overflow.md#anonymous-stack-overflow-users-who-are-likely-professionals-hiding-the-company-the-work-at)
+    - [List of Stack Overflow users](stack-overflow.md#list-of-stack-overflow-users)
+      - [kenorb](stack-overflow.md#kenorb)
+      - [Gordon Linoff](stack-overflow.md#gordon-linoff)
+      - [Peter Mortensen](stack-overflow.md#peter-mortensen)
+      - [Ron Maimon](stack-overflow.md#ron-maimon)
+  - [Stack Exchange](stack-overflow.md#stack-exchange)
+    - [Stack Exchange Data Explorer](stack-overflow.md#stack-exchange-data-explorer)
+    - [Stack Exchange site](stack-overflow.md#stack-exchange-site)
+      - [MathOverflow](stack-overflow.md#mathoverflow)
+      - [Physics Stack Exchange](stack-overflow.md#physics-stack-exchange)
+    - [YouTube channels that just go over Stack Exchange questions](stack-overflow.md#youtube-channels-that-just-go-over-stack-exchange-questions)
+- [TeachMeAsap.com](teachmeasap-com.md)
+
+## ↑ Ancestors (5)
+
+1. [Internet forum](internet-forum.md)
+2. [Website genre](website-genre.md)
+3. [Website](website-split.md)
+4. [Art](art-split.md)
+5. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Reddit toplevel comments are drowned out by comment replies](reddit-toplevel-comments-are-drowned-out-by-comment-replies.md)

@@ -1,0 +1,43 @@
+# Type of protein
+
+↑ **Parent:** [Protein](protein-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Type_of_protein)
+
+**Table of contents**
+
+- [Enzyme](enzyme.md)
+  - [Active site](active-site.md)
+  - [Cofactor (biochemistry)](cofactor-biochemistry.md)
+    - [NADP+](nadp-plus.md)
+  - [DNA polymerase](dna-polymerase.md)
+    - [Terminal deoxynucleotidyl transferase](terminal-deoxynucleotidyl-transferase.md)
+  - [Enzyme inhibitor](enzyme-inhibitor.md)
+  - [Protease](protease.md)
+  - [Restriction enzyme](restriction-enzyme.md)
+- [Glycoprotein](glycoprotein.md)
+  - [Peptidoglycan](peptidoglycan.md)
+- [Polyprotein](polyprotein.md)
+- [Receptor (biochemistry)](receptor-biochemistry.md)
+- [Transmembrane protein](transmembrane-protein.md)
+  - [Transmembrane domain](transmembrane-domain.md)
+- [Peptide hormone](peptide-hormone.md)
+  - [Insulin](insulin.md)
+    - [Proinsulin](proinsulin.md)
+    - [A chain of insulin](a-chain-of-insulin.md)
+    - [B chain of insulin](b-chain-of-insulin.md)
+    - [C-peptide](c-peptide.md)
+- [Motor protein](motor-protein.md)
+  - [Myosin](myosin.md)
+  - [Microtubule motors](microtubule-motors.md)
+    - [Kinesin](kinesin.md)
+    - [Dynein](dynein.md)
+
+## ↑ Ancestors (7)
+
+1. [Protein](protein-split.md)
+2. [Molecular biology](molecular-biology-split.md)
+3. [Level of organization of bodies](level-of-organization-of-bodies.md)
+4. [Biology](biology-split.md)
+5. [Natural science](natural-science.md)
+6. [Science](science-split.md)
+7. [Ciro Santilli's Homepage](split.md)

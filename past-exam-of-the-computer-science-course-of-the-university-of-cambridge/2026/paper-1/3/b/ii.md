@@ -1,0 +1,29 @@
+<h1 id="past-exam-of-the-computer-science-course-of-the-university-of-cambridge/2026/paper-1/3/b/ii">ii</h1>
+
+↑ **Parent:** [B](../b.md)
+
+**Table of contents**
+
+- [Solution](ii/solution.md)
+
+## ↑ Ancestors (19)
+
+1. [B](../b.md)
+2. [3](../../3.md)
+3. [Paper 1](../../../paper-1.md)
+4. [2026](../../../../2026.md)
+5. [Past exam of the computer science course of the University of Cambridge](../../../../../past-exam-of-the-computer-science-course-of-the-university-of-cambridge.md)
+6. [Course of the University of Cambridge](../../../../../course-of-the-university-of-cambridge.md)
+7. [University of Cambridge](../../../../../university-of-cambridge-split.md)
+8. [QET Labs](../../../../../qet-labs.md)
+9. [University of Bristol research group](../../../../../university-of-bristol-research-group.md)
+10. [University of Bristol](../../../../../university-of-bristol.md)
+11. [List of British universities](../../../../../list-of-british-universities.md)
+12. [British university](../../../../../british-university.md)
+13. [Universities by country](../../../../../universities-by-country.md)
+14. [University](../../../../../university-split.md)
+15. [Education](../../../../../education-split.md)
+16. [Social technology](../../../../../social-technology-split.md)
+17. [Area of technology](../../../../../area-of-technology.md)
+18. [Technology](../../../../../technology-split.md)
+19. [Ciro Santilli's Homepage](../../../../../split.md)

@@ -1,0 +1,27 @@
+# Mitochondrial protein import
+
+↑ **Parent:** [Key mitochondrial proteins aren't necessarily in mtDNA](key-mitochondrial-proteins-aren-t-necessarily-in-mtdna.md)
+
+The process that imports proteins encoded in the nuclear DNA and made in the [cytosol](cytosol.md) into the [mitochondria](mitochondrion.md).
+
+The term is mentioned e.g. in this article: [https://www.nature.com/articles/nrm2959](https://www.nature.com/articles/nrm2959).
+
+[Power, Sex, Suicide by Nick Lane (2006)](power-sex-suicide-by-nick-lane-2006.md) suggests that proteins are somehow tagged with extra [amino acids](amino-acid.md) for this.
+
+## ↑ Ancestors (11)
+
+1. [Key mitochondrial proteins aren't necessarily in mtDNA](key-mitochondrial-proteins-aren-t-necessarily-in-mtdna.md)
+2. [Mitochondrial DNA](mitochondrial-dna.md)
+3. [Mitochondrion](mitochondrion.md)
+4. [Organelle](organelle.md)
+5. [Cell structure](cell-structure.md)
+6. [Cell](cell-split.md)
+7. [Level of organization of bodies](level-of-organization-of-bodies.md)
+8. [Biology](biology-split.md)
+9. [Natural science](natural-science.md)
+10. [Science](science-split.md)
+11. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Key mitochondrial proteins aren't necessarily in mtDNA](key-mitochondrial-proteins-aren-t-necessarily-in-mtdna.md)
