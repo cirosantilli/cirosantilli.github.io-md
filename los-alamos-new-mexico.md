@@ -1,0 +1,31 @@
+# Los Alamos, New Mexico
+
+↑ **Parent:** [New Mexico](new-mexico.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Los_Alamos,_New_Mexico)
+
+<a id="video-this-is-why-we-moved-here-by-syd-and-macky-2022"></a>
+**[Video 3](#video-this-is-why-we-moved-here-by-syd-and-macky-2022). This is why we moved here by Syd and Macky (2022)** [Source](https://www.youtube.com/watch?v=BcjkaoPZa2c).
+
+## ↑ Ancestors (21)
+
+1. [New Mexico](new-mexico.md)
+2. [U.S. state](u-s-state.md)
+3. [United States](united-states-split.md)
+4. [Country in North America](country-in-north-america.md)
+5. [North America](north-america.md)
+6. [Americas](americas.md)
+7. [List of continents](list-of-continents.md)
+8. [Continent](continent-split.md)
+9. [Earth](earth.md)
+10. [Planet in the Solar System](planet-in-the-solar-system.md)
+11. [Solar System](solar-system.md)
+12. [Orion Arm](orion-arm.md)
+13. [Arm of the Milky Way](arm-of-the-milky-way.md)
+14. [Milky Way](milky-way.md)
+15. [Local group](local-group.md)
+16. [Virgo Supercluster](virgo-supercluster.md)
+17. [Universe](universe.md)
+18. [Astronomy](astronomy-split.md)
+19. [Natural science](natural-science.md)
+20. [Science](science-split.md)
+21. [Ciro Santilli's Homepage](split.md)

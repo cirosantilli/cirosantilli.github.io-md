@@ -1,0 +1,78 @@
+# OurBigBook
+
+↑ **Parent:** [Ciro Santilli's projects](ciro-santilli-s-projects-split.md)
+
+[https://docs.ourbigbook.com/](https://docs.ourbigbook.com/)
+
+<a id="image-logo-of-the-ourbigbook-project"></a>
+![](https://raw.githubusercontent.com/ourbigbook/ourbigbook/master/logo.svg)
+
+**[Figure 1](#image-logo-of-the-ourbigbook-project). Logo of the OurBigBook Project**.
+
+**Table of contents**
+
+- [OurBigBook Markup](ourbigbook-markup.md)
+- [OurBigBook CLI](ourbigbook-cli.md)
+- [OurBigBook Library](ourbigbook-library.md)
+- [OurBigBook Web](ourbigbook-web.md)
+  - [OurBigBook.com](ourbigbook-com.md)
+    - [How the website works](ourbigbook-com.md#how-the-website-works)
+    - [Alternatives](ourbigbook-com.md#alternatives)
+      - [Wikipedia](ourbigbook-com.md#wikipedia)
+      - [Stack Exchange](ourbigbook-com.md#stack-exchange)
+      - [Blogs](ourbigbook-com.md#blogs)
+      - [University lecture notes](ourbigbook-com.md#university-lecture-notes)
+        - [How to convince teachers to use CC BY-SA](ourbigbook-com.md#how-to-convince-teachers-to-use-cc-by-sa)
+      - [Existing data sources](ourbigbook-com.md#existing-data-sources)
+      - [Personal knowledge base software](ourbigbook-com.md#personal-knowledge-base-software)
+      - [Knowledge graph editors](ourbigbook-com.md#knowledge-graph-editors)
+      - [Learning management systems](ourbigbook-com.md#learning-management-systems)
+      - [GitHub](ourbigbook-com.md#github)
+      - [Other projects](ourbigbook-com.md#other-projects)
+    - [Action plan](ourbigbook-com.md#action-plan)
+    - [Philosophy](ourbigbook-com.md#philosophy)
+      - [Desired social impact](ourbigbook-com.md#desired-social-impact)
+      - [Motivation](ourbigbook-com.md#motivation)
+      - [Manifesto](ourbigbook-com.md#manifesto)
+    - [Feature ideas](ourbigbook-com.md#feature-ideas)
+      - [PageRank-like ranking](ourbigbook-com.md#pagerank-like-ranking)
+    - [User acquisition](ourbigbook-com.md#user-acquisition)
+    - [Funding](ourbigbook-com.md#funding)
+      - [Why it is hard to make money from this website](ourbigbook-com.md#why-it-is-hard-to-make-money-from-this-website)
+      - [Crowdfunding](ourbigbook-com.md#crowdfunding)
+      - [Charitable grant opportunities](ourbigbook-com.md#charitable-grant-opportunities)
+      - [Consulting](ourbigbook-com.md#consulting)
+      - [Knowledge market](ourbigbook-com.md#knowledge-market)
+      - [Advertisement](ourbigbook-com.md#advertisement)
+      - [Association with innovative schools](ourbigbook-com.md#association-with-innovative-schools)
+      - [Venture capital](ourbigbook-com.md#venture-capital)
+- [OurBigBook feature](ourbigbook-feature.md)
+  - [OurBigBook topic feature](ourbigbook-topic-feature.md)
+  - [OurBigBook dynamic tree](ourbigbook-dynamic-tree.md)
+
+## ↑ Ancestors (3)
+
+1. [Ciro Santilli's projects](ciro-santilli-s-projects-split.md)
+2. [Ciro Santilli](ciro-santilli-split.md)
+3. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (18)
+
+- [Ciro Santilli's Homepage](split.md)
+- [Forester](forester.md)
+- [History of Facebook](history-of-facebook.md)
+- [MacArthur Fellows Program](macarthur-fellows-program.md)
+- [Obsidian (software)](obsidian-software.md)
+- [OurBigBook.com](ourbigbook-com-split.md)
+- [Knowledge graph editors](ourbigbook-com/knowledge-graph-editors.md)
+- [Saylor Academy](saylor-academy.md)
+- [Sponsor Ciro Santilli's work on OurBigBook.com](sponsor-split.md)
+- [Progress updates](sponsor/progress-updates.md)
+- [Suitable Technologies](suitable-technologies.md)
+- [Trillium Notes](trillium-notes.md)
+- [University is broken](university-is-broken.md)
+- [Generating test data for full text search tests](updates/generating-test-data-for-full-text-search-tests.md)
+- [How the tech improved](updates/ourbigbook-project-update-march-2025/how-the-tech-improved.md)
+- [Metrics and rationales](updates/ourbigbook-project-update-march-2025/metrics-and-rationales.md)
+- [Post OurBigBook job search round 2025](updates/post-ourbigbook-job-search-round-2025.md)
+- [Quick fun with the Common Crawl web graph](updates/quick-fun-with-the-common-crawl-web-graph.md)

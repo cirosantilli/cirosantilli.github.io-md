@@ -1,0 +1,802 @@
+# Relativistic quantum mechanics
+
+↑ **Parent:** [Quantum mechanics](quantum-mechanics.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Relativistic_quantum_mechanics)
+
+The first really good [quantum mechanics](quantum-mechanics.md) theory made compatible with [special relativity](relativity.md#special-relativity) was the [Dirac equation](#dirac-equation).
+
+And then came [quantum electrodynamics](quantum-field-theory.md#quantum-electrodynamics) to improve it: [Dirac equation vs quantum electrodynamics](quantum-field-theory.md#dirac-equation-vs-quantum-electrodynamics).
+
+TODO: does it use full blown QED, or just something intermediate?
+
+[https://www.youtube.com/watch?v=NtnsHtYYKf0](https://www.youtube.com/watch?v=NtnsHtYYKf0) "Mercury and Relativity - Periodic Table of Videos" by [Periodic Videos](chemistry.md#periodic-videos) (2013). Doesn't give the key juicy details/intuition. Also mentioned on Wikipedia: [https://en.wikipedia.org/wiki/Relativistic_quantum_chemistry#Mercury](https://en.wikipedia.org/wiki/Relativistic_quantum_chemistry#Mercury)
+
+**Table of contents**
+
+- [The Schrödinger equation is not relativistic](#the-schrodinger-equation-is-not-relativistic)
+- [Dirac equation](#dirac-equation)
+  - [Absorption, spontaneous and stimulated emission](#absorption-spontaneous-and-stimulated-emission)
+    - [Spontaneous emission](#spontaneous-emission)
+      - [Spontaneous emission defies causality](#spontaneous-emission-defies-causality)
+    - [Photon absorption](#photon-absorption)
+    - [Stimulated emission](#stimulated-emission)
+      - [History of stimulated emission](#history-of-stimulated-emission)
+        - [On the Quantum Theory of Radiation](#on-the-quantum-theory-of-radiation)
+    - [Einstein coefficients](#einstein-coefficients)
+  - [The Dirac equation predicts spin](#the-dirac-equation-predicts-spin)
+  - [Antimatter](#antimatter)
+  - [Particle creation and annihilation](#particle-creation-and-annihilation)
+    - [Particle decay](#particle-decay)
+      - [Pair production](#pair-production)
+    - [Relativistic particle in a box thought experiment](#relativistic-particle-in-a-box-thought-experiment)
+  - [The Dirac equation is consistent with special relativity](#the-dirac-equation-is-consistent-with-special-relativity)
+  - [Derivation of the Dirac equation](#derivation-of-the-dirac-equation)
+  - [Pauli equation](#pauli-equation)
+  - [Klein-Gordon equation](#klein-gordon-equation)
+    - [Derivation of the Klein-Gordon equation](#derivation-of-the-klein-gordon-equation)
+  - [Solutions of the Dirac equation](#solutions-of-the-dirac-equation)
+    - [Dirac equation solution for the hydrogen atom](#dirac-equation-solution-for-the-hydrogen-atom)
+  - [Spin (physics)](#spin-physics)
+    - [Spin experiments](#spin-experiments)
+      - [Stern-Gerlach experiment](#stern-gerlach-experiment)
+        - [The Stern-Gerlach experiment needs an inhomogenous magnetic field](#the-stern-gerlach-experiment-needs-an-inhomogenous-magnetic-field)
+        - [Stern-Gerlach experiment paper](#stern-gerlach-experiment-paper)
+          - [The experimental proof of directional quantization in the magnetic field](#the-experimental-proof-of-directional-quantization-in-the-magnetic-field)
+      - [Spintronics](#spintronics)
+        - [Spin valve](#spin-valve)
+        - [Tunnel magnetoresistance](#tunnel-magnetoresistance)
+        - [Giant magnetoresistance](#giant-magnetoresistance)
+        - [Spin-transfer torque](#spin-transfer-torque)
+    - [Spin number of a field](#spin-number-of-a-field)
+      - [Spin 0](#spin-0)
+      - [Spin half](#spin-half)
+      - [Spin 1](#spin-1)
+        - [Proca equation](#proca-equation)
+      - [Spin 2](#spin-2)
+      - [Why is the spin of the electron half?](#why-is-the-spin-of-the-electron-half)
+    - [Pauli exclusion principle](#pauli-exclusion-principle)
+      - [Slater determinant](#slater-determinant)
+      - [Fermions, bosons and anyons](#fermions-bosons-and-anyons)
+        - [Fermion](#fermion)
+        - [Boson](#boson)
+        - [Anyon](#anyon)
+          - [Abelian an non abelian anyons](#abelian-an-non-abelian-anyons)
+            - [Abelian anyon](#abelian-anyon)
+            - [Non Abelian anyon](#non-abelian-anyon)
+      - [Spin-statistics theorem](#spin-statistics-theorem)
+      - [Electron degeneracy pressure](#electron-degeneracy-pressure)
+  - [Dirac Lagrangian](#dirac-lagrangian)
+    - [Dirac adjoint](#dirac-adjoint)
+    - [Gamma matrices](#gamma-matrices)
+    - [Feynman slash notation](#feynman-slash-notation)
+- [Quantum field theory](quantum-field-theory.md)
+  - [Quantum field](quantum-field-theory.md#quantum-field)
+  - [Mathematical formulation of quantum field theory](quantum-field-theory.md#mathematical-formulation-of-quantum-field-theory)
+    - [Gauge theory](quantum-field-theory.md#gauge-theory)
+      - [Lattice gauge theory](quantum-field-theory.md#lattice-gauge-theory)
+      - [Gauge field](quantum-field-theory.md#gauge-field)
+      - [Gauge symmetry](quantum-field-theory.md#gauge-symmetry)
+    - [Fock space](quantum-field-theory.md#fock-space)
+    - [Second quantization](quantum-field-theory.md#second-quantization)
+      - [Canonical quantization](quantum-field-theory.md#canonical-quantization)
+    - [Path integral formulation](quantum-field-theory.md#path-integral-formulation)
+      - [Quantum particles take all possible paths](quantum-field-theory.md#quantum-particles-take-all-possible-paths)
+      - [Propagator](quantum-field-theory.md#propagator)
+      - [Infinitely many slits thought experiment](quantum-field-theory.md#infinitely-many-slits-thought-experiment)
+    - [Renormalization](quantum-field-theory.md#renormalization)
+      - [Mass renormalization](quantum-field-theory.md#mass-renormalization)
+      - [Renormalization group](quantum-field-theory.md#renormalization-group)
+      - [Cutoff energy](quantum-field-theory.md#cutoff-energy)
+      - [Effective field theory](quantum-field-theory.md#effective-field-theory)
+      - [Yang-Mills theory](quantum-field-theory.md#yang-mills-theory)
+        - [Yang-Mills existence and mass gap](quantum-field-theory.md#yang-mills-existence-and-mass-gap)
+          - [Wightman axioms](quantum-field-theory.md#wightman-axioms)
+  - [Quantum electrodynamics](quantum-field-theory.md#quantum-electrodynamics)
+    - [Quantum electrodynamics experiment](quantum-field-theory.md#quantum-electrodynamics-experiment)
+      - [Lamb shift](quantum-field-theory.md#lamb-shift)
+        - [Lamb-Retherford experiment](quantum-field-theory.md#lamb-retherford-experiment)
+      - [Electron magnetic moment](quantum-field-theory.md#electron-magnetic-moment)
+        - [Anomalous magnetic dipole moment](quantum-field-theory.md#anomalous-magnetic-dipole-moment)
+          - [Anomalous magnetic dipole moment of the electron](quantum-field-theory.md#anomalous-magnetic-dipole-moment-of-the-electron)
+            - [The Magnetic Moment of the Electron by Kusch and Foley (1948)](quantum-field-theory.md#the-magnetic-moment-of-the-electron-by-kusch-and-foley-1948)
+      - [Dirac equation vs quantum electrodynamics](quantum-field-theory.md#dirac-equation-vs-quantum-electrodynamics)
+        - [The Dirac equation does not work for more than one electron](quantum-field-theory.md#the-dirac-equation-does-not-work-for-more-than-one-electron)
+    - [Applications of quantum electrodynamics](quantum-field-theory.md#applications-of-quantum-electrodynamics)
+    - [Quantum electrodynamics Lagrangian](quantum-field-theory.md#quantum-electrodynamics-lagrangian)
+      - [Derivation of the quantum electrodynamics Lagrangian](quantum-field-theory.md#derivation-of-the-quantum-electrodynamics-lagrangian)
+    - [What does it mean that photons are force carriers for electromagnetism?](quantum-field-theory.md#what-does-it-mean-that-photons-are-force-carriers-for-electromagnetism)
+    - [Photon field](quantum-field-theory.md#photon-field)
+    - [Schwinger effect](quantum-field-theory.md#schwinger-effect)
+    - [Feynman diagram](quantum-field-theory.md#feynman-diagram)
+      - [Feynman diagram solver](quantum-field-theory.md#feynman-diagram-solver)
+      - [Does the exact position of vertices matter in Feynman diagrams?](quantum-field-theory.md#does-the-exact-position-of-vertices-matter-in-feynman-diagrams)
+    - [Wheeler-Feynman absorber theory](quantum-field-theory.md#wheeler-feynman-absorber-theory)
+    - [Cavity quantum electrodynamics](quantum-field-theory.md#cavity-quantum-electrodynamics)
+      - [Circuit quantum electrodynamics](quantum-field-theory.md#circuit-quantum-electrodynamics)
+    - [Positrons are electrons travelling back in time](quantum-field-theory.md#positrons-are-electrons-travelling-back-in-time)
+    - [Quantum electrodynamics bibliography](quantum-field-theory.md#quantum-electrodynamics-bibliography)
+      - [Quantum Theory of Radiation by Fermi (1932)](quantum-field-theory.md#quantum-theory-of-radiation-by-fermi-1932)
+      - [Advanced quantum mechanics by Freeman Dyson (1951)](quantum-field-theory.md#advanced-quantum-mechanics-by-freeman-dyson-1951)
+      - [Selected Papers on Quantum Electrodynamics by Julian Schwinger (1958)](quantum-field-theory.md#selected-papers-on-quantum-electrodynamics-by-julian-schwinger-1958)
+      - [Richard Feynman Quantum Electrodynamics Lecture at University of Auckland (1979)](quantum-field-theory.md#richard-feynman-quantum-electrodynamics-lecture-at-university-of-auckland-1979)
+        - [Quantum Mechanical View of Reality by Richard Feynman (1983)](quantum-field-theory.md#quantum-mechanical-view-of-reality-by-richard-feynman-1983)
+      - [Quantum electrodynamics by Lifshitz et al. 2nd edition (1982)](quantum-field-theory.md#quantum-electrodynamics-by-lifshitz-et-al-2nd-edition-1982)
+      - [Physics 253a by Sidney Coleman (1986)](quantum-field-theory.md#physics-253a-by-sidney-coleman-1986)
+      - [QED and the men who made it: Dyson, Feynman, Schwinger, and Tomonaga by Silvan Schweber (1994)](quantum-field-theory.md#qed-and-the-men-who-made-it-dyson-feynman-schwinger-and-tomonaga-by-silvan-schweber-1994)
+      - [Advanced quantum mechanics II by Douglas Gingrich (2004)](quantum-field-theory.md#advanced-quantum-mechanics-ii-by-douglas-gingrich-2004)
+  - [Weak interaction](quantum-field-theory.md#weak-interaction)
+    - [Electroweak interaction](quantum-field-theory.md#electroweak-interaction)
+    - [Parity violation](quantum-field-theory.md#parity-violation)
+      - [Wu experiment](quantum-field-theory.md#wu-experiment)
+      - [CP Violation](quantum-field-theory.md#cp-violation)
+        - [CPT symmetry](quantum-field-theory.md#cpt-symmetry)
+        - [Strong CP problem](quantum-field-theory.md#strong-cp-problem)
+    - [Weak charge](quantum-field-theory.md#weak-charge)
+    - [W boson](quantum-field-theory.md#w-boson)
+    - [Z boson](quantum-field-theory.md#z-boson)
+  - [Quantum chromodynamics](quantum-field-theory.md#quantum-chromodynamics)
+    - [Quark](quantum-field-theory.md#quark)
+      - [Down quark](quantum-field-theory.md#down-quark)
+      - [Up quark](quantum-field-theory.md#up-quark)
+        - [Why do the up ad down quarks have different masses?](quantum-field-theory.md#why-do-the-up-ad-down-quarks-have-different-masses)
+    - [Strange quark](quantum-field-theory.md#strange-quark)
+    - [Gluon](quantum-field-theory.md#gluon)
+      - [Glueball](quantum-field-theory.md#glueball)
+    - [Proton decay](quantum-field-theory.md#proton-decay)
+    - [Strong interaction](quantum-field-theory.md#strong-interaction)
+    - [Color charge](quantum-field-theory.md#color-charge)
+    - [Color confinement](quantum-field-theory.md#color-confinement)
+  - [Quantum field theory simulations](quantum-field-theory.md#quantum-field-theory-simulations)
+    - [Nielsen-Ninomiya theorem](quantum-field-theory.md#nielsen-ninomiya-theorem)
+  - [Infinities in quantum field theory](quantum-field-theory.md#infinities-in-quantum-field-theory)
+    - [Mathematical consistency of quantum field theory](quantum-field-theory.md#mathematical-consistency-of-quantum-field-theory)
+  - [Internal and spacetime symmetries](quantum-field-theory.md#internal-and-spacetime-symmetries)
+    - [Internal symmetry](quantum-field-theory.md#internal-symmetry)
+    - [Spacetime symmetry](quantum-field-theory.md#spacetime-symmetry)
+  - [Quantum field theory bibliography](quantum-field-theory.md#quantum-field-theory-bibliography)
+    - [Quantum field theory lecture notes](quantum-field-theory.md#quantum-field-theory-lecture-notes)
+      - [An Introduction to QED and QCD by Jeff Forshaw (1997)](quantum-field-theory.md#an-introduction-to-qed-and-qcd-by-jeff-forshaw-1997)
+      - [Quantum Field Theory lecture notes by David Tong (2007)](quantum-field-theory.md#quantum-field-theory-lecture-notes-by-david-tong-2007)
+      - [Quantum Field Theory book by Mark Srednicki (2006)](quantum-field-theory.md#quantum-field-theory-book-by-mark-srednicki-2006)
+    - [Quantum field theory lectures](quantum-field-theory.md#quantum-field-theory-lectures)
+      - [Relativistic Quantum Mechanics by Apoorva D Patel (2014)](quantum-field-theory.md#relativistic-quantum-mechanics-by-apoorva-d-patel-2014)
+      - [New Revolutions in Particle Physics by Leonard Susskind (2009)](quantum-field-theory.md#new-revolutions-in-particle-physics-by-leonard-susskind-2009)
+      - [David Tong's 2009 Quantum Field Theory lectures at the Perimeter Institute](quantum-field-theory.md#david-tong-s-2009-quantum-field-theory-lectures-at-the-perimeter-institute)
+        - [Lecture 1](quantum-field-theory.md#david-tong-s-2009-quantum-field-theory-lectures-at-the-perimeter-institute/lecture-1)
+      - [Quantum field theory courses by Tobias Osborne](quantum-field-theory.md#quantum-field-theory-courses-by-tobias-osborne)
+        - [Quantum field theory lecture by Tobias Osborne (2017)](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017)
+          - [Lecture 1](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-1)
+          - [Lecture 2](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-2)
+          - [Lecture 3](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-3)
+          - [Lecture 4](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-4)
+          - [Lecture 5](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-5)
+          - [Lecture 8](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-8)
+          - [Lecture 9](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-9)
+          - [Lecture 14](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-14)
+          - [Lecture 15](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-15)
+        - [Advanced quantum field theory lecture by Tobias Osborne (2017)](quantum-field-theory.md#advanced-quantum-field-theory-lecture-by-tobias-osborne-2017)
+          - [Lecture 2](quantum-field-theory.md#advanced-quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-2)
+    - [Quantum field theory book](quantum-field-theory.md#quantum-field-theory-book)
+      - [No-Nonsense Quantum Field Theory by Jakob Schwichtenberg (2020)](quantum-field-theory.md#no-nonsense-quantum-field-theory-by-jakob-schwichtenberg-2020)
+      - [Quantum Field Theory for The Gifted Amateur by Tom Lancaster (2015)](quantum-field-theory.md#quantum-field-theory-for-the-gifted-amateur-by-tom-lancaster-2015)
+      - [Student Friendly Quantum Field Theory by Robert D Klauber (2013)](quantum-field-theory.md#student-friendly-quantum-field-theory-by-robert-d-klauber-2013)
+      - [Quantum field theory in a nutshell by Anthony Zee (2010)](quantum-field-theory.md#quantum-field-theory-in-a-nutshell-by-anthony-zee-2010)
+      - [Problem Book in Quantum Field Theory by Voja Radovanovic (2008)](quantum-field-theory.md#problem-book-in-quantum-field-theory-by-voja-radovanovic-2008)
+      - [Quantum Field Theory Demystified by David McMahon (2008)](quantum-field-theory.md#quantum-field-theory-demystified-by-david-mcmahon-2008)
+      - [An Introduction To Quantum Field Theory by Peskin and Schroeder (1995)](quantum-field-theory.md#an-introduction-to-quantum-field-theory-by-peskin-and-schroeder-1995)
+
+<h2 id="the-schrodinger-equation-is-not-relativistic">The Schrödinger equation is not relativistic</h2>
+
+↑ **Parent:** [Relativistic quantum mechanics](relativistic-quantum-mechanics.md)  
+🏷️ **Tags:** [Schrödinger equation](quantum-mechanics.md#schrodinger-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/The_Schrödinger_equation_is_not_relativistic)
+
+<a id="video-why-relativity-breaks-the-schrodinger-equation-by-richard-behiel-2023"></a>
+**[Video 1](#video-why-relativity-breaks-the-schrodinger-equation-by-richard-behiel-2023). Why Relativity Breaks the Schrodinger Equation by Richard Behiel (2023)** [Source](https://www.youtube.com/watch?v=8Iu74b5iCuQ). Take a [plane wave function](quantum-mechanics.md#plane-wave-function), because we know its momentum perfectly. Apply a constant voltage to an electron. You can easily bring it beyond the speed of light at about 255.5 keV.
+
+## Dirac equation
+
+↑ **Parent:** [Relativistic quantum mechanics](relativistic-quantum-mechanics.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Dirac_equation)
+
+Adds [special relativity](relativity.md#special-relativity) to the [Schrödinger equation](quantum-mechanics.md#schrodinger-equation), and the following conclusions come basically as a direct consequence of this!
+
+Experiments explained:
+- [spontaneous emission](#spontaneous-emission) coefficients.
+- [fine structure](quantum-mechanics.md#fine-structure), notably for example [Dirac equation solution for the hydrogen atom](#dirac-equation-solution-for-the-hydrogen-atom)
+- [antimatter](#antimatter)
+- [particle creation and annihilation](#particle-creation-and-annihilation)
+
+Experiments not explained: those that [quantum electrodynamics](quantum-field-theory.md#quantum-electrodynamics) explains like:
+- [Lamb shift](quantum-field-theory.md#lamb-shift)
+- TODO: quantization of the electromagnetic field as [photons](photon.md)?
+See also: [Dirac equation vs quantum electrodynamics](quantum-field-theory.md#dirac-equation-vs-quantum-electrodynamics).
+
+The Dirac equation is a set of 4 [partial differential equations](calculus.md#partial-differential-equation) on 4 [complex valued](formalization-of-mathematics.md#complex-number) wave functions. The full explicit form in [Planck units](system-of-units.md#planck-units) is shown e.g. in [Video 2. "Quantum Mechanics 12a - Dirac Equation I by ViaScience (2015)"](#video-quantum-mechanics-12a-dirac-equation-i-by-viascience-2015) at [https://youtu.be/OCuaBmAzqek?t=1010](https://youtu.be/OCuaBmAzqek?t=1010):<a id="equation-expanded-dirac-equation-in-planck-units"></a>
+
+
+$$
+  i \partial_t \begin{bmatrix} \psi_1 \\  \psi_2 \\  \psi_3 \\  \psi_4 \end{bmatrix} =
+- i \partial_x \begin{bmatrix} \psi_4 \\  \psi_3 \\  \psi_2 \\  \psi_1 \end{bmatrix}
++   \partial_y \begin{bmatrix}-\psi_4 \\  \psi_3 \\ -\psi_2 \\  \psi_1 \end{bmatrix}
+- i \partial_z \begin{bmatrix} \psi_3 \\ -\psi_4 \\  \psi_1 \\ -\psi_2 \end{bmatrix}
++ m            \begin{bmatrix} \psi_1 \\  \psi_2 \\ -\psi_3 \\ -\psi_4 \end{bmatrix}
+$$
+
+Then as done at [https://physics.stackexchange.com/questions/32422/qm-without-complex-numbers/557600#557600](https://physics.stackexchange.com/questions/32422/qm-without-complex-numbers/557600#557600) from [why are complex numbers used in the Schrodinger equation?](quantum-mechanics.md#why-are-complex-numbers-used-in-the-schrodinger-equation), we could further split those equations up into a system of 8 equations on 8 [real-valued](formalization-of-mathematics.md#real-number) functions.
+
+<a id="video-quantum-mechanics-12a-dirac-equation-i-by-viascience-2015"></a>
+**[Video 2](#video-quantum-mechanics-12a-dirac-equation-i-by-viascience-2015). Quantum Mechanics 12a - Dirac Equation I by ViaScience (2015)** [Source](http://youtube.com/watch?v=OCuaBmAzqek).
+
+<a id="video-phys-485-lecture-14-the-dirac-equation-by-roger-moore-2016"></a>
+**[Video 3](#video-phys-485-lecture-14-the-dirac-equation-by-roger-moore-2016). PHYS 485 Lecture 14: The Dirac Equation by Roger Moore (2016)** [Source](https://www.youtube.com/watch?v=ajMaPc022VM).
+
+### Absorption, spontaneous and stimulated emission
+
+↑ **Parent:** [Dirac equation](#dirac-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Absorption,_spontaneous_and_stimulated_emission)
+
+Bibliography:
+- [https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Direct_Energy_(Mitofsky)/07%3A_Lamps%2C_LEDs%2C_and_Lasers/7.01%3A_Absorption%2C_Spontaneous_Emission%2C_Stimulated_Emission](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electro-Optics/Direct_Energy_(Mitofsky)/07%3A_Lamps%2C_LEDs%2C_and_Lasers/7.01%3A_Absorption%2C_Spontaneous_Emission%2C_Stimulated_Emission)
+
+#### Spontaneous emission
+
+↑ **Parent:** [Absorption, spontaneous and stimulated emission](#absorption-spontaneous-and-stimulated-emission)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Spontaneous_emission)
+
+Do electrons spontaneously jump from high orbitals to lower ones emitting photons?
+
+Explaining this was was one of the key initial achievements of the [Dirac equation](#dirac-equation).
+
+Yes, but this is not predicted by the [Schrödinger equation](quantum-mechanics.md#schrodinger-equation), you need to go to the [Dirac equation](#dirac-equation).
+
+A critical application of this phenomena is [laser](condensed-matter-physics.md#laser).
+
+See also:
+- [https://physics.stackexchange.com/questions/233330/why-do-electrons-jump-between-orbitals](https://physics.stackexchange.com/questions/233330/why-do-electrons-jump-between-orbitals)
+- [https://physics.stackexchange.com/questions/117417/quantum-mechanics-scattering-theory/522220#522220](https://physics.stackexchange.com/questions/117417/quantum-mechanics-scattering-theory/522220#522220)
+- [https://physics.stackexchange.com/questions/430268/stimulated-emission-how-can-giving-energy-to-electrons-make-them-decay-to-a-low/430288](https://physics.stackexchange.com/questions/430268/stimulated-emission-how-can-giving-energy-to-electrons-make-them-decay-to-a-low/430288)
+
+##### Spontaneous emission defies causality
+
+↑ **Parent:** [Spontaneous emission](#spontaneous-emission)
+
+TODO understand better, mentioned e.g. at [Subtle is the Lord by Abraham Pais (1982)](physicist.md#subtle-is-the-lord-by-abraham-pais-1982) page 20, and is something that [Einstein](physicist.md#albert-einstein) worked on.
+
+#### Photon absorption
+
+↑ **Parent:** [Absorption, spontaneous and stimulated emission](#absorption-spontaneous-and-stimulated-emission)
+
+#### Stimulated emission
+
+↑ **Parent:** [Absorption, spontaneous and stimulated emission](#absorption-spontaneous-and-stimulated-emission)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Stimulated_emission)
+
+Photon hits excited electron, makes that electron go down, and generates a new identical photon in the process, with the exact same:
+- [frequency](system-of-units.md#frequency)
+- [polarization](photon.md#photon-polarization)
+- direction
+This is the basis of [lasers](condensed-matter-physics.md#laser).
+
+Bibliography:
+- [https://youtu.be/_JOchLyNO_w?t=517](https://youtu.be/_JOchLyNO_w?t=517) from [Video "How Lasers Work by Scientized (2017)"](condensed-matter-physics.md#video-how-lasers-work-by-scientized-2017)
+
+##### History of stimulated emission
+
+↑ **Parent:** [Stimulated emission](#stimulated-emission)
+
+First postulated by [Einstein](physicist.md#albert-einstein) in 1917 on his paper [Zur Quantentheorie der Strahlung](#on-the-quantum-theory-of-radiation)" ("[On the Quantum Theory of Radiation](#on-the-quantum-theory-of-radiation)") as a more elegant way to rederive [Planck's law](condensed-matter-physics.md#planck-s-law) as part of the [Einstein coefficients](#einstein-coefficients) framework.
+
+At that time there was no other physical evidence supporting the existence of the concept except that it looked more elegant.
+
+Bibliography:
+- [The History of the Laser by Mario Bertolotti](condensed-matter-physics.md#the-history-of-the-laser-by-mario-bertolotti)
+
+###### On the Quantum Theory of Radiation
+
+↑ **Parent:** [History of stimulated emission](#history-of-stimulated-emission)
+
+#### Einstein coefficients
+
+↑ **Parent:** [Absorption, spontaneous and stimulated emission](#absorption-spontaneous-and-stimulated-emission)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Einstein_coefficients)
+
+### The Dirac equation predicts spin
+
+↑ **Parent:** [Dirac equation](#dirac-equation)  
+🏷️ **Tags:** [Spin](#spin-physics)
+
+Shown at: [Video 5. "Quantum Mechanics 12b - Dirac Equation II by ViaScience (2015)"](#video-quantum-mechanics-12b-dirac-equation-ii-by-viascience-2015).
+
+### Antimatter
+
+↑ **Parent:** [Dirac equation](#dirac-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Antimatter)
+
+Predicted by the [Dirac equation](#dirac-equation).
+
+Can be easily seen from the solution of [Equation 1. "Expanded Dirac equation in Planck units"](#equation-expanded-dirac-equation-in-planck-units) when the particle is at rest as shown at [Video 5. "Quantum Mechanics 12b - Dirac Equation II by ViaScience (2015)"](#video-quantum-mechanics-12b-dirac-equation-ii-by-viascience-2015).
+
+### Particle creation and annihilation
+
+↑ **Parent:** [Dirac equation](#dirac-equation)
+
+[https://en.wikipedia.org/wiki/Annihilation](https://en.wikipedia.org/wiki/Annihilation)
+
+Predicted by the [Dirac equation](#dirac-equation).
+
+We've likely known since forever that [photons](photon.md) are created: just turn on a light and see gazillion of them come out!
+
+Photon creation is easy because photons are massless, so there is not minimum energy to create them.
+
+The creation of other particles is much rarer however, and took longer to be discovered, one notable milestone being the discovery of the [positron](standard-model.md#positron).
+
+In the case of the electron, we need to start with at least enough energy for the mass of the electron positron pair. This requires a photon with wavelength in the [picometer](system-of-units.md#picometer) range, which is not common in the thermal radiation of daily life.
+
+#### Particle decay
+
+↑ **Parent:** [Particle creation and annihilation](#particle-creation-and-annihilation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Particle_decay)
+
+Can produce two [entangled](quantum-mechanics.md#quantum-entanglement) particles.
+
+##### Pair production
+
+↑ **Parent:** [Particle decay](#particle-decay)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Pair_production)
+
+#### Relativistic particle in a box thought experiment
+
+↑ **Parent:** [Particle creation and annihilation](#particle-creation-and-annihilation)
+
+Described for example in [lecture 1](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-1).
+
+### The Dirac equation is consistent with special relativity
+
+↑ **Parent:** [Dirac equation](#dirac-equation)
+
+TODO, including why the Schrodinger equation is not.
+
+### Derivation of the Dirac equation
+
+↑ **Parent:** [Dirac equation](#dirac-equation)
+
+The [Dirac equation](#dirac-equation) can be derived basically "directly" from the [Representation theory of the Lorentz group](geometry.md#representation-theory-of-the-lorentz-group) for the [spin half](#spin-half) representation, this is shown for example at [Physics from Symmetry by Jakob Schwichtenberg (2015)](physicist.md#physics-from-symmetry-by-jakob-schwichtenberg-2015) 6.3 "Dirac Equation".
+
+The Diract equation is the [spacetime symmetry](quantum-field-theory.md#spacetime-symmetry) part of the [quantum electrodynamics Lagrangian](quantum-field-theory.md#quantum-electrodynamics-lagrangian), i.e. is describes how [spin half](#spin-half) particles behave without interactions. The full [quantum electrodynamics Lagrangian](quantum-field-theory.md#quantum-electrodynamics-lagrangian) can then be reached by adding the [$U(1)$](geometry.md#unitary-group-of-degree-1) [internal symmetry](quantum-field-theory.md#internal-symmetry).
+
+As mentioned at [spin comes naturally when adding relativity to quantum mechanics](#spin-number-of-a-field), this same method allows us to analogously derive the equations for other [spin numbers](#spin-number-of-a-field).
+
+Bibliography:
+- [Video 2. "Quantum Mechanics 12a - Dirac Equation I by ViaScience (2015)"](#video-quantum-mechanics-12a-dirac-equation-i-by-viascience-2015) at [https://youtu.be/OCuaBmAzqek?t=743](https://youtu.be/OCuaBmAzqek?t=743)
+- [https://www.youtube.com/watch?v=zM-Lc16nyho&list=PL54DF0652B30D99A4&index=66](https://www.youtube.com/watch?v=zM-Lc16nyho&list=PL54DF0652B30D99A4&index=66) "L3. The Dirac Equation" by doctorphys
+- [Video 6. "Dirac equation for the electron and hydrogen Hamiltonian by Barton Zwiebach (2019)"](#video-dirac-equation-for-the-electron-and-hydrogen-hamiltonian-by-barton-zwiebach-2019)
+
+<a id="video-deriving-the-dirac-equation-by-andrew-dotson-2019"></a>
+**[Video 4](#video-deriving-the-dirac-equation-by-andrew-dotson-2019). Deriving The Dirac equation by Andrew Dotson (2019)** [Source](https://www.youtube.com/watch?v=jjG2Y_dMsbI).
+
+### Pauli equation
+
+↑ **Parent:** [Dirac equation](#dirac-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Pauli_equation)
+
+Bibliography:
+
+- [https://www.youtube.com/watch?v=Fu1BGGeyqHQ&list=PL54DF0652B30D99A4&index=63](https://www.youtube.com/watch?v=Fu1BGGeyqHQ&list=PL54DF0652B30D99A4&index=63) "K6. The Pauli Equation" by doctorphys
+
+### Klein-Gordon equation
+
+↑ **Parent:** [Dirac equation](#dirac-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Klein–Gordon_equation)
+
+A relativistic version of the [Schrödinger equation](quantum-mechanics.md#schrodinger-equation).
+
+Correctly describes [spin 0](#spin-0) particles.
+
+The most memorable version of the equation can be written as shown at [Section "Klein-Gordon equation in Einstein notation"](linear-algebra.md#klein-gordon-equation-in-einstein-notation) with [Einstein notation](linear-algebra.md#einstein-notation) and [Planck units](system-of-units.md#planck-units):
+
+$$
+\partial_i \partial^i \psi - m^2 \psi = 0
+$$
+
+Has some issues which are solved by the [Dirac equation](#dirac-equation):
+- it has a second time derivative of the [wave function](quantum-mechanics.md#wave-function). Therefore, to solve it we must specify not only the initial value of the wave equation, but also the derivative of the wave equation, 
+
+  As mentioned at [Advanced quantum mechanics by Freeman Dyson (1951)](quantum-field-theory.md#advanced-quantum-mechanics-by-freeman-dyson-1951) and further clarified at: [https://physics.stackexchange.com/questions/340023/cant-the-negative-probabilities-of-klein-gordon-equation-be-avoided](https://physics.stackexchange.com/questions/340023/cant-the-negative-probabilities-of-klein-gordon-equation-be-avoided), this would lead to negative probabilities.
+- the modulus of the wave function is not constant and therefore not always one, and therefore cannot be interpreted as a probability density anymore
+- since we are working with the square of the energy, we have both positive and negative value solutions. This is also a features of the [Dirac equation](#dirac-equation) however.
+
+Bibliography:
+- [Video 2. "Quantum Mechanics 12a - Dirac Equation I by ViaScience (2015)"](#video-quantum-mechanics-12a-dirac-equation-i-by-viascience-2015) at [https://youtu.be/OCuaBmAzqek?t=600](https://youtu.be/OCuaBmAzqek?t=600)
+- [An Introduction to QED and QCD by Jeff Forshaw (1997)](quantum-field-theory.md#an-introduction-to-qed-and-qcd-by-jeff-forshaw-1997) 1.2 "Relativistic Wave Equations" and 1.4 "The Klein Gordon Equation" gives some key ideas
+- [2011 PHYS 485 lecture videos by Roger Moore from the University of Alberta](particle-physics.md#2011-phys-485-lecture-videos-by-roger-moore-from-the-university-of-alberta) at around 7:30
+- [https://www.youtube.com/watch?v=WqoIW85xwoU&list=PL54DF0652B30D99A4&index=65](https://www.youtube.com/watch?v=WqoIW85xwoU&list=PL54DF0652B30D99A4&index=65) "L2. The Klein-Gordon Equation" by doctorphys
+- [https://sites.ualberta.ca/~gingrich/courses/phys512/node21.html](https://sites.ualberta.ca/~gingrich/courses/phys512/node21.html) from [Advanced quantum mechanics II by Douglas Gingrich (2004)](quantum-field-theory.md#advanced-quantum-mechanics-ii-by-douglas-gingrich-2004)
+  - [https://sites.ualberta.ca/~gingrich/courses/phys512/node23.html](https://sites.ualberta.ca/~gingrich/courses/phys512/node23.html) gives [Lorentz invariance](relativity.md#lorentz-invariant)
+
+#### Derivation of the Klein-Gordon equation
+
+↑ **Parent:** [Klein-Gordon equation](#klein-gordon-equation)
+
+The Klein-Gordon equation directly uses a more naive [relativistic energy](relativity.md#relativistic-energy) guess of $p^2 + m^2$ squared.
+
+But since this is [quantum mechanics](quantum-mechanics.md), we feel like making $p$ into the "[momentum operator](quantum-mechanics.md#momentum-operator)", just like in the [Schrödinger equation](quantum-mechanics.md#schrodinger-equation).
+
+But we don't really know how to apply the momentum operator twice, because it is a [gradient](calculus.md#gradient), so the first application goes from a scalar field to the vector field, and the second one...
+
+So we just cheat and try to use the [laplace operator](calculus.md#laplace-operator) instead because there's some squares on it:
+
+$$
+H = \laplacian{} + m^2
+$$
+
+But then, we have to avoid taking the square root to reach a first derivative in time, because we don't know how to take the square root of that operator expression.
+
+So the Klein-Gordon equation just takes the approach of using this squared Hamiltonian instead.
+
+Since it is a Hamiltonian, and comparing it to the [Schrödinger equation](quantum-mechanics.md#schrodinger-equation) which looks like:
+
+$$
+H \psi = i \pdv{\psi}{t}
+$$
+
+taking the Hamiltonian twice leads to:
+
+$$
+H^2 \psi = - \pdv{^2 \psi}{^2 t}
+$$
+
+We can contrast this with the [Dirac equation](#dirac-equation), which instead attempts to explicitly construct an operator which squared coincides with the relativistic formula: [derivation of the Dirac equation](#derivation-of-the-dirac-equation).
+
+### Solutions of the Dirac equation
+
+↑ **Parent:** [Dirac equation](#dirac-equation)
+
+Related: [Dirac equation vs quantum electrodynamics](quantum-field-theory.md#dirac-equation-vs-quantum-electrodynamics).
+
+<a id="video-quantum-mechanics-12b-dirac-equation-ii-by-viascience-2015"></a>
+**[Video 5](#video-quantum-mechanics-12b-dirac-equation-ii-by-viascience-2015). Quantum Mechanics 12b - Dirac Equation II by ViaScience (2015)** [Source](https://www.youtube.com/watch?v=tR6UebCvFqE). - [https://youtu.be/tR6UebCvFqE?t=23](https://youtu.be/tR6UebCvFqE?t=23) particle at rest
+- [https://youtu.be/tR6UebCvFqE?t=322](https://youtu.be/tR6UebCvFqE?t=322) unidirectional movement without a potential
+- [https://youtu.be/tR6UebCvFqE?t=507](https://youtu.be/tR6UebCvFqE?t=507) shows that observers in different [frames of reference](relativity.md#frame-of-reference) also see different [spin](#spin-physics). We are reminded of how [magnetism is just a side effect of special-relativity](relativity.md#maxwell-s-equations-require-special-relativity).
+- [https://youtu.be/tR6UebCvFqE?t=549](https://youtu.be/tR6UebCvFqE?t=549) [Dirac equation solution for the hydrogen atom](#dirac-equation-solution-for-the-hydrogen-atom), final result only + mentions [fine structure](quantum-mechanics.md#fine-structure) prediction.
+
+---
+
+#### Dirac equation solution for the hydrogen atom
+
+↑ **Parent:** [Solutions of the Dirac equation](#solutions-of-the-dirac-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Hydrogen-like_atom#Solution_to_Dirac_equation)
+
+Predicts [fine structure](quantum-mechanics.md#fine-structure).
+
+Bibliography:
+- [Video 5. "Quantum Mechanics 12b - Dirac Equation II by ViaScience (2015)"](#video-quantum-mechanics-12b-dirac-equation-ii-by-viascience-2015) [https://youtu.be/tR6UebCvFqE?t=549](https://youtu.be/tR6UebCvFqE?t=549)
+
+<a id="video-dirac-equation-for-the-electron-and-hydrogen-hamiltonian-by-barton-zwiebach-2019"></a>
+**[Video 6](#video-dirac-equation-for-the-electron-and-hydrogen-hamiltonian-by-barton-zwiebach-2019). Dirac equation for the electron and hydrogen Hamiltonian by Barton Zwiebach (2019)** [Source](https://www.youtube.com/watch?v=lr4HqQ_sLO0). Uses [perturbation theory](mathematics.md#perturbation-theory) to get to the relativistic corrections of [fine structure](quantum-mechanics.md#fine-structure)! Part of [MIT 8.06 Quantum Physics III, Spring 2018 by Barton Zwiebach](quantum-mechanics.md#mit-8-06-quantum-physics-iii-spring-2018-by-barton-zwiebach)
+
+<a id="video-how-to-solve-the-dirac-equation-for-the-hydrogen-atom-relativistic-quantum-mechanics-by-dietterich-labs-2018"></a>
+**[Video 7](#video-how-to-solve-the-dirac-equation-for-the-hydrogen-atom-relativistic-quantum-mechanics-by-dietterich-labs-2018). How To Solve The Dirac Equation For The Hydrogen Atom | Relativistic Quantum Mechanics by Dietterich Labs (2018)** [Source](https://www.youtube.com/watch?v=jWYtP-rAoYA).
+
+### Spin (physics)
+
+↑ **Parent:** [Dirac equation](#dirac-equation)
+
+Spin is one of the [defining properties of elementary particles](standard-model.md#defining-properties-of-elementary-particles), i.e. number that describes how an [elementary particle](standard-model.md#elementary-particle) behaves, much like [electric charge](electromagnetism.md#electric-charge) and [mass](mechanics.md#mass).
+
+Possible values are half integer numbers: 0, 1/2, 1, 3/2, and so on.
+
+The approach shown in this section: [Section "Spin comes naturally when adding relativity to quantum mechanics"](#spin-number-of-a-field) shows what the spin number actually means in general. As shown there, the spin number it is a direct consequence of having the laws of nature be [Lorentz invariant](relativity.md#lorentz-invariant). Different spin numbers are just different ways in which this can be achieved as per different [Representation of the Lorentz group](geometry.md#representation-of-the-lorentz-group).
+
+[Video 8. "Quantum Mechanics 9a - Photon Spin and Schrodinger's Cat I by ViaScience (2013)"](#video-quantum-mechanics-9a-photon-spin-and-schrodinger-s-cat-i-by-viascience-2013) explains nicely how:
+- incorporated into the [Dirac equation](#dirac-equation) as a natural consequence of [special relativity](relativity.md#special-relativity) corrections, but not naturally present in the [Schrödinger equation](quantum-mechanics.md#schrodinger-equation), see also: [the Dirac equation predicts spin](#the-dirac-equation-predicts-spin)
+- [photon](photon.md) spin can be either linear or circular
+- the linear one can be made from a superposition of circular ones
+- straight antennas produce linearly polarized photos, and [Helical antennas](https://en.wikipedia.org/wiki/Helical_antenna) circularly polarized ones
+- a jump between 2s and 2p in an atom changes angular momentum. Therefore, the photon must carry angular momentum as well as energy.
+- cannot be classically explained, because even for a very large estimate of the electron size, its surface would have to spin faster than light to achieve that magnetic momentum with the known [electron charge](standard-model.md#elementary-charge)
+- as shown at [Video 5. "Quantum Mechanics 12b - Dirac Equation II by ViaScience (2015)"](#video-quantum-mechanics-12b-dirac-equation-ii-by-viascience-2015), observers in different [frames of reference](relativity.md#frame-of-reference) see different spin states
+
+<a id="video-quantum-mechanics-9a-photon-spin-and-schrodinger-s-cat-i-by-viascience-2013"></a>
+**[Video 8](#video-quantum-mechanics-9a-photon-spin-and-schrodinger-s-cat-i-by-viascience-2013). Quantum Mechanics 9a - Photon Spin and Schrodinger's Cat I by ViaScience (2013)** [Source](https://www.youtube.com/watch?v=6sR6RV2znXI).
+
+<a id="video-quantum-spin-visualizing-the-physics-and-mathematics-by-physics-videos-by-eugene-khutoryansky-2016"></a>
+**[Video 9](#video-quantum-spin-visualizing-the-physics-and-mathematics-by-physics-videos-by-eugene-khutoryansky-2016). Quantum Spin - Visualizing the physics and mathematics by Physics Videos by Eugene Khutoryansky (2016)** [Source](https://www.youtube.com/watch?v=3k5IWlVdMbo).
+
+<a id="video-understanding-qft-episode-1-by-highly-entropic-mind-2023"></a>
+**[Video 10](#video-understanding-qft-episode-1-by-highly-entropic-mind-2023). Understanding QFT - Episode 1 by Highly Entropic Mind (2023)** [Source](https://www.youtube.com/watch?v=AToXA0Molig). Maybe he stands a chance.
+
+#### Spin experiments
+
+↑ **Parent:** [Spin (physics)](#spin-physics)
+
+- [Stern-Gerlach experiment](#stern-gerlach-experiment)
+- [fine structure](quantum-mechanics.md#fine-structure) split in energy levels
+- [anomalous Zeeman effect](quantum-mechanics.md#anomalous-zeeman-effect)
+- of a more statistical nature, but therefore also macroscopic and more dramatically observable:
+  - [ferromagnetism](condensed-matter-physics.md#ferromagnetism)
+  - [Bose-Einstein statistics](statistical-physics.md#bose-einstein-statistics) vs [Fermi-Dirac statistics](statistical-physics.md#fermi-dirac-statistics). A notable example is the difference in [superfluid](condensed-matter-physics.md#superfluidity) transition [temperature](statistical-physics.md#temperature) between [superfluid helium-3](chemistry.md#superfluid-helium-3) and [superfluid helium-4](chemistry.md#superfluid-helium-4).
+
+##### Stern-Gerlach experiment
+
+↑ **Parent:** [Spin experiments](#spin-experiments)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Stern–Gerlach_experiment)
+
+Originally done with (neutral) [silver](chemistry.md#silver) atoms in 1921, but even clearer theoretically was the [hydrogen](chemistry.md#hydrogen) reproduction in 1927 by T. E. Phipps and J. B. Taylor.
+
+The [hydrogen](chemistry.md#hydrogen) experiment was apparently harder to do and the result is less visible, TODO why: [https://physics.stackexchange.com/questions/33021/why-silver-atoms-were-used-in-stern-gerlach-experiment](https://physics.stackexchange.com/questions/33021/why-silver-atoms-were-used-in-stern-gerlach-experiment)
+
+<a id="video-the-stern-gerlach-experiment-by-educational-services-inc-1967"></a>
+**[Video 11](#video-the-stern-gerlach-experiment-by-educational-services-inc-1967). The Stern-Gerlach Experiment by Educational Services, Inc (1967)** [Source](https://www.youtube.com/watch?v=AcTqcyv-V1I). Featuring [MIT](university.md#massachusetts-institute-of-technology) Professor Jerrold R. Zacharias. Amazing experimental setup demonstration, he takes apart much of the experiment to show what's going on.
+
+###### The Stern-Gerlach experiment needs an inhomogenous magnetic field
+
+↑ **Parent:** [Stern-Gerlach experiment](#stern-gerlach-experiment)
+
+Needs an inhomogenous [magnetic field](electromagnetism.md#magnetic-field) to move the atoms up or down: [magnetic dipole in an inhomogenous magnetic field](condensed-matter-physics.md#magnetic-dipole-in-an-inhomogenous-magnetic-field). TODO how it is generated?
+- [https://physics.stackexchange.com/questions/596385/why-is-an-inhomogenous-magnetic-field-used-in-the-stern-gerlach-experiment](https://physics.stackexchange.com/questions/596385/why-is-an-inhomogenous-magnetic-field-used-in-the-stern-gerlach-experiment)
+- [https://www.quora.com/Why-is-the-magnetic-field-in-Stern-Gerlach-experiment-non-uniform](https://www.quora.com/Why-is-the-magnetic-field-in-Stern-Gerlach-experiment-non-uniform)
+
+###### Stern-Gerlach experiment paper
+
+↑ **Parent:** [Stern-Gerlach experiment](#stern-gerlach-experiment)
+
+###### The experimental proof of directional quantization in the magnetic field
+
+↑ **Parent:** [Stern-Gerlach experiment paper](#stern-gerlach-experiment-paper)
+
+##### Spintronics
+
+↑ **Parent:** [Spin experiments](#spin-experiments)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Spintronics)
+
+<a id="video-introduction-to-spintronics-by-aurelien-manchon-2020"></a>
+**[Video 12](#video-introduction-to-spintronics-by-aurelien-manchon-2020). Introduction to Spintronics by Aurélien Manchon (2020)** [Source](https://www.youtube.com/watch?v=1vSQ9u1SP2M).
+
+<a id="video-the-spin-on-electronics-by-stuart-parkin"></a>
+**[Video 13](#video-the-spin-on-electronics-by-stuart-parkin). The Spin on Electronics by Stuart Parkin.** [Source](https://www.youtube.com/watch?v=cID4fKraWkE). 2013.
+
+###### Spin valve
+
+↑ **Parent:** [Spintronics](#spintronics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Spin_valve)
+
+Basic component in [spintronics](#spintronics), used in both [giant magnetoresistance](#giant-magnetoresistance)
+
+###### Tunnel magnetoresistance
+
+↑ **Parent:** [Spintronics](#spintronics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Tunnel_magnetoresistance)
+
+<a id="video-what-is-spintronics-and-how-is-it-useful-by-scitoons-2019"></a>
+**[Video 14](#video-what-is-spintronics-and-how-is-it-useful-by-scitoons-2019). What is spintronics and how is it useful? by SciToons (2019)** [Source](https://www.youtube.com/watch?v=q3-S5hM-3QY). Gives a good 1 minute explanation of [tunnel magnetoresistance](#tunnel-magnetoresistance).
+
+###### Giant magnetoresistance
+
+↑ **Parent:** [Spintronics](#spintronics)  
+🏷️ **Tags:** [2007 Nobel Prize in Physics](nobel-prize.md#2007-nobel-prize-in-physics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Giant_magnetoresistance)
+
+<a id="video-introduction-to-spintronics-by-aurelien-manchon-2020-giant-magnetoresistance-section"></a>
+**[Video 15](#video-introduction-to-spintronics-by-aurelien-manchon-2020-giant-magnetoresistance-section). Introduction to Spintronics by Aurélien Manchon (2020) giant magnetoresistance section.** [Source](https://www.youtube.com/watch?v=1vSQ9u1SP2M). Describes how [giant magnetoresistance](#giant-magnetoresistance) was used in [magnetoresistive disk heads](computer-hardware.md#magnetoresistive-disk-head) in the 90's providing a huge improvement in [disk storage](computer-hardware.md#disk-storage) density over the pre-existing [inductive sensors](electromagnetism.md#inductive-sensor)
+
+More comments at: [Video 12. "Introduction to Spintronics by Aurélien Manchon (2020)"](#video-introduction-to-spintronics-by-aurelien-manchon-2020).
+
+---
+
+###### Spin-transfer torque
+
+↑ **Parent:** [Spintronics](#spintronics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Spin-transfer_torque)
+
+<a id="video-introduction-to-spintronics-by-aurelien-manchon-2020-spin-transfer-torque-section"></a>
+**[Video 16](#video-introduction-to-spintronics-by-aurelien-manchon-2020-spin-transfer-torque-section). Introduction to Spintronics by Aurélien Manchon (2020) spin-transfer torque section.** [Source](https://www.youtube.com/watch?v=1vSQ9u1SP2M). Describes how how [spin-transfer torque](#spin-transfer-torque) was used in [magnetoresistive RAM](computer-hardware.md#magnetoresistive-ram)
+
+More comments at: [Video 12. "Introduction to Spintronics by Aurélien Manchon (2020)"](#video-introduction-to-spintronics-by-aurelien-manchon-2020).
+
+---
+
+#### Spin number of a field
+
+↑ **Parent:** [Spin (physics)](#spin-physics)  
+🏷️ **Tags:** [Pauli exclusion principle](#pauli-exclusion-principle)
+
+I like [relativistic quantum mechanics](relativistic-quantum-mechanics.md).
+
+Best mathematical explanation: [Section "Spin comes naturally when adding relativity to quantum mechanics"](#spin-number-of-a-field).
+
+[Physics from Symmetry by Jakob Schwichtenberg (2015)](physicist.md#physics-from-symmetry-by-jakob-schwichtenberg-2015) chapter 3.9 "Elementary particles" has an amazing summary of the preceding chapters the [spin](#spin-physics) value has a relation to the [representations](geometry.md#representation-theory) of the [Lorentz group](geometry.md#lorentz-group), which encodes the [spacetime symmetry](quantum-field-theory.md#spacetime-symmetry) that each particle observes. These symmetries can be characterized by small integer numbers:
+- [spin 0](#spin-0): $(0, 0)$ representation
+- [spin half](#spin-half): $(1/2, 0) \bigoplus (0, 1/2)$ representation
+- [spin 1](#spin-1): $(1/2, 1/2)$ representation
+[As usual](standard-model.md#parameters-of-the-standard-model), we don't know why there aren't [elementary particles](standard-model.md#elementary-particle) with other spins, as we could construct them.
+
+Bibliography:
+- [Video "Quantum Field Theory visualized by ScienceClic English (2020)"](quantum-field-theory.md#video-quantum-field-theory-visualized-by-scienceclic-english-2020)
+- [spin comes naturally when adding relativity to quantum mechanics](#spin-number-of-a-field)
+- [https://physics.stackexchange.com/questions/31119/what-does-spin-0-mean-exactly](https://physics.stackexchange.com/questions/31119/what-does-spin-0-mean-exactly) What does spin 0 mean exactly? on [Physics Stack Exchange](stack-overflow.md#physics-stack-exchange)
+
+##### Spin 0
+
+↑ **Parent:** [Spin number of a field](#spin-number-of-a-field)
+
+[https://physics.stackexchange.com/questions/31119/what-does-spin-0-mean-exactly](https://physics.stackexchange.com/questions/31119/what-does-spin-0-mean-exactly)
+
+Leads to the [Klein-Gordon equation](#klein-gordon-equation).
+
+##### Spin half
+
+↑ **Parent:** [Spin number of a field](#spin-number-of-a-field)
+
+Leads to the [Dirac equation](#dirac-equation).
+
+##### Spin 1
+
+↑ **Parent:** [Spin number of a field](#spin-number-of-a-field)
+
+Leads to the [Proca equation](#proca-equation).
+
+###### Proca equation
+
+↑ **Parent:** [Spin 1](#spin-1)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Proca_action#Equation)
+
+##### Spin 2
+
+↑ **Parent:** [Spin number of a field](#spin-number-of-a-field)
+
+Theorized for the [graviton](relativity.md#graviton).
+
+##### Why is the spin of the electron half?
+
+↑ **Parent:** [Spin number of a field](#spin-number-of-a-field)
+
+[https://physics.stackexchange.com/questions/266359/when-we-say-electron-spin-is-1-2-what-exactly-does-it-mean-1-2-of-what](https://physics.stackexchange.com/questions/266359/when-we-say-electron-spin-is-1-2-what-exactly-does-it-mean-1-2-of-what)
+
+More interestingly, how is that implied by the [Stern-Gerlach experiment](#stern-gerlach-experiment)?
+
+[https://physics.stackexchange.com/questions/266359/when-we-say-electron-spin-is-1-2-what-exactly-does-it-mean-1-2-of-what/266371#266371](https://physics.stackexchange.com/questions/266359/when-we-say-electron-spin-is-1-2-what-exactly-does-it-mean-1-2-of-what/266371#266371) suggests that half could either mean:
+- at limit of large `l` for the [Schrödinger equation solution for the hydrogen atom](quantum-mechanics.md#schrodinger-equation-solution-for-the-hydrogen-atom) the difference between each angular momentum is twice that of the eletron's spin. Not very satisfactory.
+- it comes directly out of the [Dirac equation](#dirac-equation). This is satisfactory. :-)
+
+#### Pauli exclusion principle
+
+↑ **Parent:** [Spin (physics)](#spin-physics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Pauli_exclusion_principle)
+
+Initially a phenomenological guess to explain the periodic table. Later it was apparently proven properly with the [spin-statistics theorem](#spin-statistics-theorem), [https://physics.stackexchange.com/questions/360140/theoretical-proof-of-paulis-exclusion-principle](https://physics.stackexchange.com/questions/360140/theoretical-proof-of-paulis-exclusion-principle).
+
+And it was understood more and more that basically this is what prevents solids from collapsing into a single nucleus, not electrical repulsion: [electron degeneracy pressure](#electron-degeneracy-pressure)!
+
+Bibliography:
+- [https://www.youtube.com/watch?v=EK_6OzZAh5k](https://www.youtube.com/watch?v=EK_6OzZAh5k) How Electron Spin Makes Matter Possible by [PBS Space Time](particle-physics.md#pbs-space-time) (2021)
+
+<a id="video-the-biggest-ideas-in-the-universe-17-matter-by-sean-carroll-2020"></a>
+**[Video 17](#video-the-biggest-ideas-in-the-universe-17-matter-by-sean-carroll-2020). The Biggest Ideas in the Universe | 17. Matter by Sean Carroll (2020)** [Source](https://www.youtube.com/watch?v=dQWn9NzvX4s).
+
+##### Slater determinant
+
+↑ **Parent:** [Pauli exclusion principle](#pauli-exclusion-principle)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Slater_determinant)
+
+##### Fermions, bosons and anyons
+
+↑ **Parent:** [Pauli exclusion principle](#pauli-exclusion-principle)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Fermions,_bosons_and_anyons)
+
+###### Fermion
+
+↑ **Parent:** [Fermions, bosons and anyons](#fermions-bosons-and-anyons)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Fermion)
+
+###### Boson
+
+↑ **Parent:** [Fermions, bosons and anyons](#fermions-bosons-and-anyons)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Boson)
+
+###### Anyon
+
+↑ **Parent:** [Fermions, bosons and anyons](#fermions-bosons-and-anyons)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Anyon)
+
+The name actually comes from "any". Amazing.
+
+Can only exist in [2D](calculus.md#real-plane) surfaces, not 3D, where [fermions](#fermion) and [bosons](#boson) are the only options.
+
+All known [anyons](#anyon) are [quasiparticles](condensed-matter-physics.md#quasiparticle).
+
+###### Abelian an non abelian anyons
+
+↑ **Parent:** [Anyon](#anyon)
+
+###### Abelian anyon
+
+↑ **Parent:** [Abelian an non abelian anyons](#abelian-an-non-abelian-anyons)
+
+On particle exchange:
+
+$$
+\psi = e^{\theta i} \psi
+$$
+
+so it is a generalization of [bosons](#boson) and [fermions](#fermion) which have $\theta = 0$ and $\theta = \pi$ respectively.
+
+Key physical experiment: [fractional quantum Hall effect](quantum-mechanics.md#fractional-quantum-hall-effect).
+
+###### Non Abelian anyon
+
+↑ **Parent:** [Abelian an non abelian anyons](#abelian-an-non-abelian-anyons)
+
+Exotic and hard to find experimentally.
+
+<a id="video-topological-quantum-computation-by-jason-alicea-2021-non-abelian-anyon"></a>
+**[Video 18](#video-topological-quantum-computation-by-jason-alicea-2021-non-abelian-anyon). Topological quantum computation by Jason Alicea (2021)** [Source](https://www.youtube.com/watch?v=CnsQRValXdk).
+
+##### Spin-statistics theorem
+
+↑ **Parent:** [Pauli exclusion principle](#pauli-exclusion-principle)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Spin–statistics_theorem)
+
+[Video 17. "The Biggest Ideas in the Universe | 17. Matter by Sean Carroll (2020)"](#video-the-biggest-ideas-in-the-universe-17-matter-by-sean-carroll-2020) at [https://youtu.be/dQWn9NzvX4s?t=3707](https://youtu.be/dQWn9NzvX4s?t=3707) says that no one has ever been able to come up with an intuitive reason for the proof.
+
+##### Electron degeneracy pressure
+
+↑ **Parent:** [Pauli exclusion principle](#pauli-exclusion-principle)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Electron_degeneracy_pressure)
+
+### Dirac Lagrangian
+
+↑ **Parent:** [Dirac equation](#dirac-equation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Lagrangian_(field_theory)#Dirac_Lagrangian)
+
+
+
+$$
+\mathcal{L} = \bar \psi ( i \hbar c {\partial}\!\!\!/ - mc^2) \psi
+$$
+
+where:
+- ${\partial}\!\!\!$: [Feynman slash notation](#feynman-slash-notation)
+- $\bar \psi$: [Dirac adjoint](#dirac-adjoint)
+
+Remember that $\psi$ is a 4-vetor, gamma matrices are 4x4 matrices, so the whole thing comes down to a [dot product](linear-algebra.md#dot-product) of two 4-vectors, with a modified $\psi$ by matrix multiplication/derivatives, and the result is a scalar, as expected for a [Lagrangian](mechanics.md#lagrangian).
+
+Like any other [Lagrangian](mechanics.md#lagrangian), you can then recover the [Dirac equation](#dirac-equation), which is the corresponding [equations of motion](mechanics.md#equations-of-motion), by applying the [Euler-Lagrange equation](mechanics.md#euler-lagrange-equation) to the Lagrangian.
+
+#### Dirac adjoint
+
+↑ **Parent:** [Dirac Lagrangian](#dirac-lagrangian)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Dirac_adjoint)
+
+#### Gamma matrices
+
+↑ **Parent:** [Dirac Lagrangian](#dirac-lagrangian)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Gamma_matrices)
+
+#### Feynman slash notation
+
+↑ **Parent:** [Dirac Lagrangian](#dirac-lagrangian)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Feynman_slash_notation)
+
+## Quantum field theory
+
+↑ **Parent:** [Relativistic quantum mechanics](relativistic-quantum-mechanics.md)
+
+[This section is present in another page, follow this link to view it.](quantum-field-theory.md)
+
+## ↑ Ancestors (6)
+
+1. [Quantum mechanics](quantum-mechanics.md)
+2. [Particle physics](particle-physics.md)
+3. [Physics](physics.md)
+4. [Natural science](science.md#natural-science)
+5. [Science](science.md)
+6. [Ciro Santilli's Homepage](README.md)
+
+## ← Incoming links (5)
+
+- [Matrix mechanics](quantum-mechanics.md#matrix-mechanics)
+- [Position and momentum space](quantum-mechanics.md#position-and-momentum-space)
+- [Quantum mechanics](quantum-mechanics.md)
+- [Second quantization](quantum-field-theory.md#second-quantization)
+- [Spin number of a field](#spin-number-of-a-field)

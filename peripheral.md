@@ -1,0 +1,43 @@
+# Peripheral
+
+↑ **Parent:** [I/O device](i-o-device.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Peripheral)
+
+**Table of contents**
+
+- [Computer mouse](computer-mouse.md)
+- [Computer keyboard](computer-keyboard.md)
+  - [Keyboard layout](keyboard-layout.md)
+    - [QWERTY](qwerty.md)
+    - [Dvorak keyboard layout](dvorak-keyboard-layout.md)
+  - [Computer keyboard model](computer-keyboard-model.md)
+    - [Kinesis Advantage keyboard](kinesis-advantage-keyboard.md)
+    - [Kinesis Advantage 2 keyboard](kinesis-advantage-2-keyboard.md)
+- [Display device](display-device.md)
+  - [Blinkenlights](blinkenlights.md)
+  - [E Ink](e-ink.md)
+    - [Amazon Kindle](amazon-kindle.md)
+    - [Remarkable (tablet)](remarkable-tablet.md)
+      - [Remarkable 2](remarkable-2.md)
+  - [Teleprinter](teleprinter.md)
+- [Webcam](webcam.md)
+- [Peripheral interface](peripheral-interface.md)
+  - [PCI](pci.md)
+    - [PCIe](pcie.md)
+    - [lspci](lspci.md)
+      - [pciutils](pciutils.md)
+      - [Get vendor and device ID for each PCI device](get-vendor-and-device-id-for-each-pci-device.md)
+  - [USB](usb.md)
+    - [USB Micro-B](usb-micro-b.md)
+    - [USB-C](usb-c.md)
+
+## ↑ Ancestors (8)
+
+1. [I/O device](i-o-device.md)
+2. [Computer hardware component type](computer-hardware-component-type.md)
+3. [Computer hardware](computer-hardware-split.md)
+4. [Computer](computer-split.md)
+5. [Information technology](information-technology.md)
+6. [Area of technology](area-of-technology.md)
+7. [Technology](technology-split.md)
+8. [Ciro Santilli's Homepage](split.md)

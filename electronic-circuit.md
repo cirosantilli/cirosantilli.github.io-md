@@ -1,0 +1,63 @@
+# Electronic circuit
+
+↑ **Parent:** [Electronics](electronics-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Electronic_circuit)
+
+**Table of contents**
+
+- [Circuit board](circuit-board.md)
+  - [Breadboard](breadboard.md)
+  - [Printed circuit board](printed-circuit-board.md)
+    - [Microprocessor development board](microprocessor-development-board.md)
+      - [Microcontroller devboard](microcontroller-devboard.md)
+        - [Arduino](arduino.md)
+        - [Micro Bit](micro-bit.md)
+          - [Micro Bit simulator](micro-bit-simulator.md)
+            - [Micro Bit Python editor](micro-bit-python-editor.md)
+            - [MakeCode Miro Bit](makecode-miro-bit.md)
+          - [Micro Bit getting started](micro-bit-getting-started.md)
+          - [Program the Micro Bit with X](program-the-micro-bit-with-x.md)
+            - [Run Zephyr on Micro Bit](run-zephyr-on-micro-bit.md)
+            - [Run MicroPython on Micro Bit](run-micropython-on-micro-bit.md)
+              - [Compile MicroPython code for Micro Bit locally](compile-micropython-code-for-micro-bit-locally.md)
+                - [Compile MicroPython code for Micro Bit locally on Ubuntu 22.04 with your own firmware](compile-micropython-code-for-micro-bit-locally-on-ubuntu-22-04-with-your-own-firmware.md)
+            - [Program the Micro Bit in C](program-the-micro-bit-in-c.md)
+          - [Yotta (build system)](yotta-build-system.md)
+          - [Micro Bit version](micro-bit-version.md)
+            - [Micro Bit v1](micro-bit-v1.md)
+          - [nRF51 series](nrf51-series.md)
+          - [Micro Bit example](micro-bit-example.md)
+          - [Micro Bit GPIO](micro-bit-gpio.md)
+      - [It is hard to do something useful with a devboard](it-is-hard-to-do-something-useful-with-a-devboard.md)
+      - [Devboard battery power](devboard-battery-power.md)
+  - [Point-to-point construction](point-to-point-construction.md)
+  - [Solder](solder.md)
+- [Digital and analog electronics](digital-and-analog-electronics.md)
+  - [Analog-to-digital converter](analog-to-digital-converter.md)
+    - [Open source analog-to-digital converter](open-source-analog-to-digital-converter.md)
+  - [Digital-to-analog converter](digital-to-analog-converter.md)
+  - [Digital electronics](digital-electronics.md)
+    - [Digital electronic circuit](digital-electronic-circuit.md)
+      - [Frequency divider](frequency-divider.md)
+  - [Analog electronics](analog-electronics.md)
+- [LC circuit](lc-circuit.md)
+  - [An LC circuit is analogous to a spring-mass system](an-lc-circuit-is-analogous-to-a-spring-mass-system.md)
+  - [Series LC circuit](series-lc-circuit.md)
+  - [Parallel LC circuit](parallel-lc-circuit.md)
+  - [Audio feedback](audio-feedback.md)
+  - [RLC circuit](rlc-circuit.md)
+
+## 🏷️ Tagged (1)
+
+- [RC circuit](rc-circuit.md)
+
+## ↑ Ancestors (4)
+
+1. [Electronics](electronics-split.md)
+2. [Area of technology](area-of-technology.md)
+3. [Technology](technology-split.md)
+4. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Breadboard](breadboard.md)

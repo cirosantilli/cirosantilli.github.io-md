@@ -1,0 +1,21 @@
+# Bitcoin input script
+
+↑ **Parent:** [Bitcoin script](bitcoin-script.md)
+
+## ↑ Ancestors (11)
+
+1. [Bitcoin script](bitcoin-script.md)
+2. [How Bitcoin works](how-bitcoin-works.md)
+3. [Bitcoin](bitcoin.md)
+4. [List of cryptocurrencies](list-of-cryptocurrencies.md)
+5. [Cryptocurrency](cryptocurrency-split.md)
+6. [Blockchain](blockchain.md)
+7. [Money](money.md)
+8. [Social technology](social-technology-split.md)
+9. [Area of technology](area-of-technology.md)
+10. [Technology](technology-split.md)
+11. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Prayer wars](cool-data-embedded-in-the-bitcoin-blockchain/prayer-wars.md)

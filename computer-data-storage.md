@@ -1,0 +1,43 @@
+# Computer data storage
+
+↑ **Parent:** [I/O device](i-o-device.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Computer_data_storage)
+
+**Table of contents**
+
+- [Computer data storage software](computer-data-storage-software.md)
+  - [Filesystem](filesystem.md)
+    - [Clustered file system](clustered-file-system.md)
+      - [9P (protocol)](9p-protocol.md)
+      - [Network File System](network-file-system.md)
+    - [Computer file](computer-file.md)
+      - [File signature](file-signature.md)
+- [Computer data storage hardware](computer-data-storage-hardware.md)
+  - [Tape drive](tape-drive.md)
+  - [Volatile memory](volatile-memory.md)
+    - [Random-access memory](random-access-memory.md)
+      - [Static random-access memory](static-random-access-memory.md)
+      - [Dynamic random-access memory](dynamic-random-access-memory.md)
+        - [Synchronous dynamic random-access memory](synchronous-dynamic-random-access-memory.md)
+          - [DDR SDRAM](ddr-sdram.md)
+      - [Magnetoresistive RAM](magnetoresistive-ram.md)
+  - [Non-volatile memory](non-volatile-memory.md)
+    - [Disk storage](disk-storage.md)
+      - [Disk read-and-write head](disk-read-and-write-head.md)
+        - [Magnetoresistive disk head](magnetoresistive-disk-head.md)
+    - [Optical storage](optical-storage.md)
+    - [Solid-state storage](solid-state-storage.md)
+      - [Erase SSD securely](erase-ssd-securely.md)
+  - [Solid-state drive](solid-state-drive.md)
+    - [Flash memory](flash-memory.md)
+
+## ↑ Ancestors (8)
+
+1. [I/O device](i-o-device.md)
+2. [Computer hardware component type](computer-hardware-component-type.md)
+3. [Computer hardware](computer-hardware-split.md)
+4. [Computer](computer-split.md)
+5. [Information technology](information-technology.md)
+6. [Area of technology](area-of-technology.md)
+7. [Technology](technology-split.md)
+8. [Ciro Santilli's Homepage](split.md)

@@ -1,0 +1,62 @@
+# Halting problem
+
+↑ **Parent:** [Decision problem](decision-problem.md)  
+🏷️ **Tags:** [Undecidable problem](undecidable-problem.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Halting_problem)
+
+The canonical [undecidable problem](undecidable-problem.md).
+
+**Table of contents**
+
+- [Turing machine decider](turing-machine-decider.md)
+  - [Turing machine regex tape notation](turing-machine-regex-tape-notation.md)
+  - [Cycler Turing machine](cycler-turing-machine.md)
+  - [Translated cycler Turing machine](translated-cycler-turing-machine.md)
+  - [Closed Tape Language decider](closed-tape-language-decider.md)
+- [Busy beaver](busy-beaver.md)
+  - [Step busy beaver](step-busy-beaver.md)
+  - [Busy beaver function](busy-beaver-function.md)
+    - [Specific values of the Busy beaver function](specific-values-of-the-busy-beaver-function.md)
+      - [Turing machine acceleration](turing-machine-acceleration.md)
+      - [Busy Beaver Challenge](busy-beaver-challenge.md)
+      - [BB(5)](bb-5.md)
+        - [Marxen-Buntrock machine](marxen-buntrock-machine.md)
+        - [Skelet’s machines](skelet%E2%80%99s-machines.md)
+          - [Skelet machine \#1](skelet-machine-1.md)
+            - [Skelet machine \#1 is infinite](skelet-machine-1-is-infinite.md)
+      - [BB(6)](bb-6.md)
+        - [BB(6) is hard](bb-6-is-hard.md)
+          - [Antihydra](antihydra.md)
+            - [Antihydra in Magic: The Gathering](antihydra-in-magic-the-gathering.md)
+            - [Antihydra GMP implementation](antihydra-gmp-implementation.md)
+            - [gmp/antihydra.c](_file/gmp/antihydra.c.md)
+  - [Busy beaver scale](busy-beaver-scale.md)
+    - [Turing machine compiler](turing-machine-compiler.md)
+    - [Automated theorem proving by halting problem reduction](automated-theorem-proving-by-halting-problem-reduction.md)
+      - [Conjecture reduction to a halting problem](conjecture-reduction-to-a-halting-problem.md)
+        - [Turing machine that halts if and only if the Goldbach conjecture is false](turing-machine-that-halts-if-and-only-if-the-goldbach-conjecture-is-false.md)
+        - [Turing machine that halts if and only if Collatz conjecture is false](turing-machine-that-halts-if-and-only-if-collatz-conjecture-is-false.md)
+
+## ↑ Ancestors (8)
+
+1. [Decision problem](decision-problem.md)
+2. [Computational problem](computational-problem.md)
+3. [Computer science](computer-science-split.md)
+4. [Computer](computer-split.md)
+5. [Information technology](information-technology.md)
+6. [Area of technology](area-of-technology.md)
+7. [Technology](technology-split.md)
+8. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (10)
+
+- [Automated theorem proving by halting problem reduction](automated-theorem-proving-by-halting-problem-reduction.md)
+- [Busy beaver](busy-beaver.md)
+- [Busy beaver function](busy-beaver-function.md)
+- [Busy beaver scale](busy-beaver-scale.md)
+- [Collatz conjecture](collatz-conjecture.md)
+- [Hilbert's tenth problem](hilbert-s-tenth-problem.md)
+- [Turing machine decider](turing-machine-decider.md)
+- [Uncomputable function](uncomputable-function.md)
+- [Undecidable problem](undecidable-problem.md)
+- [Universal Turing machine](universal-turing-machine.md)

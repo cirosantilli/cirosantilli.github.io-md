@@ -1,0 +1,35 @@
+<h1 id="arc-agi-2-problem/dotted-line">Dotted line</h1>
+
+↑ **Parent:** [Line](line.md)
+
+<a id="arc-agi-2-problem/_312"></a>
+A [dotted path](dotted-path.md) that is also a [dotted line](dotted-line.md).
+
+## ↑ Ancestors (21)
+
+1. [Line](line.md)
+2. [Path](path.md)
+3. [Object](object.md)
+4. [Input primitive](input-primitive.md)
+5. [Primitive](primitive.md)
+6. [Approach](approach.md)
+7. [ARC-AGI-2 problem](../arc-agi-2-problem.md)
+8. [ARC-AGI-2](../arc-agi-2.md)
+9. [Official ARC-AGI problem set](../official-arc-agi-problem-set.md)
+10. [ARC-AGI problem set](../arc-agi-problem-set.md)
+11. [ARC-AGI](../arc-agi.md)
+12. [AGI test](../agi-test.md)
+13. [Artificial general intelligence](../artificial-general-intelligence.md)
+14. [AI by capability](../ai-by-capability.md)
+15. [Artificial intelligence](../artificial-intelligence-split.md)
+16. [Machine learning](../machine-learning-split.md)
+17. [Computer](../computer-split.md)
+18. [Information technology](../information-technology.md)
+19. [Area of technology](../area-of-technology.md)
+20. [Technology](../technology-split.md)
+21. [Ciro Santilli's Homepage](../split.md)
+
+## ← Incoming links (2)
+
+- [Dotted line](dotted-line.md)
+- [1ae2feb7](list/1ae2feb7.md)

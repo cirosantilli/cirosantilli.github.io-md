@@ -1,0 +1,131 @@
+# Quantum computer physical implementation
+
+↑ **Parent:** [Quantum computing hardware](quantum-computing-hardware.md)
+
+Lists of the most promising implementations:
+- [https://en.wikipedia.org/wiki/Quantum_computing#Physical_realizations](https://en.wikipedia.org/wiki/Quantum_computing#Physical_realizations)
+- [https://quantumcomputingreport.com/scorecards/qubit-count/](https://quantumcomputingreport.com/scorecards/qubit-count/), see also: [Section "Quantum computing player"](quantum-computing-player.md).
+
+As of 2020, the hottest by far are:
+- [superconducting quantum computer](superconducting-quantum-computing.md)
+- [trapped ion quantum computer](trapped-ion-quantum-computer.md)
+- [photonic quantum computer](photonic-quantum-computer.md)
+
+<a id="video-how-to-build-a-quantum-computer-by-lukas-s-lab-2023"></a>
+**[Video 4](#video-how-to-build-a-quantum-computer-by-lukas-s-lab-2023). How To Build A Quantum Computer by Lukas's Lab (2023)** [Source](https://www.youtube.com/watch?v=N06hC1GL1ns). Super quick overview of the main types of [quantum computer physical implementations](quantum-computer-physical-implementation.md), so doesn't any much to a quick [Google](google-split.md).
+
+He says he's going to make a series about it, so then something useful might actually come out. The first one was: [Video 12. "How to Turn Superconductors Into A Quantum Computer by Lukas's Lab (2023)"](superconducting-quantum-computing.md#video-how-to-turn-superconductors-into-a-quantum-computer-by-lukas-s-lab-2023), but it is still too basic.
+
+The author's full name is Lukas Baker, [https://www.linkedin.com/in/lukasbaker1331/](https://www.linkedin.com/in/lukasbaker1331/), found with [Google reverse image search](google-reverse-image-search.md), even though the LinkedIn image is very slightly different from the YouTube one.
+
+As of 2023 he was a [PhD](doctor-of-philosophy.md) student at [NYU](new-york-university.md).
+
+---
+
+**Table of contents**
+
+- [Carbon nanotube spin quantum computer](carbon-nanotube-spin-quantum-computer.md)
+  - [Organization developing carbon nanotube spin quantum computer](organization-developing-carbon-nanotube-spin-quantum-computer.md)
+    - [C12 Quantum Electronics](c12-quantum-electronics.md)
+      - [UCL Quantum Devices Group](ucl-quantum-devices-group.md)
+- [Diamond vacancy quantum computer](diamond-vacancy-quantum-computer.md)
+  - [N-V center quantum computer](n-v-center-quantum-computer.md)
+  - [Nitrogen-vacancy center](nitrogen-vacancy-center.md)
+- [Electron on helium quantum computer](electron-on-helium-quantum-computer.md)
+  - [Organization developing electron on helium quantum computer](organization-developing-electron-on-helium-quantum-computer.md)
+    - [EeroQ](eeroq.md)
+- [Nuclear magnetic resonance quantum computer](nuclear-magnetic-resonance-quantum-computer.md)
+  - [Organization developing nuclear magnetic resonance quantum computer](organization-developing-nuclear-magnetic-resonance-quantum-computer.md)
+    - [Silicon Quantum Computing](silicon-quantum-computing.md)
+      - [Kane quantum computer](kane-quantum-computer.md)
+      - [Diraq](diraq.md)
+- [Quantum dot quantum computer](quantum-dot-quantum-computer.md)
+  - [Organization developing quantum dot quantum computer](organization-developing-quantum-dot-quantum-computer.md)
+    - [Quantum Motion](quantum-motion.md)
+  - [Intel quantum computer](intel-quantum-computer.md)
+- [Superconducting quantum computing](superconducting-quantum-computing.md)
+  - [Superconducting quantum computer need non-linear components](superconducting-quantum-computer-need-non-linear-components.md)
+  - [Superconducting qubit](superconducting-qubit.md)
+    - [Pros and cons of superconducting qubits](pros-and-cons-of-superconducting-qubits.md)
+      - [Con of superconducting qubits](con-of-superconducting-qubits.md)
+        - [Superconducting qubits are bad because it is harder to ensure that they are all the same](superconducting-qubits-are-bad-because-it-is-harder-to-ensure-that-they-are-all-the-same.md)
+      - [Pro of superconducting qubits](pro-of-superconducting-qubits.md)
+        - [Superconducting qubits are good because superconductivity is macroscopic](superconducting-qubits-are-good-because-superconductivity-is-macroscopic.md)
+        - [Superconducting qubits are bad because of fabrication variation](superconducting-qubits-are-bad-because-of-fabrication-variation.md)
+    - [Superconducting qubit type](superconducting-qubit-type.md)
+      - [Flux qubit](flux-qubit.md)
+      - [Transmon](transmon.md)
+        - [An Introduction to the Transmon Qubit for Electromagnetic Engineers](an-introduction-to-the-transmon-qubit-for-electromagnetic-engineers.md)
+        - [Rabi cycle](rabi-cycle.md)
+        - [The Hardware of a Quantum Computer by TU Delft](the-hardware-of-a-quantum-computer-by-tu-delft.md)
+  - [Organization developing superconducting quantum computer](organization-developing-superconducting-quantum-computer.md)
+    - [Alice&Bob](alice-and-bob.md)
+      - [Cat qubit](cat-qubit.md)
+    - [Google Quantum AI](google-quantum-ai.md)
+      - [Google Quantum Campus](google-quantum-campus.md)
+      - [Google Quantum AI employee](google-quantum-ai-employee.md)
+        - [Daniel Sank](daniel-sank.md)
+        - [Julian Kelly](julian-kelly.md)
+        - [John M. Martinis](john-m-martinis.md)
+      - [Google Quantum AI hardware](google-quantum-ai-hardware.md)
+        - [Sycamore processor](sycamore-processor.md)
+        - [Willow (quantum computer)](willow-quantum-computer.md)
+    - [IBM Quantum Computing](ibm-quantum-computing.md)
+      - [IBM quantum computer](ibm-quantum-computer.md)
+    - [IQM](iqm.md)
+    - [OpenSuperQ](opensuperq.md)
+    - [Oxford Quantum Circuits](oxford-quantum-circuits.md)
+      - [Ilana Wisby](ilana-wisby.md)
+    - [Rigetti Computing](rigetti-computing.md)
+- [Topological quantum computer](topological-quantum-computer.md)
+- [Trapped ion quantum computer](trapped-ion-quantum-computer.md)
+  - [Cirac–Zoller controlled-NOT gate](cirac-zoller-controlled-not-gate.md)
+  - [Ion trap](ion-trap.md)
+  - [Modular trapped ion quantum computer](modular-trapped-ion-quantum-computer.md)
+  - [Organization developing trapped ion quantum computer](organization-developing-trapped-ion-quantum-computer.md)
+    - [IonQ](ionq.md)
+    - [NQIT](nqit.md)
+    - [Oxford Ionics](oxford-ionics.md)
+    - [Quantinuum](quantinuum.md)
+      - [Quantinuum hardware](quantinuum-hardware.md)
+        - [Quantinuum H1](quantinuum-h1.md)
+        - [Quantinuum H1-2](quantinuum-h1-2.md)
+      - [Cambridge Quantum Computing](cambridge-quantum-computing.md)
+        - [tket](tket.md)
+      - [Honeywell Quantum Solutions](honeywell-quantum-solutions.md)
+    - [Universal Quantum](universal-quantum.md)
+- [Neutral atom quantum computer](neutral-atom-quantum-computer.md)
+  - [Organization developing neutral atom quantum computer](organization-developing-neutral-atom-quantum-computer.md)
+    - [Atom Computing](atom-computing.md)
+    - [Infleqtion](infleqtion.md)
+    - [QuEra](quera.md)
+    - [Pasqal](pasqal.md)
+- [Photonic quantum computer](photonic-quantum-computer.md)
+  - [Organization developing photonic quantum computer](organization-developing-photonic-quantum-computer.md)
+    - [Quandela](quandela.md)
+      - [Prometheus single photon source](prometheus-single-photon-source.md)
+    - [ORCA Computing](orca-computing.md)
+    - [PsiQuantum](psiquantum.md)
+      - [Jeremy O'Brien](jeremy-o-brien.md)
+      - [PsiQuantum founding myth](psiquantum-founding-myth.md)
+    - [Xanadu Quantum Technologies](xanadu-quantum-technologies.md)
+
+## ↑ Ancestors (8)
+
+1. [Quantum computing hardware](quantum-computing-hardware.md)
+2. [Quantum computing](quantum-computing-split.md)
+3. [Quantum information](quantum-information.md)
+4. [Information](information.md)
+5. [Information technology](information-technology.md)
+6. [Area of technology](area-of-technology.md)
+7. [Technology](technology-split.md)
+8. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (6)
+
+- [Comparison of quantum computing hardware](comparison-of-quantum-computing-hardware.md)
+- [Programmer's model of quantum computers](programmer-s-model-of-quantum-computers.md)
+- [Quantum algorithm](quantum-algorithm.md)
+- [Quantum circuits vs classical circuits](quantum-circuits-vs-classical-circuits.md)
+- [Quantum computer physical implementation](quantum-computer-physical-implementation.md)
+- [Universal quantum gates](universal-quantum-gates.md)

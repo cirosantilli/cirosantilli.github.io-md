@@ -1,0 +1,13 @@
+# Derivative test
+
+↑ **Parent:** [Maxima and minima](maxima-and-minima.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Derivative_test)
+
+## ↑ Ancestors (6)
+
+1. [Maxima and minima](maxima-and-minima.md)
+2. [Derivative](derivative.md)
+3. [Calculus](calculus-split.md)
+4. [Area of mathematics](area-of-mathematics.md)
+5. [Mathematics](mathematics-split.md)
+6. [Ciro Santilli's Homepage](split.md)

@@ -1,0 +1,100 @@
+# Brazil
+
+↑ **Parent:** [Country in South America](country-in-south-america.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Brazil)
+
+[Ciro Santilli](ciro-santilli-split.md)'s birth country.
+
+An awesome country, with amazing people and natural resources, and without an evil government like [China](china-split.md).
+
+When visiting Brazilian cities coming from [Europe](europe.md), one of the things that shocks the most is the amount of motorcycles. It seems that the poorer the country, the less people's lives are worth, and the more motorcycles there are.
+
+Another thing that was shocking is the amount of phone spam when you get a new SIM card, some [legal](law-split.md) and some likely illegal. Everyone is desperate for cash it seems on a poor country, and everyone fights hard for it.
+
+**Table of contents**
+
+- [Brazilian exchange students](brazilian-exchange-students.md)
+  - [Brazilian Student Association](brazilian-student-association.md)
+  - [Ciência sem Fronteiras](ciencia-sem-fronteiras.md)
+- [Favela](favela.md)
+- [States of Brazil](states-of-brazil.md)
+  - [São Paulo (state)](sao-paulo-state.md)
+    - [City in the State of São Paulo](city-in-the-state-of-sao-paulo.md)
+      - [Jundiaí](jundiai.md)
+      - [Rio Claro, São Paulo](rio-claro-sao-paulo.md)
+      - [Santos, São Paulo, Brazil](santos-sao-paulo-brazil.md)
+    - [São Paulo City](sao-paulo-city.md)
+      - [Municipal Market of São Paulo](municipal-market-of-sao-paulo.md)
+  - [Rio de Janeiro (state)](rio-de-janeiro-state.md)
+- [History of Brazil](history-of-brazil.md)
+  - [Military dictatorship in Brazil](military-dictatorship-in-brazil.md)
+    - [Be a marginal, be a hero](be-a-marginal-be-a-hero.md)
+- [Politics of Brazil](politics-of-brazil.md)
+- [2022 Brazilian general election](2022-brazilian-general-election.md)
+- [Demographics of Brazil](demographics-of-brazil.md)
+  - [Japanese Brazilians](japanese-brazilians.md)
+    - [Liberdade (district of São Paulo)](liberdade-district-of-sao-paulo.md)
+- [Culture of Brazil](culture-of-brazil.md)
+  - [Brazilian cuisine](brazilian-cuisine.md)
+    - [Brazilian creamy cornmeal cake](brazilian-creamy-cornmeal-cake.md)
+    - [Feijoada](feijoada.md)
+    - [Pineapple jelly with cream](pineapple-jelly-with-cream.md)
+  - [Malandragem](malandragem.md)
+
+## 🏷️ Tagged (2)
+
+- [Boitatech](boitatech.md)
+- [Brazilian real](brazilian-real.md)
+
+## ↑ Ancestors (18)
+
+1. [Country in South America](country-in-south-america.md)
+2. [South America](south-america.md)
+3. [Americas](americas.md)
+4. [List of continents](list-of-continents.md)
+5. [Continent](continent-split.md)
+6. [Earth](earth.md)
+7. [Planet in the Solar System](planet-in-the-solar-system.md)
+8. [Solar System](solar-system.md)
+9. [Orion Arm](orion-arm.md)
+10. [Arm of the Milky Way](arm-of-the-milky-way.md)
+11. [Milky Way](milky-way.md)
+12. [Local group](local-group.md)
+13. [Virgo Supercluster](virgo-supercluster.md)
+14. [Universe](universe.md)
+15. [Astronomy](astronomy-split.md)
+16. [Natural science](natural-science.md)
+17. [Science](science-split.md)
+18. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (29)
+
+- [Ciro Santilli's Homepage](split.md)
+- [Boitatech](boitatech.md)
+- [Hits with nearby IP hits](cia-2010-covert-communication-websites/hits-with-nearby-ip-hits.md)
+- [List of websites](cia-2010-covert-communication-websites/list-of-websites.md)
+- [USA spying on its own allies](cia-2010-covert-communication-websites/usa-spying-on-its-own-allies.md)
+- [Ciro Santilli](ciro-santilli-split.md)
+- [Ciro Santilli's biography](ciro-santilli-s-biography.md)
+- [Ciro Santilli's given name](ciro-santilli-s-given-name.md)
+- [Ciro Santilli's self perceived compassionate personality](ciro-santilli-s-self-perceived-compassionate-personality.md)
+- [Themes](cool-data-embedded-in-the-bitcoin-blockchain/themes.md)
+- [Evil](evil.md)
+- [Feynman was a huge womanizer during a certain period of his life](feynman-was-a-huge-womanizer-during-a-certain-period-of-his-life.md)
+- [Free gifted education](free-gifted-education.md)
+- [Magic: The Gathering is addictive](magic-the-gathering-is-addictive.md)
+- [Magic: The Gathering is too expensive](magic-the-gathering-is-too-expensive.md)
+- [Motivation](ourbigbook-com/motivation.md)
+- [Physics education needs more focus on understanding experiments and their history](physics-education-needs-more-focus-on-understanding-experiments-and-their-history.md)
+- [Rooting for sport teams is stupid](rooting-for-sport-teams-is-stupid.md)
+- [Saint Seiya](saint-seiya.md)
+- [Santos, São Paulo, Brazil](santos-sao-paulo-brazil.md)
+- [São Remo, the favela next to USP](sao-remo-the-favela-next-to-usp.md)
+- [Surely You're Joking, Mr. Feynman chapter O Americano, Outra Vez!](surely-you-re-joking-mr-feynman-chapter-o-americano-outra-vez.md)
+- [The best modern sung Western music of all time](the-best-modern-sung-western-music-of-all-time.md)
+- [The best popular Brazilian music (MPB) of all time](the-best-popular-brazilian-music-mpb-of-all-time.md)
+- [University entry quotas](university-entry-quotas.md)
+- [What poor countries have to do to get richer](what-poor-countries-have-to-do-to-get-richer-split.md)
+- [Allow your citizens to have double citizenship](what-poor-countries-have-to-do-to-get-richer/allow-your-citizens-to-have-double-citizenship.md)
+- [Don't force international exchange students to come back early](what-poor-countries-have-to-do-to-get-richer/exchange-students.md)
+- [Pick few good bets and invest enough on them](what-poor-countries-have-to-do-to-get-richer/pick-few-good-bets.md)

@@ -1,0 +1,67 @@
+# How to use an Oxford Nanopore MinION to extract DNA from river water and determine which bacteria live in it
+
+↑ **Parent:** [Oxford Nanopore MinION](oxford-nanopore-minion.md)  
+🏷️ **Tags:** [The best articles by Ciro Santilli](articles-split.md), [DNA sequencing](dna-sequencing.md), [Metagenomics](metagenomics.md), [Polymerase chain reaction](polymerase-chain-reaction.md)
+
+<a id="_5"></a>
+This article gives an idea of how this kind of biological experiment feels like to a [software engineer](software-engineer.md) who has never done any [biology](biology-split.md) like [Ciro Santilli](ciro-santilli-split.md).
+
+**Table of contents**
+
+- [Experiment background](oxford-nanopore-river-bacteria/experiment-background.md)
+- [Overview of the experiment](oxford-nanopore-river-bacteria/overview-of-the-experiment.md)
+  - [Why Oxford Nanopore was used instead of Illumina for the sequencing](oxford-nanopore-river-bacteria/why-oxford-nanopore-was-used-instead-of-illumina-for-the-sequencing.md)
+- [Sample collection](oxford-nanopore-river-bacteria/sample-collection.md)
+- [DNA extraction](oxford-nanopore-river-bacteria/dna-extraction.md)
+  - [Filtration with vacuum pump](oxford-nanopore-river-bacteria/filtration-with-vacuum-pump.md)
+  - [Post filtration purification](oxford-nanopore-river-bacteria/post-filtration-purification.md)
+- [PCR](oxford-nanopore-river-bacteria/pcr.md)
+  - [PCR verification with gel electrophoresis](oxford-nanopore-river-bacteria/pcr-verification-with-gel-electrophoresis.md)
+- [Sequencing](oxford-nanopore-river-bacteria/sequencing.md)
+  - [Pre-sequencing preparation](oxford-nanopore-river-bacteria/pre-sequencing-preparation.md)
+  - [Using the Oxford Nanopore](oxford-nanopore-river-bacteria/using-the-oxford-nanopore.md)
+- [Bioinformatics](oxford-nanopore-river-bacteria/bioinformatics.md)
+- [Conclusions](oxford-nanopore-river-bacteria/conclusions.md)
+- [Protocols used](oxford-nanopore-river-bacteria/protocols-used.md)
+  - [Qiagen DNeasy PowerWater Kit](oxford-nanopore-river-bacteria/qiagen-dneasy-powerwater-kit.md)
+  - [Qiagen QIAquick PCR Purification Kit](oxford-nanopore-river-bacteria/qiagen-qiaquick-pcr-purification-kit.md)
+  - [Oxford Nanopore SQK-LSK109 Ligation Sequencing Kit](oxford-nanopore-river-bacteria/oxford-nanopore-sqk-lsk109-ligation-sequencing-kit.md)
+- [Equipment used](oxford-nanopore-river-bacteria/equipment-used.md)
+  - [Thermo Scientific Nalgene Polysulfone Reusable Bottle Top Filters](oxford-nanopore-river-bacteria/thermo-scientific-nalgene-polysulfone-reusable-bottle-top-filters.md)
+  - [KNF Laboport series laboratory vacuum pump](oxford-nanopore-river-bacteria/knf-laboport-series-laboratory-vacuum-pump.md)
+  - [Scientific Industries Inc. Vortex-Genie 2](oxford-nanopore-river-bacteria/scientific-industries-inc-vortex-genie-2.md)
+  - [VWR Micro Star 17 microcentrifuge](oxford-nanopore-river-bacteria/vwr-micro-star-17-microcentrifuge.md)
+  - [VELP Scientifica WIZARD IR Infrared Vortex Mixer](oxford-nanopore-river-bacteria/velp-scientifica-wizard-ir-infrared-vortex-mixer.md)
+  - [Marshal Scientific MJ Research PTC-200 Thermal Cycler](oxford-nanopore-river-bacteria/marshal-scientific-mj-research-ptc-200-thermal-cycler.md)
+  - [GE MagRack 6](oxford-nanopore-river-bacteria/ge-magrack-6.md)
+  - [BTLab Systems Mini Centrifuge](oxford-nanopore-river-bacteria/btlab-systems-mini-centrifuge.md)
+  - [Fisher Scientific UVP LM-26E Benchtop 2UV Transilluminator](oxford-nanopore-river-bacteria/fisher-scientific-uvp-lm-26e-benchtop-2uv-transilluminator.md)
+  - [Biochrom SimpliNano spectrophotometer](oxford-nanopore-river-bacteria/biochrom-simplinano-spectrophotometer.md)
+- [External links to this page](oxford-nanopore-river-bacteria/external-links-to-this-page.md)
+
+## ↑ Ancestors (12)
+
+1. [Oxford Nanopore MinION](oxford-nanopore-minion.md)
+2. [Oxford Nanopore Technologies product](oxford-nanopore-technologies-product.md)
+3. [Oxford Nanopore Technologies](oxford-nanopore-technologies.md)
+4. [DNA sequencing company](dna-sequencing-company.md)
+5. [DNA sequencing](dna-sequencing.md)
+6. [DNA](dna-split.md)
+7. [Molecular biology](molecular-biology-split.md)
+8. [Level of organization of bodies](level-of-organization-of-bodies.md)
+9. [Biology](biology-split.md)
+10. [Natural science](natural-science.md)
+11. [Science](science-split.md)
+12. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (9)
+
+- [Ciro Santilli's Homepage](split.md)
+- [The best articles by Ciro Santilli](articles-split.md)
+- [Ciro Santilli](ciro-santilli-split.md)
+- [Exams and homework are useless, only projects matter](how-to-teach/exams-and-homework-are-useless-only-projects-matter.md)
+- [Metagenomics](metagenomics.md)
+- [Oxford Nanopore MinION](oxford-nanopore-minion.md)
+- [Polymerase chain reaction](polymerase-chain-reaction.md)
+- [Sponsor Ciro Santilli's work on OurBigBook.com](sponsor-split.md)
+- [Videos of all key physics experiments](videos-of-all-key-physics-experiments.md)

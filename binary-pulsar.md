@@ -1,0 +1,17 @@
+# Binary pulsar
+
+↑ **Parent:** [Pulsar](pulsar.md)  
+🏷️ **Tags:** [Binary star](binary-star.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Binary_pulsar)
+
+## ↑ Ancestors (9)
+
+1. [Pulsar](pulsar.md)
+2. [Neutron star](neutron-star.md)
+3. [Stellar classification](stellar-classification.md)
+4. [Star](star.md)
+5. [Astronomical object](astronomical-object.md)
+6. [Astronomy](astronomy-split.md)
+7. [Natural science](natural-science.md)
+8. [Science](science-split.md)
+9. [Ciro Santilli's Homepage](split.md)

@@ -1,0 +1,20 @@
+# Zephyr hello world example
+
+↑ **Parent:** [Zephyr official example](zephyr-official-example.md)
+
+Uses `printf` to print some bytes somewhere, usually the first [UART](universal-asynchronous-receiver-transmitter.md) of the board.
+
+## ↑ Ancestors (12)
+
+1. [Zephyr official example](zephyr-official-example.md)
+2. [Zephyr example](zephyr-example.md)
+3. [Zephyr (operating system)](zephyr-operating-system.md)
+4. [Embedded operating system](embedded-operating-system.md)
+5. [Operating system](operating-system.md)
+6. [Systems programming](systems-programming-split.md)
+7. [Software](software-split.md)
+8. [Computer](computer-split.md)
+9. [Information technology](information-technology.md)
+10. [Area of technology](area-of-technology.md)
+11. [Technology](technology-split.md)
+12. [Ciro Santilli's Homepage](split.md)
