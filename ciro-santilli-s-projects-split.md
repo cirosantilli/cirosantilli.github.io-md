@@ -1,0 +1,72 @@
+# Ciro Santilli's projects
+
+↑ **Parent:** [Ciro Santilli](ciro-santilli-split.md)
+
+Major projects can be seen at: [Section "The most important projects done by Ciro Santilli"](the-most-important-projects-done-by-ciro-santilli-split.md).
+
+A summary of minor projects is given at: [Ciro Santilli's minor projects](ciro-santilli-s-minor-projects.md).
+
+This section is a dump for anything else, to keep those sacred first sections that show on the top of the homepage clean.
+
+**Table of contents**
+
+- [OurBigBook](ourbigbook.md)
+  - [OurBigBook Markup](ourbigbook-markup.md)
+  - [OurBigBook CLI](ourbigbook-cli.md)
+  - [OurBigBook Library](ourbigbook-library.md)
+  - [OurBigBook Web](ourbigbook-web.md)
+    - [OurBigBook.com](ourbigbook-com.md)
+      - [How the website works](ourbigbook-com.md#how-the-website-works)
+      - [Alternatives](ourbigbook-com.md#alternatives)
+        - [Wikipedia](ourbigbook-com.md#wikipedia)
+        - [Stack Exchange](ourbigbook-com.md#stack-exchange)
+        - [Blogs](ourbigbook-com.md#blogs)
+        - [University lecture notes](ourbigbook-com.md#university-lecture-notes)
+          - [How to convince teachers to use CC BY-SA](ourbigbook-com.md#how-to-convince-teachers-to-use-cc-by-sa)
+        - [Existing data sources](ourbigbook-com.md#existing-data-sources)
+        - [Personal knowledge base software](ourbigbook-com.md#personal-knowledge-base-software)
+        - [Knowledge graph editors](ourbigbook-com.md#knowledge-graph-editors)
+        - [Learning management systems](ourbigbook-com.md#learning-management-systems)
+        - [GitHub](ourbigbook-com.md#github)
+        - [Other projects](ourbigbook-com.md#other-projects)
+      - [Action plan](ourbigbook-com.md#action-plan)
+      - [Philosophy](ourbigbook-com.md#philosophy)
+        - [Desired social impact](ourbigbook-com.md#desired-social-impact)
+        - [Motivation](ourbigbook-com.md#motivation)
+        - [Manifesto](ourbigbook-com.md#manifesto)
+      - [Feature ideas](ourbigbook-com.md#feature-ideas)
+        - [PageRank-like ranking](ourbigbook-com.md#pagerank-like-ranking)
+      - [User acquisition](ourbigbook-com.md#user-acquisition)
+      - [Funding](ourbigbook-com.md#funding)
+        - [Why it is hard to make money from this website](ourbigbook-com.md#why-it-is-hard-to-make-money-from-this-website)
+        - [Crowdfunding](ourbigbook-com.md#crowdfunding)
+        - [Charitable grant opportunities](ourbigbook-com.md#charitable-grant-opportunities)
+        - [Consulting](ourbigbook-com.md#consulting)
+        - [Knowledge market](ourbigbook-com.md#knowledge-market)
+        - [Advertisement](ourbigbook-com.md#advertisement)
+        - [Association with innovative schools](ourbigbook-com.md#association-with-innovative-schools)
+        - [Venture capital](ourbigbook-com.md#venture-capital)
+  - [OurBigBook feature](ourbigbook-feature.md)
+    - [OurBigBook topic feature](ourbigbook-topic-feature.md)
+    - [OurBigBook dynamic tree](ourbigbook-dynamic-tree.md)
+- [x86 bare metal examples](x86-bare-metal-examples-split.md)
+- [Ciro Santilli's naughty projects](ciro-santilli-s-naughty-projects.md)
+  - [All GitHub Commit Emails](all-github-commit-emails.md)
+  - [Facebook profile face dump](facebook-profile-face-dump.md)
+- [Ciro Santilli's data projects](ciro-santilli-s-data-projects.md)
+  - [Wikipedia CatTree](wikipedia-cattree-split.md)
+- [Ciro Santilli's open source contributions](ciro-santilli-s-open-source-contributions.md)
+  - [Size scale](ciro-santilli-s-open-source-contributions.md#size-scale)
+  - [Patches](ciro-santilli-s-open-source-contributions.md#patches)
+    - [Merged by others](ciro-santilli-s-open-source-contributions.md#merged-by-others)
+    - [Merged by Ciro](ciro-santilli-s-open-source-contributions.md#merged-by-ciro)
+  - [Bug reports and feature requests](ciro-santilli-s-open-source-contributions.md#bug-reports-and-feature-requests)
+    - [Closed source](ciro-santilli-s-open-source-contributions.md#closed-source)
+    - [Open source](ciro-santilli-s-open-source-contributions.md#open-source)
+    - [Not verified](ciro-santilli-s-open-source-contributions.md#not-verified)
+  - [Security](ciro-santilli-s-open-source-contributions.md#security)
+
+## ↑ Ancestors (2)
+
+1. [Ciro Santilli](ciro-santilli-split.md)
+2. [Ciro Santilli's Homepage](split.md)

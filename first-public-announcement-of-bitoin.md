@@ -1,0 +1,25 @@
+# First public announcement of Bitoin
+
+↑ **Parent:** [Satoshi Nakamoto](satoshi-nakamoto.md)
+
+[https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)
+
+## ↑ Ancestors (13)
+
+1. [Satoshi Nakamoto](satoshi-nakamoto.md)
+2. [Bitcoin developer](bitcoin-developer.md)
+3. [Bitcoin person](bitcoin-person.md)
+4. [Bitcoin community](bitcoin-community.md)
+5. [Bitcoin](bitcoin.md)
+6. [List of cryptocurrencies](list-of-cryptocurrencies.md)
+7. [Cryptocurrency](cryptocurrency-split.md)
+8. [Blockchain](blockchain.md)
+9. [Money](money.md)
+10. [Social technology](social-technology-split.md)
+11. [Area of technology](area-of-technology.md)
+12. [Technology](technology-split.md)
+13. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [satoshi@vistomail.com](satoshi-at-vistomail-com.md)

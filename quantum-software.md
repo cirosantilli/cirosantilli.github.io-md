@@ -1,0 +1,50 @@
+# Quantum software
+
+↑ **Parent:** [Quantum computing](quantum-computing-split.md)
+
+**Table of contents**
+
+- [Quantum programming framework](quantum-programming-framework.md)
+  - [Cirq](cirq.md)
+  - [PennyLane](pennylane.md)
+  - [Qiskit](qiskit.md)
+    - [Qiskit example](qiskit-example.md)
+      - [Qiskit hello world](qiskit-hello-world.md)
+        - [qiskit/hello.py](_file/qiskit/hello.py.md)
+      - [qiskit/initialize.py](qiskit-initialize-py.md)
+      - [qiskit/qft.py](_file/qiskit/qft.py.md)
+    - [Qiskit component](qiskit-component.md)
+      - [`qiskit.transpile()`](qiskit-transpile.md)
+      - [Qiskit Aer](qiskit-aer.md)
+        - [AerError: 'unknown instruction](aererror-unknown-instruction.md)
+- [Quantum circuit description language](quantum-circuit-description-language.md)
+- [OpenQASM](openqasm.md)
+- [Quantum control system](quantum-control-system.md)
+  - [Quantum control systems use FPGAs](quantum-control-systems-use-fpgas.md)
+  - [Organization developing quantum control systems](organization-developing-quantum-control-systems.md)
+    - [ParityQC](parityqc.md)
+    - [Q-CTRL](q-ctrl.md)
+    - [QuantrolOx](quantrolox.md)
+    - [Quantum Machines](quantum-machines.md)
+    - [M-Labs](m-labs.md)
+      - [ARTIQ](artiq.md)
+        - [Duke ARTIQ extensions](duke-artiq-extensions.md)
+    - [Riverlane](riverlane.md)
+      - [Deltaflow.OS](deltaflow-os.md)
+    - [Zurich Instruments](zurich-instruments.md)
+  - [List of quantum control systems](list-of-quantum-control-systems.md)
+    - [Pulser (quantum control)](pulser-quantum-control.md)
+
+## ↑ Ancestors (7)
+
+1. [Quantum computing](quantum-computing-split.md)
+2. [Quantum information](quantum-information.md)
+3. [Information](information.md)
+4. [Information technology](information-technology.md)
+5. [Area of technology](area-of-technology.md)
+6. [Technology](technology-split.md)
+7. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Quantinuum](quantinuum.md)

@@ -1,0 +1,35 @@
+# River Cherwell
+
+↑ **Parent:** [Oxford](oxford.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/River_Cherwell)
+
+## ↑ Ancestors (24)
+
+1. [Oxford](oxford.md)
+2. [Oxfordshire](oxfordshire.md)
+3. [County in South East England](county-in-south-east-england.md)
+4. [South East England](south-east-england.md)
+5. [Regions of England](regions-of-england.md)
+6. [Geographical division of the United Kingdom](geographical-division-of-the-united-kingdom.md)
+7. [United Kingdom](united-kingdom-split.md)
+8. [Country in Europe](country-in-europe.md)
+9. [Europe](europe.md)
+10. [List of continents](list-of-continents.md)
+11. [Continent](continent-split.md)
+12. [Earth](earth.md)
+13. [Planet in the Solar System](planet-in-the-solar-system.md)
+14. [Solar System](solar-system.md)
+15. [Orion Arm](orion-arm.md)
+16. [Arm of the Milky Way](arm-of-the-milky-way.md)
+17. [Milky Way](milky-way.md)
+18. [Local group](local-group.md)
+19. [Virgo Supercluster](virgo-supercluster.md)
+20. [Universe](universe.md)
+21. [Astronomy](astronomy-split.md)
+22. [Natural science](natural-science.md)
+23. [Science](science-split.md)
+24. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Oxford](oxford.md)

@@ -1,0 +1,62 @@
+# Executable and Linkable Format
+
+↑ **Parent:** [Executable file format](executable-file-format.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+
+For a quick and dirty introduction to the format, see: [ELF Hello World Tutorial](elf-hello-world-split.md).
+
+**Table of contents**
+
+- [ELF Hello World Tutorial](elf-hello-world.md)
+  - [Introduction](elf-hello-world.md#introduction)
+    - [Standards](elf-hello-world.md#standards)
+    - [How to learn](elf-hello-world.md#how-to-learn)
+    - [Specified file formats](elf-hello-world.md#specified-file-formats)
+    - [Implementations](elf-hello-world.md#implementations)
+  - [Minimal ELF file](elf-hello-world.md#minimal-elf-file)
+  - [Generate the example](elf-hello-world.md#generate-the-example)
+  - [Object hd](elf-hello-world.md#object-hd)
+  - [Executable hd](elf-hello-world.md#executable-hd)
+  - [Global file structure](elf-hello-world.md#global-file-structure)
+  - [Section vs segment](elf-hello-world.md#section-vs-segment)
+  - [ELF header](elf-hello-world.md#elf-header)
+  - [Section header table](elf-hello-world.md#section-header-table)
+  - [Sections](elf-hello-world.md#sections)
+    - [Index 0 section](elf-hello-world.md#index-0-section)
+      - [`SHT_NULL`](elf-hello-world.md#sht-null)
+    - [`.data` section](elf-hello-world.md#data-section)
+    - [`.text` section](elf-hello-world.md#text-section)
+    - [`SHT_STRTAB`](elf-hello-world.md#sht-strtab)
+    - [`.shstrtab`](elf-hello-world.md#shstrtab)
+    - [`.symtab`](elf-hello-world.md#symtab)
+      - [`STT_FILE`](elf-hello-world.md#stt-file)
+      - [`STT_SECTION`](elf-hello-world.md#stt-section)
+      - [`STT_NOTYPE`](elf-hello-world.md#stt-notype)
+        - [`SHN_ABS`](elf-hello-world.md#shn-abs)
+      - [`SHT_SYMTAB` on the executable](elf-hello-world.md#sht-symtab-on-the-executable)
+    - [`.strtab`](elf-hello-world.md#strtab)
+    - [`.rela.text`](elf-hello-world.md#rela-text)
+      - [`.rel.text`](elf-hello-world.md#rel-text)
+    - [Dynamic linking sections](elf-hello-world.md#dynamic-linking-sections)
+      - [`PT_INTERP`](elf-hello-world.md#pt-interp)
+      - [Dynamic section](elf-hello-world.md#dynamic-section)
+        - [`DT_FLAGS_1`](elf-hello-world.md#dt-flags-1)
+          - [`DF_1_PIE`](elf-hello-world.md#df-1-pie)
+  - [Program header table](elf-hello-world.md#program-header-table)
+  - [Backlinks](elf-hello-world.md#backlinks)
+
+## ↑ Ancestors (8)
+
+1. [Executable file format](executable-file-format.md)
+2. [Systems programming](systems-programming-split.md)
+3. [Software](software-split.md)
+4. [Computer](computer-split.md)
+5. [Information technology](information-technology.md)
+6. [Area of technology](area-of-technology.md)
+7. [Technology](technology-split.md)
+8. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (2)
+
+- [ELF Hello World Tutorial](elf-hello-world-split.md)
+- [How computers work?](how-computers-work.md)

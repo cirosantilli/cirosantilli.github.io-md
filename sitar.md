@@ -1,0 +1,41 @@
+# Sitar
+
+↑ **Parent:** [Classical Indian musical instrument](classical-indian-musical-instrument.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Sitar)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sitar_full.jpg/330px-Sitar_full.jpg)
+
+**[Figure 7](#_55)** [Source](https://commons.wikimedia.org/wiki/File:Sitar_full.jpg).
+
+**Table of contents**
+
+- [Sitar player](sitar-player.md)
+  - [Ravi Shankar](ravi-shankar.md)
+
+## ↑ Ancestors (21)
+
+1. [Classical Indian musical instrument](classical-indian-musical-instrument.md)
+2. [Indian classical music](indian-classical-music.md)
+3. [India](india.md)
+4. [Country in South Asia](country-in-south-asia.md)
+5. [South Asia](south-asia.md)
+6. [Asia](asia.md)
+7. [List of continents](list-of-continents.md)
+8. [Continent](continent-split.md)
+9. [Earth](earth.md)
+10. [Planet in the Solar System](planet-in-the-solar-system.md)
+11. [Solar System](solar-system.md)
+12. [Orion Arm](orion-arm.md)
+13. [Arm of the Milky Way](arm-of-the-milky-way.md)
+14. [Milky Way](milky-way.md)
+15. [Local group](local-group.md)
+16. [Virgo Supercluster](virgo-supercluster.md)
+17. [Universe](universe.md)
+18. [Astronomy](astronomy-split.md)
+19. [Natural science](natural-science.md)
+20. [Science](science-split.md)
+21. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Puriya](puriya.md)

@@ -1,0 +1,52 @@
+# RNA
+
+↑ **Parent:** [DNA](dna-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/RNA)
+
+**Table of contents**
+
+- [Messenger RNA](messenger-rna.md)
+  - [Alternative splicing](alternative-splicing.md)
+- [RNA secondary structure](rna-secondary-structure.md)
+  - [RNA half-life prediction](rna-half-life-prediction.md)
+- [Transcription (biology)](transcription-biology.md)
+  - [Post-transcriptional modification](post-transcriptional-modification.md)
+  - [Promoter (genetics)](promoter-genetics.md)
+    - [Transcriptional regulation](transcriptional-regulation.md)
+  - [RNA polymerase](rna-polymerase.md)
+    - [RNA-dependent RNA polymerase](rna-dependent-rna-polymerase.md)
+  - [Operon](operon.md)
+    - [Transcription unit](transcription-unit.md)
+    - [Operon vs transcription unit](operon-vs-transcription-unit.md)
+    - [Polycistronic mRNA](polycistronic-mrna.md)
+  - [Transcription factor](transcription-factor.md)
+    - [Intrinsic termination](intrinsic-termination.md)
+- [Type of RNA](type-of-rna.md)
+
+## ↑ Ancestors (7)
+
+1. [DNA](dna-split.md)
+2. [Molecular biology](molecular-biology-split.md)
+3. [Level of organization of bodies](level-of-organization-of-bodies.md)
+4. [Biology](biology-split.md)
+5. [Natural science](natural-science.md)
+6. [Science](science-split.md)
+7. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (15)
+
+- [E. Coli K-12 MG1655 gene thrL](e-coli-k-12-mg1655-gene-thrl.md)
+- [Source code overview](e-coli-whole-cell-model-by-covert-lab/source-code-overview.md)
+- [Half-life](half-life.md)
+- [Overview of the experiment](oxford-nanopore-river-bacteria/overview-of-the-experiment.md)
+- [Physics and the illusion of life](physics-and-the-illusion-of-life.md)
+- [Positive-strand RNA virus](positive-strand-rna-virus.md)
+- [Protein degradation](protein-degradation.md)
+- [Retrovirus](retrovirus.md)
+- [Reverse transcriptase](reverse-transcriptase.md)
+- [RNA-dependent RNA polymerase](rna-dependent-rna-polymerase.md)
+- [RNA polymerase](rna-polymerase.md)
+- [RNA-Seq](rna-seq.md)
+- [SARS-CoV-2 S protein](sars-cov-2-s-protein.md)
+- [Sonicator](sonicator.md)
+- [Uracil](uracil.md)

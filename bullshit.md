@@ -1,0 +1,35 @@
+# Bullshit
+
+↑ **Parent:** [Feces](feces.md)
+
+## ↑ Ancestors (9)
+
+1. [Feces](feces.md)
+2. [Excretion](excretion.md)
+3. [Metabolism](metabolism.md)
+4. [Molecular biology](molecular-biology-split.md)
+5. [Level of organization of bodies](level-of-organization-of-bodies.md)
+6. [Biology](biology-split.md)
+7. [Natural science](natural-science.md)
+8. [Science](science-split.md)
+9. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (17)
+
+- [Aaron Swartz](aaron-swartz.md)
+- [Are cryptocurrencies useful?](are-cryptocurrencies-useful.md)
+- [BioCyc](biocyc.md)
+- [Ciro's 2D reinforcement learning games](ciro-s-2d-reinforcement-learning-games.md)
+- [Ciro Santilli's self perceived creative personality](ciro-santilli-s-self-perceived-creative-personality.md)
+- [Closed standard](closed-standard.md)
+- [Codaisseur/feathersjs-react-redux-ssr](codaisseur-feathersjs-react-redux-ssr.md)
+- [Do one cool thing every day](do-one-cool-thing-every-day.md)
+- [Education is broken](education-is-broken.md)
+- [Euphemism](euphemism.md)
+- [Evil](evil.md)
+- [Having more than one natural language is bad for the world](having-more-than-one-natural-language-is-bad-for-the-world.md)
+- [Lenovo](lenovo.md)
+- [Magic: The Gathering](magic-the-gathering-split.md)
+- [Programming language](programming-language-split.md)
+- [Reptile](reptile.md)
+- [United States](united-states-split.md)

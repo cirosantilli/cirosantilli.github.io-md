@@ -1,0 +1,42 @@
+# Networking hardware
+
+↑ **Parent:** [Computer network](computer-network.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Networking_hardware)
+
+**Table of contents**
+
+- [Network interface controller](network-interface-controller.md)
+  - [SmartNIC](smartnic.md)
+- [Router (computing)](router-computing.md)
+  - [Modem router](modem-router.md)
+    - [TP-Link](tp-link.md)
+      - [TP-Link Archer VR2800 router allow external access to the network](tp-link-archer-vr2800-router-allow-external-access-to-the-network.md)
+      - [TP-Link Archer VR2800 router Virgin Media Hub 3.0 Wifi setup](tp-link-archer-vr2800-router-virgin-media-hub-3-0-wifi-setup.md)
+- [Network switch](network-switch.md)
+- [Networking hardware company](networking-hardware-company.md)
+  - [Cisco](cisco.md)
+    - [Making the Cisco connection](making-the-cisco-connection.md)
+    - [Sandy Lerner](sandy-lerner.md)
+      - [Sandy Lerner nude photo](sandy-lerner-nude-photo.md)
+- [Server (computing)](server-computing.md)
+  - [Test server](test-server.md)
+    - [Ciro's `nc` HTTP test server](ciro-s-nc-http-test-server.md)
+  - [Node (server)](node-server.md)
+  - [CPUs per node and nodes per server (server)](cpus-per-node-and-nodes-per-server-server.md)
+  - [Server form factor](server-form-factor.md)
+    - [Rack server](rack-server.md)
+      - [19-inch rack](19-inch-rack.md)
+      - [Rack unit](rack-unit.md)
+    - [Blade server](blade-server.md)
+  - [Data center](data-center.md)
+  - [Local server](local-server.md)
+  - [Client (computing)](client-computing.md)
+
+## ↑ Ancestors (6)
+
+1. [Computer network](computer-network.md)
+2. [Computer](computer-split.md)
+3. [Information technology](information-technology.md)
+4. [Area of technology](area-of-technology.md)
+5. [Technology](technology-split.md)
+6. [Ciro Santilli's Homepage](split.md)

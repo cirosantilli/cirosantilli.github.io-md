@@ -1,0 +1,17 @@
+# Virtual Fly Brain
+
+↑ **Parent:** [Drosophila connectome](drosophila-connectome.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Virtual_Fly_Brain)
+
+## ↑ Ancestors (10)
+
+1. [Drosophila connectome](drosophila-connectome.md)
+2. [Drosophila brain](drosophila-brain.md)
+3. [Brain by species](brain-by-species.md)
+4. [Brain](brain-split.md)
+5. [Organ (anatomy)](organ-anatomy.md)
+6. [Level of organization of bodies](level-of-organization-of-bodies.md)
+7. [Biology](biology-split.md)
+8. [Natural science](natural-science.md)
+9. [Science](science-split.md)
+10. [Ciro Santilli's Homepage](split.md)

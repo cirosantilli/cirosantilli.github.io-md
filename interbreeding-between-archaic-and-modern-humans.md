@@ -1,0 +1,52 @@
+# Interbreeding between archaic and modern humans
+
+↑ **Parent:** [Human evolution](human-evolution.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans)
+
+<a id="video-when-we-met-other-human-species-by-pbs-eons-2019"></a>
+**[Video 2](#video-when-we-met-other-human-species-by-pbs-eons-2019). When We Met Other Human Species by PBS Eons (2019)** [Source](https://www.youtube.com/watch?v=jdYwMLSNHnU).
+
+## ↑ Ancestors (38)
+
+1. [Human evolution](human-evolution.md)
+2. [Human](human-split.md)
+3. [Australopithecine](australopithecine.md)
+4. [Ape subclade](ape-subclade.md)
+5. [Ape](ape.md)
+6. [Simian subclade](simian-subclade.md)
+7. [Simian](simian.md)
+8. [Primate subclade](primate-subclade.md)
+9. [Primate](primate.md)
+10. [Euarchontoglires subclade](euarchontoglires-subclade.md)
+11. [Euarchontoglires](euarchontoglires.md)
+12. [Placentalia subclade](placentalia-subclade.md)
+13. [Placentalia](placentalia.md)
+14. [Theria subclade](theria-subclade.md)
+15. [Theria](theria.md)
+16. [Mammal subclade](mammal-subclade.md)
+17. [Mammal](mammal.md)
+18. [Synapsid subclade](synapsid-subclade.md)
+19. [Synapsid](synapsid.md)
+20. [Amniote subclade](amniote-subclade.md)
+21. [Amniote](amniote.md)
+22. [Tetrapod subclade](tetrapod-subclade.md)
+23. [Tetrapod](tetrapod.md)
+24. [Fish subclade](fish-subclade.md)
+25. [Fish](fish.md)
+26. [Vertebrate](vertebrate.md)
+27. [Chordate subclade](chordate-subclade.md)
+28. [Chordate](chordate.md)
+29. [Animal subclade](animal-subclade.md)
+30. [Animal](animal.md)
+31. [Eukarya subclade](eukarya-subclade.md)
+32. [Eukaryote](eukaryote.md)
+33. [Species](species.md)
+34. [Taxonomy](taxonomy-split.md)
+35. [Biology](biology-split.md)
+36. [Natural science](natural-science.md)
+37. [Science](science-split.md)
+38. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Australopithecine](australopithecine.md)

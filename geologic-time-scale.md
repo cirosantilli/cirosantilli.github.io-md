@@ -1,0 +1,46 @@
+# Geologic time scale
+
+↑ **Parent:** [Earth science](earth-science.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Geologic_time_scale)
+
+Good list: [https://en.wikipedia.org/wiki/Geologic_time_scale#Terminology](https://en.wikipedia.org/wiki/Geologic_time_scale#Terminology)
+
+**Table of contents**
+
+- [Age of Earth](age-of-earth.md)
+- [Extinction event](extinction-event.md)
+  - [Cretaceous-Paleogene extinction event](cretaceous-paleogene-extinction-event.md)
+  - [Permian-Triassic extinction event](permian-triassic-extinction-event.md)
+  - [Great Oxidation Event](great-oxidation-event.md)
+- [Geologic time scale hierarchy](geologic-time-scale-hierarchy.md)
+  - [Eon](eon.md)
+    - [Phanerozoic](phanerozoic.md)
+      - [Cenozoic](cenozoic.md)
+        - [Paleolithic](paleolithic.md)
+        - [Quaternary](quaternary.md)
+          - [Holocene](holocene.md)
+          - [Pleistocene](pleistocene.md)
+      - [Mesozoic](mesozoic.md)
+      - [Paleozoic](paleozoic.md)
+    - [Proterozoic](proterozoic.md)
+    - [Archean](archean.md)
+    - [Hadean](hadean.md)
+  - [Era](era.md)
+  - [Period (geology)](period-geology.md)
+
+## ↑ Ancestors (14)
+
+1. [Earth science](earth-science.md)
+2. [Earth](earth.md)
+3. [Planet in the Solar System](planet-in-the-solar-system.md)
+4. [Solar System](solar-system.md)
+5. [Orion Arm](orion-arm.md)
+6. [Arm of the Milky Way](arm-of-the-milky-way.md)
+7. [Milky Way](milky-way.md)
+8. [Local group](local-group.md)
+9. [Virgo Supercluster](virgo-supercluster.md)
+10. [Universe](universe.md)
+11. [Astronomy](astronomy-split.md)
+12. [Natural science](natural-science.md)
+13. [Science](science-split.md)
+14. [Ciro Santilli's Homepage](split.md)

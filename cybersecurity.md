@@ -1,0 +1,52 @@
+# Cybersecurity
+
+↑ **Parent:** [Computer](computer-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Cybersecurity)
+
+**Table of contents**
+
+- [Attack surface](attack-surface.md)
+- [Authentication](authentication.md)
+- [Fingerprinting (cybersecurity)](fingerprinting-cybersecurity.md)
+  - [IP stack fingerprinting](ip-stack-fingerprinting.md)
+- [Security hacker](security-hacker.md)
+  - [Hacker group](hacker-group.md)
+    - [Boitatech](boitatech.md)
+      - [Aratu Week](aratu-week.md)
+      - [Aratu Week IV](aratu-week-iv.md)
+- [Capture the flag (cybersecurity)](capture-the-flag-cybersecurity.md)
+- [Cybercrime](cybercrime.md)
+  - [Botnet](botnet.md)
+  - [Darknet market](darknet-market.md)
+    - [Silk Road (marketplace)](silk-road-marketplace.md)
+      - [History of Silk Road](history-of-silk-road.md)
+        - [The Underground Website Where You Can Buy Any Drug Imaginable by Adrian Chen](the-underground-website-where-you-can-buy-any-drug-imaginable-by-adrian-chen.md)
+      - [Silk Road bibliography](silk-road-bibliography.md)
+        - [Silk Road Tales and Archives by moustache](silk-road-tales-and-archives-by-moustache.md)
+        - [Silk Road 1: Theory & Practice by Gwern Branwen](silk-road-1-theory-and-practice-by-gwern-branwen.md)
+        - [Silk Road (film)](silk-road-film.md)
+        - [The spectacular comeback tour of Ross Ulbricht ](the-spectacular-comeback-tour-of-ross-ulbricht.md)
+      - [Ross Ulbricht](ross-ulbricht.md)
+        - [Person related to Ross Ulbricht](person-related-to-ross-ulbricht.md)
+          - [Julia Vie](julia-vie.md)
+          - [Richard Bates (Silk Road advisor and Ross' friend)](richard-bates-silk-road-advisor-and-ross-friend.md)
+          - [Caroline Ulbricht](caroline-ulbricht.md)
+      - [Person related to Silk Road](person-related-to-silk-road.md)
+        - [Silk Road employee](silk-road-employee.md)
+          - [Smedley](smedley.md)
+          - [Variety Jones](variety-jones.md)
+        - [Silk Road investigator](silk-road-investigator.md)
+          - [Carl Mark Force](carl-mark-force.md)
+          - [Shaun Bridges](shaun-bridges.md)
+
+## ↑ Ancestors (5)
+
+1. [Computer](computer-split.md)
+2. [Information technology](information-technology.md)
+3. [Area of technology](area-of-technology.md)
+4. [Technology](technology-split.md)
+5. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [ASCII art](cool-data-embedded-in-the-bitcoin-blockchain/ascii-art.md)

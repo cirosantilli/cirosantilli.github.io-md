@@ -1,0 +1,5778 @@
+# Science
+
+↑ **Parent:** [Ciro Santilli's Homepage](README.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Science)
+
+**Table of contents**
+
+- [Philosophy of Science](#philosophy-of-science)
+  - [Reproducibility](#reproducibility)
+    - [Replication crisis](#replication-crisis)
+      - [Journals must require source code and data sets to publish](#journals-must-require-source-code-and-data-sets-to-publish)
+        - [Big companies manage to publish white papers in peer reviewed journals](#big-companies-manage-to-publish-white-papers-in-peer-reviewed-journals)
+        - [Papers With Code](#papers-with-code)
+          - [Paper without code](#paper-without-code)
+  - [Never trust an experiment that is not supported by a good theory](#never-trust-an-experiment-that-is-not-supported-by-a-good-theory)
+  - [Physics and the illusion of life](#physics-and-the-illusion-of-life)
+    - [Animation of molecular biology processes](#animation-of-molecular-biology-processes)
+      - [XVIVO Scientific Animation](#xvivo-scientific-animation)
+      - [Art of the cell](#art-of-the-cell)
+      - [HybridMedical](#hybridmedical)
+      - [How to make animations of molecular biology processes](#how-to-make-animations-of-molecular-biology-processes)
+      - [David Goodsell](#david-goodsell)
+      - [Clarafi](#clarafi)
+    - [Alan Watts controlled dream of life talk](#alan-watts-controlled-dream-of-life-talk)
+    - [Rick and Morty A Life Well Lived](#rick-and-morty-a-life-well-lived)
+  - [Reductionism](#reductionism)
+    - [First principle](#first-principle)
+      - [From first principles](#from-first-principles)
+      - [Empirical formula](#empirical-formula)
+    - [Emergence](#emergence)
+- [Natural science](#natural-science)
+  - [Physics](physics.md)
+    - [How to teach and learn physics](physics.md#how-to-teach-and-learn-physics)
+      - [Physics education needs more focus on understanding experiments and their history](physics.md#physics-education-needs-more-focus-on-understanding-experiments-and-their-history)
+        - [There is value in tutorials written by early pioneers of the field](physics.md#there-is-value-in-tutorials-written-by-early-pioneers-of-the-field)
+      - [Doing physics means calculating a number](physics.md#doing-physics-means-calculating-a-number)
+        - [Physics is a way to predict the future](physics.md#physics-is-a-way-to-predict-the-future)
+      - [It is OK to treat things as black boxes](physics.md#it-is-ok-to-treat-things-as-black-boxes)
+    - [The most important physics experiments](physics.md#the-most-important-physics-experiments)
+      - [Physics experiment without a decent modern video](physics.md#physics-experiment-without-a-decent-modern-video)
+      - [Aharonov-Bohm effect](physics.md#aharonov-bohm-effect)
+      - [Compton scattering](physics.md#compton-scattering)
+      - [Photoelectric effect](physics.md#photoelectric-effect)
+    - [System of units](system-of-units.md)
+      - [Intrinsic standards](system-of-units.md#intrinsic-standards)
+      - [Physical constant](system-of-units.md#physical-constant)
+      - [Metrology](system-of-units.md#metrology)
+        - [Metrology institute](system-of-units.md#metrology-institute)
+      - [Unit of measurement](system-of-units.md#unit-of-measurement)
+        - [Dimension (system of units)](system-of-units.md#dimension-system-of-units)
+      - [List of systems of units](system-of-units.md#list-of-systems-of-units)
+        - [International System of Units](system-of-units.md#international-system-of-units)
+          - [International Bureau of Weights and Measures](system-of-units.md#international-bureau-of-weights-and-measures)
+          - [Origins of Precision by Machine Thinking (2017)](system-of-units.md#origins-of-precision-by-machine-thinking-2017)
+          - [Versions of the international System of Units](system-of-units.md#versions-of-the-international-system-of-units)
+            - [2019 redefinition of the SI base units](system-of-units.md#2019-redefinition-of-the-si-base-units)
+              - [2019 redefinition of the Kilogram](system-of-units.md#2019-redefinition-of-the-kilogram)
+          - [Unit of the International System of Units](system-of-units.md#unit-of-the-international-system-of-units)
+            - [Ampere](system-of-units.md#ampere)
+              - [Ampere in the 2019 redefinition of the SI base units](system-of-units.md#ampere-in-the-2019-redefinition-of-the-si-base-units)
+            - [Kilogram](system-of-units.md#kilogram)
+              - [Avogadro project](system-of-units.md#avogadro-project)
+              - [Kibble balance](system-of-units.md#kibble-balance)
+          - [Dimension of the International System of Units](system-of-units.md#dimension-of-the-international-system-of-units)
+            - [Luminous intensity](system-of-units.md#luminous-intensity)
+              - [Candela](system-of-units.md#candela)
+                - [Lumen (unit)](system-of-units.md#lumen-unit)
+                  - [Candela vs lumen](system-of-units.md#candela-vs-lumen)
+            - [Weight](system-of-units.md#weight)
+            - [Time](system-of-units.md#time)
+              - [Frequency](system-of-units.md#frequency)
+                - [Period (physics)](system-of-units.md#period-physics)
+                - [Hertz](system-of-units.md#hertz)
+                  - [Megahertz](system-of-units.md#megahertz)
+              - [Clock](system-of-units.md#clock)
+                - [Quartz clock](system-of-units.md#quartz-clock)
+                - [Atomic clock](system-of-units.md#atomic-clock)
+                  - [Caesium standard](system-of-units.md#caesium-standard)
+              - [Unit of time](system-of-units.md#unit-of-time)
+                - [Decimal time](system-of-units.md#decimal-time)
+                - [Second](system-of-units.md#second)
+                - [Day](system-of-units.md#day)
+                  - [Calendar](system-of-units.md#calendar)
+                - [Year](system-of-units.md#year)
+                  - [2025](system-of-units.md#2025)
+                  - [2024](system-of-units.md#2024)
+                  - [2023](system-of-units.md#2023)
+            - [Length](system-of-units.md#length)
+              - [Meter](system-of-units.md#meter)
+                - [Micrometer](system-of-units.md#micrometer)
+                - [Nanometer](system-of-units.md#nanometer)
+                - [Angstrom](system-of-units.md#angstrom)
+                - [Picometer](system-of-units.md#picometer)
+              - [Gauge block](system-of-units.md#gauge-block)
+              - [Light year](system-of-units.md#light-year)
+          - [Geiger counter](system-of-units.md#geiger-counter)
+          - [Natural units](system-of-units.md#natural-units)
+            - [Planck units](system-of-units.md#planck-units)
+        - [Imperial units](system-of-units.md#imperial-units)
+    - [Particle physics](particle-physics.md)
+      - [Electromagnetism](electromagnetism.md)
+        - [Maxwell's equations](electromagnetism.md#maxwell-s-equations)
+          - [Faraday's law of induction](electromagnetism.md#faraday-s-law-of-induction)
+            - [Electromagnetic induction](electromagnetism.md#electromagnetic-induction)
+              - [Inductive sensor](electromagnetism.md#inductive-sensor)
+          - [Lorentz force](electromagnetism.md#lorentz-force)
+            - [Ampère's force law](electromagnetism.md#ampere-s-force-law)
+          - [Explicit scalar form of the Maxwell's equations](electromagnetism.md#explicit-scalar-form-of-the-maxwell-s-equations)
+            - [Overdetermination of Maxwell's equations](electromagnetism.md#overdetermination-of-maxwell-s-equations)
+          - [Coulomb's law](electromagnetism.md#coulomb-s-law)
+          - [Solutions of Maxwell's equations](electromagnetism.md#solutions-of-maxwell-s-equations)
+            - [Maxwell's equations with pointlike particles](electromagnetism.md#maxwell-s-equations-with-pointlike-particles)
+          - [Maxwell's equations in 2D](electromagnetism.md#maxwell-s-equations-in-2d)
+          - [Existence and uniqueness of solutions to Maxwell's equations](electromagnetism.md#existence-and-uniqueness-of-solutions-to-maxwell-s-equations)
+          - [Electric field](electromagnetism.md#electric-field)
+            - [Electric charge](electromagnetism.md#electric-charge)
+              - [Electric charge measure unit](electromagnetism.md#electric-charge-measure-unit)
+                - [Coulomb](electromagnetism.md#coulomb)
+              - [Charge conservation](electromagnetism.md#charge-conservation)
+              - [Electric current](electromagnetism.md#electric-current)
+            - [Electric potential](electromagnetism.md#electric-potential)
+              - [Volt](electromagnetism.md#volt)
+                - [Voltmeter](electromagnetism.md#voltmeter)
+                  - [Electrometer](electromagnetism.md#electrometer)
+                  - [Nanovoltmeter](electromagnetism.md#nanovoltmeter)
+                - [Voltage](electromagnetism.md#voltage)
+                - [Electronvolt](electromagnetism.md#electronvolt)
+          - [Hall effect](electromagnetism.md#hall-effect)
+            - [Hall resistance](electromagnetism.md#hall-resistance)
+            - [Charge carrier density](electromagnetism.md#charge-carrier-density)
+            - [Hall effect sensor](electromagnetism.md#hall-effect-sensor)
+          - [Electromagnetic four-potential](electromagnetism.md#electromagnetic-four-potential)
+            - [Electromagnetic tensor](electromagnetism.md#electromagnetic-tensor)
+            - [Four-current](electromagnetism.md#four-current)
+            - [Lorentz gauge condition](electromagnetism.md#lorentz-gauge-condition)
+              - [Coulomb gauge](electromagnetism.md#coulomb-gauge)
+        - [Magnetism](electromagnetism.md#magnetism)
+          - [Magnetic field](electromagnetism.md#magnetic-field)
+            - [Magnetic B and H field](electromagnetism.md#magnetic-b-and-h-field)
+            - [Tesla (unit)](electromagnetism.md#tesla-unit)
+          - [Magnetic moment](electromagnetism.md#magnetic-moment)
+          - [Magnetometer](electromagnetism.md#magnetometer)
+          - [Magnetic flux](electromagnetism.md#magnetic-flux)
+          - [Magnetic vector potential](electromagnetism.md#magnetic-vector-potential)
+      - [Relativity](relativity.md)
+        - [Special relativity](relativity.md#special-relativity)
+          - [Invariance of the speed of light](relativity.md#invariance-of-the-speed-of-light)
+          - [History of special relativity](relativity.md#history-of-special-relativity)
+            - [Luminiferous aether](relativity.md#luminiferous-aether)
+              - [Aether theory](relativity.md#aether-theory)
+            - [Aether drag hypothesis](relativity.md#aether-drag-hypothesis)
+              - [Lorentz ether theory](relativity.md#lorentz-ether-theory)
+          - [Special relativity experiment](relativity.md#special-relativity-experiment)
+            - [Aberration (astronomy)](relativity.md#aberration-astronomy)
+            - [Fizeau experiment](relativity.md#fizeau-experiment)
+            - [Michelson-Morley experiment](relativity.md#michelson-morley-experiment)
+              - [On the Relative Motion of the Earth and the Luminiferous Ether](relativity.md#on-the-relative-motion-of-the-earth-and-the-luminiferous-ether)
+            - [Hafele-Keating experiment](relativity.md#hafele-keating-experiment)
+          - [Einstein synchronization](relativity.md#einstein-synchronization)
+            - [Frame of reference](relativity.md#frame-of-reference)
+              - [Inertial frame of reference](relativity.md#inertial-frame-of-reference)
+          - [Lorentz transformation](relativity.md#lorentz-transformation)
+            - [Lorentz covariance](relativity.md#lorentz-covariance)
+              - [Lorentz invariant](relativity.md#lorentz-invariant)
+            - [Lorentz transform consequence: everyone sees the same speed of light](relativity.md#lorentz-transform-consequence-everyone-sees-the-same-speed-of-light)
+            - [Length contraction](relativity.md#length-contraction)
+              - [Terrell rotation](relativity.md#terrell-rotation)
+            - [Time dilation](relativity.md#time-dilation)
+              - [Transversal time dilation](relativity.md#transversal-time-dilation)
+              - [Transverse Doppler effect](relativity.md#transverse-doppler-effect)
+            - [Twin paradox](relativity.md#twin-paradox)
+          - [Maxwell's equations require special relativity](relativity.md#maxwell-s-equations-require-special-relativity)
+            - [Deriving magnetism from electricity and relativity](relativity.md#deriving-magnetism-from-electricity-and-relativity)
+            - [Moving magnet and conductor problem](relativity.md#moving-magnet-and-conductor-problem)
+            - [Covariant formulation of classical electromagnetism](relativity.md#covariant-formulation-of-classical-electromagnetism)
+              - [Maxwell's equations are Lorentz invariant](relativity.md#maxwell-s-equations-are-lorentz-invariant)
+              - [Maxwell's equations imply that the speed of light is the same for all inertial reference frames](relativity.md#maxwell-s-equations-imply-that-the-speed-of-light-is-the-same-for-all-inertial-reference-frames)
+              - [Maxwell Lagrangian](relativity.md#maxwell-lagrangian)
+          - [Spacetime](relativity.md#spacetime)
+            - [Four-vector](relativity.md#four-vector)
+            - [Four-gradient](relativity.md#four-gradient)
+            - [Minkowski space](relativity.md#minkowski-space)
+              - [Minkowski inner product](relativity.md#minkowski-inner-product)
+                - [Minkowski inner product matrix](relativity.md#minkowski-inner-product-matrix)
+            - [Spacetime diagram](relativity.md#spacetime-diagram)
+              - [Light cone](relativity.md#light-cone)
+                - [Timelike-separated event](relativity.md#timelike-separated-event)
+                - [Spacelike-separated event](relativity.md#spacelike-separated-event)
+          - [Relativistic mechanics](relativity.md#relativistic-mechanics)
+            - [Four-momentum](relativity.md#four-momentum)
+              - [Relativistic energy](relativity.md#relativistic-energy)
+                - [Energy-momentum relation](relativity.md#energy-momentum-relation)
+                - [Mass-energy equivalence](relativity.md#mass-energy-equivalence)
+              - [Spacetime interval](relativity.md#spacetime-interval)
+                - [Proper time](relativity.md#proper-time)
+        - [General relativity](relativity.md#general-relativity)
+          - [Tests of general relativity](relativity.md#tests-of-general-relativity)
+            - [Perihelion precession of Mercury](relativity.md#perihelion-precession-of-mercury)
+            - [Gravitational wave](relativity.md#gravitational-wave)
+              - [Gravitational wave detection](relativity.md#gravitational-wave-detection)
+                - [Hulse-Taylor pulsar](relativity.md#hulse-taylor-pulsar)
+                - [LIGO](relativity.md#ligo)
+          - [Why gravity is not a force?](relativity.md#why-gravity-is-not-a-force)
+          - [Maxwell's equations in curved spacetime](relativity.md#maxwell-s-equations-in-curved-spacetime)
+          - [Gravity](relativity.md#gravity)
+            - [Gravimetry](relativity.md#gravimetry)
+              - [Gravimeter](relativity.md#gravimeter)
+            - [Gravitational constant](relativity.md#gravitational-constant)
+              - [Experiments that measure the gravitational constant](relativity.md#experiments-that-measure-the-gravitational-constant)
+                - [Cavendish experiment](relativity.md#cavendish-experiment)
+            - [Graviton](relativity.md#graviton)
+      - [Standard Model](standard-model.md)
+        - [Theory of everything](standard-model.md#theory-of-everything)
+          - [Grand Unified Theory](standard-model.md#grand-unified-theory)
+          - [The standard model and general relativity are incompatible](standard-model.md#the-standard-model-and-general-relativity-are-incompatible)
+          - [Fundamental interaction](standard-model.md#fundamental-interaction)
+          - [Quantum gravity](standard-model.md#quantum-gravity)
+            - [String theory](standard-model.md#string-theory)
+        - [Subatomic particle](standard-model.md#subatomic-particle)
+          - [Elementary particle](standard-model.md#elementary-particle)
+            - [Are there more than 3 generations of particles in the Standard Model?](standard-model.md#are-there-more-than-3-generations-of-particles-in-the-standard-model)
+            - [Defining properties of elementary particles](standard-model.md#defining-properties-of-elementary-particles)
+            - [Photon](photon.md)
+              - [Light](photon.md#light)
+                - [Wave-particle duality](photon.md#wave-particle-duality)
+                  - [Corpuscular theory of light](photon.md#corpuscular-theory-of-light)
+                    - [Newton supported the corpuscular theory of light](photon.md#newton-supported-the-corpuscular-theory-of-light)
+                  - [Wave theory of light](photon.md#wave-theory-of-light)
+                    - [Diffraction of light](photon.md#diffraction-of-light)
+                      - [Young's interference experiment](photon.md#young-s-interference-experiment)
+                      - [Arago spot](photon.md#arago-spot)
+                  - [Electromagnetic radiation](photon.md#electromagnetic-radiation)
+                    - [History of the electromagnetic theory of light](photon.md#history-of-the-electromagnetic-theory-of-light)
+                      - [Faraday effect](photon.md#faraday-effect)
+                - [Light source](photon.md#light-source)
+                  - [Light source characteristic](photon.md#light-source-characteristic)
+                    - [Spectral coherence](photon.md#spectral-coherence)
+                    - [Spacial coherence](photon.md#spacial-coherence)
+                  - [Lamp](photon.md#lamp)
+                    - [Incandescent light bulb](photon.md#incandescent-light-bulb)
+                    - [Gas-discharge lamp](photon.md#gas-discharge-lamp)
+                      - [Fluorescent lamp](photon.md#fluorescent-lamp)
+                      - [Neon lamp](photon.md#neon-lamp)
+                - [Optical fiber](photon.md#optical-fiber)
+                  - [Fiber optic equipment](photon.md#fiber-optic-equipment)
+                    - [Fiber optic cable](photon.md#fiber-optic-cable)
+                    - [Optical amplifier](photon.md#optical-amplifier)
+                      - [Fiber optical amplifier](photon.md#fiber-optical-amplifier)
+                        - [Erbium-doped fiber amplifier](photon.md#erbium-doped-fiber-amplifier)
+                  - [Fiber-optic communication](photon.md#fiber-optic-communication)
+                    - [Small Form-factor Pluggable](photon.md#small-form-factor-pluggable)
+                    - [Fiber optics cables often come in pairs because it is needed for duplex](photon.md#fiber-optics-cables-often-come-in-pairs-because-it-is-needed-for-duplex)
+                    - [Single-mode and multi-mode optical fiber](photon.md#single-mode-and-multi-mode-optical-fiber)
+                      - [Single-mode optical fiber](photon.md#single-mode-optical-fiber)
+                      - [Multi-mode optical fiber](photon.md#multi-mode-optical-fiber)
+                  - [History of fiber optics](photon.md#history-of-fiber-optics)
+                    - [Optical fiber engineer](photon.md#optical-fiber-engineer)
+                      - [Charles K. Kao](photon.md#charles-k-kao)
+                  - [Optical fiber bibliography](photon.md#optical-fiber-bibliography)
+                    - [City of Light: The Story of Fiber Optics](photon.md#city-of-light-the-story-of-fiber-optics)
+                  - [Optical fiber equipment](photon.md#optical-fiber-equipment)
+                    - [Fiberscope](photon.md#fiberscope)
+                    - [Fiber optic coupling](photon.md#fiber-optic-coupling)
+                - [Photometer](photon.md#photometer)
+                  - [Spectophotometry](photon.md#spectophotometry)
+                - [Spectroscopy](photon.md#spectroscopy)
+                - [Speed of light](photon.md#speed-of-light)
+                  - [Speed of light experiment](photon.md#speed-of-light-experiment)
+                    - [Fizeau's determination of the speed of light with a rotating cogwheel](photon.md#fizeau-s-determination-of-the-speed-of-light-with-a-rotating-cogwheel)
+                  - [Emission theory (vision)](photon.md#emission-theory-vision)
+                  - [Faster-than-light](photon.md#faster-than-light)
+                    - [Faster-than-light implies time travel](photon.md#faster-than-light-implies-time-travel)
+                    - [Tachyon](photon.md#tachyon)
+                    - [Tachyonic antitelephone](photon.md#tachyonic-antitelephone)
+                - [Electromagnetic spectrum](photon.md#electromagnetic-spectrum)
+                  - [Ionizing and non-ionizing radiation](photon.md#ionizing-and-non-ionizing-radiation)
+                    - [Ionizing radiation](photon.md#ionizing-radiation)
+                      - [Ionization of air by radiation ](photon.md#ionization-of-air-by-radiation)
+                    - [Non-ionizing radiation](photon.md#non-ionizing-radiation)
+                  - [Very low frequency](photon.md#very-low-frequency)
+                  - [Radio wave](photon.md#radio-wave)
+                    - [Microwave](photon.md#microwave)
+                      - [Ultra High Frequency](photon.md#ultra-high-frequency)
+                      - [Microwave source](photon.md#microwave-source)
+                        - [Klystron](photon.md#klystron)
+                        - [Cavity magnetron](photon.md#cavity-magnetron)
+                      - [Microwave transmission](photon.md#microwave-transmission)
+                        - [Microwave transmission for trading](photon.md#microwave-transmission-for-trading)
+                        - [Microwave vs radio wave transmission](photon.md#microwave-vs-radio-wave-transmission)
+                      - [Microwave oven](photon.md#microwave-oven)
+                  - [Infrared](photon.md#infrared)
+                  - [Visible spectrum](photon.md#visible-spectrum)
+                  - [Ultraviolet](photon.md#ultraviolet)
+                  - [X-ray](photon.md#x-ray)
+                    - [X-ray source](photon.md#x-ray-source)
+                      - [X-ray tube](photon.md#x-ray-tube)
+              - [Photon spin](photon.md#photon-spin)
+              - [Radiation pressure](photon.md#radiation-pressure)
+                - [Nichols radiometer](photon.md#nichols-radiometer)
+                - [Solar sail](photon.md#solar-sail)
+              - [Single photon production and detection](photon.md#single-photon-production-and-detection)
+                - [Single photon production](photon.md#single-photon-production)
+                  - [Spontaneous parametric down-conversion](photon.md#spontaneous-parametric-down-conversion)
+                - [Single photon detection](photon.md#single-photon-detection)
+                  - [Photomultiplier](photon.md#photomultiplier)
+                    - [Photomultiplier tube](photon.md#photomultiplier-tube)
+                    - [Silicon photomultiplier](photon.md#silicon-photomultiplier)
+                - [Two photon interference experiment](photon.md#two-photon-interference-experiment)
+              - [Squeezed state of light](photon.md#squeezed-state-of-light)
+              - [Optics](photon.md#optics)
+                - [Quantum optics](photon.md#quantum-optics)
+                - [Optoelectronics](photon.md#optoelectronics)
+                - [Optical component](photon.md#optical-component)
+                  - [Beam splitter](photon.md#beam-splitter)
+                  - [Half-silvered mirror](photon.md#half-silvered-mirror)
+                  - [Collimator](photon.md#collimator)
+                    - [Collimated beam](photon.md#collimated-beam)
+                      - [Parallel light](photon.md#parallel-light)
+                  - [Diffraction grating](photon.md#diffraction-grating)
+                  - [Diaphragm (optics)](photon.md#diaphragm-optics)
+                  - [Lens](photon.md#lens)
+                    - [Biconvex spherical lens](photon.md#biconvex-spherical-lens)
+                      - [Focal length](photon.md#focal-length)
+                  - [Photodetector](photon.md#photodetector)
+                - [Camera obscura](photon.md#camera-obscura)
+                - [Optical cavity](photon.md#optical-cavity)
+                - [Optics vendor](photon.md#optics-vendor)
+                  - [Carl Zeiss AG](photon.md#carl-zeiss-ag)
+                    - [Carl Zeiss SMT](photon.md#carl-zeiss-smt)
+                - [Point light source](photon.md#point-light-source)
+                - [Photonics](photon.md#photonics)
+                  - [Silicon photonics](photon.md#silicon-photonics)
+                    - [Optical computing](photon.md#optical-computing)
+                      - [Optical computing bibliography](photon.md#optical-computing-bibliography)
+                        - [Deep learning with coherent nanophotonic circuits](photon.md#deep-learning-with-coherent-nanophotonic-circuits)
+                      - [Optical interconnect](photon.md#optical-interconnect)
+                      - [Optical switch](photon.md#optical-switch)
+                        - [Optical switch company](photon.md#optical-switch-company)
+                          - [Salience Labs](photon.md#salience-labs)
+                      - [Optical computing company](photon.md#optical-computing-company)
+                        - [Arago Inc](photon.md#arago-inc)
+                        - [Celestial AI](photon.md#celestial-ai)
+                        - [Flux Computing](photon.md#flux-computing)
+                        - [Lightmatter](photon.md#lightmatter)
+                        - [Lumai](photon.md#lumai)
+                        - [Luminous Computing, Inc.](photon.md#luminous-computing-inc)
+                        - [NcodiN](photon.md#ncodin)
+                  - [Photon polarization](photon.md#photon-polarization)
+                    - [Polarization of light](photon.md#polarization-of-light)
+                    - [Polarizer](photon.md#polarizer)
+                      - [Fresnel equations](photon.md#fresnel-equations)
+                        - [Brewster's angle](photon.md#brewster-s-angle)
+                      - [History of polarization](photon.md#history-of-polarization)
+                      - [Malus' Law](photon.md#malus-law)
+                        - [Étienne-Louis Malus](photon.md#etienne-louis-malus)
+                      - [Three polarizers 45 degrees apart](photon.md#three-polarizers-45-degrees-apart)
+                  - [Poincaré sphere](photon.md#poincare-sphere)
+                  - [Photonics equipment](photon.md#photonics-equipment)
+                    - [Acousto-optic modulator](photon.md#acousto-optic-modulator)
+                    - [Interferometer](photon.md#interferometer)
+                      - [Fabry-Pérot interferometer](photon.md#fabry-perot-interferometer)
+                      - [Mach-Zehnder interferometer](photon.md#mach-zehnder-interferometer)
+                    - [Optical fibre](photon.md#optical-fibre)
+                    - [Optical table](photon.md#optical-table)
+                    - [Optical ring resonator](photon.md#optical-ring-resonator)
+            - [Higgs boson](standard-model.md#higgs-boson)
+              - [Goldstone's theorem](standard-model.md#goldstone-s-theorem)
+              - [Higgs mechanism](standard-model.md#higgs-mechanism)
+            - [Lepton](standard-model.md#lepton)
+              - [Electron](standard-model.md#electron)
+                - [Elementary charge](standard-model.md#elementary-charge)
+                  - [Why do the electron and the proton have the same charge except for the opposite signs?](standard-model.md#why-do-the-electron-and-the-proton-have-the-same-charge-except-for-the-opposite-signs)
+                  - [Oil drop experiment](standard-model.md#oil-drop-experiment)
+                - [Electron rest mass](standard-model.md#electron-rest-mass)
+                - [Positron](standard-model.md#positron)
+              - [Muon](standard-model.md#muon)
+              - [Neutrino](standard-model.md#neutrino)
+                - [Neutrino emission on Earth](standard-model.md#neutrino-emission-on-earth)
+                - [Cowan-Reines neutrino experiment](standard-model.md#cowan-reines-neutrino-experiment)
+          - [Composite particle](standard-model.md#composite-particle)
+            - [Hadron](standard-model.md#hadron)
+              - [Baryon](standard-model.md#baryon)
+                - [Baryon vs meson vs lepton](standard-model.md#baryon-vs-meson-vs-lepton)
+              - [Neutron](standard-model.md#neutron)
+              - [Proton](standard-model.md#proton)
+                - [Proton-to-electron mass ratio](standard-model.md#proton-to-electron-mass-ratio)
+              - [Meson](standard-model.md#meson)
+                - [Pion](standard-model.md#pion)
+                - [Kaon](standard-model.md#kaon)
+          - [Eightfold way (physics)](standard-model.md#eightfold-way-physics)
+        - [Parameters of the Standard Model](standard-model.md#parameters-of-the-standard-model)
+        - [Standard Model Lagrangian](standard-model.md#standard-model-lagrangian)
+        - [Why do symmetries such as SU(3), SU(2) and U(1) matter in particle physics?](standard-model.md#why-do-symmetries-such-as-su-3-su-2-and-u-1-matter-in-particle-physics)
+      - [Applications of particle physics](particle-physics.md#applications-of-particle-physics)
+      - [Quantum mechanics](quantum-mechanics.md)
+        - [Quantum mechanics experiment](quantum-mechanics.md#quantum-mechanics-experiment)
+          - [Emission spectrum](quantum-mechanics.md#emission-spectrum)
+            - [Spectral line](quantum-mechanics.md#spectral-line)
+              - [NIST Atomic Spectra Database](quantum-mechanics.md#nist-atomic-spectra-database)
+              - [Forbidden mechanism](quantum-mechanics.md#forbidden-mechanism)
+                - [Selection rule](quantum-mechanics.md#selection-rule)
+                  - [Metastable electron](quantum-mechanics.md#metastable-electron)
+                    - [Triplet state](quantum-mechanics.md#triplet-state)
+              - [Rydberg atom](quantum-mechanics.md#rydberg-atom)
+              - [Hydrogen emission spectrum](quantum-mechanics.md#hydrogen-emission-spectrum)
+                - [Gross hydrogen emission spectrum](quantum-mechanics.md#gross-hydrogen-emission-spectrum)
+                  - [Hydrogen 1-2 spectral line](quantum-mechanics.md#hydrogen-1-2-spectral-line)
+                - [Rydberg formula](quantum-mechanics.md#rydberg-formula)
+                  - [Balmer series](quantum-mechanics.md#balmer-series)
+                - [Hydrogen spectral series](quantum-mechanics.md#hydrogen-spectral-series)
+                  - [Pickering series](quantum-mechanics.md#pickering-series)
+              - [Fine structure](quantum-mechanics.md#fine-structure)
+                - [Fine structure constant](quantum-mechanics.md#fine-structure-constant)
+                - [Hyperfine structure](quantum-mechanics.md#hyperfine-structure)
+                  - [Hydrogen line](quantum-mechanics.md#hydrogen-line)
+              - [Zeeman effect](quantum-mechanics.md#zeeman-effect)
+                - [Anomalous Zeeman effect](quantum-mechanics.md#anomalous-zeeman-effect)
+          - [Double-slit experiment](quantum-mechanics.md#double-slit-experiment)
+            - [Single particle double slit experiment](quantum-mechanics.md#single-particle-double-slit-experiment)
+              - [Single electron double slit experiment](quantum-mechanics.md#single-electron-double-slit-experiment)
+            - [Are particles bounced by the first wall in the double slit experiment?](quantum-mechanics.md#are-particles-bounced-by-the-first-wall-in-the-double-slit-experiment)
+          - [Franck-Hertz experiment](quantum-mechanics.md#franck-hertz-experiment)
+          - [Quantum Hall effect](quantum-mechanics.md#quantum-hall-effect)
+            - [Integer quantum Hall effect](quantum-mechanics.md#integer-quantum-hall-effect)
+            - [Fractional quantum Hall effect](quantum-mechanics.md#fractional-quantum-hall-effect)
+              - [Fractional quantum Hall effect for $\nu = 1/m$](quantum-mechanics.md#fractional-quantum-hall-effect-for-nu-1-m)
+              - [Fractional quantum Hall effect for $\nu \ne 1/m$](quantum-mechanics.md#fractional-quantum-hall-effect-for-nu-ne-1-m)
+                - [Fractional quantum Hall effect 5/2](quantum-mechanics.md#fractional-quantum-hall-effect-5-2)
+            - [Spin Hall effect](quantum-mechanics.md#spin-hall-effect)
+          - [Macroscopic quantum phenomena](quantum-mechanics.md#macroscopic-quantum-phenomena)
+        - [History of quantum mechanics](quantum-mechanics.md#history-of-quantum-mechanics)
+          - [Timeline of quantum mechanics](quantum-mechanics.md#timeline-of-quantum-mechanics)
+          - [Old quantum theory](quantum-mechanics.md#old-quantum-theory)
+        - [History of quantum mechanics bibliography](quantum-mechanics.md#history-of-quantum-mechanics-bibliography)
+          - [The Quantum Story by Jim Baggott (2011)](quantum-mechanics.md#the-quantum-story-by-jim-baggott-2011)
+          - [The Old Quantum Theory by Dirk ter Haar (1967)](quantum-mechanics.md#the-old-quantum-theory-by-dirk-ter-haar-1967)
+        - [Quantum mechanics bibliography](quantum-mechanics.md#quantum-mechanics-bibliography)
+          - [Introductory Quantum Mechanics by Richard Fitzpatrick (2020)](quantum-mechanics.md#introductory-quantum-mechanics-by-richard-fitzpatrick-2020)
+          - [The Principles of Quantum Mechanics by Paul Dirac (1930)](quantum-mechanics.md#the-principles-of-quantum-mechanics-by-paul-dirac-1930)
+            - [The Principles of Quantum Mechanics by Paul Dirac revised fourth edition (1967)](quantum-mechanics.md#the-principles-of-quantum-mechanics-by-paul-dirac-revised-fourth-edition-1967)
+          - [MIT 8.06 Quantum Physics III, Spring 2018 by Barton Zwiebach](quantum-mechanics.md#mit-8-06-quantum-physics-iii-spring-2018-by-barton-zwiebach)
+          - [Applications of Quantum Mechanics by David Tong (2017)](quantum-mechanics.md#applications-of-quantum-mechanics-by-david-tong-2017)
+          - [Quantum Mechanics for Engineers by Leon van Dommelen (2011)](quantum-mechanics.md#quantum-mechanics-for-engineers-by-leon-van-dommelen-2011)
+          - [Quantum physics by Jim Branson (2003)](quantum-mechanics.md#quantum-physics-by-jim-branson-2003)
+        - [Mathematical formulation of quantum mechanics](quantum-mechanics.md#mathematical-formulation-of-quantum-mechanics)
+          - [Schrödinger picture](quantum-mechanics.md#schrodinger-picture)
+            - [Schrödinger picture example: quantum harmonic oscillator](quantum-mechanics.md#schrodinger-picture-example-quantum-harmonic-oscillator)
+            - [Wave function collapse](quantum-mechanics.md#wave-function-collapse)
+              - [Interpretations of quantum mechanics](quantum-mechanics.md#interpretations-of-quantum-mechanics)
+                - [Categorical quantum mechanics](quantum-mechanics.md#categorical-quantum-mechanics)
+                - [EPR paradox](quantum-mechanics.md#epr-paradox)
+                - [Many-worlds interpretation](quantum-mechanics.md#many-worlds-interpretation)
+                  - [Universal wavefunction](quantum-mechanics.md#universal-wavefunction)
+          - [Born rule](quantum-mechanics.md#born-rule)
+          - [Bra-ket notation](quantum-mechanics.md#bra-ket-notation)
+          - [Dirac-von Neumann axioms](quantum-mechanics.md#dirac-von-neumann-axioms)
+          - [Linearity of quantum mechanics](quantum-mechanics.md#linearity-of-quantum-mechanics)
+          - [Observable](quantum-mechanics.md#observable)
+          - [Phase-space formulation](quantum-mechanics.md#phase-space-formulation)
+        - [Non-relativistic quantum mechanics](quantum-mechanics.md#non-relativistic-quantum-mechanics)
+          - [Schrödinger equation](quantum-mechanics.md#schrodinger-equation)
+            - [Time-independent Schrödinger equation](quantum-mechanics.md#time-independent-schrodinger-equation)
+              - [Solving the Schrodinger equation with the time-independent Schrödinger equation](quantum-mechanics.md#solving-the-schrodinger-equation-with-the-time-independent-schrodinger-equation)
+            - [Derivation of the Schrodinger equation](quantum-mechanics.md#derivation-of-the-schrodinger-equation)
+              - [Why are complex numbers used in the Schrodinger equation?](quantum-mechanics.md#why-are-complex-numbers-used-in-the-schrodinger-equation)
+            - [Schrodinger equation Hamiltonian](quantum-mechanics.md#schrodinger-equation-hamiltonian)
+            - [The Schrodinger equation Hamiltonian has to be Hermitian](quantum-mechanics.md#the-schrodinger-equation-hamiltonian-has-to-be-hermitian)
+            - [Solutions of the Schrodinger equation](quantum-mechanics.md#solutions-of-the-schrodinger-equation)
+              - [Computational quantum mechanics](quantum-mechanics.md#computational-quantum-mechanics)
+                - [Why it is hard to simulate quantum systems?](quantum-mechanics.md#why-it-is-hard-to-simulate-quantum-systems)
+                - [Computational quantum mechanics software](quantum-mechanics.md#computational-quantum-mechanics-software)
+                  - [Quantum ESPRESSO](quantum-mechanics.md#quantum-espresso)
+                  - [QuTiP](quantum-mechanics.md#qutip)
+              - [Schrödinger equation for a one dimensional particle](quantum-mechanics.md#schrodinger-equation-for-a-one-dimensional-particle)
+              - [Schrödinger equation for a free one dimensional particle](quantum-mechanics.md#schrodinger-equation-for-a-free-one-dimensional-particle)
+                - [Plane wave function](quantum-mechanics.md#plane-wave-function)
+                - [Time-independent Schrödinger equation for a free one dimensional particle](quantum-mechanics.md#time-independent-schrodinger-equation-for-a-free-one-dimensional-particle)
+              - [Particle in a box](quantum-mechanics.md#particle-in-a-box)
+                - [Quantum well](quantum-mechanics.md#quantum-well)
+              - [Quantum harmonic oscillator](quantum-mechanics.md#quantum-harmonic-oscillator)
+                - [Quantum LC circuit](quantum-mechanics.md#quantum-lc-circuit)
+                - [Hermite polynomials](quantum-mechanics.md#hermite-polynomials)
+                  - [Hermite functions](quantum-mechanics.md#hermite-functions)
+                - [Ladder operator](quantum-mechanics.md#ladder-operator)
+              - [Quantum tunnelling](quantum-mechanics.md#quantum-tunnelling)
+              - [Schrödinger equation solution for the hydrogen atom](quantum-mechanics.md#schrodinger-equation-solution-for-the-hydrogen-atom)
+                - [Atomic orbital](quantum-mechanics.md#atomic-orbital)
+                - [Quantum number](quantum-mechanics.md#quantum-number)
+                  - [Principal quantum number](quantum-mechanics.md#principal-quantum-number)
+                  - [Azimuthal quantum number](quantum-mechanics.md#azimuthal-quantum-number)
+                    - [s-orbital](quantum-mechanics.md#s-orbital)
+                    - [p-orbital](quantum-mechanics.md#p-orbital)
+                    - [d-orbital](quantum-mechanics.md#d-orbital)
+                    - [f-orbital](quantum-mechanics.md#f-orbital)
+                  - [Magnetic quantum number](quantum-mechanics.md#magnetic-quantum-number)
+                  - [Spin quantum number](quantum-mechanics.md#spin-quantum-number)
+                    - [Spectroscopic notation](quantum-mechanics.md#spectroscopic-notation)
+              - [Solutions for the Schrodinger equation with multiple particles](quantum-mechanics.md#solutions-for-the-schrodinger-equation-with-multiple-particles)
+                - [Separable state](quantum-mechanics.md#separable-state)
+                - [Solutions of the Schrodinger equation for two electrons](quantum-mechanics.md#solutions-of-the-schrodinger-equation-for-two-electrons)
+                - [Orbital approximation](quantum-mechanics.md#orbital-approximation)
+                - [Schrödinger equation solution for the helium atom](quantum-mechanics.md#schrodinger-equation-solution-for-the-helium-atom)
+                - [Hartree-Fock method](quantum-mechanics.md#hartree-fock-method)
+                  - [Hartree-Fock method for the helium atom](quantum-mechanics.md#hartree-fock-method-for-the-helium-atom)
+                  - [Why do multiple electrons occupy the same orbital if electrons repel each other?](quantum-mechanics.md#why-do-multiple-electrons-occupy-the-same-orbital-if-electrons-repel-each-other)
+                  - [Aufbau principle](quantum-mechanics.md#aufbau-principle)
+                    - [Electron configuration](quantum-mechanics.md#electron-configuration)
+                    - [Electron configuration notation](quantum-mechanics.md#electron-configuration-notation)
+                    - [Why does 2s have less energy than 1s if they have the same principal quantum number?](quantum-mechanics.md#why-does-2s-have-less-energy-than-1s-if-they-have-the-same-principal-quantum-number)
+                    - [Madelung energy ordering rule](quantum-mechanics.md#madelung-energy-ordering-rule)
+                      - [Exception to the Madelung energy ordering rule](quantum-mechanics.md#exception-to-the-madelung-energy-ordering-rule)
+                    - [Term symbol](quantum-mechanics.md#term-symbol)
+                      - [Hund's rules](quantum-mechanics.md#hund-s-rules)
+                        - [Hund's first rule](quantum-mechanics.md#hund-s-first-rule)
+                        - [Hund's second rule](quantum-mechanics.md#hund-s-second-rule)
+                - [Term symbols for carbon ground state](quantum-mechanics.md#term-symbols-for-carbon-ground-state)
+                - [Schrödinger equation solution for molecule](quantum-mechanics.md#schrodinger-equation-solution-for-molecule)
+                  - [Schrödinger equation solution for the hydrogen molecule](quantum-mechanics.md#schrodinger-equation-solution-for-the-hydrogen-molecule)
+                  - [Chemical bond](quantum-mechanics.md#chemical-bond)
+                    - [Molecule](quantum-mechanics.md#molecule)
+                      - [Molecule representation](quantum-mechanics.md#molecule-representation)
+                        - [Ball-and-stick model](quantum-mechanics.md#ball-and-stick-model)
+                      - [Isomer](quantum-mechanics.md#isomer)
+                        - [Cis-trans isomerism](quantum-mechanics.md#cis-trans-isomerism)
+                        - [Enantiomer](quantum-mechanics.md#enantiomer)
+                        - [Polymorphism (materials science)](quantum-mechanics.md#polymorphism-materials-science)
+                        - [Stereochemistry](quantum-mechanics.md#stereochemistry)
+                    - [Covalent bond](quantum-mechanics.md#covalent-bond)
+                      - [Sigma bond](quantum-mechanics.md#sigma-bond)
+                      - [Pi bond](quantum-mechanics.md#pi-bond)
+                        - [Double bond](quantum-mechanics.md#double-bond)
+                        - [Triple bond](quantum-mechanics.md#triple-bond)
+                    - [Ionic bond](quantum-mechanics.md#ionic-bond)
+                    - [Octet rule](quantum-mechanics.md#octet-rule)
+              - [Two-state quantum system](quantum-mechanics.md#two-state-quantum-system)
+                - [Bloch sphere](quantum-mechanics.md#bloch-sphere)
+                - [Pauli matrix](quantum-mechanics.md#pauli-matrix)
+            - [Born-Oppenheimer approximation](quantum-mechanics.md#born-oppenheimer-approximation)
+            - [Uncertainty principle](quantum-mechanics.md#uncertainty-principle)
+              - [Position and momentum space](quantum-mechanics.md#position-and-momentum-space)
+                - [Position representation](quantum-mechanics.md#position-representation)
+                - [Position operator](quantum-mechanics.md#position-operator)
+                - [Momentum operator](quantum-mechanics.md#momentum-operator)
+                - [Squeezed coherent state](quantum-mechanics.md#squeezed-coherent-state)
+              - [Energy operator](quantum-mechanics.md#energy-operator)
+                - [Time-energy uncertainty principle](quantum-mechanics.md#time-energy-uncertainty-principle)
+              - [Angular momentum operator](quantum-mechanics.md#angular-momentum-operator)
+                - [Total angular momentum operator](quantum-mechanics.md#total-angular-momentum-operator)
+              - [Complementarity (physics)](quantum-mechanics.md#complementarity-physics)
+            - [Conservation laws in Schrodinger equations](quantum-mechanics.md#conservation-laws-in-schrodinger-equations)
+              - [Conservation of the square amplitude in the Schrodinger equation](quantum-mechanics.md#conservation-of-the-square-amplitude-in-the-schrodinger-equation)
+                - [Probability current](quantum-mechanics.md#probability-current)
+            - [Wave function](quantum-mechanics.md#wave-function)
+              - [Matter wave](quantum-mechanics.md#matter-wave)
+                - [Electron diffraction experiment](quantum-mechanics.md#electron-diffraction-experiment)
+                  - [Diffraction of Cathode Rays by a Thin Film by Thomson and Reid (1927)](quantum-mechanics.md#diffraction-of-cathode-rays-by-a-thin-film-by-thomson-and-reid-1927)
+                  - [Davisson-Germer experiment](quantum-mechanics.md#davisson-germer-experiment)
+                - [de Broglie relations](quantum-mechanics.md#de-broglie-relations)
+          - [Equivalent alternatives to the Schrodinger equation](quantum-mechanics.md#equivalent-alternatives-to-the-schrodinger-equation)
+            - [Matrix mechanics](quantum-mechanics.md#matrix-mechanics)
+              - [Quantum mechanical re-interpretation of kinematic and mechanical relations by Heisenberg (1925)](quantum-mechanics.md#quantum-mechanical-re-interpretation-of-kinematic-and-mechanical-relations-by-heisenberg-1925)
+              - [Heisenberg picture](quantum-mechanics.md#heisenberg-picture)
+            - [De Broglie-Bohm theory](quantum-mechanics.md#de-broglie-bohm-theory)
+        - [Planck-Einstein relation](quantum-mechanics.md#planck-einstein-relation)
+          - [Planck constant](quantum-mechanics.md#planck-constant)
+            - [Reduced Planck constant](quantum-mechanics.md#reduced-planck-constant)
+        - [Relativistic quantum mechanics](relativistic-quantum-mechanics.md)
+          - [The Schrödinger equation is not relativistic](relativistic-quantum-mechanics.md#the-schrodinger-equation-is-not-relativistic)
+          - [Dirac equation](relativistic-quantum-mechanics.md#dirac-equation)
+            - [Absorption, spontaneous and stimulated emission](relativistic-quantum-mechanics.md#absorption-spontaneous-and-stimulated-emission)
+              - [Spontaneous emission](relativistic-quantum-mechanics.md#spontaneous-emission)
+                - [Spontaneous emission defies causality](relativistic-quantum-mechanics.md#spontaneous-emission-defies-causality)
+              - [Photon absorption](relativistic-quantum-mechanics.md#photon-absorption)
+              - [Stimulated emission](relativistic-quantum-mechanics.md#stimulated-emission)
+                - [History of stimulated emission](relativistic-quantum-mechanics.md#history-of-stimulated-emission)
+                  - [On the Quantum Theory of Radiation](relativistic-quantum-mechanics.md#on-the-quantum-theory-of-radiation)
+              - [Einstein coefficients](relativistic-quantum-mechanics.md#einstein-coefficients)
+            - [The Dirac equation predicts spin](relativistic-quantum-mechanics.md#the-dirac-equation-predicts-spin)
+            - [Antimatter](relativistic-quantum-mechanics.md#antimatter)
+            - [Particle creation and annihilation](relativistic-quantum-mechanics.md#particle-creation-and-annihilation)
+              - [Particle decay](relativistic-quantum-mechanics.md#particle-decay)
+                - [Pair production](relativistic-quantum-mechanics.md#pair-production)
+              - [Relativistic particle in a box thought experiment](relativistic-quantum-mechanics.md#relativistic-particle-in-a-box-thought-experiment)
+            - [The Dirac equation is consistent with special relativity](relativistic-quantum-mechanics.md#the-dirac-equation-is-consistent-with-special-relativity)
+            - [Derivation of the Dirac equation](relativistic-quantum-mechanics.md#derivation-of-the-dirac-equation)
+            - [Pauli equation](relativistic-quantum-mechanics.md#pauli-equation)
+            - [Klein-Gordon equation](relativistic-quantum-mechanics.md#klein-gordon-equation)
+              - [Derivation of the Klein-Gordon equation](relativistic-quantum-mechanics.md#derivation-of-the-klein-gordon-equation)
+            - [Solutions of the Dirac equation](relativistic-quantum-mechanics.md#solutions-of-the-dirac-equation)
+              - [Dirac equation solution for the hydrogen atom](relativistic-quantum-mechanics.md#dirac-equation-solution-for-the-hydrogen-atom)
+            - [Spin (physics)](relativistic-quantum-mechanics.md#spin-physics)
+              - [Spin experiments](relativistic-quantum-mechanics.md#spin-experiments)
+                - [Stern-Gerlach experiment](relativistic-quantum-mechanics.md#stern-gerlach-experiment)
+                  - [The Stern-Gerlach experiment needs an inhomogenous magnetic field](relativistic-quantum-mechanics.md#the-stern-gerlach-experiment-needs-an-inhomogenous-magnetic-field)
+                  - [Stern-Gerlach experiment paper](relativistic-quantum-mechanics.md#stern-gerlach-experiment-paper)
+                    - [The experimental proof of directional quantization in the magnetic field](relativistic-quantum-mechanics.md#the-experimental-proof-of-directional-quantization-in-the-magnetic-field)
+                - [Spintronics](relativistic-quantum-mechanics.md#spintronics)
+                  - [Spin valve](relativistic-quantum-mechanics.md#spin-valve)
+                  - [Tunnel magnetoresistance](relativistic-quantum-mechanics.md#tunnel-magnetoresistance)
+                  - [Giant magnetoresistance](relativistic-quantum-mechanics.md#giant-magnetoresistance)
+                  - [Spin-transfer torque](relativistic-quantum-mechanics.md#spin-transfer-torque)
+              - [Spin number of a field](relativistic-quantum-mechanics.md#spin-number-of-a-field)
+                - [Spin 0](relativistic-quantum-mechanics.md#spin-0)
+                - [Spin half](relativistic-quantum-mechanics.md#spin-half)
+                - [Spin 1](relativistic-quantum-mechanics.md#spin-1)
+                  - [Proca equation](relativistic-quantum-mechanics.md#proca-equation)
+                - [Spin 2](relativistic-quantum-mechanics.md#spin-2)
+                - [Why is the spin of the electron half?](relativistic-quantum-mechanics.md#why-is-the-spin-of-the-electron-half)
+              - [Pauli exclusion principle](relativistic-quantum-mechanics.md#pauli-exclusion-principle)
+                - [Slater determinant](relativistic-quantum-mechanics.md#slater-determinant)
+                - [Fermions, bosons and anyons](relativistic-quantum-mechanics.md#fermions-bosons-and-anyons)
+                  - [Fermion](relativistic-quantum-mechanics.md#fermion)
+                  - [Boson](relativistic-quantum-mechanics.md#boson)
+                  - [Anyon](relativistic-quantum-mechanics.md#anyon)
+                    - [Abelian an non abelian anyons](relativistic-quantum-mechanics.md#abelian-an-non-abelian-anyons)
+                      - [Abelian anyon](relativistic-quantum-mechanics.md#abelian-anyon)
+                      - [Non Abelian anyon](relativistic-quantum-mechanics.md#non-abelian-anyon)
+                - [Spin-statistics theorem](relativistic-quantum-mechanics.md#spin-statistics-theorem)
+                - [Electron degeneracy pressure](relativistic-quantum-mechanics.md#electron-degeneracy-pressure)
+            - [Dirac Lagrangian](relativistic-quantum-mechanics.md#dirac-lagrangian)
+              - [Dirac adjoint](relativistic-quantum-mechanics.md#dirac-adjoint)
+              - [Gamma matrices](relativistic-quantum-mechanics.md#gamma-matrices)
+              - [Feynman slash notation](relativistic-quantum-mechanics.md#feynman-slash-notation)
+          - [Quantum field theory](quantum-field-theory.md)
+            - [Quantum field](quantum-field-theory.md#quantum-field)
+            - [Mathematical formulation of quantum field theory](quantum-field-theory.md#mathematical-formulation-of-quantum-field-theory)
+              - [Gauge theory](quantum-field-theory.md#gauge-theory)
+                - [Lattice gauge theory](quantum-field-theory.md#lattice-gauge-theory)
+                - [Gauge field](quantum-field-theory.md#gauge-field)
+                - [Gauge symmetry](quantum-field-theory.md#gauge-symmetry)
+              - [Fock space](quantum-field-theory.md#fock-space)
+              - [Second quantization](quantum-field-theory.md#second-quantization)
+                - [Canonical quantization](quantum-field-theory.md#canonical-quantization)
+              - [Path integral formulation](quantum-field-theory.md#path-integral-formulation)
+                - [Quantum particles take all possible paths](quantum-field-theory.md#quantum-particles-take-all-possible-paths)
+                - [Propagator](quantum-field-theory.md#propagator)
+                - [Infinitely many slits thought experiment](quantum-field-theory.md#infinitely-many-slits-thought-experiment)
+              - [Renormalization](quantum-field-theory.md#renormalization)
+                - [Mass renormalization](quantum-field-theory.md#mass-renormalization)
+                - [Renormalization group](quantum-field-theory.md#renormalization-group)
+                - [Cutoff energy](quantum-field-theory.md#cutoff-energy)
+                - [Effective field theory](quantum-field-theory.md#effective-field-theory)
+                - [Yang-Mills theory](quantum-field-theory.md#yang-mills-theory)
+                  - [Yang-Mills existence and mass gap](quantum-field-theory.md#yang-mills-existence-and-mass-gap)
+                    - [Wightman axioms](quantum-field-theory.md#wightman-axioms)
+            - [Quantum electrodynamics](quantum-field-theory.md#quantum-electrodynamics)
+              - [Quantum electrodynamics experiment](quantum-field-theory.md#quantum-electrodynamics-experiment)
+                - [Lamb shift](quantum-field-theory.md#lamb-shift)
+                  - [Lamb-Retherford experiment](quantum-field-theory.md#lamb-retherford-experiment)
+                - [Electron magnetic moment](quantum-field-theory.md#electron-magnetic-moment)
+                  - [Anomalous magnetic dipole moment](quantum-field-theory.md#anomalous-magnetic-dipole-moment)
+                    - [Anomalous magnetic dipole moment of the electron](quantum-field-theory.md#anomalous-magnetic-dipole-moment-of-the-electron)
+                      - [The Magnetic Moment of the Electron by Kusch and Foley (1948)](quantum-field-theory.md#the-magnetic-moment-of-the-electron-by-kusch-and-foley-1948)
+                - [Dirac equation vs quantum electrodynamics](quantum-field-theory.md#dirac-equation-vs-quantum-electrodynamics)
+                  - [The Dirac equation does not work for more than one electron](quantum-field-theory.md#the-dirac-equation-does-not-work-for-more-than-one-electron)
+              - [Applications of quantum electrodynamics](quantum-field-theory.md#applications-of-quantum-electrodynamics)
+              - [Quantum electrodynamics Lagrangian](quantum-field-theory.md#quantum-electrodynamics-lagrangian)
+                - [Derivation of the quantum electrodynamics Lagrangian](quantum-field-theory.md#derivation-of-the-quantum-electrodynamics-lagrangian)
+              - [What does it mean that photons are force carriers for electromagnetism?](quantum-field-theory.md#what-does-it-mean-that-photons-are-force-carriers-for-electromagnetism)
+              - [Photon field](quantum-field-theory.md#photon-field)
+              - [Schwinger effect](quantum-field-theory.md#schwinger-effect)
+              - [Feynman diagram](quantum-field-theory.md#feynman-diagram)
+                - [Feynman diagram solver](quantum-field-theory.md#feynman-diagram-solver)
+                - [Does the exact position of vertices matter in Feynman diagrams?](quantum-field-theory.md#does-the-exact-position-of-vertices-matter-in-feynman-diagrams)
+              - [Wheeler-Feynman absorber theory](quantum-field-theory.md#wheeler-feynman-absorber-theory)
+              - [Cavity quantum electrodynamics](quantum-field-theory.md#cavity-quantum-electrodynamics)
+                - [Circuit quantum electrodynamics](quantum-field-theory.md#circuit-quantum-electrodynamics)
+              - [Positrons are electrons travelling back in time](quantum-field-theory.md#positrons-are-electrons-travelling-back-in-time)
+              - [Quantum electrodynamics bibliography](quantum-field-theory.md#quantum-electrodynamics-bibliography)
+                - [Quantum Theory of Radiation by Fermi (1932)](quantum-field-theory.md#quantum-theory-of-radiation-by-fermi-1932)
+                - [Advanced quantum mechanics by Freeman Dyson (1951)](quantum-field-theory.md#advanced-quantum-mechanics-by-freeman-dyson-1951)
+                - [Selected Papers on Quantum Electrodynamics by Julian Schwinger (1958)](quantum-field-theory.md#selected-papers-on-quantum-electrodynamics-by-julian-schwinger-1958)
+                - [Richard Feynman Quantum Electrodynamics Lecture at University of Auckland (1979)](quantum-field-theory.md#richard-feynman-quantum-electrodynamics-lecture-at-university-of-auckland-1979)
+                  - [Quantum Mechanical View of Reality by Richard Feynman (1983)](quantum-field-theory.md#quantum-mechanical-view-of-reality-by-richard-feynman-1983)
+                - [Quantum electrodynamics by Lifshitz et al. 2nd edition (1982)](quantum-field-theory.md#quantum-electrodynamics-by-lifshitz-et-al-2nd-edition-1982)
+                - [Physics 253a by Sidney Coleman (1986)](quantum-field-theory.md#physics-253a-by-sidney-coleman-1986)
+                - [QED and the men who made it: Dyson, Feynman, Schwinger, and Tomonaga by Silvan Schweber (1994)](quantum-field-theory.md#qed-and-the-men-who-made-it-dyson-feynman-schwinger-and-tomonaga-by-silvan-schweber-1994)
+                - [Advanced quantum mechanics II by Douglas Gingrich (2004)](quantum-field-theory.md#advanced-quantum-mechanics-ii-by-douglas-gingrich-2004)
+            - [Weak interaction](quantum-field-theory.md#weak-interaction)
+              - [Electroweak interaction](quantum-field-theory.md#electroweak-interaction)
+              - [Parity violation](quantum-field-theory.md#parity-violation)
+                - [Wu experiment](quantum-field-theory.md#wu-experiment)
+                - [CP Violation](quantum-field-theory.md#cp-violation)
+                  - [CPT symmetry](quantum-field-theory.md#cpt-symmetry)
+                  - [Strong CP problem](quantum-field-theory.md#strong-cp-problem)
+              - [Weak charge](quantum-field-theory.md#weak-charge)
+              - [W boson](quantum-field-theory.md#w-boson)
+              - [Z boson](quantum-field-theory.md#z-boson)
+            - [Quantum chromodynamics](quantum-field-theory.md#quantum-chromodynamics)
+              - [Quark](quantum-field-theory.md#quark)
+                - [Down quark](quantum-field-theory.md#down-quark)
+                - [Up quark](quantum-field-theory.md#up-quark)
+                  - [Why do the up ad down quarks have different masses?](quantum-field-theory.md#why-do-the-up-ad-down-quarks-have-different-masses)
+              - [Strange quark](quantum-field-theory.md#strange-quark)
+              - [Gluon](quantum-field-theory.md#gluon)
+                - [Glueball](quantum-field-theory.md#glueball)
+              - [Proton decay](quantum-field-theory.md#proton-decay)
+              - [Strong interaction](quantum-field-theory.md#strong-interaction)
+              - [Color charge](quantum-field-theory.md#color-charge)
+              - [Color confinement](quantum-field-theory.md#color-confinement)
+            - [Quantum field theory simulations](quantum-field-theory.md#quantum-field-theory-simulations)
+              - [Nielsen-Ninomiya theorem](quantum-field-theory.md#nielsen-ninomiya-theorem)
+            - [Infinities in quantum field theory](quantum-field-theory.md#infinities-in-quantum-field-theory)
+              - [Mathematical consistency of quantum field theory](quantum-field-theory.md#mathematical-consistency-of-quantum-field-theory)
+            - [Internal and spacetime symmetries](quantum-field-theory.md#internal-and-spacetime-symmetries)
+              - [Internal symmetry](quantum-field-theory.md#internal-symmetry)
+              - [Spacetime symmetry](quantum-field-theory.md#spacetime-symmetry)
+            - [Quantum field theory bibliography](quantum-field-theory.md#quantum-field-theory-bibliography)
+              - [Quantum field theory lecture notes](quantum-field-theory.md#quantum-field-theory-lecture-notes)
+                - [An Introduction to QED and QCD by Jeff Forshaw (1997)](quantum-field-theory.md#an-introduction-to-qed-and-qcd-by-jeff-forshaw-1997)
+                - [Quantum Field Theory lecture notes by David Tong (2007)](quantum-field-theory.md#quantum-field-theory-lecture-notes-by-david-tong-2007)
+                - [Quantum Field Theory book by Mark Srednicki (2006)](quantum-field-theory.md#quantum-field-theory-book-by-mark-srednicki-2006)
+              - [Quantum field theory lectures](quantum-field-theory.md#quantum-field-theory-lectures)
+                - [Relativistic Quantum Mechanics by Apoorva D Patel (2014)](quantum-field-theory.md#relativistic-quantum-mechanics-by-apoorva-d-patel-2014)
+                - [New Revolutions in Particle Physics by Leonard Susskind (2009)](quantum-field-theory.md#new-revolutions-in-particle-physics-by-leonard-susskind-2009)
+                - [David Tong's 2009 Quantum Field Theory lectures at the Perimeter Institute](quantum-field-theory.md#david-tong-s-2009-quantum-field-theory-lectures-at-the-perimeter-institute)
+                  - [Lecture 1](quantum-field-theory.md#david-tong-s-2009-quantum-field-theory-lectures-at-the-perimeter-institute/lecture-1)
+                - [Quantum field theory courses by Tobias Osborne](quantum-field-theory.md#quantum-field-theory-courses-by-tobias-osborne)
+                  - [Quantum field theory lecture by Tobias Osborne (2017)](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017)
+                    - [Lecture 1](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-1)
+                    - [Lecture 2](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-2)
+                    - [Lecture 3](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-3)
+                    - [Lecture 4](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-4)
+                    - [Lecture 5](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-5)
+                    - [Lecture 8](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-8)
+                    - [Lecture 9](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-9)
+                    - [Lecture 14](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-14)
+                    - [Lecture 15](quantum-field-theory.md#quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-15)
+                  - [Advanced quantum field theory lecture by Tobias Osborne (2017)](quantum-field-theory.md#advanced-quantum-field-theory-lecture-by-tobias-osborne-2017)
+                    - [Lecture 2](quantum-field-theory.md#advanced-quantum-field-theory-lecture-by-tobias-osborne-2017/lecture-2)
+              - [Quantum field theory book](quantum-field-theory.md#quantum-field-theory-book)
+                - [No-Nonsense Quantum Field Theory by Jakob Schwichtenberg (2020)](quantum-field-theory.md#no-nonsense-quantum-field-theory-by-jakob-schwichtenberg-2020)
+                - [Quantum Field Theory for The Gifted Amateur by Tom Lancaster (2015)](quantum-field-theory.md#quantum-field-theory-for-the-gifted-amateur-by-tom-lancaster-2015)
+                - [Student Friendly Quantum Field Theory by Robert D Klauber (2013)](quantum-field-theory.md#student-friendly-quantum-field-theory-by-robert-d-klauber-2013)
+                - [Quantum field theory in a nutshell by Anthony Zee (2010)](quantum-field-theory.md#quantum-field-theory-in-a-nutshell-by-anthony-zee-2010)
+                - [Problem Book in Quantum Field Theory by Voja Radovanovic (2008)](quantum-field-theory.md#problem-book-in-quantum-field-theory-by-voja-radovanovic-2008)
+                - [Quantum Field Theory Demystified by David McMahon (2008)](quantum-field-theory.md#quantum-field-theory-demystified-by-david-mcmahon-2008)
+                - [An Introduction To Quantum Field Theory by Peskin and Schroeder (1995)](quantum-field-theory.md#an-introduction-to-quantum-field-theory-by-peskin-and-schroeder-1995)
+        - [Quantization (physics)](quantum-mechanics.md#quantization-physics)
+          - [Quantization of a real scalar field](quantum-mechanics.md#quantization-of-a-real-scalar-field)
+        - [Quantum superposition](quantum-mechanics.md#quantum-superposition)
+        - [Quantum entanglement](quantum-mechanics.md#quantum-entanglement)
+          - [Bell's theorem](quantum-mechanics.md#bell-s-theorem)
+            - [Bell test experiment](quantum-mechanics.md#bell-test-experiment)
+              - [Loopholes in Bell test experiments](quantum-mechanics.md#loopholes-in-bell-test-experiments)
+            - [Local hidden-variable theory](quantum-mechanics.md#local-hidden-variable-theory)
+        - [No-go theorem](quantum-mechanics.md#no-go-theorem)
+      - [Experimental particle physics](particle-physics.md#experimental-particle-physics)
+        - [Cross section (physics)](particle-physics.md#cross-section-physics)
+          - [Barn (unit)](particle-physics.md#barn-unit)
+        - [Particle detector](particle-physics.md#particle-detector)
+          - [Cloud chamber](particle-physics.md#cloud-chamber)
+          - [Bubble chamber](particle-physics.md#bubble-chamber)
+        - [Particle accelerator](particle-physics.md#particle-accelerator)
+          - [Particle accelerator facility](particle-physics.md#particle-accelerator-facility)
+            - [CERN](particle-physics.md#cern)
+              - [CERN experiment](particle-physics.md#cern-experiment)
+                - [Large Hadron Collider](particle-physics.md#large-hadron-collider)
+            - [Superconducting Super Collider](particle-physics.md#superconducting-super-collider)
+          - [Synchrotron](particle-physics.md#synchrotron)
+            - [Cyclotron](particle-physics.md#cyclotron)
+              - [Landau quantization](particle-physics.md#landau-quantization)
+                - [Landau level](particle-physics.md#landau-level)
+      - [Nuclear physics](particle-physics.md#nuclear-physics)
+        - [History of nuclear physics](particle-physics.md#history-of-nuclear-physics)
+        - [Nuclear binding energy](particle-physics.md#nuclear-binding-energy)
+          - [Semi-empirical mass formula](particle-physics.md#semi-empirical-mass-formula)
+        - [Atomic nucleus](particle-physics.md#atomic-nucleus)
+          - [Nucleon](particle-physics.md#nucleon)
+          - [Nuclear force](particle-physics.md#nuclear-force)
+        - [Nuclear reaction](particle-physics.md#nuclear-reaction)
+          - [Nuclear fission](particle-physics.md#nuclear-fission)
+            - [Neutron temperature](particle-physics.md#neutron-temperature)
+              - [Fast neutron](particle-physics.md#fast-neutron)
+              - [Thermal neutron](particle-physics.md#thermal-neutron)
+                - [Neutron moderation](particle-physics.md#neutron-moderation)
+              - [Slow neutron](particle-physics.md#slow-neutron)
+            - [Fissile material](particle-physics.md#fissile-material)
+            - [Nuclear chain reaction](particle-physics.md#nuclear-chain-reaction)
+              - [Nuclear reactor](particle-physics.md#nuclear-reactor)
+                - [Breeder reactor](particle-physics.md#breeder-reactor)
+          - [Neutron capture](particle-physics.md#neutron-capture)
+            - [Neutron cross section](particle-physics.md#neutron-cross-section)
+          - [Radioactive decay](particle-physics.md#radioactive-decay)
+            - [Type of radioactive decay](particle-physics.md#type-of-radioactive-decay)
+              - [Alpha decay](particle-physics.md#alpha-decay)
+                - [Cluster decay](particle-physics.md#cluster-decay)
+                - [Spontaneous fission](particle-physics.md#spontaneous-fission)
+                - [Alpha particle](particle-physics.md#alpha-particle)
+                  - [Alpha particles have low penetration depth](particle-physics.md#alpha-particles-have-low-penetration-depth)
+                  - [Geiger-Nuttall law](particle-physics.md#geiger-nuttall-law)
+              - [Beta decay](particle-physics.md#beta-decay)
+              - [Gamma ray](particle-physics.md#gamma-ray)
+                - [Nuclear isomer](particle-physics.md#nuclear-isomer)
+                - [Gamma spectroscopy](particle-physics.md#gamma-spectroscopy)
+                  - [Do all gamma rays have the same energy during a given nuclear reaction?](particle-physics.md#do-all-gamma-rays-have-the-same-energy-during-a-given-nuclear-reaction)
+            - [Decay chain](particle-physics.md#decay-chain)
+            - [Decay scheme](particle-physics.md#decay-scheme)
+            - [Half-life](particle-physics.md#half-life)
+        - [Isotope](particle-physics.md#isotope)
+          - [Isotope separation](particle-physics.md#isotope-separation)
+            - [Gaseous diffusion](particle-physics.md#gaseous-diffusion)
+            - [Gas centrifuge](particle-physics.md#gas-centrifuge)
+        - [Nuclear magnetic moment](particle-physics.md#nuclear-magnetic-moment)
+          - [Nuclear magnetic resonance](particle-physics.md#nuclear-magnetic-resonance)
+            - [History of NMR](particle-physics.md#history-of-nmr)
+              - [Rabi's NMR experiment](particle-physics.md#rabi-s-nmr-experiment)
+                - [Rabi resonance method](particle-physics.md#rabi-resonance-method)
+            - [Larmor precession](particle-physics.md#larmor-precession)
+              - [Larmor frequency](particle-physics.md#larmor-frequency)
+            - [Nuclear magnetic resonance spectroscopy](particle-physics.md#nuclear-magnetic-resonance-spectroscopy)
+            - [Magnetic resonance imaging](particle-physics.md#magnetic-resonance-imaging)
+            - [NMR vendor](particle-physics.md#nmr-vendor)
+              - [Bruker Corporation](particle-physics.md#bruker-corporation)
+        - [Nuclear weapon](nuclear-weapon.md)
+          - [Fission weapon](nuclear-weapon.md#fission-weapon)
+            - [Fission weapon by geometry](nuclear-weapon.md#fission-weapon-by-geometry)
+              - [Gun-type fission weapon](nuclear-weapon.md#gun-type-fission-weapon)
+                - [Gun-type fission weapons don't work with plutonium](nuclear-weapon.md#gun-type-fission-weapons-don-t-work-with-plutonium)
+              - [Implosion-type fission weapon](nuclear-weapon.md#implosion-type-fission-weapon)
+                - [RaLa Experiment](nuclear-weapon.md#rala-experiment)
+            - [Boosted fission weapon](nuclear-weapon.md#boosted-fission-weapon)
+            - [Pit (nuclear weapon)](nuclear-weapon.md#pit-nuclear-weapon)
+          - [Thermonuclear weapon](nuclear-weapon.md#thermonuclear-weapon)
+            - [Mark 17 nuclear bomb](nuclear-weapon.md#mark-17-nuclear-bomb)
+          - [Low-background steel](nuclear-weapon.md#low-background-steel)
+          - [Nuclear weapon design](nuclear-weapon.md#nuclear-weapon-design)
+            - [Physics package (nuclear weapon)](nuclear-weapon.md#physics-package-nuclear-weapon)
+          - [Fizzle (nuclear explosion)](nuclear-weapon.md#fizzle-nuclear-explosion)
+          - [Weapons-grade nuclear material](nuclear-weapon.md#weapons-grade-nuclear-material)
+          - [Nuclear site](nuclear-weapon.md#nuclear-site)
+          - [Nuclear weapons testing](nuclear-weapon.md#nuclear-weapons-testing)
+            - [Nuclear weapon test](nuclear-weapon.md#nuclear-weapon-test)
+            - [Nuclear weapon detonation](nuclear-weapon.md#nuclear-weapon-detonation)
+              - [Atomic bombings of Hiroshima and Nagasaki](nuclear-weapon.md#atomic-bombings-of-hiroshima-and-nagasaki)
+          - [Nuclear weapons program](nuclear-weapon.md#nuclear-weapons-program)
+            - [American nuclear weapons program](nuclear-weapon.md#american-nuclear-weapons-program)
+              - [American plutonium production](nuclear-weapon.md#american-plutonium-production)
+              - [American nuclear weapon facility](nuclear-weapon.md#american-nuclear-weapon-facility)
+                - [Hanford site](nuclear-weapon.md#hanford-site)
+                  - [B Reactor](nuclear-weapon.md#b-reactor)
+                - [Savannah River site](nuclear-weapon.md#savannah-river-site)
+                - [Pantex](nuclear-weapon.md#pantex)
+              - [Nuclear football](nuclear-weapon.md#nuclear-football)
+              - [Manhattan Project](nuclear-weapon.md#manhattan-project)
+                - [Einstein-Szilard letter](nuclear-weapon.md#einstein-szilard-letter)
+                - [Chicago Pile-1](nuclear-weapon.md#chicago-pile-1)
+                  - [Metallurgical Laboratory](nuclear-weapon.md#metallurgical-laboratory)
+                - [Trinity (nuclear test)](nuclear-weapon.md#trinity-nuclear-test)
+            - [British nuclear weapons program](nuclear-weapon.md#british-nuclear-weapons-program)
+              - [Atomic Weapons Establishment](nuclear-weapon.md#atomic-weapons-establishment)
+                - [AWE Aldermaston](nuclear-weapon.md#awe-aldermaston)
+            - [French nuclear weapons program](nuclear-weapon.md#french-nuclear-weapons-program)
+            - [German nuclear weapons program](nuclear-weapon.md#german-nuclear-weapons-program)
+          - [Nuclear weapon delivery](nuclear-weapon.md#nuclear-weapon-delivery)
+            - [Nuclear triad](nuclear-weapon.md#nuclear-triad)
+            - [Intercontinental ballistic missile](nuclear-weapon.md#intercontinental-ballistic-missile)
+              - [American Intercontinental ballistic missile](nuclear-weapon.md#american-intercontinental-ballistic-missile)
+                - [LGM-30 Minuteman](nuclear-weapon.md#lgm-30-minuteman)
+                  - [Hardened Intersite Cable System](nuclear-weapon.md#hardened-intersite-cable-system)
+            - [Multiple independently targetable reentry vehicle](nuclear-weapon.md#multiple-independently-targetable-reentry-vehicle)
+          - [Salted bomb](nuclear-weapon.md#salted-bomb)
+            - [Cobalt bomb](nuclear-weapon.md#cobalt-bomb)
+          - [Tactical and strategic nuclear weapons](nuclear-weapon.md#tactical-and-strategic-nuclear-weapons)
+            - [Strategic nuclear weapon](nuclear-weapon.md#strategic-nuclear-weapon)
+            - [Tactical nuclear weapon](nuclear-weapon.md#tactical-nuclear-weapon)
+          - [Variable yield](nuclear-weapon.md#variable-yield)
+          - [List of nuclear weapons](nuclear-weapon.md#list-of-nuclear-weapons)
+            - [Fat Man](nuclear-weapon.md#fat-man)
+            - [Little Boy](nuclear-weapon.md#little-boy)
+            - [Nuclear strategy](nuclear-weapon.md#nuclear-strategy)
+      - [History of particle physics](particle-physics.md#history-of-particle-physics)
+        - [The Harvest of a Century by Siegmund Brandt (2008)](particle-physics.md#the-harvest-of-a-century-by-siegmund-brandt-2008)
+        - [Inward Bound by Abraham Pais (1988)](particle-physics.md#inward-bound-by-abraham-pais-1988)
+      - [Radiation](particle-physics.md#radiation)
+        - [Penetration of radiation](particle-physics.md#penetration-of-radiation)
+      - [Particle physics bibliography](particle-physics.md#particle-physics-bibliography)
+        - [PBS Space Time](particle-physics.md#pbs-space-time)
+        - [2011 PHYS 485 lecture videos by Roger Moore from the University of Alberta](particle-physics.md#2011-phys-485-lecture-videos-by-roger-moore-from-the-university-of-alberta)
+        - [Particle physics YouTube channel](particle-physics.md#particle-physics-youtube-channel)
+          - [Andrew Dotson YouTube channel](particle-physics.md#andrew-dotson-youtube-channel)
+            - [Andrew Dotson](particle-physics.md#andrew-dotson)
+          - [Dietterich Labs](particle-physics.md#dietterich-labs)
+          - [Pretty Much Physics](particle-physics.md#pretty-much-physics)
+          - [ViaScience](particle-physics.md#viascience)
+          - [Physics Videos by Eugene Khutoryansky](particle-physics.md#physics-videos-by-eugene-khutoryansky)
+            - [Eugene Khutoryansky](particle-physics.md#eugene-khutoryansky)
+          - [Don Lincoln](particle-physics.md#don-lincoln)
+    - [Energy](physics.md#energy)
+      - [Unit of measurement for energy](physics.md#unit-of-measurement-for-energy)
+        - [Joule](physics.md#joule)
+        - [Watt](physics.md#watt)
+      - [Conservation of energy](physics.md#conservation-of-energy)
+      - [Potential energy](physics.md#potential-energy)
+        - [Potential barrier](physics.md#potential-barrier)
+      - [Kinetic energy](physics.md#kinetic-energy)
+        - [Why kinetic energy is $mv^2/2$?](physics.md#why-kinetic-energy-is-mv-2-2)
+      - [Work (physics)](physics.md#work-physics)
+        - [Why work is force times distance?](physics.md#why-work-is-force-times-distance)
+    - [Experimental physics](physics.md#experimental-physics)
+      - [Theoretical physics](physics.md#theoretical-physics)
+    - [Field (physics)](physics.md#field-physics)
+      - [Principle of locality](physics.md#principle-of-locality)
+        - [Causality](physics.md#causality)
+          - [Causality in quantum mechanics](physics.md#causality-in-quantum-mechanics)
+            - [Causality and quantum jumps are incompatible](physics.md#causality-and-quantum-jumps-are-incompatible)
+    - [Law of physics](physics.md#law-of-physics)
+    - [History of physics](physics.md#history-of-physics)
+      - [Abraham Pais Prize for History of Physics](physics.md#abraham-pais-prize-for-history-of-physics)
+    - [Condensed matter physics](condensed-matter-physics.md)
+      - [Atomic, Molecular and Optical Physics](condensed-matter-physics.md#atomic-molecular-and-optical-physics)
+        - [Molecular beam](condensed-matter-physics.md#molecular-beam)
+      - [Solid-state physics](condensed-matter-physics.md#solid-state-physics)
+        - [Crystallography](condensed-matter-physics.md#crystallography)
+          - [Crystal system](condensed-matter-physics.md#crystal-system)
+          - [Point group](condensed-matter-physics.md#point-group)
+            - [Point groups in two dimensions](condensed-matter-physics.md#point-groups-in-two-dimensions)
+            - [Point groups in three dimensions](condensed-matter-physics.md#point-groups-in-three-dimensions)
+            - [Crystallographic restriction theorem](condensed-matter-physics.md#crystallographic-restriction-theorem)
+          - [Bravais lattice](condensed-matter-physics.md#bravais-lattice)
+          - [Crystal](condensed-matter-physics.md#crystal)
+        - [Topological insulator](condensed-matter-physics.md#topological-insulator)
+          - [Topology in condensed matter](condensed-matter-physics.md#topology-in-condensed-matter)
+      - [Electronic band theory](condensed-matter-physics.md#electronic-band-theory)
+        - [Direct and indirect band gaps](condensed-matter-physics.md#direct-and-indirect-band-gaps)
+      - [Electrical resistivity and conductivity](condensed-matter-physics.md#electrical-resistivity-and-conductivity)
+        - [Electrical reactance](condensed-matter-physics.md#electrical-reactance)
+          - [Electrical impedance](condensed-matter-physics.md#electrical-impedance)
+        - [Four-terminal sensing](condensed-matter-physics.md#four-terminal-sensing)
+        - [Dependence of electrical resistivity on tempreature](condensed-matter-physics.md#dependence-of-electrical-resistivity-on-tempreature)
+          - [Kondo effect](condensed-matter-physics.md#kondo-effect)
+        - [Semiconductor](condensed-matter-physics.md#semiconductor)
+          - [Doping (semiconductor)](condensed-matter-physics.md#doping-semiconductor)
+          - [Type of semiconductor](condensed-matter-physics.md#type-of-semiconductor)
+            - [III-V semiconductor](condensed-matter-physics.md#iii-v-semiconductor)
+        - [Superconductivity](condensed-matter-physics.md#superconductivity)
+          - [Superconductor resistivity experiment video](condensed-matter-physics.md#superconductor-resistivity-experiment-video)
+          - [Superconductor coil experiment video](condensed-matter-physics.md#superconductor-coil-experiment-video)
+          - [Superconductivity is a a form of superfluidity](condensed-matter-physics.md#superconductivity-is-a-a-form-of-superfluidity)
+          - [Cooper pair](condensed-matter-physics.md#cooper-pair)
+          - [Superconducting temperature](condensed-matter-physics.md#superconducting-temperature)
+          - [Superconducting phase diagram](condensed-matter-physics.md#superconducting-phase-diagram)
+          - [Type of superconductor](condensed-matter-physics.md#type-of-superconductor)
+            - [Type-I superconductor](condensed-matter-physics.md#type-i-superconductor)
+            - [Type-II superconductor](condensed-matter-physics.md#type-ii-superconductor)
+            - [High-temperature superconductivity](condensed-matter-physics.md#high-temperature-superconductivity)
+              - [Room temperature superconductor](condensed-matter-physics.md#room-temperature-superconductor)
+                - [Resonating valence bond theory](condensed-matter-physics.md#resonating-valence-bond-theory)
+                - [Room temperature and pressure superconductor](condensed-matter-physics.md#room-temperature-and-pressure-superconductor)
+                  - [LK-99](condensed-matter-physics.md#lk-99)
+              - [List of High-temperature superconductors](condensed-matter-physics.md#list-of-high-temperature-superconductors)
+                - [Yttrium barium copper oxide](condensed-matter-physics.md#yttrium-barium-copper-oxide)
+                - [Bismuth strontium calcium copper oxide](condensed-matter-physics.md#bismuth-strontium-calcium-copper-oxide)
+          - [Superconducting material](condensed-matter-physics.md#superconducting-material)
+          - [Applications of superconductivity](condensed-matter-physics.md#applications-of-superconductivity)
+            - [Most important superconductor material](condensed-matter-physics.md#most-important-superconductor-material)
+          - [Superconductor I-V curve](condensed-matter-physics.md#superconductor-i-v-curve)
+            - [Do superconductors carry infinite current?](condensed-matter-physics.md#do-superconductors-carry-infinite-current)
+          - [BCS Theory](condensed-matter-physics.md#bcs-theory)
+          - [Josephson effect](condensed-matter-physics.md#josephson-effect)
+            - [History of the Josephson effect](condensed-matter-physics.md#history-of-the-josephson-effect)
+              - [Possible new effects in superconductive tunnelling](condensed-matter-physics.md#possible-new-effects-in-superconductive-tunnelling)
+              - [Probable observation of the Josephson superconducting tunneling effect](condensed-matter-physics.md#probable-observation-of-the-josephson-superconducting-tunneling-effect)
+            - [Josephson effect regime](condensed-matter-physics.md#josephson-effect-regime)
+              - [DC Josephson effect](condensed-matter-physics.md#dc-josephson-effect)
+              - [AC Josephson effect](condensed-matter-physics.md#ac-josephson-effect)
+              - [Inverse AC Josephson effect](condensed-matter-physics.md#inverse-ac-josephson-effect)
+                - [Shapiro steps](condensed-matter-physics.md#shapiro-steps)
+            - [Josephson equations](condensed-matter-physics.md#josephson-equations)
+              - [Josephson current](condensed-matter-physics.md#josephson-current)
+              - [Josephson phase](condensed-matter-physics.md#josephson-phase)
+            - [Josephson junction](condensed-matter-physics.md#josephson-junction)
+              - [Pi Josephson junction](condensed-matter-physics.md#pi-josephson-junction)
+            - [Magnetic flux quantum](condensed-matter-physics.md#magnetic-flux-quantum)
+              - [Experimental Evidence for Quantized Flux in Superconducting Cylinders](condensed-matter-physics.md#experimental-evidence-for-quantized-flux-in-superconducting-cylinders)
+              - [Josephson constant](condensed-matter-physics.md#josephson-constant)
+            - [Symmetry breaking in superconductors](condensed-matter-physics.md#symmetry-breaking-in-superconductors)
+            - [Applications of Josephson Junctions](condensed-matter-physics.md#applications-of-josephson-junctions)
+              - [Josephson voltage standard](condensed-matter-physics.md#josephson-voltage-standard)
+              - [SQUID device](condensed-matter-physics.md#squid-device)
+                - [DC SQUID](condensed-matter-physics.md#dc-squid)
+      - [Superconducting tunnel junction](condensed-matter-physics.md#superconducting-tunnel-junction)
+      - [Superfluidity](condensed-matter-physics.md#superfluidity)
+      - [State of matter](condensed-matter-physics.md#state-of-matter)
+        - [High pressure](condensed-matter-physics.md#high-pressure)
+      - [List of states of matter](condensed-matter-physics.md#list-of-states-of-matter)
+        - [Solid](condensed-matter-physics.md#solid)
+        - [Liquid](condensed-matter-physics.md#liquid)
+        - [Gas](condensed-matter-physics.md#gas)
+          - [Fermi gas](condensed-matter-physics.md#fermi-gas)
+            - [Electron gas](condensed-matter-physics.md#electron-gas)
+              - [Two-dimensional electron gas](condensed-matter-physics.md#two-dimensional-electron-gas)
+                - [Laughlin wavefunction](condensed-matter-physics.md#laughlin-wavefunction)
+            - [1D Fermi gas](condensed-matter-physics.md#1d-fermi-gas)
+              - [Impenetrable Bose Gas](condensed-matter-physics.md#impenetrable-bose-gas)
+        - [Bose-Einstein condensate](condensed-matter-physics.md#bose-einstein-condensate)
+      - [Materials science](condensed-matter-physics.md#materials-science)
+        - [Type of material](condensed-matter-physics.md#type-of-material)
+          - [Glass](condensed-matter-physics.md#glass)
+          - [Quantum dot](condensed-matter-physics.md#quantum-dot)
+            - [Quantum dot single photon source](condensed-matter-physics.md#quantum-dot-single-photon-source)
+          - [Metal](condensed-matter-physics.md#metal)
+            - [Field electron emission](condensed-matter-physics.md#field-electron-emission)
+            - [Alloy](condensed-matter-physics.md#alloy)
+              - [Binary alloy](condensed-matter-physics.md#binary-alloy)
+            - [Metallurgy](condensed-matter-physics.md#metallurgy)
+              - [Ingot](condensed-matter-physics.md#ingot)
+          - [Polymer](condensed-matter-physics.md#polymer)
+            - [Plastic](condensed-matter-physics.md#plastic)
+        - [Material property](condensed-matter-physics.md#material-property)
+          - [Material property database](condensed-matter-physics.md#material-property-database)
+            - [Open material property database](condensed-matter-physics.md#open-material-property-database)
+              - [The Materials Project](condensed-matter-physics.md#the-materials-project)
+          - [Density](condensed-matter-physics.md#density)
+          - [Magnet](condensed-matter-physics.md#magnet)
+            - [Permanent magnet](condensed-matter-physics.md#permanent-magnet)
+              - [Curie temperature](condensed-matter-physics.md#curie-temperature)
+              - [Ferromagnetism](condensed-matter-physics.md#ferromagnetism)
+                - [Magnetic hysteresis](condensed-matter-physics.md#magnetic-hysteresis)
+                  - [Saturation magnetisation](condensed-matter-physics.md#saturation-magnetisation)
+            - [Electromagnet](condensed-matter-physics.md#electromagnet)
+              - [Electromagnetic coil](condensed-matter-physics.md#electromagnetic-coil)
+              - [Solenoid](condensed-matter-physics.md#solenoid)
+              - [Lifting electromagnet](condensed-matter-physics.md#lifting-electromagnet)
+                - [Breaking Bad magnet scene](condensed-matter-physics.md#breaking-bad-magnet-scene)
+            - [Ising model](condensed-matter-physics.md#ising-model)
+              - [Solution of the Ising model](condensed-matter-physics.md#solution-of-the-ising-model)
+              - [1D Ising model](condensed-matter-physics.md#1d-ising-model)
+              - [2D Ising model](condensed-matter-physics.md#2d-ising-model)
+              - [3D Ising model](condensed-matter-physics.md#3d-ising-model)
+            - [Magnetic dipole](condensed-matter-physics.md#magnetic-dipole)
+              - [Magnetic dipole moment](condensed-matter-physics.md#magnetic-dipole-moment)
+              - [Interaction between a magnetic dipole and a magnetic field](condensed-matter-physics.md#interaction-between-a-magnetic-dipole-and-a-magnetic-field)
+                - [Interaction between a magnetic dipole and a homogenous magnetic field](condensed-matter-physics.md#interaction-between-a-magnetic-dipole-and-a-homogenous-magnetic-field)
+                - [Magnetic dipole in an inhomogenous magnetic field](condensed-matter-physics.md#magnetic-dipole-in-an-inhomogenous-magnetic-field)
+            - [Compass](condensed-matter-physics.md#compass)
+              - [Water compass](condensed-matter-physics.md#water-compass)
+            - [Superconducting magnet](condensed-matter-physics.md#superconducting-magnet)
+              - [Superconducting magnet vendor](condensed-matter-physics.md#superconducting-magnet-vendor)
+                - [Oxford Instruments](condensed-matter-physics.md#oxford-instruments)
+              - [High temperature superconductor superconducting magnet](condensed-matter-physics.md#high-temperature-superconductor-superconducting-magnet)
+          - [Optical material property](condensed-matter-physics.md#optical-material-property)
+            - [Black-body radiation](condensed-matter-physics.md#black-body-radiation)
+              - [Planck's law](condensed-matter-physics.md#planck-s-law)
+                - [Wien approximation](condensed-matter-physics.md#wien-approximation)
+                - [Rayleigh-Jeans law](condensed-matter-physics.md#rayleigh-jeans-law)
+              - [Black-body radiation experiment](condensed-matter-physics.md#black-body-radiation-experiment)
+              - [Ultraviolet catastrophe](condensed-matter-physics.md#ultraviolet-catastrophe)
+            - [Transparency (electromagnetic radiation)](condensed-matter-physics.md#transparency-electromagnetic-radiation)
+              - [Absorption (electromagnetic radiation)](condensed-matter-physics.md#absorption-electromagnetic-radiation)
+          - [Piezoelectricity](condensed-matter-physics.md#piezoelectricity)
+            - [Piezoelectric actuator](condensed-matter-physics.md#piezoelectric-actuator)
+              - [Piezoelectric motor](condensed-matter-physics.md#piezoelectric-motor)
+            - [Piezo ignition](condensed-matter-physics.md#piezo-ignition)
+          - [Photoluminescence](condensed-matter-physics.md#photoluminescence)
+            - [Fluorescence](condensed-matter-physics.md#fluorescence)
+              - [Fluorometer](condensed-matter-physics.md#fluorometer)
+              - [Phosphorescence](condensed-matter-physics.md#phosphorescence)
+          - [Specific heat capacity](condensed-matter-physics.md#specific-heat-capacity)
+            - [Einstein solid](condensed-matter-physics.md#einstein-solid)
+              - [Dulong-Petit law](condensed-matter-physics.md#dulong-petit-law)
+            - [Debye model](condensed-matter-physics.md#debye-model)
+          - [Viscosity](condensed-matter-physics.md#viscosity)
+            - [Pitch drop experiment](condensed-matter-physics.md#pitch-drop-experiment)
+      - [Laser](condensed-matter-physics.md#laser)
+        - [History of the laser](condensed-matter-physics.md#history-of-the-laser)
+          - [The History of the Laser by Mario Bertolotti](condensed-matter-physics.md#the-history-of-the-laser-by-mario-bertolotti)
+        - [Laser spectrum](condensed-matter-physics.md#laser-spectrum)
+          - [Laser linewidth](condensed-matter-physics.md#laser-linewidth)
+          - [Laser gain curve](condensed-matter-physics.md#laser-gain-curve)
+        - [Lasers vs other light sources](condensed-matter-physics.md#lasers-vs-other-light-sources)
+          - [Lasers emit a narrow spectrum](condensed-matter-physics.md#lasers-emit-a-narrow-spectrum)
+            - [Laser spectrum vs LED spectrum](condensed-matter-physics.md#laser-spectrum-vs-led-spectrum)
+          - [Why can't you collimate incoherent light as well as a laser?](condensed-matter-physics.md#why-can-t-you-collimate-incoherent-light-as-well-as-a-laser)
+        - [Type of laser](condensed-matter-physics.md#type-of-laser)
+          - [Maser](condensed-matter-physics.md#maser)
+          - [Fiber laser](condensed-matter-physics.md#fiber-laser)
+          - [Gas laser](condensed-matter-physics.md#gas-laser)
+          - [Laser diode](condensed-matter-physics.md#laser-diode)
+            - [Laser pointer](condensed-matter-physics.md#laser-pointer)
+          - [Three-level laser](condensed-matter-physics.md#three-level-laser)
+          - [Four-level laser](condensed-matter-physics.md#four-level-laser)
+        - [Are lasers polarized](condensed-matter-physics.md#are-lasers-polarized)
+        - [Optical tweezers](condensed-matter-physics.md#optical-tweezers)
+          - [Laser cooling](condensed-matter-physics.md#laser-cooling)
+        - [Population inversion](condensed-matter-physics.md#population-inversion)
+        - [Pulsed laser](condensed-matter-physics.md#pulsed-laser)
+        - [Laser vendor](condensed-matter-physics.md#laser-vendor)
+          - [Coherent, Inc.](condensed-matter-physics.md#coherent-inc)
+      - [Quasiparticle](condensed-matter-physics.md#quasiparticle)
+        - [Quasiparticles vs elementary particles](condensed-matter-physics.md#quasiparticles-vs-elementary-particles)
+      - [History of condensed matter physics](condensed-matter-physics.md#history-of-condensed-matter-physics)
+      - [Condensed matter Physics bibliography](condensed-matter-physics.md#condensed-matter-physics-bibliography)
+        - [Condensed matter university course](condensed-matter-physics.md#condensed-matter-university-course)
+          - [Theories of Quantum Matter by Austen Lamacraft](theories-of-quantum-matter-by-austen-lamacraft.md)
+            - [Many Body Wavefunctions](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions)
+              - [Bosons and Fermions](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/bosons-and-fermions)
+                - [Two Particles](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/two-particles)
+                - [Product States](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/product-states)
+              - [The 1D Fermi Gas](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/the-1d-fermi-gas)
+                - [Ground State](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/1d-fermi-gas-ground-state)
+                - [Density; Density Matrix; Pair Distribution](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/1d-fermi-gas-density)
+                - [Impenetrable Bose Gas](theories-of-quantum-matter-by-austen-lamacraft.md#many-body-wavefunctions/impenetrable-bose-gas)
+            - [Quantum Hall Effect](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect)
+              - [Fractional Quantum Hall Effect](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/fractional-quantum-hall-effect)
+                - [Landau Levels](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/landau-levels)
+                  - [Lowest Landau level](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/lowest-landau-level)
+                    - [Filled LLL of Fermions](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/filled-lll-of-fermions)
+                - [The Laughlin Wavefunction](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/the-laughlin-wavefunction)
+                - [The Plasma Analogy](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/the-plasma-analogy)
+                - [Fractional Charge](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/fractional-charge)
+                - [Fractional Statistics](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/fractional-statistics)
+              - [Appendix](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/quantum-hall-effect-appendix)
+                - [Sampling from a complex wavefunction](theories-of-quantum-matter-by-austen-lamacraft.md#quantum-hall-effect/sampling-from-a-complex-wavefunction)
+            - [The Elastic Chain](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain)
+              - [The Classical System](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/the-classical-system)
+                - [Equations of Motion](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/equations-of-motion)
+                - [Hamiltonian Formulation](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/hamiltonian-formulation)
+                - [Complex Coordinates](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/complex-coordinates)
+              - [Quantum Oscillators](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/quantum-oscillators)
+                - [The Quantum Chain](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/the-quantum-chain)
+                - [Oscillator Quanta are Bosons!](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/oscillator-quanta-are-bosons)
+                - [Thermodynamic ($N \to \infty$) limit](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/thermodynamic-n-to-infty-limit)
+                - [Finite Temperature](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/finite-temperature)
+                - [Position Fluctuations](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/position-fluctuations)
+                - [Density Fluctuations](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/density-fluctuations)
+              - [Appendix](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/appendix)
+                - [Fourier review](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/fourier-review)
+                - [Discrete Fourier Transform](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/discrete-fourier-transform)
+                - [Properties of the Fourier Transform](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/properties-of-the-fourier-transform)
+                - [Higher dimensions](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/higher-dimensions)
+                - [Evaluating (56)](theories-of-quantum-matter-by-austen-lamacraft.md#the-elastic-chain/evaluating-56)
+          - [Course: Quantum Many-Body Physics in Condensed Matter by Luis Gregorio Dias (2020)](condensed-matter-physics.md#course-quantum-many-body-physics-in-condensed-matter-by-luis-gregorio-dias-2020)
+    - [Statistical physics](statistical-physics.md)
+      - [Statistical mechanics](statistical-physics.md#statistical-mechanics)
+        - [Kinetic theory of gases](statistical-physics.md#kinetic-theory-of-gases)
+        - [Statistical mechanics model](statistical-physics.md#statistical-mechanics-model)
+          - [Percolation](statistical-physics.md#percolation)
+            - [Percolation theory](statistical-physics.md#percolation-theory)
+      - [Sedimentation](statistical-physics.md#sedimentation)
+      - [Maxwell-Boltzmann vs Bose-Einstein vs Fermi-Dirac statistics](statistical-physics.md#maxwell-boltzmann-vs-bose-einstein-vs-fermi-dirac-statistics)
+        - [Maxwell-Boltzmann distribution](statistical-physics.md#maxwell-boltzmann-distribution)
+          - [Maxwell-Boltzmann statistics](statistical-physics.md#maxwell-boltzmann-statistics)
+          - [Experimental verification of the Maxwell-Boltzmann distribution](statistical-physics.md#experimental-verification-of-the-maxwell-boltzmann-distribution)
+            - [Zartman Ko experiment](statistical-physics.md#zartman-ko-experiment)
+              - [Stern-Zartman experiment](statistical-physics.md#stern-zartman-experiment)
+            - [Application of the Maxwell-Boltzmann distribution](statistical-physics.md#application-of-the-maxwell-boltzmann-distribution)
+        - [Quantum statistics](statistical-physics.md#quantum-statistics)
+          - [Bose-Einstein statistics](statistical-physics.md#bose-einstein-statistics)
+          - [Fermi-Dirac statistics](statistical-physics.md#fermi-dirac-statistics)
+            - [Quantum statistical mechanics](statistical-physics.md#quantum-statistical-mechanics)
+      - [Thermodynamics](statistical-physics.md#thermodynamics)
+        - [Boltzmann constant](statistical-physics.md#boltzmann-constant)
+        - [Equipartition theorem](statistical-physics.md#equipartition-theorem)
+        - [Thermodynamic potential](statistical-physics.md#thermodynamic-potential)
+          - [Enthalpy](statistical-physics.md#enthalpy)
+          - [Gibbs free energy](statistical-physics.md#gibbs-free-energy)
+            - [Chemical equilibrium](statistical-physics.md#chemical-equilibrium)
+            - [Reversible reaction](statistical-physics.md#reversible-reaction)
+        - [Equation of state](statistical-physics.md#equation-of-state)
+          - [Ideal gas law](statistical-physics.md#ideal-gas-law)
+            - [Monatomic gas](statistical-physics.md#monatomic-gas)
+        - [Entropy](statistical-physics.md#entropy)
+          - [Clausius entropy](statistical-physics.md#clausius-entropy)
+            - [Carnot cycle](statistical-physics.md#carnot-cycle)
+          - [Second law of thermodynamics](statistical-physics.md#second-law-of-thermodynamics)
+            - [Time reversibility](statistical-physics.md#time-reversibility)
+              - [Arrow of time](statistical-physics.md#arrow-of-time)
+              - [Time reversibility of classical mechanics](statistical-physics.md#time-reversibility-of-classical-mechanics)
+              - [Time reversibility of gravity](statistical-physics.md#time-reversibility-of-gravity)
+        - [Phase (matter)](statistical-physics.md#phase-matter)
+          - [List of phase transitions](statistical-physics.md#list-of-phase-transitions)
+            - [Evaporation](statistical-physics.md#evaporation)
+            - [Sublimation](statistical-physics.md#sublimation)
+          - [Phase transition](statistical-physics.md#phase-transition)
+            - [Phase diagram](statistical-physics.md#phase-diagram)
+              - [Type of phase diagram](statistical-physics.md#type-of-phase-diagram)
+                - [Temperature-pressure phase diagram](statistical-physics.md#temperature-pressure-phase-diagram)
+                - [Composition phase diagram](statistical-physics.md#composition-phase-diagram)
+                  - [Temperature-composition phase diagram](statistical-physics.md#temperature-composition-phase-diagram)
+              - [Triple point](statistical-physics.md#triple-point)
+              - [Critical point (thermodynamics)](statistical-physics.md#critical-point-thermodynamics)
+            - [Second-order phase transition](statistical-physics.md#second-order-phase-transition)
+        - [Refrigerator](statistical-physics.md#refrigerator)
+          - [Dilution refrigerator](statistical-physics.md#dilution-refrigerator)
+            - [Cryogen-free dilution refrigerator](statistical-physics.md#cryogen-free-dilution-refrigerator)
+            - [Dilution refrigerator manufacturer](statistical-physics.md#dilution-refrigerator-manufacturer)
+              - [Bluefors](statistical-physics.md#bluefors)
+        - [Temperature](statistical-physics.md#temperature)
+          - [Standard temperature and pressure](statistical-physics.md#standard-temperature-and-pressure)
+          - [Scale of temperature](statistical-physics.md#scale-of-temperature)
+            - [Kelvin](statistical-physics.md#kelvin)
+          - [Thermometer](statistical-physics.md#thermometer)
+            - [Mercury-in-glass thermometer](statistical-physics.md#mercury-in-glass-thermometer)
+        - [Vacuum](statistical-physics.md#vacuum)
+          - [Vacuum engineering](statistical-physics.md#vacuum-engineering)
+            - [Vacuum vendor](statistical-physics.md#vacuum-vendor)
+              - [Edwards Vacuum](statistical-physics.md#edwards-vacuum)
+            - [Ultra-high vacuum](statistical-physics.md#ultra-high-vacuum)
+    - [Mechanics](mechanics.md)
+      - [Angular momentum](mechanics.md#angular-momentum)
+        - [Precession](mechanics.md#precession)
+      - [Axle](mechanics.md#axle)
+      - [Classical mechanics](mechanics.md#classical-mechanics)
+        - [Classical physics](mechanics.md#classical-physics)
+          - [Classical limit](mechanics.md#classical-limit)
+            - [Correspondence principle](mechanics.md#correspondence-principle)
+      - [Continuum mechanics](mechanics.md#continuum-mechanics)
+        - [Continuity equation](mechanics.md#continuity-equation)
+        - [Diffusion](mechanics.md#diffusion)
+          - [Fick's laws of diffusion](mechanics.md#fick-s-laws-of-diffusion)
+        - [Fluid mechanics](mechanics.md#fluid-mechanics)
+          - [Fluid dynamics](mechanics.md#fluid-dynamics)
+          - [Gravity wave](mechanics.md#gravity-wave)
+          - [Navier-Stokes equations](mechanics.md#navier-stokes-equations)
+            - [Navier-Stokes existence and smoothness](mechanics.md#navier-stokes-existence-and-smoothness)
+      - [Lagrangian mechanics](mechanics.md#lagrangian-mechanics)
+        - [Lagrangian mechanics lectures by Michel van Biezen (2017)](mechanics.md#lagrangian-mechanics-lectures-by-michel-van-biezen-2017)
+        - [Action (physics)](mechanics.md#action-physics)
+          - [Stationary action principle](mechanics.md#stationary-action-principle)
+            - [Calculus of variations](mechanics.md#calculus-of-variations)
+              - [Functional](mechanics.md#functional)
+              - [Euler-Lagrange equation](mechanics.md#euler-lagrange-equation)
+                - [Equations of motion](mechanics.md#equations-of-motion)
+        - [Lagrangian](mechanics.md#lagrangian)
+          - [Lagrangian (field theory)](mechanics.md#lagrangian-field-theory)
+            - [Lagrangian density](mechanics.md#lagrangian-density)
+          - [Generalized coordinate](mechanics.md#generalized-coordinate)
+        - [Noether's theorem](mechanics.md#noether-s-theorem)
+          - [Time invariance implies energy conservation](mechanics.md#time-invariance-implies-energy-conservation)
+        - [Spontaneous symmetry breaking](mechanics.md#spontaneous-symmetry-breaking)
+        - [Hamiltonian mechanics](mechanics.md#hamiltonian-mechanics)
+          - [Lagrangian vs Hamiltonian](mechanics.md#lagrangian-vs-hamiltonian)
+          - [Phase space coordinate](mechanics.md#phase-space-coordinate)
+          - [Hamilton's equations](mechanics.md#hamilton-s-equations)
+          - [Poisson bracket](mechanics.md#poisson-bracket)
+        - [Equivalence between Lagrangian and Hamiltonian formalisms](mechanics.md#equivalence-between-lagrangian-and-hamiltonian-formalisms)
+          - [Legendre transformation](mechanics.md#legendre-transformation)
+      - [Mechanics problem](mechanics.md#mechanics-problem)
+        - [Atwood machine](mechanics.md#atwood-machine)
+          - [Compound Atwood machine](mechanics.md#compound-atwood-machine)
+        - [Elastic collision](mechanics.md#elastic-collision)
+        - [Harmonic oscillator](mechanics.md#harmonic-oscillator)
+          - [Spring-mass system](mechanics.md#spring-mass-system)
+          - [Coupled oscillators](mechanics.md#coupled-oscillators)
+        - [Pendulum](mechanics.md#pendulum)
+          - [Double pendulum](mechanics.md#double-pendulum)
+          - [Spherical pendulum](mechanics.md#spherical-pendulum)
+        - [Two-body problem](mechanics.md#two-body-problem)
+        - [Continuous mechanics problem](mechanics.md#continuous-mechanics-problem)
+          - [Mechanical resonance](mechanics.md#mechanical-resonance)
+            - [Tuning fork](mechanics.md#tuning-fork)
+      - [Mechanics vendor](mechanics.md#mechanics-vendor)
+        - [Rolls-Royce](mechanics.md#rolls-royce)
+      - [Newton's laws of motion](mechanics.md#newton-s-laws-of-motion)
+        - [Force](mechanics.md#force)
+          - [Torque](mechanics.md#torque)
+        - [Mass](mechanics.md#mass)
+      - [Point particle](mechanics.md#point-particle)
+        - [Rigid body](mechanics.md#rigid-body)
+          - [Rigid body dynamics](mechanics.md#rigid-body-dynamics)
+            - [Rigid body dynamics simulator](mechanics.md#rigid-body-dynamics-simulator)
+              - [Rigid body dynamics acceleration](mechanics.md#rigid-body-dynamics-acceleration)
+            - [2D rigid body dynamics simulator](mechanics.md#2d-rigid-body-dynamics-simulator)
+              - [Box2D](mechanics.md#box2d)
+            - [3D rigid body dynamics](mechanics.md#3d-rigid-body-dynamics)
+              - [3D rigid body dynamics simulator](mechanics.md#3d-rigid-body-dynamics-simulator)
+                - [Bullet Physics](mechanics.md#bullet-physics)
+                  - [Bullet Physics parallel execution](mechanics.md#bullet-physics-parallel-execution)
+                  - [pyBullet](mechanics.md#pybullet)
+                  - [Erwin Coumans](mechanics.md#erwin-coumans)
+                - [MuJoCo](mechanics.md#mujoco)
+                  - [MuJoCo getting started](mechanics.md#mujoco-getting-started)
+                  - [MJCF](mechanics.md#mjcf)
+                - [PhysX](mechanics.md#physx)
+              - [3D rigid body dynamics benchmark](mechanics.md#3d-rigid-body-dynamics-benchmark)
+                - [SimBenchmark](mechanics.md#simbenchmark)
+          - [Soft-body dynamics](mechanics.md#soft-body-dynamics)
+    - [Computational physics](physics.md#computational-physics)
+      - [Computational chemistry](physics.md#computational-chemistry)
+        - [Quantum chemistry](physics.md#quantum-chemistry)
+          - [Relativistic quantum chemistry](physics.md#relativistic-quantum-chemistry)
+          - [Quantum chemistry software](physics.md#quantum-chemistry-software)
+            - [PySCF](physics.md#pyscf)
+            - [Psi4](physics.md#psi4)
+        - [Quantum computing computational chemistry algorithms](physics.md#quantum-computing-computational-chemistry-algorithms)
+          - [IBM 2017 beryllium hydride ground state calculation on a quantum computer](physics.md#ibm-2017-beryllium-hydride-ground-state-calculation-on-a-quantum-computer)
+    - [Physics conference](physics.md#physics-conference)
+      - [Solvay Conference](physics.md#solvay-conference)
+        - [First Solvay Conference (1911)](physics.md#first-solvay-conference-1911)
+        - [Fifth Solvay Conference (1927)](physics.md#fifth-solvay-conference-1927)
+      - [Shelter Island Conference](physics.md#shelter-island-conference)
+        - [Pocono conference](physics.md#pocono-conference)
+    - [Physicist](physicist.md)
+      - [Abraham Pais](physicist.md#abraham-pais)
+        - [Book by Abraham Pais](physicist.md#book-by-abraham-pais)
+      - [Alain Aspect](physicist.md#alain-aspect)
+      - [Albert Einstein](physicist.md#albert-einstein)
+        - [Annus Mirabilis papers](physicist.md#annus-mirabilis-papers)
+          - [Investigations on the theory of the Brownian movement by Einstein (1905)](physicist.md#investigations-on-the-theory-of-the-brownian-movement-by-einstein-1905)
+          - [On a Heuristic Viewpoint Concerning the Production and Transformation of Light by Einstein (1905)](physicist.md#on-a-heuristic-viewpoint-concerning-the-production-and-transformation-of-light-by-einstein-1905)
+        - [Work about Einstein](physicist.md#work-about-einstein)
+          - [Subtle is the Lord by Abraham Pais (1982)](physicist.md#subtle-is-the-lord-by-abraham-pais-1982)
+      - [André-Marie Ampère](physicist.md#andre-marie-ampere)
+        - [Education of André-Marie Ampère](physicist.md#education-of-andre-marie-ampere)
+      - [Augustin-Jean Fresnel](physicist.md#augustin-jean-fresnel)
+      - [Barton Zwiebach](physicist.md#barton-zwiebach)
+      - [Brian Josephson](physicist.md#brian-josephson)
+        - [Paper by Brian Josephson](physicist.md#paper-by-brian-josephson)
+      - [Carl David Anderson](physicist.md#carl-david-anderson)
+      - [Carl Sagan](physicist.md#carl-sagan)
+        - [Work by Carl Sagan](physicist.md#work-by-carl-sagan)
+        - [We Are Made of Star-Stuff](physicist.md#we-are-made-of-star-stuff)
+      - [David Tong](physicist.md#david-tong)
+      - [Edward Witten](physicist.md#edward-witten)
+      - [Edward Teller](physicist.md#edward-teller)
+      - [Enrico Fermi](physicist.md#enrico-fermi)
+        - [Alberto Fermi](physicist.md#alberto-fermi)
+        - [Adolfo Amidei](physicist.md#adolfo-amidei)
+        - [Work about Enrico Fermi](physicist.md#work-about-enrico-fermi)
+          - [Enrico Fermi: physicist by Emilio Segrè (1970)](physicist.md#enrico-fermi-physicist-by-emilio-segre-1970)
+          - [The World Of Enrico Fermi by Harvard Project Physics (1970)](physicist.md#the-world-of-enrico-fermi-by-harvard-project-physics-1970)
+      - [Ernest Lawrence](physicist.md#ernest-lawrence)
+      - [Ernest Rutherford](physicist.md#ernest-rutherford)
+      - [Erwin Schrödinger](physicist.md#erwin-schrodinger)
+        - [Work by Erwin Schrödinger](physicist.md#work-by-erwin-schrodinger)
+          - [What is life?](physicist.md#what-is-life)
+          - [Paper by Erwin Schrödinger](physicist.md#paper-by-erwin-schrodinger)
+            - [Quantization as an Eigenvalue Problem](physicist.md#quantization-as-an-eigenvalue-problem)
+              - [Collected Papers On Wave Mechanics by Deans (1928)](physicist.md#collected-papers-on-wave-mechanics-by-deans-1928)
+      - [Ettore Majorana](physicist.md#ettore-majorana)
+        - [Majorana fermion](physicist.md#majorana-fermion)
+      - [Freeman Dyson](physicist.md#freeman-dyson)
+        - [Work by Freeman Dyson](physicist.md#work-by-freeman-dyson)
+        - [Freeman Dyson Web of Stories interview (1998)](physicist.md#freeman-dyson-web-of-stories-interview-1998)
+      - [Galileo Galilei](physicist.md#galileo-galilei)
+      - [Hans Bethe](physicist.md#hans-bethe)
+      - [Heinrich Hertz](physicist.md#heinrich-hertz)
+      - [Henri Becquerel](physicist.md#henri-becquerel)
+        - [Becquerel's rays](physicist.md#becquerel-s-rays)
+      - [Hermann Weyl](physicist.md#hermann-weyl)
+        - [Publication by Hermann Weyl](physicist.md#publication-by-hermann-weyl)
+          - [Gravity and electricity by Hermann Weyl (1918)](physicist.md#gravity-and-electricity-by-hermann-weyl-1918)
+      - [Isaac Newton](physicist.md#isaac-newton)
+        - [Philosophiæ Naturalis Principia Mathematica](physicist.md#philosophiae-naturalis-principia-mathematica)
+      - [Leo Szilard](physicist.md#leo-szilard)
+      - [Isidor Isaac Rabi](physicist.md#isidor-isaac-rabi)
+        - [Work by Isidor Rabi](physicist.md#work-by-isidor-rabi)
+          - [A New Method of Measuring Nuclear Magnetic Moment](physicist.md#a-new-method-of-measuring-nuclear-magnetic-moment)
+          - [The Molecular Beam Resonance Method for Measuring Nuclear Magnetic Moments](physicist.md#the-molecular-beam-resonance-method-for-measuring-nuclear-magnetic-moments)
+      - [Jakob Schwichtenberg](physicist.md#jakob-schwichtenberg)
+        - [Physics from Symmetry by Jakob Schwichtenberg (2015)](physicist.md#physics-from-symmetry-by-jakob-schwichtenberg-2015)
+        - [Physics Travel Guide](physicist.md#physics-travel-guide)
+      - [James Clerk Maxwell](physicist.md#james-clerk-maxwell)
+      - [Jean Baptiste Perrin](physicist.md#jean-baptiste-perrin)
+        - [Work by Jean Perrin](physicist.md#work-by-jean-perrin)
+      - [J. J. Thomson](physicist.md#j-j-thomson)
+      - [John Archibald Wheeler](physicist.md#john-archibald-wheeler)
+      - [John Bardeen](physicist.md#john-bardeen)
+        - [True Genius: The Life and Science of John Bardeen](physicist.md#true-genius-the-life-and-science-of-john-bardeen)
+      - [John C. Baez](physicist.md#john-c-baez)
+      - [John von Neumann](physicist.md#john-von-neumann)
+      - [John Rowell](physicist.md#john-rowell)
+      - [Julian Schwinger](physicist.md#julian-schwinger)
+      - [Karl Guthe Jansky](physicist.md#karl-guthe-jansky)
+      - [Leonard Susskind](physicist.md#leonard-susskind)
+        - [Lecture by Leonard Susskind](physicist.md#lecture-by-leonard-susskind)
+      - [Louis de Broglie](physicist.md#louis-de-broglie)
+      - [Lord Kelvin](physicist.md#lord-kelvin)
+        - [Nineteen Century Clouds by Lord Kelvin (1901)](physicist.md#nineteen-century-clouds-by-lord-kelvin-1901)
+      - [Luboš Motl](physicist.md#lubos-motl)
+        - [Feud between Sabine Hossenfelder and Luboš Motl](physicist.md#feud-between-sabine-hossenfelder-and-lubos-motl)
+      - [Ludwig Boltzmann](physicist.md#ludwig-boltzmann)
+      - [Marie Curie](physicist.md#marie-curie)
+        - [Find the most interesting research topic that no one is researching](physicist.md#find-the-most-interesting-research-topic-that-no-one-is-researching)
+        - [Pierre Curie](physicist.md#pierre-curie)
+        - [Publication by Marie Curie](physicist.md#publication-by-marie-curie)
+          - [On a new radioactive substance contained in pitchblende](physicist.md#on-a-new-radioactive-substance-contained-in-pitchblende)
+          - [On a new, strongly radioactive substance contained in pitchblende](physicist.md#on-a-new-strongly-radioactive-substance-contained-in-pitchblende)
+      - [Michio Kaku](physicist.md#michio-kaku)
+      - [Murray Gell-Mann](physicist.md#murray-gell-mann)
+      - [Max Planck](physicist.md#max-planck)
+        - [Work by Max Planck](physicist.md#work-by-max-planck)
+          - [Scientific autobiography by Max Planck (1948)](physicist.md#scientific-autobiography-by-max-planck-1948)
+            - [Scientific Autobiography and Other Papers by Max Planck translated by Frank Gaynor (1949)](physicist.md#scientific-autobiography-and-other-papers-by-max-planck-translated-by-frank-gaynor-1949)
+              - [Scientific Autobiography by Max Planck translated by Frank Gaynor (1949)](physicist.md#scientific-autobiography-by-max-planck-translated-by-frank-gaynor-1949)
+          - [Paper by Max Planck](physicist.md#paper-by-max-planck)
+            - [On the Law of Distribution of Energy in the Normal Spectrum](physicist.md#on-the-law-of-distribution-of-energy-in-the-normal-spectrum)
+      - [Max von Laue](physicist.md#max-von-laue)
+      - [Michael Faraday](physicist.md#michael-faraday)
+      - [Niels Bohr](physicist.md#niels-bohr)
+      - [Pascual Jordan](physicist.md#pascual-jordan)
+      - [Paul Dirac](physicist.md#paul-dirac)
+      - [Philip W. Anderson](physicist.md#philip-w-anderson)
+      - [Pieter Zeeman](physicist.md#pieter-zeeman)
+      - [Polykarp Kusch](physicist.md#polykarp-kusch)
+      - [Richard Feynman](richard-feynman.md)
+        - [Personal life of Richard Feynman](richard-feynman.md#personal-life-of-richard-feynman)
+          - [Arline Greenbaum](arline-greenbaum.md)
+          - [Infinity (1996 film)](infinity-1996-film.md)
+          - [Feynman was a huge womanizer during a certain period of his life](feynman-was-a-huge-womanizer-during-a-certain-period-of-his-life.md)
+          - [Joan Feynman](joan-feynman.md)
+          - [Richard Feynman's drug use](richard-feynman-s-drug-use.md)
+        - [Richard Feynman's first seminar in 1941](richard-feynman-s-first-seminar-in-1941.md)
+        - [Quote by Richard Feynman](quote-by-richard-feynman.md)
+          - [What I cannot create, I do not understand](what-i-cannot-create-i-do-not-understand.md)
+        - [Work by Richard Feynman](work-by-richard-feynman.md)
+          - [Space-Time Approach to Quantum Electrodynamic by Richard Feynman (1949)](space-time-approach-to-quantum-electrodynamic-by-richard-feynman-1949.md)
+        - [Works about Richard Feynman](works-about-richard-feynman.md)
+          - [Genius: Richard Feynman and Modern Physics by James Gleick (1994)](genius-richard-feynman-and-modern-physics-by-james-gleick-1994.md)
+          - [Los Alamos From Below by Richard Feynman (1975)](los-alamos-from-below-by-richard-feynman-1975.md)
+          - [Surely You're Joking, Mr. Feynman](surely-you-re-joking-mr-feynman.md)
+            - [Surely You're Joking, Mr. Feynman chapter O Americano, Outra Vez!](surely-you-re-joking-mr-feynman-chapter-o-americano-outra-vez.md)
+            - [Surely You're Joking, Mr. Feynman chapter Alfred Nobel's Other Mistake](surely-you-re-joking-mr-feynman-chapter-alfred-nobel-s-other-mistake.md)
+              - [Rich people who create charitable prizes are often crooked](rich-people-who-create-charitable-prizes-are-often-crooked.md)
+      - [Sean M. Carroll](physicist.md#sean-m-carroll)
+        - [The Purpose of Harvard is Not to Educate People by Sean Carroll (2008)](physicist.md#the-purpose-of-harvard-is-not-to-educate-people-by-sean-carroll-2008)
+        - [How To Get Tenure at a Major Research University by Sean Carroll (2011)](physicist.md#how-to-get-tenure-at-a-major-research-university-by-sean-carroll-2011)
+      - [Stephen Hawking](physicist.md#stephen-hawking)
+      - [Steven H. Simon](physicist.md#steven-h-simon)
+      - [Sylvain Poirier](physicist.md#sylvain-poirier)
+        - [settheory.net](physicist.md#settheory-net)
+      - [Tobias J. Osborne](physicist.md#tobias-j-osborne)
+      - [Victor Francis Hess](physicist.md#victor-francis-hess)
+      - [Walter Houser Brattain](physicist.md#walter-houser-brattain)
+      - [Werner Heisenberg](physicist.md#werner-heisenberg)
+        - [Paper by Werner Heisenberg](physicist.md#paper-by-werner-heisenberg)
+      - [William Shockley](physicist.md#william-shockley)
+      - [Willis Lamb](physicist.md#willis-lamb)
+      - [Wolfgang Pauli](physicist.md#wolfgang-pauli)
+    - [Physics gossip](physics.md#physics-gossip)
+    - [Unsolved physics problem](physics.md#unsolved-physics-problem)
+    - [Physics bibliography](physics.md#physics-bibliography)
+      - [Theoretical Physics Reference by Ondrej Certík](physics.md#theoretical-physics-reference-by-ondrej-certik)
+      - [Physics YouTube channel](physics.md#physics-youtube-channel)
+        - [Faculty of Khan](physics.md#faculty-of-khan)
+        - [Looking Glass Universe](physics.md#looking-glass-universe)
+        - [Ludic Science](physics.md#ludic-science)
+        - [minutephysics](physics.md#minutephysics)
+        - [Physics Explained](physics.md#physics-explained)
+        - [ScienceClic](physics.md#scienceclic)
+        - [Steve Mould](physics.md#steve-mould)
+        - [The Science Asylum](physics.md#the-science-asylum)
+          - [Nick Lucid](physics.md#nick-lucid)
+        - [UCSB Physics Lecture Demonstrations](physics.md#ucsb-physics-lecture-demonstrations)
+        - [UNSW Physics YouTube channel](physics.md#unsw-physics-youtube-channel)
+        - [Veritasium](physics.md#veritasium)
+      - [Physics journal](physics.md#physics-journal)
+        - [Physics Letters](physics.md#physics-letters)
+          - [Physics Letters A](physics.md#physics-letters-a)
+          - [Physics Letters B](physics.md#physics-letters-b)
+        - [Journal by the American Physical Society](physics.md#journal-by-the-american-physical-society)
+          - [Physical Review](physics.md#physical-review)
+            - [Paper published on Physical Review ](physics.md#paper-published-on-physical-review)
+          - [Physical Review Letters](physics.md#physical-review-letters)
+            - [Physical Review Letters article](physics.md#physical-review-letters-article)
+  - [Chemistry](chemistry.md)
+    - [Atom](chemistry.md#atom)
+      - [History of the atomic theory](chemistry.md#history-of-the-atomic-theory)
+        - [Les Atomes by Jean Perrin (1913)](chemistry.md#les-atomes-by-jean-perrin-1913)
+      - [Atomic theory evidence](chemistry.md#atomic-theory-evidence)
+        - [Isomers suggest that atoms exist](chemistry.md#isomers-suggest-that-atoms-exist)
+        - [Brownian motion](chemistry.md#brownian-motion)
+      - [Ion](chemistry.md#ion)
+      - [Mole (unit)](chemistry.md#mole-unit)
+      - [Model of the atom](chemistry.md#model-of-the-atom)
+        - [Bohr model](chemistry.md#bohr-model)
+          - [Quantum jump](chemistry.md#quantum-jump)
+          - [Bohr-Sommerfeld model](chemistry.md#bohr-sommerfeld-model)
+    - [Analytical chemistry](chemistry.md#analytical-chemistry)
+      - [Gas chromatography](chemistry.md#gas-chromatography)
+        - [Gas chromatography etymology](chemistry.md#gas-chromatography-etymology)
+      - [Analyte](chemistry.md#analyte)
+      - [Analytical chemistry method](chemistry.md#analytical-chemistry-method)
+        - [Ion selective electrode](chemistry.md#ion-selective-electrode)
+        - [Separation process](chemistry.md#separation-process)
+    - [Chemist](chemistry.md#chemist)
+      - [Alfred Nobel](chemistry.md#alfred-nobel)
+      - [Joseph Priestley](chemistry.md#joseph-priestley)
+      - [Johann Joseph Loschmidt](chemistry.md#johann-joseph-loschmidt)
+      - [Linus Pauling](chemistry.md#linus-pauling)
+      - [Wilhelm Ostwald](chemistry.md#wilhelm-ostwald)
+    - [Chemical element](chemistry.md#chemical-element)
+      - [Abundance of the chemical elements](chemistry.md#abundance-of-the-chemical-elements)
+        - [Abundance of the chemical elements on Earth](chemistry.md#abundance-of-the-chemical-elements-on-earth)
+          - [Primordial nuclide](chemistry.md#primordial-nuclide)
+      - [Discovery of chemical elements](chemistry.md#discovery-of-chemical-elements)
+        - [Discovery of chemical elements bibliography](chemistry.md#discovery-of-chemical-elements-bibliography)
+          - [Discovery Of The Elements by Mary Elvira Weeks](chemistry.md#discovery-of-the-elements-by-mary-elvira-weeks)
+      - [Category of chemical element](chemistry.md#category-of-chemical-element)
+        - [Rare-earth element](chemistry.md#rare-earth-element)
+      - [List of chemical elements](chemistry.md#list-of-chemical-elements)
+        - [Hydrogen](chemistry.md#hydrogen)
+          - [Isotope of hydrogen](chemistry.md#isotope-of-hydrogen)
+            - [Protium](chemistry.md#protium)
+            - [Deuterium](chemistry.md#deuterium)
+              - [Heavy water](chemistry.md#heavy-water)
+                - [Semiheavy water](chemistry.md#semiheavy-water)
+                - [Girdler sulfide process](chemistry.md#girdler-sulfide-process)
+            - [Tritium](chemistry.md#tritium)
+          - [Hydrogen compound](chemistry.md#hydrogen-compound)
+            - [Water](chemistry.md#water)
+              - [Water molecule](chemistry.md#water-molecule)
+              - [Phase of water](chemistry.md#phase-of-water)
+                - [Ice](chemistry.md#ice)
+                  - [Phase of ice](chemistry.md#phase-of-ice)
+                    - [Ice I<sub>h</sub>](chemistry.md#ice-ih)
+                  - [Snow](chemistry.md#snow)
+        - [Helium](chemistry.md#helium)
+          - [Helium-3](chemistry.md#helium-3)
+          - [Helium-4](chemistry.md#helium-4)
+          - [Liquid helium](chemistry.md#liquid-helium)
+            - [Superfluid helium](chemistry.md#superfluid-helium)
+              - [Superfluid helium-3](chemistry.md#superfluid-helium-3)
+              - [Superfluid helium-4](chemistry.md#superfluid-helium-4)
+        - [Boron](chemistry.md#boron)
+        - [Carbon](chemistry.md#carbon)
+          - [Carbon isotope](chemistry.md#carbon-isotope)
+            - [Carbon-12](chemistry.md#carbon-12)
+            - [Carbon-13](chemistry.md#carbon-13)
+            - [Carbon-14](chemistry.md#carbon-14)
+              - [Radiocarbon dating](chemistry.md#radiocarbon-dating)
+                - [Before Present](chemistry.md#before-present)
+          - [Carbon compound](chemistry.md#carbon-compound)
+            - [Allotrope of carbon](chemistry.md#allotrope-of-carbon)
+              - [Diamond](chemistry.md#diamond)
+              - [Fullerene](chemistry.md#fullerene)
+                - [Endohedral fullerene](chemistry.md#endohedral-fullerene)
+              - [Graphite](chemistry.md#graphite)
+                - [Nuclear graphite](chemistry.md#nuclear-graphite)
+                - [Graphene](chemistry.md#graphene)
+            - [Carbonate](chemistry.md#carbonate)
+              - [Calcium carbonate](chemistry.md#calcium-carbonate)
+                - [Calcium carbonate polymorph](chemistry.md#calcium-carbonate-polymorph)
+                  - [Calcite](chemistry.md#calcite)
+                  - [Aragonite](chemistry.md#aragonite)
+                  - [Vaterite](chemistry.md#vaterite)
+        - [Nitrogen](chemistry.md#nitrogen)
+          - [Liquid nitrogen](chemistry.md#liquid-nitrogen)
+          - [Nitrogen compound](chemistry.md#nitrogen-compound)
+            - [Ammonium](chemistry.md#ammonium)
+        - [Oxygen](chemistry.md#oxygen)
+          - [Oxygen compound](chemistry.md#oxygen-compound)
+            - [Quartz](chemistry.md#quartz)
+        - [Fluorine](chemistry.md#fluorine)
+          - [Fluorine compound](chemistry.md#fluorine-compound)
+        - [Neon](chemistry.md#neon)
+        - [Sodium](chemistry.md#sodium)
+          - [Sodium chloride](chemistry.md#sodium-chloride)
+        - [Aluminium](chemistry.md#aluminium)
+          - [Superconducting temperature of aluminum](chemistry.md#superconducting-temperature-of-aluminum)
+        - [Silicon](chemistry.md#silicon)
+        - [Phosphorus](chemistry.md#phosphorus)
+          - [Why phosphorus has multiple valencies?](chemistry.md#why-phosphorus-has-multiple-valencies)
+          - [Phosphate](chemistry.md#phosphate)
+        - [Sulfur](chemistry.md#sulfur)
+          - [Sulfur compound](chemistry.md#sulfur-compound)
+            - [Sulfur hydrade](chemistry.md#sulfur-hydrade)
+        - [Argon](chemistry.md#argon)
+          - [Argon is abundant on Earth's atmosphere because it comes from the decay of Potassium-40](chemistry.md#argon-is-abundant-on-earth-s-atmosphere-because-it-comes-from-the-decay-of-potassium-40)
+            - [K-Ar dating](chemistry.md#k-ar-dating)
+          - [Argon isotope](chemistry.md#argon-isotope)
+            - [Argon-40](chemistry.md#argon-40)
+        - [Potassium](chemistry.md#potassium)
+        - [Calcium](chemistry.md#calcium)
+        - [Titanium](chemistry.md#titanium)
+          - [Titanium compound](chemistry.md#titanium-compound)
+            - [Niobium-Titanium](chemistry.md#niobium-titanium)
+        - [Chromium](chemistry.md#chromium)
+        - [Iron](chemistry.md#iron)
+          - [Fe-C](chemistry.md#fe-c)
+          - [Steel](chemistry.md#steel)
+        - [Cobalt](chemistry.md#cobalt)
+          - [Cobalt isomer](chemistry.md#cobalt-isomer)
+            - [Cobalt-60](chemistry.md#cobalt-60)
+        - [Copper](chemistry.md#copper)
+          - [Copper compound](chemistry.md#copper-compound)
+        - [Gallium](chemistry.md#gallium)
+          - [Gallium compound](chemistry.md#gallium-compound)
+            - [Gallium arsenide](chemistry.md#gallium-arsenide)
+              - [Gallium arsenide vs silicon](chemistry.md#gallium-arsenide-vs-silicon)
+        - [Germanium](chemistry.md#germanium)
+        - [Arsenide](chemistry.md#arsenide)
+          - [Arsenide compound](chemistry.md#arsenide-compound)
+        - [Selenium](chemistry.md#selenium)
+        - [Bromine](chemistry.md#bromine)
+          - [Bromide](chemistry.md#bromide)
+            - [Organic bromide compound](chemistry.md#organic-bromide-compound)
+              - [Ethidium bromide](chemistry.md#ethidium-bromide)
+        - [Niobium](chemistry.md#niobium)
+          - [Niobium compound](chemistry.md#niobium-compound)
+          - [Niobium-tin](chemistry.md#niobium-tin)
+        - [Silver](chemistry.md#silver)
+        - [Cadmium](chemistry.md#cadmium)
+        - [Tin](chemistry.md#tin)
+          - [Tin compound](chemistry.md#tin-compound)
+        - [Caesium](chemistry.md#caesium)
+          - [Caesium-133](chemistry.md#caesium-133)
+          - [Caesium-137](chemistry.md#caesium-137)
+            - [Goiânia accident](chemistry.md#goiania-accident)
+        - [Barium](chemistry.md#barium)
+          - [Barium compound](chemistry.md#barium-compound)
+        - [Ytterbium](chemistry.md#ytterbium)
+        - [Gold](chemistry.md#gold)
+          - [Gold leaf](chemistry.md#gold-leaf)
+        - [Lead](chemistry.md#lead)
+        - [Bismuth](chemistry.md#bismuth)
+          - [Bismuth compound](chemistry.md#bismuth-compound)
+        - [Polonium](chemistry.md#polonium)
+          - [Polonium isotope](chemistry.md#polonium-isotope)
+            - [Polonium-208](chemistry.md#polonium-208)
+            - [Polonium-209](chemistry.md#polonium-209)
+            - [Polonium-210](chemistry.md#polonium-210)
+        - [Radium](chemistry.md#radium)
+          - [Radium Girls](chemistry.md#radium-girls)
+        - [Thorium](chemistry.md#thorium)
+          - [Thorium fuel cycle](chemistry.md#thorium-fuel-cycle)
+          - [Thorium isotope](chemistry.md#thorium-isotope)
+            - [Thorium-229](chemistry.md#thorium-229)
+            - [Thorium-232](chemistry.md#thorium-232)
+              - [Thorium-232 decay chain](chemistry.md#thorium-232-decay-chain)
+        - [Uranium](chemistry.md#uranium)
+          - [Uranium vs Plutonium](chemistry.md#uranium-vs-plutonium)
+            - [Weapon grade Plutonium is cheaper than weapon grade Uranium](chemistry.md#weapon-grade-plutonium-is-cheaper-than-weapon-grade-uranium)
+            - [Uranium vs plutonium Quora answer by Ciro Santilli](chemistry.md#uranium-vs-plutonium-quora-answer-by-ciro-santilli)
+          - [Uranium compound](chemistry.md#uranium-compound)
+            - [Uranium oxide](chemistry.md#uranium-oxide)
+              - [Uranium dioxide](chemistry.md#uranium-dioxide)
+            - [Uranium hexafluoride](chemistry.md#uranium-hexafluoride)
+          - [Uranium ore](chemistry.md#uranium-ore)
+            - [Uraninite](chemistry.md#uraninite)
+          - [Uranium isotope](chemistry.md#uranium-isotope)
+            - [Uranium-233](chemistry.md#uranium-233)
+            - [Uranium-235](chemistry.md#uranium-235)
+            - [Uranium-238](chemistry.md#uranium-238)
+              - [Uranium 238 decay chain](chemistry.md#uranium-238-decay-chain)
+          - [Enriched uranium](chemistry.md#enriched-uranium)
+          - [Uranium glass](chemistry.md#uranium-glass)
+        - [Plutonium](chemistry.md#plutonium)
+          - [Plutonium extraction from Uranium](chemistry.md#plutonium-extraction-from-uranium)
+            - [PUREX](chemistry.md#purex)
+          - [Plutonium isotope](chemistry.md#plutonium-isotope)
+            - [Plutonium-238](chemistry.md#plutonium-238)
+            - [Plutonium-239](chemistry.md#plutonium-239)
+              - [Weapons-grade plutonium](chemistry.md#weapons-grade-plutonium)
+            - [Plutonium-240](chemistry.md#plutonium-240)
+    - [Chemical substance](chemistry.md#chemical-substance)
+      - [Chemical compound](chemistry.md#chemical-compound)
+        - [Chemical explosive](chemistry.md#chemical-explosive)
+          - [Gunpowder](chemistry.md#gunpowder)
+          - [Dynamite](chemistry.md#dynamite)
+        - [Intermetallic](chemistry.md#intermetallic)
+        - [Ionic compound](chemistry.md#ionic-compound)
+          - [Salt (chemistry)](chemistry.md#salt-chemistry)
+        - [Homonuclear molecule](chemistry.md#homonuclear-molecule)
+          - [Allotrope](chemistry.md#allotrope)
+        - [Nutrient](chemistry.md#nutrient)
+          - [Carbohydrate](chemistry.md#carbohydrate)
+            - [Carbohydrate loading](chemistry.md#carbohydrate-loading)
+            - [Sugar](chemistry.md#sugar)
+            - [Monosaccharide](chemistry.md#monosaccharide)
+              - [Glucose](chemistry.md#glucose)
+              - [Fructose](chemistry.md#fructose)
+            - [Disaccharide](chemistry.md#disaccharide)
+              - [Sucrose](chemistry.md#sucrose)
+          - [Fatty acid](chemistry.md#fatty-acid)
+            - [Essential fatty acid](chemistry.md#essential-fatty-acid)
+          - [Human essential fatty acid](chemistry.md#human-essential-fatty-acid)
+          - [Essential nutrient](chemistry.md#essential-nutrient)
+            - [Human essential nutrient](chemistry.md#human-essential-nutrient)
+            - [Essential amino acid](chemistry.md#essential-amino-acid)
+              - [Human essential amino acid](chemistry.md#human-essential-amino-acid)
+            - [Mineral (nutrient)](chemistry.md#mineral-nutrient)
+              - [Human mineral](chemistry.md#human-mineral)
+            - [Vitamin](vitamin.md)
+              - [Human vitamin](vitamin.md#human-vitamin)
+                - [B vitamin](vitamin.md#b-vitamin)
+                - [Vitamin C](vitamin.md#vitamin-c)
+        - [Organic compound](chemistry.md#organic-compound)
+          - [Organic compound identification](chemistry.md#organic-compound-identification)
+          - [List of organic compounds](chemistry.md#list-of-organic-compounds)
+          - [Benzene](chemistry.md#benzene)
+          - [Methane](chemistry.md#methane)
+          - [Ethanol](chemistry.md#ethanol)
+          - [Capsaicin](chemistry.md#capsaicin)
+          - [Nitroglycerin](chemistry.md#nitroglycerin)
+        - [Poison](chemistry.md#poison)
+          - [Chemical weapon](chemistry.md#chemical-weapon)
+          - [Blood agent](chemistry.md#blood-agent)
+            - [Hydrogen cyanide](chemistry.md#hydrogen-cyanide)
+          - [Nerve agent](chemistry.md#nerve-agent)
+            - [Sarin](chemistry.md#sarin)
+            - [VX (nerve agent)](chemistry.md#vx-nerve-agent)
+    - [Organic chemistry](chemistry.md#organic-chemistry)
+      - [Biochemistry](chemistry.md#biochemistry)
+        - [Biochemist](chemistry.md#biochemist)
+          - [Frederick Sanger](chemistry.md#frederick-sanger)
+            - [Paper by Fred Sanger](chemistry.md#paper-by-fred-sanger)
+              - [The Amino-acid Sequence in the Phenylalanyl Chain of Insulin](chemistry.md#the-amino-acid-sequence-in-the-phenylalanyl-chain-of-insulin)
+          - [Peter D. Mitchell](chemistry.md#peter-d-mitchell)
+            - [Ox Phos wars](chemistry.md#ox-phos-wars)
+    - [Chemical company](chemistry.md#chemical-company)
+      - [DuPont](chemistry.md#dupont)
+    - [Chemical reaction](chemistry.md#chemical-reaction)
+      - [Reaction rate](chemistry.md#reaction-rate)
+        - [Activation energy](chemistry.md#activation-energy)
+        - [Catalysis](chemistry.md#catalysis)
+          - [Electrolysis](chemistry.md#electrolysis)
+      - [Total synthesis](chemistry.md#total-synthesis)
+        - [Semisynthesis](chemistry.md#semisynthesis)
+        - [Cell-free protein synthesis](chemistry.md#cell-free-protein-synthesis)
+      - [Chemical process](chemistry.md#chemical-process)
+        - [Extraction (chemistry)](chemistry.md#extraction-chemistry)
+        - [Sample preparation](chemistry.md#sample-preparation)
+        - [Chemical process design](chemistry.md#chemical-process-design)
+          - [Chemical process design software](chemistry.md#chemical-process-design-software)
+            - [Aspen HYSYS](chemistry.md#aspen-hysys)
+          - [Retrosynthetic analysis](chemistry.md#retrosynthetic-analysis)
+      - [Entropy of a chemical reaction](chemistry.md#entropy-of-a-chemical-reaction)
+    - [Electrochemistry](chemistry.md#electrochemistry)
+      - [Electric battery](chemistry.md#electric-battery)
+        - [Available battery voltages](chemistry.md#available-battery-voltages)
+        - [Nine-volt battery](chemistry.md#nine-volt-battery)
+        - [Weston cell](chemistry.md#weston-cell)
+    - [NFPA 704](chemistry.md#nfpa-704)
+      - [How can a chemical substance be unstable but not flammable?](chemistry.md#how-can-a-chemical-substance-be-unstable-but-not-flammable)
+    - [pH](chemistry.md#ph)
+      - [pH strip](chemistry.md#ph-strip)
+    - [Periodic table](chemistry.md#periodic-table)
+      - [Noble gas](chemistry.md#noble-gas)
+        - [Discovery of the noble gases](chemistry.md#discovery-of-the-noble-gases)
+    - [History of chemistry](chemistry.md#history-of-chemistry)
+      - [History of chemistry bibliography](chemistry.md#history-of-chemistry-bibliography)
+        - [History of chemistry documentary](chemistry.md#history-of-chemistry-documentary)
+          - [The Mystery of Matter](chemistry.md#the-mystery-of-matter)
+          - [Chemistry: A Volatile History](chemistry.md#chemistry-a-volatile-history)
+    - [Chemistry bibliography](chemistry.md#chemistry-bibliography)
+      - [Periodic Videos](chemistry.md#periodic-videos)
+      - [Chemistry database](chemistry.md#chemistry-database)
+        - [Free chemistry database](chemistry.md#free-chemistry-database)
+          - [Free phase diagram database](chemistry.md#free-phase-diagram-database)
+          - [PubChem](chemistry.md#pubchem)
+  - [Biology](biology.md)
+    - [Level of organization of bodies](biology.md#level-of-organization-of-bodies)
+      - [Cell](cell.md)
+        - [Cell biology (field)](cell.md#cell-biology-field)
+        - [Cell culture](cell.md#cell-culture)
+          - [Growth medium](cell.md#growth-medium)
+            - [Minimal growth medium](cell.md#minimal-growth-medium)
+        - [Cell cycle](cell.md#cell-cycle)
+          - [Apoptosis](cell.md#apoptosis)
+            - [Apoptosis is largely regulated by mitochondria](cell.md#apoptosis-is-largely-regulated-by-mitochondria)
+          - [Cell division](cell.md#cell-division)
+          - [Meiosis](cell.md#meiosis)
+          - [Mitosis](cell.md#mitosis)
+        - [Cell type](cell.md#cell-type)
+          - [Cell type by species](cell.md#cell-type-by-species)
+          - [Cell lineage](cell.md#cell-lineage)
+            - [Germ layer](cell.md#germ-layer)
+            - [Embryonics](cell.md#embryonics)
+              - [Embryonics by species](cell.md#embryonics-by-species)
+                - [Human embryonics](cell.md#human-embryonics)
+          - [Cellular differentiation](cell.md#cellular-differentiation)
+          - [Stem cell](cell.md#stem-cell)
+            - [Induced pluripotent stem cell](cell.md#induced-pluripotent-stem-cell)
+        - [Cell structure](cell.md#cell-structure)
+          - [Cellular compartment](cell.md#cellular-compartment)
+          - [Cell membrane](cell.md#cell-membrane)
+            - [Cell wall](cell.md#cell-wall)
+          - [Organelle](cell.md#organelle)
+            - [Cell nucleus](cell.md#cell-nucleus)
+            - [Cell projection](cell.md#cell-projection)
+            - [Cytoplasm](cell.md#cytoplasm)
+            - [Cytoskeleton](cell.md#cytoskeleton)
+              - [Microfilament](cell.md#microfilament)
+                - [Actin](cell.md#actin)
+              - [Intermediate filaments](cell.md#intermediate-filaments)
+              - [Microtubule](cell.md#microtubule)
+                - [Microtubule vs Microfilament](cell.md#microtubule-vs-microfilament)
+            - [Cytosol](cell.md#cytosol)
+            - [Flagellum](cell.md#flagellum)
+            - [Golgi complex](cell.md#golgi-complex)
+            - [Mitochondrion](cell.md#mitochondrion)
+              - [Mitochondrial endosymbiosis](cell.md#mitochondrial-endosymbiosis)
+                - [Parsitic hypothesis of mitochondrial endosymbiosis](cell.md#parsitic-hypothesis-of-mitochondrial-endosymbiosis)
+                - [Hydrogen hypothesis](cell.md#hydrogen-hypothesis)
+              - [Eukaryote without mitochondria](cell.md#eukaryote-without-mitochondria)
+                - [There are no known eukaryotes which never had mitochondria](cell.md#there-are-no-known-eukaryotes-which-never-had-mitochondria)
+              - [Structure of the mitochondria](cell.md#structure-of-the-mitochondria)
+                - [Inner mitochondrial membrane](cell.md#inner-mitochondrial-membrane)
+                - [Mitochondrial matrix](cell.md#mitochondrial-matrix)
+                - [Intermembrane space](cell.md#intermembrane-space)
+                - [Outer mitochondrial membrane](cell.md#outer-mitochondrial-membrane)
+              - [Mitochondria are only inherited from the mother](cell.md#mitochondria-are-only-inherited-from-the-mother)
+                - [Sperm contains mitochondria](cell.md#sperm-contains-mitochondria)
+              - [Mitochondrial DNA](cell.md#mitochondrial-dna)
+                - [Key mitochondrial proteins aren't necessarily in mtDNA](cell.md#key-mitochondrial-proteins-aren-t-necessarily-in-mtdna)
+                  - [Mitochondrial protein import](cell.md#mitochondrial-protein-import)
+                  - [Mitochondria have DNA because they need to be controlled individually](cell.md#mitochondria-have-dna-because-they-need-to-be-controlled-individually)
+                  - [Mitochondrial DNA mutates faster than nuclear DNA](cell.md#mitochondrial-dna-mutates-faster-than-nuclear-dna)
+                  - [Human mitochondrion](cell.md#human-mitochondrion)
+              - [Power, Sex, Suicide by Nick Lane (2006)](cell.md#power-sex-suicide-by-nick-lane-2006)
+              - [Cellular respiration](cell.md#cellular-respiration)
+                - [Cellular respiration protein](cell.md#cellular-respiration-protein)
+                  - [Mitochondrial carrier](cell.md#mitochondrial-carrier)
+                    - [Mitochondrial phosphate carrier protein](cell.md#mitochondrial-phosphate-carrier-protein)
+                    - [Adenine nucleotide translocator](cell.md#adenine-nucleotide-translocator)
+                - [Citric acid cycle](cell.md#citric-acid-cycle)
+                  - [Electron transport chain](cell.md#electron-transport-chain)
+                - [Adenosine diphosphate](cell.md#adenosine-diphosphate)
+                - [Adenosine triphosphate](cell.md#adenosine-triphosphate)
+                  - [ATP synthesis mechanism](cell.md#atp-synthesis-mechanism)
+                    - [Fermentation](cell.md#fermentation)
+                    - [ATP synthase](cell.md#atp-synthase)
+                      - [Chemiosmosis](cell.md#chemiosmosis)
+            - [Ribosome](cell.md#ribosome)
+              - [Ribosomal RNA](cell.md#ribosomal-rna)
+              - [Translation (biology)](cell.md#translation-biology)
+                - [Elongation factor](cell.md#elongation-factor)
+                  - [Prokaryotic elongation factor](cell.md#prokaryotic-elongation-factor)
+                    - [EF-Tu](cell.md#ef-tu)
+                - [Transfer RNA](cell.md#transfer-rna)
+              - [Structure of the ribosome](cell.md#structure-of-the-ribosome)
+                - [Ribosome large subunit](cell.md#ribosome-large-subunit)
+                - [Ribosome small subunit](cell.md#ribosome-small-subunit)
+                - [Prokaryotic ribosome](cell.md#prokaryotic-ribosome)
+                  - [Prokaryotic small ribosome subunit](cell.md#prokaryotic-small-ribosome-subunit)
+                    - [16S ribosomal RNA](cell.md#16s-ribosomal-rna)
+                  - [Prokaryotic large ribosome subunit](cell.md#prokaryotic-large-ribosome-subunit)
+                    - [5S ribosomal RNA](cell.md#5s-ribosomal-rna)
+                    - [23S ribosomal RNA](cell.md#23s-ribosomal-rna)
+                - [Eukaryotic ribosome](cell.md#eukaryotic-ribosome)
+                  - [Eukaryotic small ribosome subunit](cell.md#eukaryotic-small-ribosome-subunit)
+                  - [Eukaryotic large ribosome subunit](cell.md#eukaryotic-large-ribosome-subunit)
+            - [Prokaryotic cell organelle](cell.md#prokaryotic-cell-organelle)
+              - [Nucleoid](cell.md#nucleoid)
+              - [Pilus](cell.md#pilus)
+        - [Endocytosis](cell.md#endocytosis)
+          - [Phagocytosis](cell.md#phagocytosis)
+        - [Immortalised cell line](cell.md#immortalised-cell-line)
+        - [Endosymbiont](cell.md#endosymbiont)
+        - [Single cell analysis](cell.md#single-cell-analysis)
+          - [Whole cell simulation](cell.md#whole-cell-simulation)
+          - [Single cell sequencing](cell.md#single-cell-sequencing)
+          - [Single cell visualization](cell.md#single-cell-visualization)
+            - [Vitessce](cell.md#vitessce)
+      - [Molecular biology](molecular-biology.md)
+        - [Aging](molecular-biology.md#aging)
+          - [Free radical theory of aging](molecular-biology.md#free-radical-theory-of-aging)
+            - [Free radical](molecular-biology.md#free-radical)
+        - [Central dogma of molecular biology](molecular-biology.md#central-dogma-of-molecular-biology)
+        - [DNA](dna.md)
+          - [Structure of DNA](dna.md#structure-of-dna)
+            - [Nucleic acid double helix](dna.md#nucleic-acid-double-helix)
+            - [Chromosome](dna.md#chromosome)
+              - [Chromosome by species](dna.md#chromosome-by-species)
+              - [Chromosomal crossover](dna.md#chromosomal-crossover)
+              - [Circular chromosome](dna.md#circular-chromosome)
+              - [X chromosome](dna.md#x-chromosome)
+                - [X-inactivation](dna.md#x-inactivation)
+                - [Sex determination system](dna.md#sex-determination-system)
+                  - [XY sex-determination system](dna.md#xy-sex-determination-system)
+              - [Nucleosome](dna.md#nucleosome)
+                - [Histone](dna.md#histone)
+              - [Plasmid](dna.md#plasmid)
+              - [Telomere](dna.md#telomere)
+                - [Hayflick limit](dna.md#hayflick-limit)
+          - [DNA detection](dna.md#dna-detection)
+          - [DNA amplification](dna.md#dna-amplification)
+            - [Polymerase chain reaction](dna.md#polymerase-chain-reaction)
+              - [Real-time polymerase chain reaction](dna.md#real-time-polymerase-chain-reaction)
+              - [Isothermal DNA amplification techniques](dna.md#isothermal-dna-amplification-techniques)
+                - [Loop-mediated isothermal amplification](dna.md#loop-mediated-isothermal-amplification)
+          - [DNA profiling](dna.md#dna-profiling)
+            - [Variable number tandem repeat](dna.md#variable-number-tandem-repeat)
+          - [DNA replication](dna.md#dna-replication)
+            - [Origin of replication](dna.md#origin-of-replication)
+          - [DNA repair](dna.md#dna-repair)
+          - [DNA sequencing](dna.md#dna-sequencing)
+            - [DNA sequencing milestone](dna.md#dna-sequencing-milestone)
+            - [Base calling](dna.md#base-calling)
+            - [DNA microarray](dna.md#dna-microarray)
+            - [Metagenomics](dna.md#metagenomics)
+            - [Short-read DNA sequencing](dna.md#short-read-dna-sequencing)
+              - [Long-read DNA sequencing](dna.md#long-read-dna-sequencing)
+            - [RNA-Seq](dna.md#rna-seq)
+              - [Gene expression profiling](dna.md#gene-expression-profiling)
+            - [Whole-genome sequencing](dna.md#whole-genome-sequencing)
+            - [Application of DNA sequencing](dna.md#application-of-dna-sequencing)
+              - [DNA paternity testing](dna.md#dna-paternity-testing)
+            - [DNA sequencing method](dna.md#dna-sequencing-method)
+              - [Sanger method](dna.md#sanger-method)
+            - [DNA sequencing company](dna.md#dna-sequencing-company)
+              - [Illumina](dna.md#illumina)
+                - [Bridge amplification](dna.md#bridge-amplification)
+                - [Solexa](dna.md#solexa)
+              - [Oxford Nanopore Technologies](dna.md#oxford-nanopore-technologies)
+                - [Oxford Nanopore Technologies product](dna.md#oxford-nanopore-technologies-product)
+                  - [PromethION](dna.md#promethion)
+                  - [Oxford Nanopore MinION](dna.md#oxford-nanopore-minion)
+                    - [How to use an Oxford Nanopore MinION to extract DNA from river water and determine which bacteria live in it](oxford-nanopore-river-bacteria.md)
+                      - [Experiment background](oxford-nanopore-river-bacteria.md#experiment-background)
+                      - [Overview of the experiment](oxford-nanopore-river-bacteria.md#overview-of-the-experiment)
+                        - [Why Oxford Nanopore was used instead of Illumina for the sequencing](oxford-nanopore-river-bacteria.md#why-oxford-nanopore-was-used-instead-of-illumina-for-the-sequencing)
+                      - [Sample collection](oxford-nanopore-river-bacteria.md#sample-collection)
+                      - [DNA extraction](oxford-nanopore-river-bacteria.md#dna-extraction)
+                        - [Filtration with vacuum pump](oxford-nanopore-river-bacteria.md#filtration-with-vacuum-pump)
+                        - [Post filtration purification](oxford-nanopore-river-bacteria.md#post-filtration-purification)
+                      - [PCR](oxford-nanopore-river-bacteria.md#pcr)
+                        - [PCR verification with gel electrophoresis](oxford-nanopore-river-bacteria.md#pcr-verification-with-gel-electrophoresis)
+                      - [Sequencing](oxford-nanopore-river-bacteria.md#sequencing)
+                        - [Pre-sequencing preparation](oxford-nanopore-river-bacteria.md#pre-sequencing-preparation)
+                        - [Using the Oxford Nanopore](oxford-nanopore-river-bacteria.md#using-the-oxford-nanopore)
+                      - [Bioinformatics](oxford-nanopore-river-bacteria.md#bioinformatics)
+                      - [Conclusions](oxford-nanopore-river-bacteria.md#conclusions)
+                      - [Protocols used](oxford-nanopore-river-bacteria.md#protocols-used)
+                        - [Qiagen DNeasy PowerWater Kit](oxford-nanopore-river-bacteria.md#qiagen-dneasy-powerwater-kit)
+                        - [Qiagen QIAquick PCR Purification Kit](oxford-nanopore-river-bacteria.md#qiagen-qiaquick-pcr-purification-kit)
+                        - [Oxford Nanopore SQK-LSK109 Ligation Sequencing Kit](oxford-nanopore-river-bacteria.md#oxford-nanopore-sqk-lsk109-ligation-sequencing-kit)
+                      - [Equipment used](oxford-nanopore-river-bacteria.md#equipment-used)
+                        - [Thermo Scientific Nalgene Polysulfone Reusable Bottle Top Filters](oxford-nanopore-river-bacteria.md#thermo-scientific-nalgene-polysulfone-reusable-bottle-top-filters)
+                        - [KNF Laboport series laboratory vacuum pump](oxford-nanopore-river-bacteria.md#knf-laboport-series-laboratory-vacuum-pump)
+                        - [Scientific Industries Inc. Vortex-Genie 2](oxford-nanopore-river-bacteria.md#scientific-industries-inc-vortex-genie-2)
+                        - [VWR Micro Star 17 microcentrifuge](oxford-nanopore-river-bacteria.md#vwr-micro-star-17-microcentrifuge)
+                        - [VELP Scientifica WIZARD IR Infrared Vortex Mixer](oxford-nanopore-river-bacteria.md#velp-scientifica-wizard-ir-infrared-vortex-mixer)
+                        - [Marshal Scientific MJ Research PTC-200 Thermal Cycler](oxford-nanopore-river-bacteria.md#marshal-scientific-mj-research-ptc-200-thermal-cycler)
+                        - [GE MagRack 6](oxford-nanopore-river-bacteria.md#ge-magrack-6)
+                        - [BTLab Systems Mini Centrifuge](oxford-nanopore-river-bacteria.md#btlab-systems-mini-centrifuge)
+                        - [Fisher Scientific UVP LM-26E Benchtop 2UV Transilluminator](oxford-nanopore-river-bacteria.md#fisher-scientific-uvp-lm-26e-benchtop-2uv-transilluminator)
+                        - [Biochrom SimpliNano spectrophotometer](oxford-nanopore-river-bacteria.md#biochrom-simplinano-spectrophotometer)
+                      - [External links to this page](oxford-nanopore-river-bacteria.md#external-links-to-this-page)
+          - [De novo DNA synthesis](dna.md#de-novo-dna-synthesis)
+            - [De novo DNA synthesis company](dna.md#de-novo-dna-synthesis-company)
+              - [AnsaBio](dna.md#ansabio)
+              - [Camena Bioscience](dna.md#camena-bioscience)
+              - [DNAScript](dna.md#dnascript)
+              - [Touchlight Genetics](dna.md#touchlight-genetics)
+            - [Artificial gene synthesis](dna.md#artificial-gene-synthesis)
+              - [Artificial chromosome](dna.md#artificial-chromosome)
+            - [Species bootstrapping from DNA](dna.md#species-bootstrapping-from-dna)
+              - [Synthetic chromosome](dna.md#synthetic-chromosome)
+              - [Synthetic virus](dna.md#synthetic-virus)
+                - [DIY gun](dna.md#diy-gun)
+                  - [3D-printed firearm](dna.md#3d-printed-firearm)
+              - [Genome Project-Write](dna.md#genome-project-write)
+              - [Yeast artificial chromosome](dna.md#yeast-artificial-chromosome)
+          - [Epigenetics](dna.md#epigenetics)
+            - [DNA methylation](dna.md#dna-methylation)
+              - [History of DNA methylation research](dna.md#history-of-dna-methylation-research)
+              - [Adenine methylation](dna.md#adenine-methylation)
+              - [Bisulfite sequencing](dna.md#bisulfite-sequencing)
+            - [Transgenerational epigenetic inheritance](dna.md#transgenerational-epigenetic-inheritance)
+          - [RNA](dna.md#rna)
+            - [Messenger RNA](dna.md#messenger-rna)
+              - [Alternative splicing](dna.md#alternative-splicing)
+            - [RNA secondary structure](dna.md#rna-secondary-structure)
+              - [RNA half-life prediction](dna.md#rna-half-life-prediction)
+            - [Transcription (biology)](dna.md#transcription-biology)
+              - [Post-transcriptional modification](dna.md#post-transcriptional-modification)
+              - [Promoter (genetics)](dna.md#promoter-genetics)
+                - [Transcriptional regulation](dna.md#transcriptional-regulation)
+              - [RNA polymerase](dna.md#rna-polymerase)
+                - [RNA-dependent RNA polymerase](dna.md#rna-dependent-rna-polymerase)
+              - [Operon](dna.md#operon)
+                - [Transcription unit](dna.md#transcription-unit)
+                - [Operon vs transcription unit](dna.md#operon-vs-transcription-unit)
+                - [Polycistronic mRNA](dna.md#polycistronic-mrna)
+              - [Transcription factor](dna.md#transcription-factor)
+                - [Intrinsic termination](dna.md#intrinsic-termination)
+            - [Type of RNA](dna.md#type-of-rna)
+          - [Nucleotide](dna.md#nucleotide)
+            - [Nucleobase](dna.md#nucleobase)
+              - [Adenine](dna.md#adenine)
+              - [Cytosine](dna.md#cytosine)
+              - [Thymine](dna.md#thymine)
+              - [Uracil](dna.md#uracil)
+                - [Uracil vs thymine](dna.md#uracil-vs-thymine)
+          - [Base pair](dna.md#base-pair)
+          - [Genetic code](dna.md#genetic-code)
+            - [Reading frame](dna.md#reading-frame)
+              - [Open reading frame](dna.md#open-reading-frame)
+                - [NCBI open reading frame tool](dna.md#ncbi-open-reading-frame-tool)
+            - [Codon](dna.md#codon)
+              - [Start codon](dna.md#start-codon)
+              - [Stop codon](dna.md#stop-codon)
+          - [Genetics](dna.md#genetics)
+            - [Genetics company](dna.md#genetics-company)
+              - [23andMe](dna.md#23andme)
+            - [Population genetics](dna.md#population-genetics)
+            - [Evolutionary genetics](dna.md#evolutionary-genetics)
+              - [DNA replication is a key limiting factor of bacterial replication time](dna.md#dna-replication-is-a-key-limiting-factor-of-bacterial-replication-time)
+                - [It is hard for complex organisms to evolve because longer DNA means longer replication time](dna.md#it-is-hard-for-complex-organisms-to-evolve-because-longer-dna-means-longer-replication-time)
+            - [Comparative genomics](dna.md#comparative-genomics)
+              - [Parasites tend to have smaller DNAs](dna.md#parasites-tend-to-have-smaller-dnas)
+              - [Homology (biology)](dna.md#homology-biology)
+                - [Ortholog](dna.md#ortholog)
+                - [Paralog](dna.md#paralog)
+            - [Phenotype](dna.md#phenotype)
+            - [Transposable element](dna.md#transposable-element)
+          - [Gene](dna.md#gene)
+            - [Genome](dna.md#genome)
+              - [Genomics](dna.md#genomics)
+            - [Non-coding DNA](dna.md#non-coding-dna)
+          - [Mutation](dna.md#mutation)
+            - [Mutagen](dna.md#mutagen)
+            - [DNA mutation type](dna.md#dna-mutation-type)
+              - [Indel](dna.md#indel)
+              - [Single-nucleotide polymorphism](dna.md#single-nucleotide-polymorphism)
+            - [Slipped strand mispairing](dna.md#slipped-strand-mispairing)
+          - [Horizontal gene transfer](dna.md#horizontal-gene-transfer)
+            - [Transduction (genetics)](dna.md#transduction-genetics)
+            - [Transformation (genetics)](dna.md#transformation-genetics)
+              - [Avery-MacLeod-McCarty experiment](dna.md#avery-macleod-mccarty-experiment)
+              - [Transfection](dna.md#transfection)
+        - [Protein](protein.md)
+          - [Amino acid](protein.md#amino-acid)
+            - [D and L amino acids](protein.md#d-and-l-amino-acids)
+              - [L-Amino acid](protein.md#l-amino-acid)
+              - [D-Amino acid](protein.md#d-amino-acid)
+            - [Proteinogenic amino acid](protein.md#proteinogenic-amino-acid)
+              - [Alanine](protein.md#alanine)
+              - [Arginine](protein.md#arginine)
+              - [Cysteine](protein.md#cysteine)
+              - [Isoleucine](protein.md#isoleucine)
+              - [Glutamine](protein.md#glutamine)
+              - [Phenylalanine](protein.md#phenylalanine)
+              - [Selenocysteine](protein.md#selenocysteine)
+              - [Threonine](protein.md#threonine)
+              - [Valine](protein.md#valine)
+          - [Protein degradation](protein.md#protein-degradation)
+          - [Protein folding](protein.md#protein-folding)
+            - [Protein structure level](protein.md#protein-structure-level)
+              - [Primary structure](protein.md#primary-structure)
+              - [Secondary structure](protein.md#secondary-structure)
+                - [Secondary structure motif](protein.md#secondary-structure-motif)
+                  - [Alpha helix](protein.md#alpha-helix)
+              - [Tertiary structure](protein.md#tertiary-structure)
+              - [Quaternary structure](protein.md#quaternary-structure)
+                - [Protein complex](protein.md#protein-complex)
+                  - [Protein dimer](protein.md#protein-dimer)
+                  - [Homodimer](protein.md#homodimer)
+            - [Computational protein folding](protein.md#computational-protein-folding)
+              - [Computational protein folding implementation](protein.md#computational-protein-folding-implementation)
+                - [AlphaFold](protein.md#alphafold)
+              - [Protein folding problem](protein.md#protein-folding-problem)
+          - [Protein of unknown function](protein.md#protein-of-unknown-function)
+          - [Proteome](protein.md#proteome)
+            - [Proteomics](protein.md#proteomics)
+          - [Model protein](protein.md#model-protein)
+          - [Type of protein](protein.md#type-of-protein)
+            - [Enzyme](protein.md#enzyme)
+              - [Active site](protein.md#active-site)
+              - [Cofactor (biochemistry)](protein.md#cofactor-biochemistry)
+                - [NADP+](protein.md#nadp-plus)
+              - [DNA polymerase](protein.md#dna-polymerase)
+                - [Terminal deoxynucleotidyl transferase](protein.md#terminal-deoxynucleotidyl-transferase)
+              - [Enzyme inhibitor](protein.md#enzyme-inhibitor)
+              - [Protease](protein.md#protease)
+              - [Restriction enzyme](protein.md#restriction-enzyme)
+            - [Glycoprotein](protein.md#glycoprotein)
+              - [Peptidoglycan](protein.md#peptidoglycan)
+            - [Polyprotein](protein.md#polyprotein)
+            - [Receptor (biochemistry)](protein.md#receptor-biochemistry)
+            - [Transmembrane protein](protein.md#transmembrane-protein)
+              - [Transmembrane domain](protein.md#transmembrane-domain)
+            - [Peptide hormone](protein.md#peptide-hormone)
+              - [Insulin](protein.md#insulin)
+                - [Proinsulin](protein.md#proinsulin)
+                - [A chain of insulin](protein.md#a-chain-of-insulin)
+                - [B chain of insulin](protein.md#b-chain-of-insulin)
+                - [C-peptide](protein.md#c-peptide)
+            - [Motor protein](protein.md#motor-protein)
+              - [Myosin](protein.md#myosin)
+              - [Microtubule motors](protein.md#microtubule-motors)
+                - [Kinesin](protein.md#kinesin)
+                - [Dynein](protein.md#dynein)
+          - [Peptide](protein.md#peptide)
+          - [List of proteins](protein.md#list-of-proteins)
+            - [Aminoacyl tRNA synthetase](protein.md#aminoacyl-trna-synthetase)
+            - [Lysozyme](protein.md#lysozyme)
+              - [Lysozyme structure resolution (1965)](protein.md#lysozyme-structure-resolution-1965)
+                - [Structure of Hen Egg-White Lysozyme: A Three-dimensional Fourier Synthesis at 2 Å Resolution (1965)](protein.md#structure-of-hen-egg-white-lysozyme-a-three-dimensional-fourier-synthesis-at-2-a-resolution-1965)
+                - [Structure of Some Crystalline Lysozyme-Inhibitor Complexes Determined by X-Ray Analysis At 6 Å Resolution (1965)](protein.md#structure-of-some-crystalline-lysozyme-inhibitor-complexes-determined-by-x-ray-analysis-at-6-a-resolution-1965)
+            - [Oxygen transport protein](protein.md#oxygen-transport-protein)
+              - [Hemoglobin](protein.md#hemoglobin)
+              - [Myoglobin](protein.md#myoglobin)
+                - [Myoglobin structure resolution (1958)](protein.md#myoglobin-structure-resolution-1958)
+                  - [A Three-Dimensional Model of the Myoglobin Molecule Obtained by X-Ray Analysis (1958)](protein.md#a-three-dimensional-model-of-the-myoglobin-molecule-obtained-by-x-ray-analysis-1958)
+        - [Metabolism](molecular-biology.md#metabolism)
+          - [Excretion](molecular-biology.md#excretion)
+            - [Feces](molecular-biology.md#feces)
+              - [Flatulence](molecular-biology.md#flatulence)
+              - [Bullshit](molecular-biology.md#bullshit)
+            - [Urine](molecular-biology.md#urine)
+          - [Flux balance analysis](molecular-biology.md#flux-balance-analysis)
+          - [Metabolite](molecular-biology.md#metabolite)
+          - [Metabolome](molecular-biology.md#metabolome)
+            - [Metabolomics](molecular-biology.md#metabolomics)
+          - [Metabolic pathway](molecular-biology.md#metabolic-pathway)
+            - [Metabolic pathway database](molecular-biology.md#metabolic-pathway-database)
+              - [KEGG](molecular-biology.md#kegg)
+              - [WikiPathways](molecular-biology.md#wikipathways)
+            - [Roche Biochemical Pathways](molecular-biology.md#roche-biochemical-pathways)
+            - [Synthetic biological circuit](molecular-biology.md#synthetic-biological-circuit)
+            - [CIDARLAB/cello](molecular-biology.md#cidarlab-cello)
+        - [Molecular biology technique](molecular-biology.md#molecular-biology-technique)
+          - [Flow cytometry](molecular-biology.md#flow-cytometry)
+            - [Mass cytometry](molecular-biology.md#mass-cytometry)
+            - [Cell sorting](molecular-biology.md#cell-sorting)
+          - [Fluorescent protein](molecular-biology.md#fluorescent-protein)
+            - [Fluorescent tag](molecular-biology.md#fluorescent-tag)
+              - [Protein tag](molecular-biology.md#protein-tag)
+                - [GFP tagging](molecular-biology.md#gfp-tagging)
+            - [List of fluorescent proteins](molecular-biology.md#list-of-fluorescent-proteins)
+              - [Green fluorescent protein](molecular-biology.md#green-fluorescent-protein)
+          - [Staining](molecular-biology.md#staining)
+          - [Molecular biology laboratory equipment](molecular-biology.md#molecular-biology-laboratory-equipment)
+            - [Gel electrophoresis](molecular-biology.md#gel-electrophoresis)
+              - [Gel electrophoresis alelle determination](molecular-biology.md#gel-electrophoresis-alelle-determination)
+              - [Limits of gel electrophoresis](molecular-biology.md#limits-of-gel-electrophoresis)
+                - [Gel electrophoresis separation of SNPs](molecular-biology.md#gel-electrophoresis-separation-of-snps)
+            - [Agarose gel electrophoresis](molecular-biology.md#agarose-gel-electrophoresis)
+            - [Microtome](molecular-biology.md#microtome)
+            - [Petri dish](molecular-biology.md#petri-dish)
+            - [Laboratory centrifuge](molecular-biology.md#laboratory-centrifuge)
+              - [Eppendorf tube](molecular-biology.md#eppendorf-tube)
+            - [Microplate](molecular-biology.md#microplate)
+              - [96 well microplate](molecular-biology.md#96-well-microplate)
+            - [Pipette](molecular-biology.md#pipette)
+            - [Sonicator](molecular-biology.md#sonicator)
+        - [History of molecular biology](molecular-biology.md#history-of-molecular-biology)
+          - [History of molecular biology bibliography](molecular-biology.md#history-of-molecular-biology-bibliography)
+            - [The Eighth Day of Creation](molecular-biology.md#the-eighth-day-of-creation)
+        - [Molecular biology bibliography](molecular-biology.md#molecular-biology-bibliography)
+          - [Molecular biology documentary](molecular-biology.md#molecular-biology-documentary)
+      - [Tissue (biology)](biology.md#tissue-biology)
+        - [Histology](biology.md#histology)
+          - [Fixation (histology)](biology.md#fixation-histology)
+      - [Organ (anatomy)](biology.md#organ-anatomy)
+        - [Brain](brain.md)
+          - [Braindumping](brain.md#braindumping)
+            - [Braindumper](brain.md#braindumper)
+              - [Rob Muhlestein](brain.md#rob-muhlestein)
+            - [Brain scanning](brain.md#brain-scanning)
+            - [Mind uploading](brain.md#mind-uploading)
+            - [Personal knowledge base](brain.md#personal-knowledge-base)
+              - [Personal knowledge instance](brain.md#personal-knowledge-instance)
+              - [Personal knowledge base software](brain.md#personal-knowledge-base-software)
+                - [List of personal knowledge base software](brain.md#list-of-personal-knowledge-base-software)
+                  - [Foam (personal knowledge base)](brain.md#foam-personal-knowledge-base)
+                  - [Forester](brain.md#forester)
+                  - [Logseq](brain.md#logseq)
+                  - [Obsidian (software)](brain.md#obsidian-software)
+                  - [Project Xanadu](brain.md#project-xanadu)
+                  - [Protolyst](brain.md#protolyst)
+                  - [Quartz (personal knowledge base)](brain.md#quartz-personal-knowledge-base)
+                  - [Roam Research](brain.md#roam-research)
+                  - [Zettlr](brain.md#zettlr)
+                  - [Zim](brain.md#zim)
+              - [Second brain](brain.md#second-brain)
+                - [Exobrain](brain.md#exobrain)
+              - [Zettelkasten](brain.md#zettelkasten)
+              - [Digital garden](brain.md#digital-garden)
+          - [Brain cell type](brain.md#brain-cell-type)
+            - [Grid cell](brain.md#grid-cell)
+          - [Brain reading](brain.md#brain-reading)
+          - [Brain simulation](brain.md#brain-simulation)
+            - [Brain-in-the-loop](brain.md#brain-in-the-loop)
+            - [Animal-in-the-loop](brain.md#animal-in-the-loop)
+          - [Connectome](brain.md#connectome)
+            - [Connectome scale](brain.md#connectome-scale)
+            - [Millimeter resolution connectome](brain.md#millimeter-resolution-connectome)
+            - [Microscopy connectome extraction](brain.md#microscopy-connectome-extraction)
+            - [Connectome by species](brain.md#connectome-by-species)
+          - [Dream](brain.md#dream)
+          - [Genius](brain.md#genius)
+            - [Child prodigy](brain.md#child-prodigy)
+              - [Ainan Celeste Cawley](brain.md#ainan-celeste-cawley)
+                - [Valentine Cawley](brain.md#valentine-cawley)
+                - [Shahidah Cawley](brain.md#shahidah-cawley)
+              - [Arran Fernandez](brain.md#arran-fernandez)
+                - [Neil Fernandez](brain.md#neil-fernandez)
+              - [Ganesh Sittampalam](brain.md#ganesh-sittampalam)
+              - [Ruth Lawrence](brain.md#ruth-lawrence)
+              - [Stephen Wolfram](brain.md#stephen-wolfram)
+          - [Nightmare](brain.md#nightmare)
+          - [Brain by species](brain.md#brain-by-species)
+            - [Drosophila brain](brain.md#drosophila-brain)
+              - [Drosophila connectome](brain.md#drosophila-connectome)
+                - [FlyWire](brain.md#flywire)
+                - [Neurokernel](brain.md#neurokernel)
+                - [Virtual Fly Brain](brain.md#virtual-fly-brain)
+            - [Mouse brain](brain.md#mouse-brain)
+              - [Allen Mouse Brain](brain.md#allen-mouse-brain)
+                - [Allen Mouse Brain Common Coordinate Framework](brain.md#allen-mouse-brain-common-coordinate-framework)
+                  - [CCFv3](brain.md#ccfv3)
+            - [Human brain](brain.md#human-brain)
+              - [Human brain connectome](brain.md#human-brain-connectome)
+                - [High level human brain structure](brain.md#high-level-human-brain-structure)
+                  - [Brodmann area](brain.md#brodmann-area)
+                  - [Number of neurons in the human brain](brain.md#number-of-neurons-in-the-human-brain)
+                  - [Number of synapses in the human brain](brain.md#number-of-synapses-in-the-human-brain)
+                  - [Cerebral cortex](brain.md#cerebral-cortex)
+                    - [Allocortex](brain.md#allocortex)
+                    - [Neocortex](brain.md#neocortex)
+                    - [Cortical column](brain.md#cortical-column)
+                      - [Cortical minicolumn](brain.md#cortical-minicolumn)
+                  - [Allen Adult Human Brain](brain.md#allen-adult-human-brain)
+                - [Human Connectome Project](brain.md#human-connectome-project)
+              - [Human brain research project](brain.md#human-brain-research-project)
+                - [Allen brain atlas](brain.md#allen-brain-atlas)
+                - [NextBrain atlas](brain.md#nextbrain-atlas)
+                - [Human Brain Project](brain.md#human-brain-project)
+          - [Psychology](brain.md#psychology)
+            - [Brainwashing](brain.md#brainwashing)
+            - [Dynamic duo](brain.md#dynamic-duo)
+              - [Francis Crick and James Watson](brain.md#francis-crick-and-james-watson)
+                - [Paper by Watson and Crick](brain.md#paper-by-watson-and-crick)
+                  - [A Structure for Deoxyribose Nucleic Acid](brain.md#a-structure-for-deoxyribose-nucleic-acid)
+              - [Hardy Littlewood ](brain.md#hardy-littlewood)
+            - [Discrimination](brain.md#discrimination)
+              - [Misogyny](brain.md#misogyny)
+            - [Emotion](brain.md#emotion)
+              - [Love](brain.md#love)
+                - [Mother's love](brain.md#mother-s-love)
+              - [Nuclear blues](brain.md#nuclear-blues)
+            - [Hedonic treadmill](brain.md#hedonic-treadmill)
+            - [Mental condition](brain.md#mental-condition)
+              - [Attention deficit hyperactivity disorder](brain.md#attention-deficit-hyperactivity-disorder)
+              - [Mania](brain.md#mania)
+                - [Graphomania](brain.md#graphomania)
+              - [Neurodiversity](brain.md#neurodiversity)
+                - [It is hard to differentiate genius from mad](brain.md#it-is-hard-to-differentiate-genius-from-mad)
+                  - [There is a method to my madness](brain.md#there-is-a-method-to-my-madness)
+                - [Many successful people are neurodiverse](brain.md#many-successful-people-are-neurodiverse)
+                  - [How can I be as great by Justine Musk](brain.md#how-can-i-be-as-great-by-justine-musk)
+                - [Developmental disorder](brain.md#developmental-disorder)
+                  - [Autism](brain.md#autism)
+            - [Economy](economy.md)
+              - [Asset](economy.md#asset)
+                - [Fungibility](economy.md#fungibility)
+                - [Liquidity](economy.md#liquidity)
+                  - [Market liquidity](economy.md#market-liquidity)
+                - [Tangible and intangible assets](economy.md#tangible-and-intangible-assets)
+                  - [Tangible asset](economy.md#tangible-asset)
+                  - [Intangible asset](economy.md#intangible-asset)
+              - [Capital flight](economy.md#capital-flight)
+              - [Commodity](economy.md#commodity)
+              - [Economics](economy.md#economics)
+              - [Economist](economy.md#economist)
+                - [Ben Bernanke](economy.md#ben-bernanke)
+                - [Yanis Varoufakis](economy.md#yanis-varoufakis)
+              - [Free](economy.md#free)
+              - [Finance](economy.md#finance)
+                - [Financial industry](economy.md#financial-industry)
+                  - [Trader (finance)](economy.md#trader-finance)
+                  - [Financial company](economy.md#financial-company)
+                    - [PayPal](economy.md#paypal)
+                      - [PayPal founder](economy.md#paypal-founder)
+                        - [Peter Thiel](economy.md#peter-thiel)
+                    - [TransferWise](economy.md#transferwise)
+                - [Investment thesis](economy.md#investment-thesis)
+                - [Personal finance](economy.md#personal-finance)
+                  - [All the financial advice you’ll ever need fits on a single index card](economy.md#all-the-financial-advice-you’ll-ever-need-fits-on-a-single-index-card)
+                  - [Finance guru](economy.md#finance-guru)
+                  - [Independently wealthy](economy.md#independently-wealthy)
+                  - [Passive income](economy.md#passive-income)
+                - [Finance is a cancer of society](economy.md#finance-is-a-cancer-of-society)
+                - [Bank](economy.md#bank)
+                  - [De-banking](economy.md#de-banking)
+                    - [De-banking should be illegal](economy.md#de-banking-should-be-illegal)
+                    - [Nigel Farage Coutts bank scandal](economy.md#nigel-farage-coutts-bank-scandal)
+                  - [Challenger bank](economy.md#challenger-bank)
+                  - [List of banks](economy.md#list-of-banks)
+                    - [Barclays](economy.md#barclays)
+                - [Financial fraud](economy.md#financial-fraud)
+                  - [Rogue trader](economy.md#rogue-trader)
+                    - [Nick Leeson](economy.md#nick-leeson)
+                      - [Nick Leeson and the Fall of the House of Barings by Adam Curtis (1996)](economy.md#nick-leeson-and-the-fall-of-the-house-of-barings-by-adam-curtis-1996)
+                - [High-frequency trading](economy.md#high-frequency-trading)
+                  - [High-frequency trading as a form of Nirvana](economy.md#high-frequency-trading-as-a-form-of-nirvana)
+                - [Financial crime](economy.md#financial-crime)
+                  - [Money laundering](economy.md#money-laundering)
+                    - [Know your customer](economy.md#know-your-customer)
+                - [Financial crisis](economy.md#financial-crisis)
+                  - [Financial crisis of 2007-2008](economy.md#financial-crisis-of-2007-2008)
+                    - [Film about the financial crisis of 2007-2008](economy.md#film-about-the-financial-crisis-of-2007-2008)
+                      - [Inside Job (2010)](economy.md#inside-job-2010)
+                      - [Margin Call (2011)](economy.md#margin-call-2011)
+                      - [The Big Short (2015)](economy.md#the-big-short-2015)
+                  - [Dot-com bubble](economy.md#dot-com-bubble)
+              - [Income distribution](economy.md#income-distribution)
+                - [Lorenz curve](economy.md#lorenz-curve)
+                - [Wealth inequality](economy.md#wealth-inequality)
+              - [Inflation](economy.md#inflation)
+                - [Money creation](economy.md#money-creation)
+                  - [Money creation vs tax](economy.md#money-creation-vs-tax)
+              - [Renting](economy.md#renting)
+              - [Social inequality](economy.md#social-inequality)
+                - [The One Percent (film)](economy.md#the-one-percent-film)
+                - [Affirmative action](economy.md#affirmative-action)
+                - [Equal opportunity](economy.md#equal-opportunity)
+                - [Meritocracy](economy.md#meritocracy)
+                - [Wealth distribution in the United States](economy.md#wealth-distribution-in-the-united-states)
+              - [Stock market](economy.md#stock-market)
+                - [Market capitalization](economy.md#market-capitalization)
+                - [Equity (finance)](economy.md#equity-finance)
+                - [Exchange-traded fund](economy.md#exchange-traded-fund)
+                - [Initial public offering](economy.md#initial-public-offering)
+                  - [Special-purpose acquisition company](economy.md#special-purpose-acquisition-company)
+                - [Open outrcy](economy.md#open-outrcy)
+                - [S&P 500](economy.md#s-and-p-500)
+              - [Utility](economy.md#utility)
+                - [Utility function](economy.md#utility-function)
+              - [Value of life](economy.md#value-of-life)
+              - [Work (human activity)](economy.md#work-human-activity)
+                - [Modern work is evil](economy.md#modern-work-is-evil)
+            - [Ethology](brain.md#ethology)
+              - [Signaling theory](brain.md#signaling-theory)
+            - [Fetish](brain.md#fetish)
+            - [Gossip](brain.md#gossip)
+            - [Law of triviality](brain.md#law-of-triviality)
+            - [Mental state](brain.md#mental-state)
+              - [Beauty](brain.md#beauty)
+              - [Funny](brain.md#funny)
+              - [Mind blown](brain.md#mind-blown)
+                - [When you see it, you'll shit bricks](brain.md#when-you-see-it-you-ll-shit-bricks)
+            - [Personality](brain.md#personality)
+              - [Personality trait](brain.md#personality-trait)
+                - [Narcissism](brain.md#narcissism)
+                - [Nerd](brain.md#nerd)
+              - [Personality type](brain.md#personality-type)
+                - [Myers-Briggs Type\_Indicator](brain.md#myers-briggs-type-indicator)
+                - [Big Five personality traits](brain.md#big-five-personality-traits)
+            - [Procrastination](brain.md#procrastination)
+              - [Yak shaving](brain.md#yak-shaving)
+            - [Psychologist](brain.md#psychologist)
+              - [Carl Jung](brain.md#carl-jung)
+              - [Jordan Peterson](brain.md#jordan-peterson)
+            - [Survivorship bias](brain.md#survivorship-bias)
+            - [Suicide](brain.md#suicide)
+            - [Side project](brain.md#side-project)
+            - [Uncanny valley](brain.md#uncanny-valley)
+          - [Intelligence](brain.md#intelligence)
+            - [Animal intelligence](brain.md#animal-intelligence)
+              - [Animal intelligence by species](brain.md#animal-intelligence-by-species)
+                - [Crow intelligence](brain.md#crow-intelligence)
+                  - [Crow intelligence experiment](brain.md#crow-intelligence-experiment)
+            - [Collective intelligence](brain.md#collective-intelligence)
+              - [Hive mind](brain.md#hive-mind)
+              - [Mindmeld](brain.md#mindmeld)
+          - [Brain biliography](brain.md#brain-biliography)
+            - [How to Create a Mind](brain.md#how-to-create-a-mind)
+      - [System (anatomy)](biology.md#system-anatomy)
+        - [List of anatomical systems](biology.md#list-of-anatomical-systems)
+          - [Circulatory system](biology.md#circulatory-system)
+            - [Blood](biology.md#blood)
+              - [Blood cell](biology.md#blood-cell)
+          - [Digestive system](biology.md#digestive-system)
+            - [Eating](biology.md#eating)
+          - [Endocrine system](biology.md#endocrine-system)
+            - [Crying](biology.md#crying)
+              - [Tearjerker](biology.md#tearjerker)
+          - [Immune system](biology.md#immune-system)
+            - [Allergy](biology.md#allergy)
+            - [Innate and adaptive immune system](biology.md#innate-and-adaptive-immune-system)
+              - [Innate immune system](biology.md#innate-immune-system)
+              - [Adaptive immune system](biology.md#adaptive-immune-system)
+                - [Lymphocyte](biology.md#lymphocyte)
+            - [Immune response](biology.md#immune-response)
+            - [Inflammation](biology.md#inflammation)
+          - [Musculoskeletal system](biology.md#musculoskeletal-system)
+            - [Bipedalism](biology.md#bipedalism)
+            - [Bone](biology.md#bone)
+            - [Muscle contraction](biology.md#muscle-contraction)
+          - [Nervous system](biology.md#nervous-system)
+            - [Sensory nervous system](biology.md#sensory-nervous-system)
+              - [Sense](biology.md#sense)
+                - [Audition](biology.md#audition)
+                - [Olfactory system](biology.md#olfactory-system)
+                  - [Smell](biology.md#smell)
+                - [Vision](biology.md#vision)
+            - [Neuroscience](biology.md#neuroscience)
+              - [Will we ever fully understand the brain?](biology.md#will-we-ever-fully-understand-the-brain)
+            - [Nervous system by species](biology.md#nervous-system-by-species)
+              - [C. elegans nervous system](biology.md#c-elegans-nervous-system)
+              - [Human nervous system](biology.md#human-nervous-system)
+                - [Recurrent laryngeal nerve](biology.md#recurrent-laryngeal-nerve)
+            - [Neuron](biology.md#neuron)
+              - [Axon](biology.md#axon)
+              - [Neuron simulator](biology.md#neuron-simulator)
+                - [Neuron (software)](biology.md#neuron-software)
+            - [Spinal cord](biology.md#spinal-cord)
+              - [Human spinal cord](biology.md#human-spinal-cord)
+        - [System by species](biology.md#system-by-species)
+    - [Systems biology](biology.md#systems-biology)
+      - [Biology database](biology.md#biology-database)
+        - [Molecular biology database](biology.md#molecular-biology-database)
+          - [BioCyc](biology.md#biocyc)
+            - [BioCyc promoter database](biology.md#biocyc-promoter-database)
+          - [National Center for Biotechnology Information](biology.md#national-center-for-biotechnology-information)
+            - [GenBank](biology.md#genbank)
+          - [UniProt](biology.md#uniprot)
+      - [Omics](biology.md#omics)
+        - [Multiomics](biology.md#multiomics)
+    - [Model organism](biology.md#model-organism)
+    - [Biosensor](biology.md#biosensor)
+      - [Hearing](biology.md#hearing)
+        - [Hearing range](biology.md#hearing-range)
+          - [Human hearing range](biology.md#human-hearing-range)
+    - [Taxonomy](taxonomy.md)
+      - [Autothrophs and heterothrophs](taxonomy.md#autothrophs-and-heterothrophs)
+        - [Autothroph](taxonomy.md#autothroph)
+          - [Chemosynthesis](taxonomy.md#chemosynthesis)
+            - [Hydrogen sulfide chemosynthesis](taxonomy.md#hydrogen-sulfide-chemosynthesis)
+            - [Hydrogen chemosynthesis](taxonomy.md#hydrogen-chemosynthesis)
+          - [Photosynthesis](taxonomy.md#photosynthesis)
+        - [Heterotroph](taxonomy.md#heterotroph)
+      - [Phylogenetics](taxonomy.md#phylogenetics)
+        - [Last universal common ancestor](taxonomy.md#last-universal-common-ancestor)
+        - [Phylogenetic tree](taxonomy.md#phylogenetic-tree)
+          - [Cladogram](taxonomy.md#cladogram)
+          - [Coral of life](taxonomy.md#coral-of-life)
+          - [OneZoom](taxonomy.md#onezoom)
+        - [Mono and paraphyly](taxonomy.md#mono-and-paraphyly)
+          - [Clade](taxonomy.md#clade)
+            - [Monophyly](taxonomy.md#monophyly)
+          - [Paraphyly](taxonomy.md#paraphyly)
+            - [Paraphyletic subgroup](taxonomy.md#paraphyletic-subgroup)
+            - [Non-clade groups are evil](taxonomy.md#non-clade-groups-are-evil)
+        - [Basal (phylogenetics)](taxonomy.md#basal-phylogenetics)
+        - [Crown group](taxonomy.md#crown-group)
+        - [Polyphyly](taxonomy.md#polyphyly)
+          - [Parallel evolution](taxonomy.md#parallel-evolution)
+      - [Taxonomy database](taxonomy.md#taxonomy-database)
+      - [Taxonomic rank](taxonomy.md#taxonomic-rank)
+        - [Genus](taxonomy.md#genus)
+        - [Domain (biology)](taxonomy.md#domain-biology)
+        - [Kingdom (biology)](taxonomy.md#kingdom-biology)
+        - [Phylum](taxonomy.md#phylum)
+        - [Class (biology)](taxonomy.md#class-biology)
+      - [Aerobic and anaerobic organisms](taxonomy.md#aerobic-and-anaerobic-organisms)
+        - [Aerobic organism](taxonomy.md#aerobic-organism)
+        - [Anaerobic organism](taxonomy.md#anaerobic-organism)
+      - [Unicellular and multicellular organisms](taxonomy.md#unicellular-and-multicellular-organisms)
+        - [Unicellular organism](taxonomy.md#unicellular-organism)
+        - [Multicellular organism](taxonomy.md#multicellular-organism)
+          - [Developmental biology](taxonomy.md#developmental-biology)
+            - [Developmental biology lab](taxonomy.md#developmental-biology-lab)
+            - [Developmental genetics](taxonomy.md#developmental-genetics)
+              - [Developmental neurobiology](taxonomy.md#developmental-neurobiology)
+              - [Homeobox gene](taxonomy.md#homeobox-gene)
+                - [Hox gene](taxonomy.md#hox-gene)
+              - [Regeneration (biology)](taxonomy.md#regeneration-biology)
+          - [Chimera (genetics)](taxonomy.md#chimera-genetics)
+          - [Germline and somatic cells](taxonomy.md#germline-and-somatic-cells)
+            - [Germline](taxonomy.md#germline)
+            - [Somatic cell](taxonomy.md#somatic-cell)
+          - [The simplest multicellular species](taxonomy.md#the-simplest-multicellular-species)
+          - [Colony (biology)](taxonomy.md#colony-biology)
+          - [Multicellularity is polyphyletic](taxonomy.md#multicellularity-is-polyphyletic)
+      - [Microorganism](taxonomy.md#microorganism)
+      - [Prokaryote](taxonomy.md#prokaryote)
+      - [Species](taxonomy.md#species)
+        - [Virus](taxonomy.md#virus)
+          - [Virus classification](taxonomy.md#virus-classification)
+            - [Bacteriophage](taxonomy.md#bacteriophage)
+              - [Phi X 174](taxonomy.md#phi-x-174)
+            - [Baltimore classification](taxonomy.md#baltimore-classification)
+              - [Positive-strand RNA virus](taxonomy.md#positive-strand-rna-virus)
+          - [Coronavirus](taxonomy.md#coronavirus)
+            - [Coronavirus Replication Cycle](taxonomy.md#coronavirus-replication-cycle)
+            - [COVID-19](taxonomy.md#covid-19)
+              - [Why it takes several days to enter inflammatory phase in COVID-19?](taxonomy.md#why-it-takes-several-days-to-enter-inflammatory-phase-in-covid-19)
+              - [Why is COVID-19 so serious in some people but not in others?](taxonomy.md#why-is-covid-19-so-serious-in-some-people-but-not-in-others)
+              - [Why is COVID-19 more serious than the flu?](taxonomy.md#why-is-covid-19-more-serious-than-the-flu)
+              - [Severe acute respiratory syndrome coronavirus 2](taxonomy.md#severe-acute-respiratory-syndrome-coronavirus-2)
+                - [Variants of SARS-CoV-2](taxonomy.md#variants-of-sars-cov-2)
+                - [SARS-CoV-2 cell entry](taxonomy.md#sars-cov-2-cell-entry)
+                - [SARS-CoV-2 gene](taxonomy.md#sars-cov-2-gene)
+                  - [ORF1ab](taxonomy.md#orf1ab)
+                - [SARS-CoV-2 protein](taxonomy.md#sars-cov-2-protein)
+                  - [SARS-CoV-2 structural protein](taxonomy.md#sars-cov-2-structural-protein)
+                    - [SARS-CoV-2 E protein](taxonomy.md#sars-cov-2-e-protein)
+                    - [SARS-CoV-2 M protein](taxonomy.md#sars-cov-2-m-protein)
+                    - [SARS-CoV-2 S protein](taxonomy.md#sars-cov-2-s-protein)
+                    - [SARS-CoV-2 N protein](taxonomy.md#sars-cov-2-n-protein)
+                  - [SARS-CoV-2 non-structural protein](taxonomy.md#sars-cov-2-non-structural-protein)
+                    - [SARS-CoV-2 Nsp3](taxonomy.md#sars-cov-2-nsp3)
+                    - [SARS-CoV-2 Nsp5](taxonomy.md#sars-cov-2-nsp5)
+                    - [SARS-CoV-2 Nsp12](taxonomy.md#sars-cov-2-nsp12)
+                  - [SARS-CoV-2 accessory protein](taxonomy.md#sars-cov-2-accessory-protein)
+          - [Dengue virus](taxonomy.md#dengue-virus)
+          - [Retrovirus](taxonomy.md#retrovirus)
+            - [Integrase](taxonomy.md#integrase)
+            - [Reverse transcriptase](taxonomy.md#reverse-transcriptase)
+            - [HIV](taxonomy.md#hiv)
+              - [AIDS](taxonomy.md#aids)
+              - [HIV vaccine](taxonomy.md#hiv-vaccine)
+        - [Bacteria](taxonomy.md#bacteria)
+          - [Bacterial cellular morphogology](taxonomy.md#bacterial-cellular-morphogology)
+          - [Bacterial cell structure](taxonomy.md#bacterial-cell-structure)
+            - [Bacterial cell wall](taxonomy.md#bacterial-cell-wall)
+          - [Bacterial conjugation](taxonomy.md#bacterial-conjugation)
+            - [Origin of transfer](taxonomy.md#origin-of-transfer)
+          - [Bacterial genome](taxonomy.md#bacterial-genome)
+            - [Bacterial chromosome is circular](taxonomy.md#bacterial-chromosome-is-circular)
+          - [Gram stain](taxonomy.md#gram-stain)
+            - [Gram-positive bacteria](taxonomy.md#gram-positive-bacteria)
+            - [Gram-negative bacteria](taxonomy.md#gram-negative-bacteria)
+              - [Bacterial outer membrane](taxonomy.md#bacterial-outer-membrane)
+                - [Periplasm](taxonomy.md#periplasm)
+          - [List of bacteria](taxonomy.md#list-of-bacteria)
+            - [Escherichia coli](taxonomy.md#escherichia-coli)
+              - [E. Coli replication time](taxonomy.md#e-coli-replication-time)
+              - [E. Coli starts DNA replication before the previous one finished](taxonomy.md#e-coli-starts-dna-replication-before-the-previous-one-finished)
+              - [E. Coli origin of replication](taxonomy.md#e-coli-origin-of-replication)
+                - [E. Coli genome starting point](taxonomy.md#e-coli-genome-starting-point)
+              - [E. Coli whole cell simulation](taxonomy.md#e-coli-whole-cell-simulation)
+                - [E. Coli Whole Cell Model by Covert Lab](e-coli-whole-cell-model-by-covert-lab.md)
+                  - [Install and first run](e-coli-whole-cell-model-by-covert-lab.md#install-and-first-run)
+                  - [Output overview](e-coli-whole-cell-model-by-covert-lab.md#output-overview)
+                    - [Mass fraction summary plot analysis](e-coli-whole-cell-model-by-covert-lab.md#mass-fraction-summary-plot-analysis)
+                  - [Run variants](e-coli-whole-cell-model-by-covert-lab.md#run-variants)
+                    - [Default run variant](e-coli-whole-cell-model-by-covert-lab.md#default-run-variant)
+                    - [Time series run variant](e-coli-whole-cell-model-by-covert-lab.md#time-series-run-variant)
+                  - [Other run variants](e-coli-whole-cell-model-by-covert-lab.md#other-run-variants)
+                  - [Source code overview](e-coli-whole-cell-model-by-covert-lab.md#source-code-overview)
+                    - [Condition](e-coli-whole-cell-model-by-covert-lab.md#condition)
+                  - [Model validation](e-coli-whole-cell-model-by-covert-lab.md#model-validation)
+                  - [Publications](e-coli-whole-cell-model-by-covert-lab.md#publications)
+                - [Multi-Omics Model and Analytics](taxonomy.md#multi-omics-model-and-analytics)
+              - [E. Coli Metabolome Database](taxonomy.md#e-coli-metabolome-database)
+              - [E. Coli strain](taxonomy.md#e-coli-strain)
+                - [E. Coli K-12](taxonomy.md#e-coli-k-12)
+                  - [E. Coli K-12 MG1655](taxonomy.md#e-coli-k-12-mg1655)
+                    - [E. Coli K-12 MG1655 origin of replication](taxonomy.md#e-coli-k-12-mg1655-origin-of-replication)
+                    - [E. Coli K-12 MG1655 gene](taxonomy.md#e-coli-k-12-mg1655-gene)
+                      - [E. Coli K-12 MG1655 gene thrL](taxonomy.md#e-coli-k-12-mg1655-gene-thrl)
+                      - [E. Coli K-12 MG1655 gene thrA](taxonomy.md#e-coli-k-12-mg1655-gene-thra)
+                      - [E. Coli K-12 MG1655 gene thrB](taxonomy.md#e-coli-k-12-mg1655-gene-thrb)
+                      - [E. Coli K-12 MG1655 gene thrC](taxonomy.md#e-coli-k-12-mg1655-gene-thrc)
+                      - [E. Coli K-12 MG1655 gene yaaX](taxonomy.md#e-coli-k-12-mg1655-gene-yaax)
+                      - [E. Coli K-12 MG1655 gene dksA](taxonomy.md#e-coli-k-12-mg1655-gene-dksa)
+                      - [E. Coli K-12 MG1655 gene lrp](taxonomy.md#e-coli-k-12-mg1655-gene-lrp)
+                      - [E. Coli K-12 MG1655 gene fnr](taxonomy.md#e-coli-k-12-mg1655-gene-fnr)
+                      - [E. Coli K-12 MG1655 gene arcA](taxonomy.md#e-coli-k-12-mg1655-gene-arca)
+                      - [E. Coli K-12 MG1655 gene ytdX](taxonomy.md#e-coli-k-12-mg1655-gene-ytdx)
+                    - [E. Coli K-12 MG1655 gene of unknown function](taxonomy.md#e-coli-k-12-mg1655-gene-of-unknown-function)
+                    - [E. Coli K-12 MG1655 promoter](taxonomy.md#e-coli-k-12-mg1655-promoter)
+                      - [E. Coli K-12 MG1655 promoter thrLp](taxonomy.md#e-coli-k-12-mg1655-promoter-thrlp)
+                        - [E. Coli K-12 MG1655 operon thrLABC](taxonomy.md#e-coli-k-12-mg1655-operon-thrlabc)
+                        - [E. Coli K-12 MG1655 transcription unit thrL](taxonomy.md#e-coli-k-12-mg1655-transcription-unit-thrl)
+                        - [E. Coli K-12 MG1655 transcription unit thrLABC](taxonomy.md#e-coli-k-12-mg1655-transcription-unit-thrlabc)
+            - [Mycoplasma](taxonomy.md#mycoplasma)
+              - [Mycoplasma genitalium](taxonomy.md#mycoplasma-genitalium)
+                - [M. genitalium whole cell simulation](taxonomy.md#m-genitalium-whole-cell-simulation)
+                  - [Lattice Microbes](taxonomy.md#lattice-microbes)
+                  - [M. genitalium whole cell model by Covert lab](taxonomy.md#m-genitalium-whole-cell-model-by-covert-lab)
+              - [Mycoplasma mycoides](taxonomy.md#mycoplasma-mycoides)
+                - [M. mycoides strain](taxonomy.md#m-mycoides-strain)
+                  - [M. mycoides JCVI strain](taxonomy.md#m-mycoides-jcvi-strain)
+                    - [JCVI-syn3A](taxonomy.md#jcvi-syn3a)
+                      - [Essential metabolism for a minimal cell (2019)](taxonomy.md#essential-metabolism-for-a-minimal-cell-2019)
+                    - [JCVI-syn3.0](taxonomy.md#jcvi-syn3-0)
+                    - [JCVI-syn3B](taxonomy.md#jcvi-syn3b)
+        - [Arkarya](taxonomy.md#arkarya)
+          - [Archaea](taxonomy.md#archaea)
+            - [Archaea are more cosely related to the eukaryotes than bacteria](taxonomy.md#archaea-are-more-cosely-related-to-the-eukaryotes-than-bacteria)
+        - [Eukaryote](taxonomy.md#eukaryote)
+          - [Advantage of eukaryote over bacteria](taxonomy.md#advantage-of-eukaryote-over-bacteria)
+            - [Eukaryotes can do phagocytosis due to their cytoskeleton](taxonomy.md#eukaryotes-can-do-phagocytosis-due-to-their-cytoskeleton)
+          - [Amoeba](taxonomy.md#amoeba)
+          - [Eukarya subclade](taxonomy.md#eukarya-subclade)
+            - [Animal](taxonomy.md#animal)
+              - [Animal anatomy](taxonomy.md#animal-anatomy)
+                - [Anus](taxonomy.md#anus)
+                - [Cloaca](taxonomy.md#cloaca)
+              - [Animal flight](taxonomy.md#animal-flight)
+              - [Warm-blooded](taxonomy.md#warm-blooded)
+                - [Homeothermy](taxonomy.md#homeothermy)
+              - [Animal subclade](taxonomy.md#animal-subclade)
+                - [Placozoan](taxonomy.md#placozoan)
+                - [Panarthropoda](taxonomy.md#panarthropoda)
+                  - [Panarthropoda subclade](taxonomy.md#panarthropoda-subclade)
+                    - [Arthropod](taxonomy.md#arthropod)
+                      - [Drosophila melanogaster](taxonomy.md#drosophila-melanogaster)
+                        - [Fruit fly model](taxonomy.md#fruit-fly-model)
+                          - [NeuroMechFly](taxonomy.md#neuromechfly)
+                          - [DeepMind fuite fly](taxonomy.md#deepmind-fuite-fly)
+                    - [Tardigrade](taxonomy.md#tardigrade)
+                - [Chordate](taxonomy.md#chordate)
+                  - [Chordate subclade](taxonomy.md#chordate-subclade)
+                    - [Lancelet](taxonomy.md#lancelet)
+                    - [Vertebrate](taxonomy.md#vertebrate)
+                      - [Vertebrate subclade](taxonomy.md#vertebrate-subclade)
+                      - [Fish](taxonomy.md#fish)
+                        - [Mudfish](taxonomy.md#mudfish)
+                        - [Zebrafish](taxonomy.md#zebrafish)
+                        - [Fish subclade](taxonomy.md#fish-subclade)
+                          - [Tetrapod](taxonomy.md#tetrapod)
+                            - [Tetrapod subclade](taxonomy.md#tetrapod-subclade)
+                              - [Amphibian](taxonomy.md#amphibian)
+                              - [Amniote](taxonomy.md#amniote)
+                                - [Amnion](taxonomy.md#amnion)
+                                - [Amniote subclade](taxonomy.md#amniote-subclade)
+                                  - [Sauropsida](taxonomy.md#sauropsida)
+                                    - [Reptile](taxonomy.md#reptile)
+                                    - [Sauropsida subclade](taxonomy.md#sauropsida-subclade)
+                                      - [Bird](taxonomy.md#bird)
+                                        - [Crow](taxonomy.md#crow)
+                                  - [Synapsid](taxonomy.md#synapsid)
+                                    - [Synapsid subclade](taxonomy.md#synapsid-subclade)
+                                      - [Mammal](taxonomy.md#mammal)
+                                        - [Milk](taxonomy.md#milk)
+                                        - [Mammal subclade](taxonomy.md#mammal-subclade)
+                                          - [Monotreme](taxonomy.md#monotreme)
+                                          - [Theria](taxonomy.md#theria)
+                                            - [Theria subclade](taxonomy.md#theria-subclade)
+                                              - [Marsupial](taxonomy.md#marsupial)
+                                              - [Placentalia](taxonomy.md#placentalia)
+                                                - [Placenta](taxonomy.md#placenta)
+                                                - [Placentalia subclade](taxonomy.md#placentalia-subclade)
+                                                  - [Bat](taxonomy.md#bat)
+                                                  - [Euarchontoglires](taxonomy.md#euarchontoglires)
+                                                    - [Euarchontoglires subclade](taxonomy.md#euarchontoglires-subclade)
+                                                      - [Mouse](taxonomy.md#mouse)
+                                                        - [Rat](taxonomy.md#rat)
+                                                        - [House mouse](taxonomy.md#house-mouse)
+                                                          - [Mouse mutant](taxonomy.md#mouse-mutant)
+                                                            - [Genetically modified mouse](taxonomy.md#genetically-modified-mouse)
+                                                            - [Knockout mouse](taxonomy.md#knockout-mouse)
+                                                      - [Primate](taxonomy.md#primate)
+                                                        - [Primate subclade](taxonomy.md#primate-subclade)
+                                                          - [Simian](taxonomy.md#simian)
+                                                            - [Simian subclade](taxonomy.md#simian-subclade)
+                                                              - [Ape](taxonomy.md#ape)
+                                                                - [Ape subclade](taxonomy.md#ape-subclade)
+                                                                  - [Australopithecine](taxonomy.md#australopithecine)
+                                                                    - [Human](human.md)
+                                                                      - [Human evolution](human.md#human-evolution)
+                                                                        - [Early expansions of hominins out of Africa](human.md#early-expansions-of-hominins-out-of-africa)
+                                                                        - [Early human migrations](human.md#early-human-migrations)
+                                                                        - [Interbreeding between archaic and modern humans](human.md#interbreeding-between-archaic-and-modern-humans)
+                                                                        - [Human loss of fur](human.md#human-loss-of-fur)
+                                                                      - [Human body](human.md#human-body)
+                                                                        - [Human biology database](human.md#human-biology-database)
+                                                                          - [Visible Human Project](human.md#visible-human-project)
+                                                                        - [Human phenotype](human.md#human-phenotype)
+                                                                          - [Biometrics](human.md#biometrics)
+                                                                            - [Fingerprint](human.md#fingerprint)
+                                                                              - [Fingerprint minutiae](human.md#fingerprint-minutiae)
+                                                                              - [Fingerprint file format](human.md#fingerprint-file-format)
+                                                                                - [List of fingerprint file formats](human.md#list-of-fingerprint-file-formats)
+                                                                                  - [ISO 19794-2](human.md#iso-19794-2)
+                                                                                - [Convert image to fingerprint file format](human.md#convert-image-to-fingerprint-file-format)
+                                                                              - [Fingerprint matching](human.md#fingerprint-matching)
+                                                                              - [Fingerprint imaging](human.md#fingerprint-imaging)
+                                                                              - [Fingerprint imaging with smartphone](human.md#fingerprint-imaging-with-smartphone)
+                                                                          - [Human Phenotype Ontology](human.md#human-phenotype-ontology)
+                                                                          - [Race (human categorization)](human.md#race-human-categorization)
+                                                                            - [White people](human.md#white-people)
+                                                                            - [Multiracial](human.md#multiracial)
+                                                                              - [White-East asian mixed](human.md#white-east-asian-mixed)
+                                                                        - [Human cell type](human.md#human-cell-type)
+                                                                          - [Human Cell Atlas](human.md#human-cell-atlas)
+                                                                          - [Human immortalised cell line](human.md#human-immortalised-cell-line)
+                                                                            - [HeLa](human.md#hela)
+                                                                            - [HEK 293 cell](human.md#hek-293-cell)
+                                                                        - [Human molecular biology](human.md#human-molecular-biology)
+                                                                          - [Human proteome](human.md#human-proteome)
+                                                                          - [Human genome](human.md#human-genome)
+                                                                            - [Human chromosome](human.md#human-chromosome)
+                                                                            - [Human genetic variation](human.md#human-genetic-variation)
+                                                                              - [Personal Genome Project](human.md#personal-genome-project)
+                                                                              - [Double and mono eyelids](human.md#double-and-mono-eyelids)
+                                                                                - [East Asian blepharoplasty](human.md#east-asian-blepharoplasty)
+                                                                              - [Blood type](human.md#blood-type)
+                                                                                - [Human blood group systems](human.md#human-blood-group-systems)
+                                                                                  - [ABO blood group system](human.md#abo-blood-group-system)
+                                                                            - [Human mtDNA](human.md#human-mtdna)
+                                                                              - [Human mitochondrial molecular clock](human.md#human-mitochondrial-molecular-clock)
+                                                                              - [Cambridge Reference Sequence](human.md#cambridge-reference-sequence)
+                                                                                - [Sequence and organization of the human mitochondrial genome by Sanger et al. (1981)](human.md#sequence-and-organization-of-the-human-mitochondrial-genome-by-sanger-et-al-1981)
+                                                                            - [Human mitochondrial DNA haplogroup](human.md#human-mitochondrial-dna-haplogroup)
+                                                                            - [Human genome sequencing project](human.md#human-genome-sequencing-project)
+                                                                              - [Human Genome Project](human.md#human-genome-project)
+                                                                              - [2015 Iceland genome sequencing studies](human.md#2015-iceland-genome-sequencing-studies)
+                                                                              - [100,000 Genomes Project](human.md#100-000-genomes-project)
+                                                                              - [TwinsUK](human.md#twinsuk)
+                                                                            - [Human protein](human.md#human-protein)
+                                                                              - [Angiotensin-converting enzyme 2](human.md#angiotensin-converting-enzyme-2)
+                                                                              - [TMPRSS2](human.md#tmprss2)
+                                                                        - [Human body system](human.md#human-body-system)
+                                                                      - [Transhumanism](human.md#transhumanism)
+                                                                        - [Brain in a vat](human.md#brain-in-a-vat)
+                                                  - [Laurasiatheria](taxonomy.md#laurasiatheria)
+                                                    - [Laurasiatheria subclade](taxonomy.md#laurasiatheria-subclade)
+                                                      - [Carnivora](taxonomy.md#carnivora)
+                                                        - [Carnivora subclade](taxonomy.md#carnivora-subclade)
+                                                          - [Bear](taxonomy.md#bear)
+                                                      - [Ungulate](taxonomy.md#ungulate)
+                                                        - [Ungulate subclade](taxonomy.md#ungulate-subclade)
+                                                          - [Cow](taxonomy.md#cow)
+                - [Nematode](taxonomy.md#nematode)
+                  - [Caenorhabditis elegans](taxonomy.md#caenorhabditis-elegans)
+                    - [C. elegans cell lineage](taxonomy.md#c-elegans-cell-lineage)
+                    - [C. elegans body system](taxonomy.md#c-elegans-body-system)
+                    - [C. elegans models and databases](taxonomy.md#c-elegans-models-and-databases)
+                      - [WormAtlas](taxonomy.md#wormatlas)
+                        - [WormWiring](taxonomy.md#wormwiring)
+                        - [SlidableWorm](taxonomy.md#slidableworm)
+                      - [WormBase](taxonomy.md#wormbase)
+                        - [Virtual Worm Project](taxonomy.md#virtual-worm-project)
+                      - [WormWideWeb](taxonomy.md#wormwideweb)
+                    - [OpenWorm](taxonomy.md#openworm)
+            - [Fungus](taxonomy.md#fungus)
+              - [Mold](taxonomy.md#mold)
+              - [Yeast](taxonomy.md#yeast)
+              - [Saccharomyces cerevisiae](taxonomy.md#saccharomyces-cerevisiae)
+            - [Plant](taxonomy.md#plant)
+              - [Borlotti beans](taxonomy.md#borlotti-beans)
+              - [Pinto bean](taxonomy.md#pinto-bean)
+        - [Extraterrestrial life](taxonomy.md#extraterrestrial-life)
+          - [Extraterrestrial intelligence](taxonomy.md#extraterrestrial-intelligence)
+          - [Kardashev scale](taxonomy.md#kardashev-scale)
+          - [Search for extraterrestrial intelligence](taxonomy.md#search-for-extraterrestrial-intelligence)
+            - [Communication with extraterrestrial intelligence](taxonomy.md#communication-with-extraterrestrial-intelligence)
+              - [Arecibo message](taxonomy.md#arecibo-message)
+    - [Evolution](biology.md#evolution)
+      - [Argument from poor design](biology.md#argument-from-poor-design)
+        - [Intelligent design](biology.md#intelligent-design)
+      - [Convergent evolution](biology.md#convergent-evolution)
+      - [Extinct and extant](biology.md#extinct-and-extant)
+        - [Extinct](biology.md#extinct)
+        - [Extant](biology.md#extant)
+      - [Genetic diversity](biology.md#genetic-diversity)
+        - [Allele](biology.md#allele)
+      - [Natural selection](biology.md#natural-selection)
+      - [Selective breeding](biology.md#selective-breeding)
+        - [Eugenics](biology.md#eugenics)
+    - [Biotechnology](biology.md#biotechnology)
+      - [Artificial womb](biology.md#artificial-womb)
+      - [Biosafety level](biology.md#biosafety-level)
+      - [Contract research organization](biology.md#contract-research-organization)
+      - [Parenteral nutrition](biology.md#parenteral-nutrition)
+      - [Tissue engineering](biology.md#tissue-engineering)
+        - [Cultured food](biology.md#cultured-food)
+          - [Cultured meat](biology.md#cultured-meat)
+            - [Cultured meat company](biology.md#cultured-meat-company)
+              - [Ivy Farm](biology.md#ivy-farm)
+            - [Eat Just](biology.md#eat-just)
+      - [Synthetic biology](biology.md#synthetic-biology)
+    - [Biologist](biology.md#biologist)
+      - [Antonie van Leeuwenhoek](biology.md#antonie-van-leeuwenhoek)
+      - [Craig Venter](biology.md#craig-venter)
+      - [Francis Crick](biology.md#francis-crick)
+        - [Odile Crick](biology.md#odile-crick)
+      - [George M. Church](biology.md#george-m-church)
+      - [Jacques Monod](biology.md#jacques-monod)
+        - [You can learn more from older students than from faculty](biology.md#you-can-learn-more-from-older-students-than-from-faculty)
+      - [James Watson](biology.md#james-watson)
+      - [John Sulston](biology.md#john-sulston)
+        - [Work by John Sulston](biology.md#work-by-john-sulston)
+          - [The embryonic cell lineage of the nematode Caenorhabditis elegans](biology.md#the-embryonic-cell-lineage-of-the-nematode-caenorhabditis-elegans)
+      - [Paul Nurse](biology.md#paul-nurse)
+    - [Computational biology](biology.md#computational-biology)
+      - [Bioinformatics](biology.md#bioinformatics)
+        - [FASTA format](biology.md#fasta-format)
+          - [Get nucleotide at a given position of a FASTA file](biology.md#get-nucleotide-at-a-given-position-of-a-fasta-file)
+        - [Sequence alignment](biology.md#sequence-alignment)
+          - [BLAST (biotechnology)](biology.md#blast-biotechnology)
+      - [Biological simulation](biology.md#biological-simulation)
+        - [Biological simulation company](biology.md#biological-simulation-company)
+          - [GenBio AI](biology.md#genbio-ai)
+        - [Whole organism simulation](biology.md#whole-organism-simulation)
+          - [Organism model](biology.md#organism-model)
+    - [Disease](biology.md#disease)
+      - [Cancer](biology.md#cancer)
+        - [Anti-cancer mechanism](biology.md#anti-cancer-mechanism)
+          - [Oncogene](biology.md#oncogene)
+        - [Cancer is natural selection gone wrong](biology.md#cancer-is-natural-selection-gone-wrong)
+        - [Cancer research](biology.md#cancer-research)
+      - [Chronic disease](biology.md#chronic-disease)
+      - [Obesity](biology.md#obesity)
+      - [Infection](biology.md#infection)
+      - [Respiratory disease](biology.md#respiratory-disease)
+        - [Asthma](biology.md#asthma)
+        - [Tuberculosis](biology.md#tuberculosis)
+    - [Life](biology.md#life)
+      - [Artificial life](biology.md#artificial-life)
+        - [Software-based artificial life](biology.md#software-based-artificial-life)
+          - [The Bibites](biology.md#the-bibites)
+          - [Primer (YouTube channel)](biology.md#primer-youtube-channel)
+            - [Justin Helps](biology.md#justin-helps)
+      - [Organism](biology.md#organism)
+      - [Death](biology.md#death)
+    - [Reproduction](biology.md#reproduction)
+      - [Egg](biology.md#egg)
+      - [Sexual reproduction](biology.md#sexual-reproduction)
+        - [Sex (trait)](biology.md#sex-trait)
+          - [Female](biology.md#female)
+          - [Male](biology.md#male)
+        - [Why are there two sexes?](biology.md#why-are-there-two-sexes)
+        - [There are two sexes because of mitochondria](biology.md#there-are-two-sexes-because-of-mitochondria)
+        - [Sexually](biology.md#sexually)
+        - [Sexual selection](biology.md#sexual-selection)
+          - [Mate choice](biology.md#mate-choice)
+          - [Courtship](biology.md#courtship)
+        - [Sexual arousal](biology.md#sexual-arousal)
+          - [Sexual fetish](biology.md#sexual-fetish)
+            - [Pedophilia](biology.md#pedophilia)
+              - [Pedobear](biology.md#pedobear)
+          - [Sexy](biology.md#sexy)
+            - [Reproductive cue](biology.md#reproductive-cue)
+              - [Human reproductive cue](biology.md#human-reproductive-cue)
+                - [Cleavage](biology.md#cleavage)
+        - [Orgasm](biology.md#orgasm)
+        - [Sexual intercourse](biology.md#sexual-intercourse)
+          - [Gang bang](biology.md#gang-bang)
+        - [Sex toy](biology.md#sex-toy)
+          - [Dildo](biology.md#dildo)
+        - [Sexual orientation](biology.md#sexual-orientation)
+          - [Transsexual](biology.md#transsexual)
+          - [Homosexuality](biology.md#homosexuality)
+            - [Bisexuality](biology.md#bisexuality)
+            - [Homoeroticism](biology.md#homoeroticism)
+            - [Lesbian](biology.md#lesbian)
+          - [Coming out](biology.md#coming-out)
+        - [Promiscuity](biology.md#promiscuity)
+        - [Sexual organ](biology.md#sexual-organ)
+          - [Breast](biology.md#breast)
+          - [Penis](biology.md#penis)
+          - [Vagina](biology.md#vagina)
+        - [Viviparity](biology.md#viviparity)
+          - [Pregnancy](biology.md#pregnancy)
+            - [Abortion](biology.md#abortion)
+    - [Medicine](biology.md#medicine)
+      - [Medical imaging](biology.md#medical-imaging)
+        - [CT scan](biology.md#ct-scan)
+        - [Positron emission tomography](biology.md#positron-emission-tomography)
+      - [Pharmacy](biology.md#pharmacy)
+        - [Antimicrobial](biology.md#antimicrobial)
+          - [Antibiotic](biology.md#antibiotic)
+            - [Streptomycin](biology.md#streptomycin)
+        - [Drug](biology.md#drug)
+          - [Addiction](biology.md#addiction)
+            - [Drug addict](biology.md#drug-addict)
+            - [Drug tolerance](biology.md#drug-tolerance)
+          - [Recreational drug](biology.md#recreational-drug)
+            - [Drug liberalization](biology.md#drug-liberalization)
+            - [Bad trip](biology.md#bad-trip)
+            - [Drug traffic](biology.md#drug-traffic)
+              - [Drug lord](biology.md#drug-lord)
+            - [List of recreational drugs](biology.md#list-of-recreational-drugs)
+              - [Cocaine](biology.md#cocaine)
+              - [Marijuana](biology.md#marijuana)
+              - [Heroin](biology.md#heroin)
+              - [Lysergic acid diethylamide](biology.md#lysergic-acid-diethylamide)
+        - [Pharmaceutical company](biology.md#pharmaceutical-company)
+          - [Merck Group](biology.md#merck-group)
+  - [Astronomy](astronomy.md)
+    - [Amateur astronomy](astronomy.md#amateur-astronomy)
+      - [Good targets for amateur astronomy](astronomy.md#good-targets-for-amateur-astronomy)
+    - [Astronomer](astronomy.md#astronomer)
+      - [Antony Hewish ](astronomy.md#antony-hewish)
+    - [Astronomical measurement unit](astronomy.md#astronomical-measurement-unit)
+      - [Astronomical unit](astronomy.md#astronomical-unit)
+      - [Apparent magnitude](astronomy.md#apparent-magnitude)
+        - [Brightest natural objects in the sky](astronomy.md#brightest-natural-objects-in-the-sky)
+          - [Star outside the Milky Way](astronomy.md#star-outside-the-milky-way)
+          - [It is not possible to see stars outside of the Milky Way by naked eye](astronomy.md#it-is-not-possible-to-see-stars-outside-of-the-milky-way-by-naked-eye)
+      - [Proper motion](astronomy.md#proper-motion)
+    - [Astrophysics](astronomy.md#astrophysics)
+      - [Cosmic ray](astronomy.md#cosmic-ray)
+        - [Particle discovered with cosmic rays](astronomy.md#particle-discovered-with-cosmic-rays)
+        - [Mountain used for cosmic ray experiments](astronomy.md#mountain-used-for-cosmic-ray-experiments)
+        - [Ultra-high-energy cosmic ray](astronomy.md#ultra-high-energy-cosmic-ray)
+          - [Greisen-Zatsepin-Kuzmin limit](astronomy.md#greisen-zatsepin-kuzmin-limit)
+          - [Oh-My-God particle](astronomy.md#oh-my-god-particle)
+    - [Age of the universe](astronomy.md#age-of-the-universe)
+      - [Big Bang](astronomy.md#big-bang)
+        - [Cosmic microwave background](astronomy.md#cosmic-microwave-background)
+          - [Cosmic microwave background anisotropy](astronomy.md#cosmic-microwave-background-anisotropy)
+            - [Wilkinson Microwave Anisotropy Probe](astronomy.md#wilkinson-microwave-anisotropy-probe)
+        - [Epoch (astronomy)](astronomy.md#epoch-astronomy)
+          - [Recombination (cosmology)](astronomy.md#recombination-cosmology)
+        - [Expansion of the universe](astronomy.md#expansion-of-the-universe)
+          - [Hubble's law](astronomy.md#hubble-s-law)
+          - [Cosmological event horizon](astronomy.md#cosmological-event-horizon)
+          - [Expanding raisin bread model](astronomy.md#expanding-raisin-bread-model)
+          - [Inflation (cosmology)](astronomy.md#inflation-cosmology)
+    - [Astronomical object](astronomy.md#astronomical-object)
+      - [Galaxy](astronomy.md#galaxy)
+        - [Quasar](astronomy.md#quasar)
+      - [Messier object](astronomy.md#messier-object)
+      - [Planetary system](astronomy.md#planetary-system)
+      - [Planet](astronomy.md#planet)
+      - [Star](astronomy.md#star)
+        - [Double star](astronomy.md#double-star)
+          - [Binary star](astronomy.md#binary-star)
+        - [Star system](astronomy.md#star-system)
+          - [Polaris](astronomy.md#polaris)
+        - [Stellar classification](astronomy.md#stellar-classification)
+          - [Neutron star](astronomy.md#neutron-star)
+            - [Neutron star merger](astronomy.md#neutron-star-merger)
+            - [Pulsar](astronomy.md#pulsar)
+              - [Binary pulsar](astronomy.md#binary-pulsar)
+              - [Jocelyn Bell Burnell](astronomy.md#jocelyn-bell-burnell)
+              - [Magnetar](astronomy.md#magnetar)
+                - [List of magnetars](astronomy.md#list-of-magnetars)
+                  - [SGR 1806-20](astronomy.md#sgr-1806-20)
+          - [Main sequence](astronomy.md#main-sequence)
+          - [Supernova](astronomy.md#supernova)
+          - [Black hole](astronomy.md#black-hole)
+            - [Micro black hole](astronomy.md#micro-black-hole)
+            - [Black holes nearest to the Sun](astronomy.md#black-holes-nearest-to-the-sun)
+    - [Constellation](astronomy.md#constellation)
+      - [IAU designated constellations](astronomy.md#iau-designated-constellations)
+      - [Asterism (astronomy)](astronomy.md#asterism-astronomy)
+        - [Big Dipper](astronomy.md#big-dipper)
+    - [Space exploration](astronomy.md#space-exploration)
+      - [Space exploration organization](astronomy.md#space-exploration-organization)
+        - [NASA](astronomy.md#nasa)
+    - [Radio astronomy](astronomy.md#radio-astronomy)
+      - [Radio telescope](astronomy.md#radio-telescope)
+        - [Mullard Radio Astronomy Observatory](astronomy.md#mullard-radio-astronomy-observatory)
+    - [Telescope](astronomy.md#telescope)
+      - [Amateur telescope](astronomy.md#amateur-telescope)
+        - [Amateur telescope vendor](astronomy.md#amateur-telescope-vendor)
+          - [Celestron](astronomy.md#celestron)
+            - [Celestron NexStar](astronomy.md#celestron-nexstar)
+              - [Celestron NexStar 4SE](astronomy.md#celestron-nexstar-4se)
+    - [Universe](astronomy.md#universe)
+      - [Virgo Supercluster](astronomy.md#virgo-supercluster)
+        - [Virgo cluster](astronomy.md#virgo-cluster)
+          - [Galaxy in the Virgo cluster](astronomy.md#galaxy-in-the-virgo-cluster)
+            - [Messier 49](astronomy.md#messier-49)
+            - [Messier 86](astronomy.md#messier-86)
+            - [Messier 87](astronomy.md#messier-87)
+        - [Local group](astronomy.md#local-group)
+          - [Galaxy in the Local Group](astronomy.md#galaxy-in-the-local-group)
+            - [Andromeda Galaxy](astronomy.md#andromeda-galaxy)
+          - [Milky Way](astronomy.md#milky-way)
+            - [Galaxies nearest the Milky Way](astronomy.md#galaxies-nearest-the-milky-way)
+            - [Milky Way satellite galaxy](astronomy.md#milky-way-satellite-galaxy)
+              - [Large Magellanic Cloud](astronomy.md#large-magellanic-cloud)
+            - [Sagittarius A](astronomy.md#sagittarius-a)
+              - [Sagittarius A\*](astronomy.md#sagittarius-a-star)
+            - [Zone of Avoidance](astronomy.md#zone-of-avoidance)
+            - [Arm of the Milky Way](astronomy.md#arm-of-the-milky-way)
+              - [Orion Arm](astronomy.md#orion-arm)
+                - [Alpha Centauri](astronomy.md#alpha-centauri)
+                  - [Proxima Centauri](astronomy.md#proxima-centauri)
+                - [Sirius](astronomy.md#sirius)
+                - [Solar System](astronomy.md#solar-system)
+                  - [Model of the solar system](astronomy.md#model-of-the-solar-system)
+                    - [Geocentric model](astronomy.md#geocentric-model)
+                    - [Copernican heliocentrism](astronomy.md#copernican-heliocentrism)
+                  - [Sun](astronomy.md#sun)
+                    - [Stars nearest to the Sun](astronomy.md#stars-nearest-to-the-sun)
+                  - [Planet in the Solar System](astronomy.md#planet-in-the-solar-system)
+                    - [Mercury (planet)](astronomy.md#mercury-planet)
+                    - [Venus](astronomy.md#venus)
+                    - [Earth](astronomy.md#earth)
+                      - [Atmosphere of Earth](astronomy.md#atmosphere-of-earth)
+                      - [Continent](continent.md)
+                        - [Continental drift](continent.md#continental-drift)
+                          - [Pangaea](continent.md#pangaea)
+                        - [Geography](continent.md#geography)
+                          - [Geographical feature](continent.md#geographical-feature)
+                            - [Mountain](continent.md#mountain)
+                            - [River](continent.md#river)
+                        - [Afro-Eurasia](continent.md#afro-eurasia)
+                          - [Middle East](continent.md#middle-east)
+                        - [List of continents](continent.md#list-of-continents)
+                          - [Americas](continent.md#americas)
+                            - [North America](continent.md#north-america)
+                              - [Country in North America](continent.md#country-in-north-america)
+                                - [Canada](continent.md#canada)
+                                - [Mexico](continent.md#mexico)
+                                  - [Mexican drug war](continent.md#mexican-drug-war)
+                                - [United States](united-states.md)
+                                  - [History of the United States](united-states.md#history-of-the-united-states)
+                                    - [American Revolution](united-states.md#american-revolution)
+                                    - [American Civil War](united-states.md#american-civil-war)
+                                  - [Culture of the United States](united-states.md#culture-of-the-united-states)
+                                    - [American exceptionalism](united-states.md#american-exceptionalism)
+                                  - [Law enforcement in the United States](united-states.md#law-enforcement-in-the-united-states)
+                                    - [Federal Bureau of Investigation](united-states.md#federal-bureau-of-investigation)
+                                  - [United States Armed Forces](united-states.md#united-states-armed-forces)
+                                    - [Military doctrine of the United States](united-states.md#military-doctrine-of-the-united-states)
+                                      - [Rifleman's Creed](united-states.md#rifleman-s-creed)
+                                    - [United States Air Force](united-states.md#united-states-air-force)
+                                    - [United States Navy](united-states.md#united-states-navy)
+                                  - [United States Government](united-states.md#united-states-government)
+                                    - [Independent agencies of the United States government](united-states.md#independent-agencies-of-the-united-states-government)
+                                      - [U.S. Securities and Exchange Commission](united-states.md#u-s-securities-and-exchange-commission)
+                                    - [United States Department of Defense](united-states.md#united-states-department-of-defense)
+                                      - [The Pentagon](united-states.md#the-pentagon)
+                                      - [DARPA](united-states.md#darpa)
+                                        - [DARPA project](united-states.md#darpa-project)
+                                        - [ARPA](united-states.md#arpa)
+                                  - [U.S. state](united-states.md#u-s-state)
+                                    - [California](united-states.md#california)
+                                      - [San Francisco Bay](united-states.md#san-francisco-bay)
+                                        - [San Francisco Bay Area](united-states.md#san-francisco-bay-area)
+                                          - [Berkeley, California](united-states.md#berkeley-california)
+                                          - [Palo Alto](united-states.md#palo-alto)
+                                          - [San Francisco](united-states.md#san-francisco)
+                                            - [LGBT culture in San Francisco](united-states.md#lgbt-culture-in-san-francisco)
+                                          - [Silicon Valley](united-states.md#silicon-valley)
+                                      - [County in California](united-states.md#county-in-california)
+                                        - [San Mateo County](united-states.md#san-mateo-county)
+                                          - [Municipality in San Mateo County](united-states.md#municipality-in-san-mateo-county)
+                                            - [Atherton, California](united-states.md#atherton-california)
+                                      - [City in California](united-states.md#city-in-california)
+                                        - [Los Angeles](united-states.md#los-angeles)
+                                        - [Santa Barbara](united-states.md#santa-barbara)
+                                    - [Hawaii](united-states.md#hawaii)
+                                    - [Illinois](united-states.md#illinois)
+                                      - [Champaign-Urbana metropolitan area](united-states.md#champaign-urbana-metropolitan-area)
+                                      - [Municipality in Illinois](united-states.md#municipality-in-illinois)
+                                        - [Chicago](united-states.md#chicago)
+                                    - [Massachusetts](united-states.md#massachusetts)
+                                      - [Boston](united-states.md#boston)
+                                    - [Minnesota](united-states.md#minnesota)
+                                    - [New Mexico](united-states.md#new-mexico)
+                                      - [Albuquerque, New Mexico](united-states.md#albuquerque-new-mexico)
+                                      - [Los Alamos, New Mexico](united-states.md#los-alamos-new-mexico)
+                                    - [New York (state)](united-states.md#new-york-state)
+                                      - [New York](united-states.md#new-york)
+                                        - [Manhattan](united-states.md#manhattan)
+                                          - [Wall Street](united-states.md#wall-street)
+                                      - [Long Island](united-states.md#long-island)
+                                    - [Oregon](united-states.md#oregon)
+                                    - [Tennessee](united-states.md#tennessee)
+                                    - [Texas](united-states.md#texas)
+                                      - [Size of Texas meme](united-states.md#size-of-texas-meme)
+                                    - [Utah](united-states.md#utah)
+                                    - [Washington (state)](united-states.md#washington-state)
+                            - [South America](continent.md#south-america)
+                              - [River in South America](continent.md#river-in-south-america)
+                                - [Amazon River](continent.md#amazon-river)
+                              - [Country in South America](continent.md#country-in-south-america)
+                                - [Brazil](brazil.md)
+                                  - [Brazilian exchange students](brazil.md#brazilian-exchange-students)
+                                    - [Brazilian Student Association](brazil.md#brazilian-student-association)
+                                    - [Ciência sem Fronteiras](brazil.md#ciencia-sem-fronteiras)
+                                  - [Favela](brazil.md#favela)
+                                  - [States of Brazil](brazil.md#states-of-brazil)
+                                    - [São Paulo (state)](brazil.md#sao-paulo-state)
+                                      - [City in the State of São Paulo](brazil.md#city-in-the-state-of-sao-paulo)
+                                        - [Jundiaí](brazil.md#jundiai)
+                                        - [Rio Claro, São Paulo](brazil.md#rio-claro-sao-paulo)
+                                        - [Santos, São Paulo, Brazil](brazil.md#santos-sao-paulo-brazil)
+                                      - [São Paulo City](brazil.md#sao-paulo-city)
+                                        - [Municipal Market of São Paulo](brazil.md#municipal-market-of-sao-paulo)
+                                    - [Rio de Janeiro (state)](brazil.md#rio-de-janeiro-state)
+                                  - [History of Brazil](brazil.md#history-of-brazil)
+                                    - [Military dictatorship in Brazil](brazil.md#military-dictatorship-in-brazil)
+                                      - [Be a marginal, be a hero](brazil.md#be-a-marginal-be-a-hero)
+                                  - [Politics of Brazil](brazil.md#politics-of-brazil)
+                                  - [2022 Brazilian general election](brazil.md#2022-brazilian-general-election)
+                                  - [Demographics of Brazil](brazil.md#demographics-of-brazil)
+                                    - [Japanese Brazilians](brazil.md#japanese-brazilians)
+                                      - [Liberdade (district of São Paulo)](brazil.md#liberdade-district-of-sao-paulo)
+                                  - [Culture of Brazil](brazil.md#culture-of-brazil)
+                                    - [Brazilian cuisine](brazil.md#brazilian-cuisine)
+                                      - [Brazilian creamy cornmeal cake](brazil.md#brazilian-creamy-cornmeal-cake)
+                                      - [Feijoada](brazil.md#feijoada)
+                                      - [Pineapple jelly with cream](brazil.md#pineapple-jelly-with-cream)
+                                    - [Malandragem](brazil.md#malandragem)
+                          - [Asia](continent.md#asia)
+                            - [Asian](continent.md#asian)
+                              - [Asian American](continent.md#asian-american)
+                              - [Asian meme](continent.md#asian-meme)
+                                - [High expectations Asian father](continent.md#high-expectations-asian-father)
+                            - [Golden Crescent](continent.md#golden-crescent)
+                            - [Russia](continent.md#russia)
+                              - [Russian dissident](continent.md#russian-dissident)
+                                - [Alexander Litvinenko](continent.md#alexander-litvinenko)
+                                  - [The poisoning of Alexander Litvinenko](continent.md#the-poisoning-of-alexander-litvinenko)
+                              - [Soviet Union](continent.md#soviet-union)
+                                - [Flag of the Soviet Union](continent.md#flag-of-the-soviet-union)
+                            - [East Asia](continent.md#east-asia)
+                              - [East Asian](continent.md#east-asian)
+                              - [Asian fetish](continent.md#asian-fetish)
+                              - [Country in East Asia](continent.md#country-in-east-asia)
+                                - [China](china.md)
+                                  - [Sinophile](china.md#sinophile)
+                                    - [Ciro Santilli's sinophily](china.md#ciro-santilli-s-sinophily)
+                                    - [Sinologist](china.md#sinologist)
+                                  - [Chinese culture](china.md#chinese-culture)
+                                    - [Chinese custom](china.md#chinese-custom)
+                                      - [Blood brother](china.md#blood-brother)
+                                    - [Chinese festival](china.md#chinese-festival)
+                                    - [Dragon Boat Festival](china.md#dragon-boat-festival)
+                                      - [Dragon boat](china.md#dragon-boat)
+                                    - [Chinese numbered list](china.md#chinese-numbered-list)
+                                      - [Four Beauties](china.md#four-beauties)
+                                      - [Four arts](china.md#four-arts)
+                                      - [Four Treasures of the Study](china.md#four-treasures-of-the-study)
+                                    - [Chinese male ideal](china.md#chinese-male-ideal)
+                                      - [Junzi](china.md#junzi)
+                                      - [Chinese scholar](china.md#chinese-scholar)
+                                        - [Scholar-official](china.md#scholar-official)
+                                        - [Chinese scholar house](china.md#chinese-scholar-house)
+                                    - [Chinese art](china.md#chinese-art)
+                                      - [Chinese cinema](china.md#chinese-cinema)
+                                        - [Chinese television drama](china.md#chinese-television-drama)
+                                        - [Cinema of Hong Kong](china.md#cinema-of-hong-kong)
+                                      - [Chinese cuisine](china.md#chinese-cuisine)
+                                        - [Chinese regional cuisine](china.md#chinese-regional-cuisine)
+                                          - [Eight Chinese Cuisines](china.md#eight-chinese-cuisines)
+                                        - [Chinese food](china.md#chinese-food)
+                                          - [Baijiu](china.md#baijiu)
+                                          - [Century egg](china.md#century-egg)
+                                          - [Congee](china.md#congee)
+                                          - [Douhua](china.md#douhua)
+                                          - [Mantou](china.md#mantou)
+                                          - [Zongzi](china.md#zongzi)
+                                      - [Chinese literature](china.md#chinese-literature)
+                                        - [Chinese poetry](china.md#chinese-poetry)
+                                          - [Chinese poem](china.md#chinese-poem)
+                                          - [Chinese poet](china.md#chinese-poet)
+                                          - [Li Bai](china.md#li-bai)
+                                          - [Chinese poetry anthology](china.md#chinese-poetry-anthology)
+                                            - [Three Hundred Tang Poems](china.md#three-hundred-tang-poems)
+                                          - [Classical Chinese poetry form](china.md#classical-chinese-poetry-form)
+                                            - [Qijue](china.md#qijue)
+                                          - [Chinese poetry bibliography](china.md#chinese-poetry-bibliography)
+                                            - [100 Tang Poems](china.md#100-tang-poems)
+                                        - [Chinese book](china.md#chinese-book)
+                                          - [Classic Chinese Novels](china.md#classic-chinese-novels)
+                                            - [Four Great Classic Novels](china.md#four-great-classic-novels)
+                                              - [Dream of the Red Chamber](china.md#dream-of-the-red-chamber)
+                                                - [Dream of the Red Chamber adaptation](china.md#dream-of-the-red-chamber-adaptation)
+                                                  - [Dream of the Red Chamber (1987 TV series)](china.md#dream-of-the-red-chamber-1987-tv-series)
+                                              - [Journey to the West](china.md#journey-to-the-west)
+                                                - [Journey to the West character](china.md#journey-to-the-west-character)
+                                                  - [Zhu Bajie](china.md#zhu-bajie)
+                                                  - [Sun Wukong](china.md#sun-wukong)
+                                                  - [Tang Sanzang](china.md#tang-sanzang)
+                                                - [Journey to the West adaptation](china.md#journey-to-the-west-adaptation)
+                                                  - [Journey to the West (1986 TV series)](china.md#journey-to-the-west-1986-tv-series)
+                                              - [Romance of the Three Kingdoms](china.md#romance-of-the-three-kingdoms)
+                                                - [Romance of the Three Kingdoms (1994 TV series)](china.md#romance-of-the-three-kingdoms-1994-tv-series)
+                                                - [Romance of the Three Kingdoms event](china.md#romance-of-the-three-kingdoms-event)
+                                                  - [Oath of the Peach Garden](china.md#oath-of-the-peach-garden)
+                                              - [Water Margin](china.md#water-margin)
+                                                - [Water Margin quote](china.md#water-margin-quote)
+                                                - [Water Margin English translation](china.md#water-margin-english-translation)
+                                                  - [Water Margin translation by Sidney Shapiro (1980)](china.md#water-margin-translation-by-sidney-shapiro-1980)
+                                                - [Water Margin character](china.md#water-margin-character)
+                                                  - [Grand Commander Hou](china.md#grand-commander-hou)
+                                                  - [Gao Qiu](china.md#gao-qiu)
+                                                  - [Lin Chong](china.md#lin-chong)
+                                                    - [Lin Chong scene](china.md#lin-chong-scene)
+                                                  - [Lu Zhishen](china.md#lu-zhishen)
+                                                    - [Lu Zhishen scene](china.md#lu-zhishen-scene)
+                                                      - [Lu Zhishen uproots willow tree](china.md#lu-zhishen-uproots-willow-tree)
+                                                      - [Lu Zhishen saves Lin Chong](china.md#lu-zhishen-saves-lin-chong)
+                                                  - [Song Jiang](china.md#song-jiang)
+                                                  - [Sun Erniang](china.md#sun-erniang)
+                                                  - [Wang Jin (Water Margin character)](china.md#wang-jin-water-margin-character)
+                                                  - [Yang Zhi (Water Margin)](china.md#yang-zhi-water-margin)
+                                                - [Water Margin location](china.md#water-margin-location)
+                                                  - [The Capital (Water Margin location)](china.md#the-capital-water-margin-location)
+                                                  - [Mount Liang](china.md#mount-liang)
+                                                - [Water Margin scene](china.md#water-margin-scene)
+                                                  - [Grand Commander Hou releases the 108 demons](china.md#grand-commander-hou-releases-the-108-demons)
+                                                - [Water Margin adaptation](china.md#water-margin-adaptation)
+                                                  - [The Water Margin (1973 TV series)](china.md#the-water-margin-1973-tv-series)
+                                                - [The Water Margin (1998 TV series)](china.md#the-water-margin-1998-tv-series)
+                                                - [108 Stars of Destiny](china.md#108-stars-of-destiny)
+                                                  - [108 Stars of Destiny women](china.md#108-stars-of-destiny-women)
+                                          - [Huainanzi](china.md#huainanzi)
+                                            - [The old man lost his horse](china.md#the-old-man-lost-his-horse)
+                                          - [Strange Tales from a Chinese Studio](china.md#strange-tales-from-a-chinese-studio)
+                                            - [Pu Songling](china.md#pu-songling)
+                                            - [Strange Tales from a Chinese Studio story](china.md#strange-tales-from-a-chinese-studio-story)
+                                              - [The Great Sage, Heaven's Equal (Strange Tales from a Chinese Studio story)](china.md#the-great-sage-heaven-s-equal-strange-tales-from-a-chinese-studio-story)
+                                            - [Strange Tales from a Chinese Studio film adaptation](china.md#strange-tales-from-a-chinese-studio-film-adaptation)
+                                              - [A Chinese Ghost Story](china.md#a-chinese-ghost-story)
+                                                - [A Chinese Ghost Story sutra](china.md#a-chinese-ghost-story-sutra)
+                                              - [Painted Skin (1992 film)](china.md#painted-skin-1992-film)
+                                      - [Chinese music](china.md#chinese-music)
+                                        - [Chinese traditional music](chinese-traditional-music.md)
+                                          - [The best Chinese traditional instrumental music](chinese-traditional-music.md#the-best-chinese-traditional-instrumental-music)
+                                            - [Ten ancient famous songs of China](chinese-traditional-music.md#ten-ancient-famous-songs-of-china)
+                                          - [Chinese musical instrument](chinese-traditional-music.md#chinese-musical-instrument)
+                                            - [Bianqing](chinese-traditional-music.md#bianqing)
+                                            - [Chinese traditional vocal music](chinese-traditional-music.md#chinese-traditional-vocal-music)
+                                              - [Dream of the Red Chamber 1987 music](chinese-traditional-music.md#dream-of-the-red-chamber-1987-music)
+                                            - [Dizi (instrument)](chinese-traditional-music.md#dizi-instrument)
+                                            - [Erhu](chinese-traditional-music.md#erhu)
+                                              - [Erhu piece](chinese-traditional-music.md#erhu-piece)
+                                                - [Water of the Yangtze](chinese-traditional-music.md#water-of-the-yangtze)
+                                                - [Reflections of the Moon on Erquan](chinese-traditional-music.md#reflections-of-the-moon-on-erquan)
+                                                - [Suwu herding sheep](chinese-traditional-music.md#suwu-herding-sheep)
+                                              - [Erhu player](chinese-traditional-music.md#erhu-player)
+                                                - [Abing](chinese-traditional-music.md#abing)
+                                                - [Song Fei (erhu)](chinese-traditional-music.md#song-fei-erhu)
+                                            - [Guqin](chinese-traditional-music.md#guqin)
+                                              - [Guqin player](chinese-traditional-music.md#guqin-player)
+                                                - [Bo Ya](chinese-traditional-music.md#bo-ya)
+                                                - [Zhang Ziqian](chinese-traditional-music.md#zhang-ziqian)
+                                              - [Guqin bibliography](chinese-traditional-music.md#guqin-bibliography)
+                                                - [silkqin.com](chinese-traditional-music.md#silkqin-com)
+                                              - [Guqin piece](chinese-traditional-music.md#guqin-piece)
+                                                - [Melody of Longshuo](chinese-traditional-music.md#melody-of-longshuo)
+                                                - [High Mountain and Flowing Water](chinese-traditional-music.md#high-mountain-and-flowing-water)
+                                                - [The book binding broke three times](chinese-traditional-music.md#the-book-binding-broke-three-times)
+                                                - [Dialog between Fisherman and Woodcutter](chinese-traditional-music.md#dialog-between-fisherman-and-woodcutter)
+                                                - [Li sao (guqin song)](chinese-traditional-music.md#li-sao-guqin-song)
+                                                - [A Conversation Between God and Man](chinese-traditional-music.md#a-conversation-between-god-and-man)
+                                                - [Wine mad](chinese-traditional-music.md#wine-mad)
+                                            - [Guzheng](chinese-traditional-music.md#guzheng)
+                                              - [Guzheng piece](chinese-traditional-music.md#guzheng-piece)
+                                                - [Jackdaw Playing With Water](chinese-traditional-music.md#jackdaw-playing-with-water)
+                                                - [Ripples by ripples](chinese-traditional-music.md#ripples-by-ripples)
+                                            - [Pipa](chinese-traditional-music.md#pipa)
+                                              - [Pipa piece](chinese-traditional-music.md#pipa-piece)
+                                                - [Ambush from ten sides](chinese-traditional-music.md#ambush-from-ten-sides)
+                                                - [White snow in sunny spring](chinese-traditional-music.md#white-snow-in-sunny-spring)
+                                                - [Dance of the Yi People](chinese-traditional-music.md#dance-of-the-yi-people)
+                                                - [Dragon boat (pipa piece)](chinese-traditional-music.md#dragon-boat-pipa-piece)
+                                                - [Little sisters of the grassland](chinese-traditional-music.md#little-sisters-of-the-grassland)
+                                              - [Pipa player](chinese-traditional-music.md#pipa-player)
+                                                - [Liu Dehai](chinese-traditional-music.md#liu-dehai)
+                                                - [Wu Man](chinese-traditional-music.md#wu-man)
+                                            - [Suona](chinese-traditional-music.md#suona)
+                                              - [Suona piece](chinese-traditional-music.md#suona-piece)
+                                                - [A Hundred Birds Pay Homage to the Phoenix](chinese-traditional-music.md#a-hundred-birds-pay-homage-to-the-phoenix)
+                                            - [Xun (instrument)](chinese-traditional-music.md#xun-instrument)
+                                            - [Yangqin](chinese-traditional-music.md#yangqin)
+                                          - [Chinese traditional music label](chinese-traditional-music.md#chinese-traditional-music-label)
+                                            - [China Record Corporation](chinese-traditional-music.md#china-record-corporation)
+                                          - [Chinese traditional music album](chinese-traditional-music.md#chinese-traditional-music-album)
+                                            - [Masters Of Traditional Chinese Music (album)](chinese-traditional-music.md#masters-of-traditional-chinese-music-album)
+                                              - [Master Of Traditional Chinese Music: guqin](chinese-traditional-music.md#master-of-traditional-chinese-music-guqin)
+                                        - [Chinese children's music](china.md#chinese-children-s-music)
+                                          - [Counting ducks (Chinese children's song)](china.md#counting-ducks-chinese-children-s-song)
+                                      - [Chinese painting](china.md#chinese-painting)
+                                        - [Chinese traditional painting](china.md#chinese-traditional-painting)
+                                          - [Bird-and-flower painting](china.md#bird-and-flower-painting)
+                                          - [Chinese traditional painting shape](china.md#chinese-traditional-painting-shape)
+                                            - [Handscroll](china.md#handscroll)
+                                            - [Hanging scroll](china.md#hanging-scroll)
+                                            - [Fan painting](china.md#fan-painting)
+                                        - [Chinese painter](china.md#chinese-painter)
+                                          - [Xie Shichen](china.md#xie-shichen)
+                                  - [Politics of China](china.md#politics-of-china)
+                                    - [Chinese policy](china.md#chinese-policy)
+                                      - [One Child Policy](china.md#one-child-policy)
+                                    - [Chinese government](china.md#chinese-government)
+                                      - [Chinese Communist Party](china.md#chinese-communist-party)
+                                      - [Chinese politician](china.md#chinese-politician)
+                                        - [Mao Zedong](china.md#mao-zedong)
+                                        - [Xi Jinping](china.md#xi-jinping)
+                                      - [Chinese government media](china.md#chinese-government-media)
+                                        - [China Central Television](china.md#china-central-television)
+                                  - [Chinese company](china.md#chinese-company)
+                                    - [Baidu](china.md#baidu)
+                                    - [Baidu Baike](china.md#baidu-baike)
+                                  - [Chinese currency](china.md#chinese-currency)
+                                  - [Sycee](china.md#sycee)
+                                  - [Chinese game](china.md#chinese-game)
+                                    - [Cuju](china.md#cuju)
+                                  - [Chinese garden](china.md#chinese-garden)
+                                    - [Four Gentlemen](china.md#four-gentlemen)
+                                    - [Stone garden](china.md#stone-garden)
+                                  - [Geography of China](china.md#geography-of-china)
+                                    - [Chinese river](china.md#chinese-river)
+                                      - [Yangtze](china.md#yangtze)
+                                  - [Chinese history](china.md#chinese-history)
+                                    - [Chinese dynasty](china.md#chinese-dynasty)
+                                      - [CCP dynasty](china.md#ccp-dynasty)
+                                        - [Tiananmen Square Protests](china.md#tiananmen-square-protests)
+                                          - [Tank Man](china.md#tank-man)
+                                      - [Qing dynasty](china.md#qing-dynasty)
+                                      - [Ming dynasty](china.md#ming-dynasty)
+                                      - [Song dynasty](china.md#song-dynasty)
+                                      - [Tang dynasty](china.md#tang-dynasty)
+                                      - [Warring States period](china.md#warring-states-period)
+                                        - [Chu (state)](china.md#chu-state)
+                                  - [Chinese measurement unit](china.md#chinese-measurement-unit)
+                                    - [Traditional Chinese timekeeping](china.md#traditional-chinese-timekeeping)
+                                    - [Tael](china.md#tael)
+                                  - [Chinese website](china.md#chinese-website)
+                                    - [Bilibili](china.md#bilibili)
+                                    - [Mojim](china.md#mojim)
+                                  - [Province of China](china.md#province-of-china)
+                                    - [Shanxi](china.md#shanxi)
+                                    - [Shandong](china.md#shandong)
+                                      - [City in Shandong](china.md#city-in-shandong)
+                                        - [Kaifeng](china.md#kaifeng)
+                                  - [Demographics of China](china.md#demographics-of-china)
+                                    - [Sex-ratio imbalance in China](china.md#sex-ratio-imbalance-in-china)
+                                    - [Ethnic minorities in China](china.md#ethnic-minorities-in-china)
+                                      - [List of Chinese ethnic minorities](china.md#list-of-chinese-ethnic-minorities)
+                                        - [Yi people](china.md#yi-people)
+                                - [Japan](japan.md)
+                                  - [City in Japan](japan.md#city-in-japan)
+                                    - [Tokyo](japan.md#tokyo)
+                                  - [Culture of Japan](japan.md#culture-of-japan)
+                                    - [Seppuku](japan.md#seppuku)
+                                  - [Japanese literature](japan.md#japanese-literature)
+                                    - [Hagakure](japan.md#hagakure)
+                                      - [Matters of small concern should be treated seriously](japan.md#matters-of-small-concern-should-be-treated-seriously)
+                                  - [Chinese thing better known in the West as Japanese](japan.md#chinese-thing-better-known-in-the-west-as-japanese)
+                                - [Korea](continent.md#korea)
+                                  - [Korean art](continent.md#korean-art)
+                                  - [Korean drama](continent.md#korean-drama)
+                                  - [Kimchi](continent.md#kimchi)
+                                - [Taiwan](continent.md#taiwan)
+                                  - [City in Taiwan](continent.md#city-in-taiwan)
+                                    - [Taipei](continent.md#taipei)
+                            - [South Asia](continent.md#south-asia)
+                              - [Country in South Asia](continent.md#country-in-south-asia)
+                                - [India](continent.md#india)
+                                  - [Indian cuisine](continent.md#indian-cuisine)
+                                    - [Thali](continent.md#thali)
+                                  - [Indian classical music](continent.md#indian-classical-music)
+                                    - [Hindu chant](continent.md#hindu-chant)
+                                      - [Mahamrityunjaya Mantra](continent.md#mahamrityunjaya-mantra)
+                                      - [Shanti Mantra](continent.md#shanti-mantra)
+                                      - [Shri Rudram](continent.md#shri-rudram)
+                                    - [Raga](continent.md#raga)
+                                    - [Raga by time of the day](continent.md#raga-by-time-of-the-day)
+                                      - [Evening raga](continent.md#evening-raga)
+                                        - [Puriya](continent.md#puriya)
+                                    - [Indian classical music trope type](continent.md#indian-classical-music-trope-type)
+                                      - [Jugalbandi](continent.md#jugalbandi)
+                                    - [Indian classical musician](continent.md#indian-classical-musician)
+                                    - [Indian classical musician by instrument](continent.md#indian-classical-musician-by-instrument)
+                                      - [Indian classical singer](continent.md#indian-classical-singer)
+                                        - [Jasraj](continent.md#jasraj)
+                                    - [Classical Indian musical instrument](continent.md#classical-indian-musical-instrument)
+                                      - [Shehnai](continent.md#shehnai)
+                                      - [Sitar](continent.md#sitar)
+                                        - [Sitar player](continent.md#sitar-player)
+                                          - [Ravi Shankar](continent.md#ravi-shankar)
+                                      - [Tabla](continent.md#tabla)
+                                        - [Tabla player](continent.md#tabla-player)
+                                          - [Zakir Hussain (musician)](continent.md#zakir-hussain-musician)
+                                            - [Ustad](continent.md#ustad)
+                                          - [Alla Rakha](continent.md#alla-rakha)
+                                      - [Tanpura](continent.md#tanpura)
+                                  - [Indian politician](continent.md#indian-politician)
+                                    - [Mahatma Gandhi](continent.md#mahatma-gandhi)
+                                - [Pakistan](continent.md#pakistan)
+                                  - [Muhammad Iqbal](continent.md#muhammad-iqbal)
+                            - [Southeast Asia](continent.md#southeast-asia)
+                              - [Golden Triangle (Southeast Asia)](continent.md#golden-triangle-southeast-asia)
+                              - [Country in Southeast Asia](continent.md#country-in-southeast-asia)
+                              - [Vietnam](continent.md#vietnam)
+                              - [Oceania](continent.md#oceania)
+                                - [Country in Oceania](continent.md#country-in-oceania)
+                                  - [Australia](continent.md#australia)
+                                  - [New Zealand](continent.md#new-zealand)
+                                    - [New Zealand flag debate](continent.md#new-zealand-flag-debate)
+                                      - [Laser Kiwi flag](continent.md#laser-kiwi-flag)
+                            - [West Asia](continent.md#west-asia)
+                              - [Arabian Peninsula](continent.md#arabian-peninsula)
+                                - [Country in the Arabian Peninsula](continent.md#country-in-the-arabian-peninsula)
+                                  - [Qatar](continent.md#qatar)
+                                    - [2025 impression from Qatar](continent.md#2025-impression-from-qatar)
+                              - [Country in West Asia](continent.md#country-in-west-asia)
+                                - [Afghanistan](continent.md#afghanistan)
+                                - [Iran](continent.md#iran)
+                                - [Israel](continent.md#israel)
+                                  - [West Bank](continent.md#west-bank)
+                                - [Turkey](continent.md#turkey)
+                          - [Europe](continent.md#europe)
+                            - [Geography of Europe](continent.md#geography-of-europe)
+                              - [Alps](continent.md#alps)
+                            - [Eastern Europe](continent.md#eastern-europe)
+                            - [European balance of power](continent.md#european-balance-of-power)
+                              - [Concert of Europe](continent.md#concert-of-europe)
+                            - [European Union](continent.md#european-union)
+                              - [The European Union is a failure](continent.md#the-european-union-is-a-failure)
+                              - [Europe cookie law](continent.md#europe-cookie-law)
+                            - [Western World](continent.md#western-world)
+                            - [Country in Europe](continent.md#country-in-europe)
+                              - [Austria](continent.md#austria)
+                                - [City in Austria](continent.md#city-in-austria)
+                                  - [Vienna](continent.md#vienna)
+                                - [Fugging, Upper Austria](continent.md#fugging-upper-austria)
+                              - [Czech Republic](continent.md#czech-republic)
+                              - [France](continent.md#france)
+                                - [City in France](continent.md#city-in-france)
+                                  - [Paris](continent.md#paris)
+                                    - [Place de la République](continent.md#place-de-la-republique)
+                                - [French person](continent.md#french-person)
+                              - [Germany](continent.md#germany)
+                                - [Adolf Hitler](continent.md#adolf-hitler)
+                                  - [Nazism](continent.md#nazism)
+                                    - [Nazi Germany](continent.md#nazi-germany)
+                                - [State of Germany](continent.md#state-of-germany)
+                                  - [Bavaria](continent.md#bavaria)
+                                - [City in Germany](continent.md#city-in-germany)
+                                  - [Hamburg](continent.md#hamburg)
+                              - [Greece](continent.md#greece)
+                              - [Italy](continent.md#italy)
+                              - [Kosovo](continent.md#kosovo)
+                                - [Kosovo War](continent.md#kosovo-war)
+                              - [Netherlands](continent.md#netherlands)
+                                - [City in the Netherlands](continent.md#city-in-the-netherlands)
+                                  - [Eindhoven](continent.md#eindhoven)
+                                - [History of the Netherlands](continent.md#history-of-the-netherlands)
+                                  - [Dutch Golden Age](continent.md#dutch-golden-age)
+                              - [Spain](continent.md#spain)
+                              - [Sweden](continent.md#sweden)
+                              - [Switzerland](continent.md#switzerland)
+                              - [United Kingdom](united-kingdom.md)
+                                - [Geographical division of the United Kingdom](united-kingdom.md#geographical-division-of-the-united-kingdom)
+                                  - [Geographical division of England](united-kingdom.md#geographical-division-of-england)
+                                  - [City in the United Kingdom](united-kingdom.md#city-in-the-united-kingdom)
+                                    - [Brighton](united-kingdom.md#brighton)
+                                  - [Counties of the United Kingdom](united-kingdom.md#counties-of-the-united-kingdom)
+                                    - [Historic counties of England](united-kingdom.md#historic-counties-of-england)
+                                    - [Administrative counties of England](united-kingdom.md#administrative-counties-of-england)
+                                    - [Cambridgeshire](united-kingdom.md#cambridgeshire)
+                                      - [Cambridge](united-kingdom.md#cambridge)
+                                        - [Cycling landscape of Cambridge's surroundings](united-kingdom.md#cycling-landscape-of-cambridge-s-surroundings)
+                                        - [River Cam](united-kingdom.md#river-cam)
+                                        - [Company based in Cambridge](united-kingdom.md#company-based-in-cambridge)
+                                    - [Greater London](united-kingdom.md#greater-london)
+                                      - [London](united-kingdom.md#london)
+                                        - [City of London](united-kingdom.md#city-of-london)
+                                          - [Money laundering in London](united-kingdom.md#money-laundering-in-london)
+                                            - [The Spiders' Web: Britain's Second Empire](united-kingdom.md#the-spiders-web-britain-s-second-empire)
+                                    - [West Midlands (county)](united-kingdom.md#west-midlands-county)
+                                      - [Coventry](united-kingdom.md#coventry)
+                                  - [British Overseas Territories](united-kingdom.md#british-overseas-territories)
+                                  - [Countries of the United Kingdom](united-kingdom.md#countries-of-the-united-kingdom)
+                                    - [England](united-kingdom.md#england)
+                                      - [History of England](united-kingdom.md#history-of-england)
+                                        - [Anglo-Saxons](united-kingdom.md#anglo-saxons)
+                                  - [Regions of England](united-kingdom.md#regions-of-england)
+                                    - [South East England](united-kingdom.md#south-east-england)
+                                      - [County in South East England](united-kingdom.md#county-in-south-east-england)
+                                        - [Oxfordshire](united-kingdom.md#oxfordshire)
+                                          - [Pendon Museum](united-kingdom.md#pendon-museum)
+                                          - [Oxford](united-kingdom.md#oxford)
+                                            - [River Cherwell](united-kingdom.md#river-cherwell)
+                                - [Law of the United Kingdom](united-kingdom.md#law-of-the-united-kingdom)
+                                  - [Taxation in the United Kingdom](united-kingdom.md#taxation-in-the-united-kingdom)
+                                    - [Gift vs Grant vs Contract in the United Kingdom](united-kingdom.md#gift-vs-grant-vs-contract-in-the-united-kingdom)
+                                - [Politics of the United Kingdom](united-kingdom.md#politics-of-the-united-kingdom)
+                                  - [Brexit](united-kingdom.md#brexit)
+                                  - [British political party](united-kingdom.md#british-political-party)
+                                    - [Monster Raving Loony Party](united-kingdom.md#monster-raving-loony-party)
+                                  - [British politician](united-kingdom.md#british-politician)
+                                    - [Winston Churchill](united-kingdom.md#winston-churchill)
+                                  - [Government of the United Kingdom](united-kingdom.md#government-of-the-united-kingdom)
+                                    - [Driver and Vehicle Standards Agency](united-kingdom.md#driver-and-vehicle-standards-agency)
+                                      - [All DVSA materials should be free](united-kingdom.md#all-dvsa-materials-should-be-free)
+                                    - [UK Research and Innovation](united-kingdom.md#uk-research-and-innovation)
+                                      - [Innovate UK](united-kingdom.md#innovate-uk)
+                                      - [UK National Quantum Technologies Programme](united-kingdom.md#uk-national-quantum-technologies-programme)
+                                      - [Science and Technology Facilities Council](united-kingdom.md#science-and-technology-facilities-council)
+                                - [British custom](united-kingdom.md#british-custom)
+                                  - [British pragmatism](united-kingdom.md#british-pragmatism)
+                                  - [Brits can't say "no" directly](united-kingdom.md#brits-can-t-say-no-directly)
+                                - [Climate of the United Kingdom](united-kingdom.md#climate-of-the-united-kingdom)
+                                - [Transportation in the United Kingdom](united-kingdom.md#transportation-in-the-united-kingdom)
+                                  - [Cycling in the United Kingdom](united-kingdom.md#cycling-in-the-united-kingdom)
+                                    - [Cycling UK](united-kingdom.md#cycling-uk)
+                                    - [UK cycle route](united-kingdom.md#uk-cycle-route)
+                                      - [National Cycle Network](united-kingdom.md#national-cycle-network)
+                                      - [The National Byway](united-kingdom.md#the-national-byway)
+                                  - [Rail transport in Great Britain](united-kingdom.md#rail-transport-in-great-britain)
+                                    - [Beeching cuts](united-kingdom.md#beeching-cuts)
+                                - [Education in the United Kingdom](united-kingdom.md#education-in-the-united-kingdom)
+                                  - [Charity school](united-kingdom.md#charity-school)
+                                  - [Public school (united-kingdom)](united-kingdom.md#public-school-united-kingdom)
+                                    - [Public Schools Act 1868](united-kingdom.md#public-schools-act-1868)
+                                    - [List of public schools in the United Kingdom](united-kingdom.md#list-of-public-schools-in-the-united-kingdom)
+                                      - [Eton College](united-kingdom.md#eton-college)
+                                - [Monarchy of the United Kingdom](united-kingdom.md#monarchy-of-the-united-kingdom)
+                                - [Economy of the United Kingdom](united-kingdom.md#economy-of-the-united-kingdom)
+                                  - [Financial industry of the United Kingdom](united-kingdom.md#financial-industry-of-the-united-kingdom)
+                                  - [Entrepreneurship in the United Kingdom](united-kingdom.md#entrepreneurship-in-the-united-kingdom)
+                                - [Driving in the United Kingdom](united-kingdom.md#driving-in-the-united-kingdom)
+                                  - [British country roads are dangerous](united-kingdom.md#british-country-roads-are-dangerous)
+                                - [The UK is broken](united-kingdom.md#the-uk-is-broken)
+                              - [Portugal](continent.md#portugal)
+                      - [Moon](astronomy.md#moon)
+                        - [Giant-impact hypothesis](astronomy.md#giant-impact-hypothesis)
+                      - [Earth science](astronomy.md#earth-science)
+                        - [Geologic time scale](astronomy.md#geologic-time-scale)
+                          - [Age of Earth](astronomy.md#age-of-earth)
+                          - [Extinction event](astronomy.md#extinction-event)
+                            - [Cretaceous-Paleogene extinction event](astronomy.md#cretaceous-paleogene-extinction-event)
+                            - [Permian-Triassic extinction event](astronomy.md#permian-triassic-extinction-event)
+                            - [Great Oxidation Event](astronomy.md#great-oxidation-event)
+                          - [Geologic time scale hierarchy](astronomy.md#geologic-time-scale-hierarchy)
+                            - [Eon](astronomy.md#eon)
+                              - [Phanerozoic](astronomy.md#phanerozoic)
+                                - [Cenozoic](astronomy.md#cenozoic)
+                                  - [Paleolithic](astronomy.md#paleolithic)
+                                  - [Quaternary](astronomy.md#quaternary)
+                                    - [Holocene](astronomy.md#holocene)
+                                    - [Pleistocene](astronomy.md#pleistocene)
+                                - [Mesozoic](astronomy.md#mesozoic)
+                                - [Paleozoic](astronomy.md#paleozoic)
+                              - [Proterozoic](astronomy.md#proterozoic)
+                              - [Archean](astronomy.md#archean)
+                              - [Hadean](astronomy.md#hadean)
+                            - [Era](astronomy.md#era)
+                            - [Period (geology)](astronomy.md#period-geology)
+                        - [Atmospheric science](astronomy.md#atmospheric-science)
+                          - [Climatology](astronomy.md#climatology)
+                            - [Climate change](astronomy.md#climate-change)
+                              - [Global warming](astronomy.md#global-warming)
+                          - [Meteorology](astronomy.md#meteorology)
+                            - [Rain](astronomy.md#rain)
+                        - [Earth's magnetic field](astronomy.md#earth-s-magnetic-field)
+                        - [Geology](astronomy.md#geology)
+                        - [Mineralogy](astronomy.md#mineralogy)
+                          - [Mineral](astronomy.md#mineral)
+                            - [Rock (geology)](astronomy.md#rock-geology)
+                              - [Sedimentary rock](astronomy.md#sedimentary-rock)
+                              - [List of rocks](astronomy.md#list-of-rocks)
+                                - [Limestone](astronomy.md#limestone)
+                          - [Mine](astronomy.md#mine)
+                            - [Mining](astronomy.md#mining)
+                            - [List of mines](astronomy.md#list-of-mines)
+                              - [Jáchymov](astronomy.md#jachymov)
+                              - [Falun mine](astronomy.md#falun-mine)
+                          - [Ore](astronomy.md#ore)
+                    - [Mars](astronomy.md#mars)
+                      - [Mars exploration](astronomy.md#mars-exploration)
+                        - [Mars sample-return mission](astronomy.md#mars-sample-return-mission)
+                        - [Human mission to Mars](astronomy.md#human-mission-to-mars)
+                    - [Jupiter](astronomy.md#jupiter)
+                      - [Galilean moons](astronomy.md#galilean-moons)
+                    - [Saturn](astronomy.md#saturn)
+                    - [Uranus](astronomy.md#uranus)
+                    - [Neptune](astronomy.md#neptune)
+                    - [Dwarf planet in the solar system](astronomy.md#dwarf-planet-in-the-solar-system)
+                      - [Pluto](astronomy.md#pluto)
+  - [Laboratory](#laboratory)
+    - [Cleanroom](#cleanroom)
+      - [ISO cleanroom level](#iso-cleanroom-level)
+    - [Laboratory simulation](#laboratory-simulation)
+    - [Laboratory equipment manufacturer](#laboratory-equipment-manufacturer)
+      - [Thermo Fisher Scientific](#thermo-fisher-scientific)
+        - [Fisher Scientific](#fisher-scientific)
+          - [Fisher Scientific product](#fisher-scientific-product)
+        - [Thermo Electron](#thermo-electron)
+  - [Natural science YouTube channel](#natural-science-youtube-channel)
+    - [The Thought Emporium](#the-thought-emporium)
+- [Linguistics](linguistics.md)
+  - [Dictionary](linguistics.md#dictionary)
+    - [Online dictionary](linguistics.md#online-dictionary)
+      - [Urban Dictionary](linguistics.md#urban-dictionary)
+  - [Register (sociolinguistics)](linguistics.md#register-sociolinguistics)
+    - [Term of endearment](linguistics.md#term-of-endearment)
+  - [Part of speech](linguistics.md#part-of-speech)
+    - [Lexical category](linguistics.md#lexical-category)
+    - [Noun](linguistics.md#noun)
+      - [Name](linguistics.md#name)
+        - [Personal name](linguistics.md#personal-name)
+          - [Given name](linguistics.md#given-name)
+            - [Given names are getting weirder](linguistics.md#given-names-are-getting-weirder)
+          - [Maiden and married name](linguistics.md#maiden-and-married-name)
+            - [Maiden name](linguistics.md#maiden-name)
+          - [Middle name](linguistics.md#middle-name)
+            - [Pseudonym](linguistics.md#pseudonym)
+              - [Western pseudonym of East Asian person](linguistics.md#western-pseudonym-of-east-asian-person)
+  - [Etymology](linguistics.md#etymology)
+    - [Morphology (linguistics)](linguistics.md#morphology-linguistics)
+      - [Inflection](linguistics.md#inflection)
+        - [Diminutive](linguistics.md#diminutive)
+    - [Neologism](linguistics.md#neologism)
+  - [Phonetics](linguistics.md#phonetics)
+    - [Homonym](linguistics.md#homonym)
+  - [Semantics](linguistics.md#semantics)
+    - [Synonym](linguistics.md#synonym)
+  - [Figure of speech](linguistics.md#figure-of-speech)
+    - [Innuendo](linguistics.md#innuendo)
+      - [Sexual innuendo](linguistics.md#sexual-innuendo)
+    - [Slang](linguistics.md#slang)
+    - [Euphemism](linguistics.md#euphemism)
+  - [Linguist](linguistics.md#linguist)
+    - [Charles Kay Ogden](linguistics.md#charles-kay-ogden)
+  - [Lingua franca](linguistics.md#lingua-franca)
+  - [Natural language](linguistics.md#natural-language)
+    - [Language learning](linguistics.md#language-learning)
+      - [Polyglot](linguistics.md#polyglot)
+        - [Timothy Doner](linguistics.md#timothy-doner)
+    - [Constructed language](linguistics.md#constructed-language)
+      - [Controlled language](linguistics.md#controlled-language)
+        - [Controlled English](linguistics.md#controlled-english)
+          - [Basic English](linguistics.md#basic-english)
+          - [Learning English](linguistics.md#learning-english)
+        - [Structured data](linguistics.md#structured-data)
+  - [Writing system](linguistics.md#writing-system)
+    - [Transcription (linguistics)](linguistics.md#transcription-linguistics)
+      - [Transliteration](linguistics.md#transliteration)
+    - [Logogram](linguistics.md#logogram)
+      - [Chinese character](linguistics.md#chinese-character)
+        - [Transliteration of Chinese](linguistics.md#transliteration-of-chinese)
+          - [Pinyin](linguistics.md#pinyin)
+        - [Chinese punctuation](linguistics.md#chinese-punctuation)
+          - [Reference mark](linguistics.md#reference-mark)
+        - [Cursive script (East Asia)](linguistics.md#cursive-script-east-asia)
+    - [Phonemic orthography](linguistics.md#phonemic-orthography)
+      - [Syllabary](linguistics.md#syllabary)
+        - [Abugida](linguistics.md#abugida)
+          - [Abjad](linguistics.md#abjad)
+          - [Devanagari](linguistics.md#devanagari)
+      - [Alphabet](linguistics.md#alphabet)
+        - [Diacritic](linguistics.md#diacritic)
+        - [Cyrillic script](linguistics.md#cyrillic-script)
+        - [Greek alphabet](linguistics.md#greek-alphabet)
+          - [Beta](linguistics.md#beta)
+          - [Gamma](linguistics.md#gamma)
+          - [Delta (letter)](linguistics.md#delta-letter)
+          - [Epsilon (letter)](linguistics.md#epsilon-letter)
+          - [Zeta (letter)](linguistics.md#zeta-letter)
+          - [Eta (letter)](linguistics.md#eta-letter)
+          - [Mu (letter)](linguistics.md#mu-letter)
+          - [Nu (letter)](linguistics.md#nu-letter)
+          - [Pi (letter)](linguistics.md#pi-letter)
+          - [Rho](linguistics.md#rho)
+          - [Phi](linguistics.md#phi)
+          - [Psi (Greek)](linguistics.md#psi-greek)
+        - [Latin alphabet](linguistics.md#latin-alphabet)
+          - [History of the Latin alphabet](linguistics.md#history-of-the-latin-alphabet)
+            - [Historical correspondence between Latin and Greek](linguistics.md#historical-correspondence-between-latin-and-greek)
+          - [Latin letter](linguistics.md#latin-letter)
+            - [A](linguistics.md#a)
+            - [B](linguistics.md#b)
+            - [C](linguistics.md#c)
+            - [D](linguistics.md#d)
+            - [F](linguistics.md#f)
+            - [G](linguistics.md#g)
+            - [H](linguistics.md#h)
+            - [I](linguistics.md#i)
+            - [J](linguistics.md#j)
+            - [K](linguistics.md#k)
+            - [L](linguistics.md#l)
+            - [M](linguistics.md#m)
+            - [N](linguistics.md#n)
+            - [O](linguistics.md#o)
+            - [P](linguistics.md#p)
+            - [Q](linguistics.md#q)
+            - [R](linguistics.md#r)
+            - [S](linguistics.md#s)
+            - [T](linguistics.md#t)
+            - [U](linguistics.md#u)
+            - [V](linguistics.md#v)
+            - [W](linguistics.md#w)
+            - [X](linguistics.md#x)
+            - [Y](linguistics.md#y)
+            - [Z](linguistics.md#z)
+      - [Punctuation](linguistics.md#punctuation)
+        - [At sign](linguistics.md#at-sign)
+        - [Double quotes](linguistics.md#double-quotes)
+  - [List of languages](linguistics.md#list-of-languages)
+    - [Indo-European language](linguistics.md#indo-european-language)
+      - [Arabic](linguistics.md#arabic)
+      - [English (language)](linguistics.md#english-language)
+        - [English idiom](linguistics.md#english-idiom)
+          - [Hindsight is 20/20](linguistics.md#hindsight-is-20-20)
+          - [If it ain't broke, don't fix it](linguistics.md#if-it-ain-t-broke-don-t-fix-it)
+          - [Polish a turd](linguistics.md#polish-a-turd)
+          - [Take the gloves off](linguistics.md#take-the-gloves-off)
+        - [English slang](linguistics.md#english-slang)
+          - [Meh](linguistics.md#meh)
+          - [No pun intended](linguistics.md#no-pun-intended)
+          - [Original gangster](linguistics.md#original-gangster)
+        - [Regional accents of English](linguistics.md#regional-accents-of-english)
+          - [Received Pronunciation](linguistics.md#received-pronunciation)
+      - [German (language)](linguistics.md#german-language)
+      - [Greek (language)](linguistics.md#greek-language)
+        - [Greek root](linguistics.md#greek-root)
+          - [Mono](linguistics.md#mono)
+        - [Greek word](linguistics.md#greek-word)
+          - [Kudos](linguistics.md#kudos)
+      - [Hindi](linguistics.md#hindi)
+      - [Polish (language)](linguistics.md#polish-language)
+        - [Polish letter](linguistics.md#polish-letter)
+          - [Ł](linguistics.md#ł)
+      - [Romance language](linguistics.md#romance-language)
+        - [Latin](linguistics.md#latin)
+          - [Latin phrase](linguistics.md#latin-phrase)
+            - [Cf.](linguistics.md#cf)
+            - [De novo](linguistics.md#de-novo)
+            - [Et aliī](linguistics.md#et-alii)
+            - [Id est](linguistics.md#id-est)
+            - [In vitro](linguistics.md#in-vitro)
+            - [In vivo](linguistics.md#in-vivo)
+            - [Nota bene](linguistics.md#nota-bene)
+            - [Sic](linguistics.md#sic)
+        - [French (language)](linguistics.md#french-language)
+        - [Italian (language)](linguistics.md#italian-language)
+        - [Portuguese (language)](linguistics.md#portuguese-language)
+          - [Brazilian Portuguese](linguistics.md#brazilian-portuguese)
+        - [Spanish (language)](linguistics.md#spanish-language)
+    - [Japanese (language)](linguistics.md#japanese-language)
+    - [Sino-Tibetan language](linguistics.md#sino-tibetan-language)
+      - [Chinese (language)](linguistics.md#chinese-language)
+        - [Chengyu](linguistics.md#chengyu)
+        - [Chinese slang](linguistics.md#chinese-slang)
+          - [Shabi](linguistics.md#shabi)
+- [Scientific method](#scientific-method)
+  - [Experiment](#experiment)
+    - [Thought experiment](#thought-experiment)
+  - [Conceptual model](#conceptual-model)
+    - [Simulation](#simulation)
+      - [Numerical simulation](#numerical-simulation)
+      - [Simulation software](#simulation-software)
+        - [Physics engine](#physics-engine)
+  - [Social science](#social-science)
+    - [Country](#country)
+      - [Settlement](#settlement)
+        - [City](#city)
+        - [Town](#town)
+          - [Town with a funny name](#town-with-a-funny-name)
+        - [Village](#village)
+      - [Immigration](#immigration)
+        - [Immigrant generation](#immigrant-generation)
+          - [First generation immigrant](#first-generation-immigrant)
+          - [Second generation immigrant](#second-generation-immigrant)
+      - [First World](#first-world)
+      - [Micronation](#micronation)
+    - [Globalization](#globalization)
+      - [Internationalism](#internationalism)
+      - [Globalization reduces the power of governments](#globalization-reduces-the-power-of-governments)
+    - [History](#history)
+      - [Middle Ages](#middle-ages)
+      - [Age of Enlightenment](#age-of-enlightenment)
+      - [Museum](#museum)
+        - [Computer museum](#computer-museum)
+          - [Computer History Museum](#computer-history-museum)
+          - [The Centre for Computing History](#the-centre-for-computing-history)
+    - [Meme](#meme)
+      - [Porn meme](#porn-meme)
+        - [Work-safe porn](#work-safe-porn)
+          - [Gay porn meme](#gay-porn-meme)
+      - [List of memes](#list-of-memes)
+        - [Ain't Nobody Got Time For That](#ain-t-nobody-got-time-for-that)
+        - [Dmitriy Khaladzhi carrying a horse over his shoulders](#dmitriy-khaladzhi-carrying-a-horse-over-his-shoulders)
+        - [Thug life meme](#thug-life-meme)
+        - [Pepe the Frog](#pepe-the-frog)
+        - [Rickrolling](#rickrolling)
+        - [Welcome Aboard!](#welcome-aboard)
+    - [Politics](#politics)
+      - [Politician](#politician)
+        - [The artist and the politician](#the-artist-and-the-politician)
+      - [Political party](#political-party)
+        - [Joke party](#joke-party)
+        - [Political donation](#political-donation)
+        - [Ban political donations](#ban-political-donations)
+      - [Activism](#activism)
+        - [Slacktivism](#slacktivism)
+      - [Politics of Europe](#politics-of-europe)
+        - [Politics of France](#politics-of-france)
+          - [French politician](#french-politician)
+            - [Napoleon](#napoleon)
+      - [Politics of the United States](#politics-of-the-united-states)
+        - [American politician](#american-politician)
+          - [Barack Obama](#barack-obama)
+          - [Donald Trump](#donald-trump)
+            - [The deplatforming of Donald Trump](#the-deplatforming-of-donald-trump)
+        - [Political parties in the United States](#political-parties-in-the-united-states)
+          - [Democratic Party (United States)](#democratic-party-united-states)
+          - [Republican Party (United States)](#republican-party-united-states)
+      - [Nationalism](#nationalism)
+    - [Philosophy](#philosophy)
+      - [Simulation hypothesis](#simulation-hypothesis)
+        - [Story about the simulation hypothesis](#story-about-the-simulation-hypothesis)
+          - [World on a Wire](#world-on-a-wire)
+        - [Evil demon](#evil-demon)
+        - [Dream argument](#dream-argument)
+      - [Philosopher](#philosopher)
+        - [Eratosthenes](#eratosthenes)
+    - [Idealism](#idealism)
+      - [Idealist](#idealist)
+        - [I'd rather starve](#i-d-rather-starve)
+      - [Pragmatism](#pragmatism)
+    - [Religion](religion.md)
+      - [Abrahamic religion](religion.md#abrahamic-religion)
+        - [Amen](religion.md#amen)
+        - [Christianism](religion.md#christianism)
+          - [Trinity](religion.md#trinity)
+          - [The Church of Jesus Christ of Latter-day Saints](religion.md#the-church-of-jesus-christ-of-latter-day-saints)
+          - [Jewish Christian](religion.md#jewish-christian)
+          - [Bible](religion.md#bible)
+            - [Bible dataset](religion.md#bible-dataset)
+              - [Convert project Gutenberg King James Bible to verse number to text dataset](religion.md#convert-project-gutenberg-king-james-bible-to-verse-number-to-text-dataset)
+            - [Old Testament](religion.md#old-testament)
+            - [New Testament](religion.md#new-testament)
+              - [New Testament passage](religion.md#new-testament-passage)
+                - [Transfiguration of Jesus](religion.md#transfiguration-of-jesus)
+              - [New Testament part](religion.md#new-testament-part)
+                - [Gospel](religion.md#gospel)
+                  - [Synoptic Gospels](religion.md#synoptic-gospels)
+                  - [Gospel of Matthew](religion.md#gospel-of-matthew)
+                  - [Gospel of John](religion.md#gospel-of-john)
+                - [Acts of the Apostles](religion.md#acts-of-the-apostles)
+                - [Pauline epistles](religion.md#pauline-epistles)
+                  - [Epistle to the Romans](religion.md#epistle-to-the-romans)
+                - [Book of Revelation](religion.md#book-of-revelation)
+                  - [Number of the beast](religion.md#number-of-the-beast)
+            - [Version of the bible](religion.md#version-of-the-bible)
+              - [New International Version](religion.md#new-international-version)
+              - [King James Version](religion.md#king-james-version)
+              - [Freely licensed Bibles](religion.md#freely-licensed-bibles)
+          - [Christian denomination](religion.md#christian-denomination)
+            - [Catholic Church](religion.md#catholic-church)
+              - [Catholic prayer](religion.md#catholic-prayer)
+                - [Divine Praises](religion.md#divine-praises)
+              - [Indulgence](religion.md#indulgence)
+            - [Protestantism](religion.md#protestantism)
+            - [Church of England](religion.md#church-of-england)
+          - [Jesus](religion.md#jesus)
+            - [Jesus Christ Superstar (1973)](religion.md#jesus-christ-superstar-1973)
+            - [John the Baptist](religion.md#john-the-baptist)
+            - [Apostle](religion.md#apostle)
+              - [Twelve Apostles](religion.md#twelve-apostles)
+                - [Commissioning of the Twelve Apostles](religion.md#commissioning-of-the-twelve-apostles)
+                - [Saint Peter](religion.md#saint-peter)
+                - [Andrew the Apostle](religion.md#andrew-the-apostle)
+              - [Apostle not in the Twelve](religion.md#apostle-not-in-the-twelve)
+            - [Quote by Jesus](religion.md#quote-by-jesus)
+              - [As iron sharpens iron, so one person sharpens another](religion.md#as-iron-sharpens-iron-so-one-person-sharpens-another)
+              - [Fishers of men](religion.md#fishers-of-men)
+              - [Man shall not live by bread alone](religion.md#man-shall-not-live-by-bread-alone)
+              - [Enter through the narrow gate](religion.md#enter-through-the-narrow-gate)
+              - [The truth will set you free](religion.md#the-truth-will-set-you-free)
+        - [Islam](religion.md#islam)
+          - [Islam character](religion.md#islam-character)
+          - [Kaaba](religion.md#kaaba)
+          - [Ramadan](religion.md#ramadan)
+          - [Quran](religion.md#quran)
+            - [Quran character](religion.md#quran-character)
+              - [Muhammad](religion.md#muhammad)
+            - [Quran passage](religion.md#quran-passage)
+              - [Isra and Mi'raj](religion.md#isra-and-mi-raj)
+          - [Islamic sect](religion.md#islamic-sect)
+            - [Gülen movement](religion.md#gulen-movement)
+        - [Judaism](religion.md#judaism)
+          - [Synagogue](religion.md#synagogue)
+          - [Hebrew Bible](religion.md#hebrew-bible)
+            - [Version of the Hebrew Bible](religion.md#version-of-the-hebrew-bible)
+              - [Septuagint](religion.md#septuagint)
+            - [Hebrew Bible division](religion.md#hebrew-bible-division)
+              - [Torah](religion.md#torah)
+                - [Book of Genesis](religion.md#book-of-genesis)
+            - [Hebrew Bible character](religion.md#hebrew-bible-character)
+              - [Abraham](religion.md#abraham)
+              - [Cyrus the Great](religion.md#cyrus-the-great)
+                - [Cyrus the Great Day](religion.md#cyrus-the-great-day)
+                - [Tomb of Cyrus](religion.md#tomb-of-cyrus)
+              - [Satan](religion.md#satan)
+                - [Satanism](religion.md#satanism)
+          - [Talmud](religion.md#talmud)
+      - [Agnosticism](religion.md#agnosticism)
+      - [Atheism](religion.md#atheism)
+      - [Cult](religion.md#cult)
+        - [Orange Papers](religion.md#orange-papers)
+        - [Cult leader](religion.md#cult-leader)
+        - [Prophet](religion.md#prophet)
+        - [List of cults](religion.md#list-of-cults)
+          - [Aum Shinrikyo](religion.md#aum-shinrikyo)
+            - [Shoko Asahara](religion.md#shoko-asahara)
+      - [Free will](religion.md#free-will)
+      - [God](religion.md#god)
+        - [Existence of God](religion.md#existence-of-god)
+          - [Problem of evil](religion.md#problem-of-evil)
+        - [Godlike](religion.md#godlike)
+      - [Hell](religion.md#hell)
+        - [Heaven](religion.md#heaven)
+        - [Purgatory](religion.md#purgatory)
+      - [Legendary creature](religion.md#legendary-creature)
+        - [Angel](religion.md#angel)
+        - [Devil](religion.md#devil)
+      - [Parody religion](religion.md#parody-religion)
+        - [Tacoism](religion.md#tacoism)
+      - [Sin](religion.md#sin)
+      - [New Age](religion.md#new-age)
+      - [New Religious Movement](religion.md#new-religious-movement)
+      - [Esalen Institute](religion.md#esalen-institute)
+      - [Saint](religion.md#saint)
+        - [Catholic Saint](religion.md#catholic-saint)
+          - [Saint Eligius](religion.md#saint-eligius)
+      - [Self-help](religion.md#self-help)
+        - [Deep work](religion.md#deep-work)
+      - [Theodicy](religion.md#theodicy)
+      - [List of religions](religion.md#list-of-religions)
+        - [Buddhism](religion.md#buddhism)
+          - [Alan Watts](religion.md#alan-watts)
+          - [Amitābha](religion.md#amitabha)
+          - [Schools of Buddhism](religion.md#schools-of-buddhism)
+            - [Theravada](religion.md#theravada)
+              - [Pali Canon](religion.md#pali-canon)
+                - [Vinaya Pitaka](religion.md#vinaya-pitaka)
+                - [Sutta Piṭaka](religion.md#sutta-piṭaka)
+                - [Abhidhamma Pitaka](religion.md#abhidhamma-pitaka)
+                  - [Puggalapannatti](religion.md#puggalapannatti)
+                    - [Division of human types by two](religion.md#division-of-human-types-by-two)
+                    - [Which two persons are hard to satisfy?](religion.md#which-two-persons-are-hard-to-satisfy)
+            - [Mahayana](religion.md#mahayana)
+              - [Zen](religion.md#zen)
+                - [Koan](religion.md#koan)
+                  - [Great doubt](religion.md#great-doubt)
+                    - [Great doubt, great understanding](religion.md#great-doubt-great-understanding)
+                  - [The Gateless Barrier](religion.md#the-gateless-barrier)
+              - [Mahayana sutra](religion.md#mahayana-sutra)
+                - [Diamond Sutra](religion.md#diamond-sutra)
+          - [Dharma](religion.md#dharma)
+          - [Dharma name](religion.md#dharma-name)
+          - [Maitreya](religion.md#maitreya)
+          - [Meditation](religion.md#meditation)
+          - [Nirvana](religion.md#nirvana)
+          - [Middle Way](religion.md#middle-way)
+          - [Noble Eightfold Path](religion.md#noble-eightfold-path)
+          - [Samsara](religion.md#samsara)
+          - [Sand mandala](religion.md#sand-mandala)
+        - [Confucianism](religion.md#confucianism)
+          - [Analects](religion.md#analects)
+            - [Analects translation by Robert Eno (2015)](religion.md#analects-translation-by-robert-eno-2015)
+        - [Falun Gong](religion.md#falun-gong)
+          - [Epoch times](religion.md#epoch-times)
+        - [Hinduism](religion.md#hinduism)
+          - [Maya (religion)](religion.md#maya-religion)
+          - [Mahabharata](religion.md#mahabharata)
+            - [Bhagavad Gita](religion.md#bhagavad-gita)
+        - [Scientology](religion.md#scientology)
+        - [Sikhism](religion.md#sikhism)
+          - [Gurdwara](religion.md#gurdwara)
+        - [Taoism](religion.md#taoism)
+          - [Zhuang Zhou](religion.md#zhuang-zhou)
+          - [Zhuangzi](religion.md#zhuangzi)
+            - [Butterfly dream](religion.md#butterfly-dream)
+          - [Yin and yang](religion.md#yin-and-yang)
+    - [Social norm](#social-norm)
+      - [Shibboleth](#shibboleth)
+      - [Political correctness](#political-correctness)
+        - [Ridiculous cases of political correctness censorship](#ridiculous-cases-of-political-correctness-censorship)
+          - [Replacement of master and slave terminology from technology](#replacement-of-master-and-slave-terminology-from-technology)
+            - [GitHub's replacement of `master` branch with `main` (2020)](#github-s-replacement-of-master-branch-with-main-2020)
+          - [Magic the gathering's banning of 7 cards due to "racism" (2020)](#magic-the-gathering-s-banning-of-7-cards-due-to-racism-2020)
+    - [Society](#society)
+      - [Military-industrial complex](#military-industrial-complex)
+      - [Marriage](#marriage)
+        - [Legitimacy (family law)](#legitimacy-family-law)
+      - [Social generation](#social-generation)
+        - [Generation Z](#generation-z)
+    - [War](#war)
+      - [A Small Talent for War](#a-small-talent-for-war)
+      - [Military technology](#military-technology)
+        - [Concertina wire](#concertina-wire)
+        - [Electronic warfare](#electronic-warfare)
+      - [Cold War](#cold-war)
+      - [Espionage](#espionage)
+        - [Spy](#spy)
+          - [Jack Barsky](#jack-barsky)
+        - [Counterintelligence](#counterintelligence)
+        - [Mole (espionage)](#mole-espionage)
+        - [Spycraft](#spycraft)
+          - [Cutout (espionage)](#cutout-espionage)
+        - [Five Eyes](#five-eyes)
+        - [Intelligence leak](#intelligence-leak)
+          - [Vault 7](#vault-7)
+            - [Hive (CIA)](#hive-cia)
+        - [Intelligence Gathering](#intelligence-gathering)
+          - [Open-source intelligence](#open-source-intelligence)
+          - [Intelligence analysis](#intelligence-analysis)
+        - [Secret service](#secret-service)
+          - [Intelligence community](#intelligence-community)
+            - [Intelligence agency](#intelligence-agency)
+              - [GCHQ](#gchq)
+            - [United States Intelligence Community](#united-states-intelligence-community)
+              - [American intelligence agency](#american-intelligence-agency)
+                - [Central Intelligence Agency](#central-intelligence-agency)
+                  - [CIA 2010 covert communication websites](cia-2010-covert-communication-websites.md)
+                    - [Background](cia-2010-covert-communication-websites.md#background)
+                      - [Timeline of public disclosures](cia-2010-covert-communication-websites.md#timeline-of-public-disclosures)
+                      - [Overview of Ciro Santilli's investigation](cia-2010-covert-communication-websites.md#overview-of-ciro-santilli-s-investigation)
+                    - [Results](cia-2010-covert-communication-websites.md#results)
+                      - [Selected screenshots](cia-2010-covert-communication-websites.md#selected-screenshots)
+                      - [USA spying on its own allies](cia-2010-covert-communication-websites.md#usa-spying-on-its-own-allies)
+                      - [List of websites](cia-2010-covert-communication-websites.md#list-of-websites)
+                      - [Possible HTML information leaks](cia-2010-covert-communication-websites.md#possible-html-information-leaks)
+                    - [Methodology](cia-2010-covert-communication-websites.md#methodology)
+                      - [The Reuters websites](cia-2010-covert-communication-websites.md#the-reuters-websites)
+                      - [Fingerprints](cia-2010-covert-communication-websites.md#fingerprints)
+                        - [Split header images](cia-2010-covert-communication-websites.md#split-header-images)
+                        - [HTML analysis](cia-2010-covert-communication-websites.md#html-analysis)
+                          - [Binary files](cia-2010-covert-communication-websites.md#binary-files)
+                          - [HTML title element](cia-2010-covert-communication-websites.md#html-title-element)
+                          - [Adobe Dreamwaver JS functions](cia-2010-covert-communication-websites.md#adobe-dreamwaver-js-functions)
+                      - [IP range search](cia-2010-covert-communication-websites.md#ip-range-search)
+                        - [Hits without nearby IP hits](cia-2010-covert-communication-websites.md#hits-without-nearby-ip-hits)
+                          - [Possible hits](cia-2010-covert-communication-websites.md#possible-hits)
+                        - [Hits with nearby IP hits](cia-2010-covert-communication-websites.md#hits-with-nearby-ip-hits)
+                      - [TODO](cia-2010-covert-communication-websites.md#todo)
+                        - [Find missing hits in IP ranges](cia-2010-covert-communication-websites.md#find-missing-hits-in-ip-ranges)
+                        - [How did Alexa find the domains?](cia-2010-covert-communication-websites.md#how-did-alexa-find-the-domains)
+                        - [Non .com .net TLDs](cia-2010-covert-communication-websites.md#non-com-net-tlds)
+                          - [Are there .org hits?](cia-2010-covert-communication-websites.md#are-there-org-hits)
+                      - [Data sources](cia-2010-covert-communication-websites.md#data-sources)
+                        - [Reuters article](cia-2010-covert-communication-websites.md#reuters-article)
+                        - [Wayback Machine](cia-2010-covert-communication-websites.md#wayback-machine)
+                          - [Wayback Machine CDX scanning](cia-2010-covert-communication-websites.md#wayback-machine-cdx-scanning)
+                            - [Wayback Machine CDX scanning with Tor parallelization](cia-2010-covert-communication-websites.md#wayback-machine-cdx-scanning-with-tor-parallelization)
+                            - [JS CDX scanning](cia-2010-covert-communication-websites.md#js-cdx-scanning)
+                          - [Wayback Machine crawl date search](cia-2010-covert-communication-websites.md#wayback-machine-crawl-date-search)
+                        - [viewdns.info](cia-2010-covert-communication-websites.md#viewdns-info)
+                        - [DomainTools](cia-2010-covert-communication-websites.md#domaintools)
+                        - [DNS Census 2013](cia-2010-covert-communication-websites.md#dns-census-2013)
+                          - [2013 DNS Census virtual host cleanup](cia-2010-covert-communication-websites.md#2013-dns-census-virtual-host-cleanup)
+                            - [2013 DNS Census virtual host cleanup heuristic keyword searches](cia-2010-covert-communication-websites.md#2013-dns-census-virtual-host-cleanup-heuristic-keyword-searches)
+                          - [2013 DNS census MX records](cia-2010-covert-communication-websites.md#2013-dns-census-mx-records)
+                          - [2013 DNS census secureserver.net MX records intersection 2013 DNS Census virtual host cleanup](cia-2010-covert-communication-websites.md#2013-dns-census-secureserver-net-mx-records-intersection-2013-dns-census-virtual-host-cleanup)
+                          - [2013 DNS census NS records](cia-2010-covert-communication-websites.md#2013-dns-census-ns-records)
+                          - [2013 DNS census SOA records](cia-2010-covert-communication-websites.md#2013-dns-census-soa-records)
+                        - [dnshistory.org](cia-2010-covert-communication-websites.md#dnshistory-org)
+                        - [securitytrails.com](cia-2010-covert-communication-websites.md#securitytrails-com)
+                        - [Common Crawl](cia-2010-covert-communication-websites.md#common-crawl)
+                        - [Internet Census 2012](cia-2010-covert-communication-websites.md#internet-census-2012)
+                          - [2012 Internet Census hostprobes](cia-2010-covert-communication-websites.md#2012-internet-census-hostprobes)
+                          - [2012 Internet Census icmp\_ping](cia-2010-covert-communication-websites.md#2012-internet-census-icmp-ping)
+                        - [tb0hdan/domains](cia-2010-covert-communication-websites.md#tb0hdan-domains)
+                        - [Expired domain trackers](cia-2010-covert-communication-websites.md#expired-domain-trackers)
+                          - [club.domain.cn](cia-2010-covert-communication-websites.md#club-domain-cn)
+                        - ["Mass Deface III" pastebin](cia-2010-covert-communication-websites.md#mass-deface-iii-pastebin)
+                        - [ipinf.ru](cia-2010-covert-communication-websites.md#ipinf-ru)
+                        - [cqcounter](cia-2010-covert-communication-websites.md#cqcounter)
+                      - [Reverse engineering](cia-2010-covert-communication-websites.md#reverse-engineering)
+                        - [Communication mechanism](cia-2010-covert-communication-websites.md#communication-mechanism)
+                          - [CGI comms](cia-2010-covert-communication-websites.md#cgi-comms)
+                            - [CGI comms variant](cia-2010-covert-communication-websites.md#cgi-comms-variant)
+                            - [SSL certificate](cia-2010-covert-communication-websites.md#ssl-certificate)
+                          - [JAR reverse engineering](cia-2010-covert-communication-websites.md#jar-reverse-engineering)
+                          - [JS comms](cia-2010-covert-communication-websites.md#js-comms)
+                            - [JavaScript reverse engineering](cia-2010-covert-communication-websites.md#javascript-reverse-engineering)
+                              - [JavaScript with SHAs](cia-2010-covert-communication-websites.md#javascript-with-shas)
+                                - [iraniangoals.com JavaScript reverse engineering](cia-2010-covert-communication-websites.md#iraniangoals-com-javascript-reverse-engineering)
+                              - [feedsdemexicoyelmundo.com JavaScript reverse engineering](cia-2010-covert-communication-websites.md#feedsdemexicoyelmundo-com-javascript-reverse-engineering)
+                      - [Google searches for known domains and IPs](cia-2010-covert-communication-websites.md#google-searches-for-known-domains-and-ips)
+                      - [Breakthroughs](cia-2010-covert-communication-websites.md#breakthroughs)
+                        - [Non Reuters ranges](cia-2010-covert-communication-websites.md#non-reuters-ranges)
+                          - [secure subdomain search on 2013 DNS Census](cia-2010-covert-communication-websites.md#secure-subdomain-search-on-2013-dns-census)
+                        - [Oleg Shakirov's findings](cia-2010-covert-communication-websites.md#oleg-shakirov-s-findings)
+                          - [Searching for Carson](cia-2010-covert-communication-websites.md#searching-for-carson)
+                      - [Work log](cia-2010-covert-communication-websites.md#work-log)
+                        - [Wakatime redirects](cia-2010-covert-communication-websites.md#wakatime-redirects)
+                        - [IP and DNS metadata](cia-2010-covert-communication-websites.md#ip-and-dns-metadata)
+                          - [iraniangoals.com](cia-2010-covert-communication-websites.md#iraniangoals-com)
+                          - [iraniangoalkicks.com](cia-2010-covert-communication-websites.md#iraniangoalkicks-com)
+                          - [activegameinfo.com](cia-2010-covert-communication-websites.md#activegameinfo-com)
+                          - [feedsdemexicoyelmundo.com](cia-2010-covert-communication-websites.md#feedsdemexicoyelmundo-com)
+                          - [noticiasmusica.net](cia-2010-covert-communication-websites.md#noticiasmusica-net)
+                          - [atomworldnews.com](cia-2010-covert-communication-websites.md#atomworldnews-com)
+                          - [iranfootballsource.com](cia-2010-covert-communication-websites.md#iranfootballsource-com)
+                    - [Backlinks](cia-2010-covert-communication-websites.md#backlinks)
+                      - [The CIA Secretly Ran a Star Wars Fan Site by Joseph Cox](cia-2010-covert-communication-websites.md#the-cia-secretly-ran-a-star-wars-fan-site-by-joseph-cox)
+                  - [CIA employee](#cia-employee)
+                    - [Jerry Chun Shing Lee](#jerry-chun-shing-lee)
+                    - [John Kiriakou](#john-kiriakou)
+                  - [Organizational structure of the Central Intelligence Agency](#organizational-structure-of-the-central-intelligence-agency)
+                    - [Directorate of the CIA](#directorate-of-the-cia)
+                      - [Central Intelligence Agency Directorate of Science & Technology](#central-intelligence-agency-directorate-of-science-and-technology)
+                      - [Directorate of Digital Innovation (CIA)](#directorate-of-digital-innovation-cia)
+                      - [Directorate of Operations (CIA)](#directorate-of-operations-cia)
+                - [National Security Agency](#national-security-agency)
+                  - [National Security Agency employee](#national-security-agency-employee)
+                    - [Reality Winner](#reality-winner)
+                      - [Reality (2023 film)](#reality-2023-film)
+                      - [Sources and methods](#sources-and-methods)
+                    - [Edward Snowden](#edward-snowden)
+                      - [Snowden Snowbot](#snowden-snowbot)
+                      - [Lindsay Mills](#lindsay-mills)
+                      - [Snowden (film)](#snowden-film)
+      - [Asymmetric warfare](#asymmetric-warfare)
+        - [Terrorism](#terrorism)
+          - [Terrorist attack](#terrorist-attack)
+            - [Boston Marathon bombing](#boston-marathon-bombing)
+      - [List of wars](#list-of-wars)
+        - [World War I](#world-war-i)
+        - [World War II](#world-war-ii)
+        - [Russian invasion of Ukraine](#russian-invasion-of-ukraine)
+- [Popular science](#popular-science)
+  - [Crank (person)](#crank-person)
+  - [Royal Institution](#royal-institution)
+    - [Davy Faraday Research Laboratory](#davy-faraday-research-laboratory)
+  - [Science communication](#science-communication)
+    - [Science communicator](#science-communicator)
+      - [Bill Nye](#bill-nye)
+      - [Jim Baggott](#jim-baggott)
+        - [Jim Baggott selects the topics for his books by writing about things he wants to know more about](#jim-baggott-selects-the-topics-for-his-books-by-writing-about-things-he-wants-to-know-more-about)
+      - [Jim Al-Khalili](#jim-al-khalili)
+        - [Show hosted by Jim Al-Khalili](#show-hosted-by-jim-al-khalili)
+          - [Atom (2007 Mini Series)](#atom-2007-mini-series)
+            - [Atom 2007 Mini Series episode](#atom-2007-mini-series-episode)
+              - [Atom 2007 Mini Series episode 3](#atom-2007-mini-series-episode-3)
+      - [Suzie Sheehy](#suzie-sheehy)
+  - [To talk about something without giving the real name to not scare off the audience](#to-talk-about-something-without-giving-the-real-name-to-not-scare-off-the-audience)
+  - [Popular science publication](#popular-science-publication)
+    - [Quanta Magazine](#quanta-magazine)
+    - [Scientific American](#scientific-american)
+- [Scientific documentary](#scientific-documentary)
+  - [Cosmos: A Personal Voyage (1980)](#cosmos-a-personal-voyage-1980)
+  - [100 Greatest Discoveries by the Discovery Channel (2004-2005)](#100-greatest-discoveries-by-the-discovery-channel-2004-2005)
+- [History of science](#history-of-science)
+  - [Period of the history of science](#period-of-the-history-of-science)
+    - [Information Age](#information-age)
+  - [Science makes progress funeral by funeral](#science-makes-progress-funeral-by-funeral)
+    - [Planck's principle](#planck-s-principle)
+  - [Web of Stories](#web-of-stories)
+- [Pseudoscience](#pseudoscience)
+  - [Faraday Institute for Science and Religion](#faraday-institute-for-science-and-religion)
+- [Science bibliography](#science-bibliography)
+  - [Nova (American TV program)](#nova-american-tv-program)
+    - [Nova episode](#nova-episode)
+      - [The Race for the Double Helix (Nova)](#the-race-for-the-double-helix-nova)
+
+## Philosophy of Science
+
+↑ **Parent:** [Science](science.md)
+
+### Reproducibility
+
+↑ **Parent:** [Philosophy of Science](#philosophy-of-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Reproducibility)
+
+#### Replication crisis
+
+↑ **Parent:** [Reproducibility](#reproducibility)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Replication_crisis)
+
+Of course, if [academic journals](education.md#academic-journal) require greater reproducibility for publication, then the cost per paper increases.
+
+However, the total cost has to be smaller than the cost everyone who reads the paper spends to reproduce, no?
+
+The truth is, part of the replication crisis is also due to [research groups](education.md#research-group) not wanting to share their precious secrets with others, so they can keep ahead of the publication curve, or maybe spin off a [startup](company.md#startup-company).
+
+And when it comes to papers, things are even crazier: [big companies manage to publish white papers in peer reviewed journals](#big-companies-manage-to-publish-white-papers-in-peer-reviewed-journals).
+
+[Ciro Santilli](ciro-santilli.md) wants to help in this area with his [videos of all key physics experiments](todo.md#videos-of-all-key-physics-experiments) project idea.
+
+Cool initiative. Papers that do not share source code should be banned from peer reviewed [academic journals](education.md#academic-journal).
+
+##### Journals must require source code and data sets to publish
+
+↑ **Parent:** [Replication crisis](#replication-crisis)
+
+It is understandable that you might not be able to reproduce a paper that does a [natural science](#natural-science) experiment, given that [physics is brutal](technology.md#deep-tech).
+
+But for papers that have either [source code](software.md#source-code) or data sets, [academic journals](education.md#academic-journal) must require that those be made available, or refuse to publish.
+
+Any document [without such obvious reproducibility elements](#replication-crisis) is a [white paper](social-technology.md#white-paper), not a proper [peer reviewed paper](education.md#peer-review).
+
+###### Big companies manage to publish white papers in peer reviewed journals
+
+↑ **Parent:** [Journals must require source code and data sets to publish](#journals-must-require-source-code-and-data-sets-to-publish)
+
+Big [companies](company.md) like [Google](google.md) are able to publish [white papers](social-technology.md#white-paper) as [peer reviewed papers](education.md#peer-review) just due to their reputation, e.g. without giving any [source code](software.md#source-code) that is central for the article.
+
+It is insane.
+
+E.g.: [AlphaGo](artificial-intelligence.md#alphago) is closed source but published as [https://www.nature.com/articles/natnure16961](https://www.nature.com/articles/natnure16961) in 2016 on [Nature](education.md#nature-journal).
+
+###### Papers With Code
+
+↑ **Parent:** [Journals must require source code and data sets to publish](#journals-must-require-source-code-and-data-sets-to-publish)
+
+[https://paperswithcode.com/](https://paperswithcode.com/)
+
+###### Paper without code
+
+↑ **Parent:** [Papers With Code](#papers-with-code)  
+🏷️ **Tags:** [Evil](cirism.md#evil)
+
+### Never trust an experiment that is not supported by a good theory
+
+↑ **Parent:** [Philosophy of Science](#philosophy-of-science)
+
+Not the usual bullshit you were expecting from the [philosophy of Science](#philosophy-of-science), right?
+
+Some notable quoters:
+- [Jacques Monod](biology.md#jacques-monod) has the exact quote as presented here: [https://pubmed.ncbi.nlm.nih.gov/22042272/](https://pubmed.ncbi.nlm.nih.gov/22042272/), though presumably it was in [French](linguistics.md#french-language), TODO find the French version
+- [https://youtu.be/AYC5lE0b8os?t=41](https://youtu.be/AYC5lE0b8os?t=41) A Computational Whole-Cell Model Predicts Genotype From Phenotype- Markus Covert by "Calit2ube" (2013), see also: [Section "Whole cell simulation"](cell.md#whole-cell-simulation)
+- the book [Genius: Richard Feynman and Modern Physics by James Gleick (1994)](genius-richard-feynman-and-modern-physics-by-james-gleick-1994.md) mentions a few incidents of this involving [Feynman](richard-feynman.md), see e.g. chapter "New Particles, New Language" where he and fellow theorist [Hans Bethe](physicist.md#hans-bethe) immediately spot problems with experimentalists' data in suspicious results
+
+### Physics and the illusion of life
+
+↑ **Parent:** [Philosophy of Science](#philosophy-of-science)  
+🏷️ **Tags:** [Cirism](cirism.md), [Essays by Ciro Santilli](ciro-santilli.md#essays-by-ciro-santilli)
+
+The natural sciences are not [just a tool to predict the future](physics.md#physics-is-a-way-to-predict-the-future).
+
+They are a reminder that the lives that we live daily are mere illusions, religious concepts such as [Maya](religion.md#maya-religion) and [Samsara](religion.md#samsara) come to mind.
+
+We as individuals perceive nothing about the materials that we touch every day really work, nor more importantly how our [brain](brain.md) and [cell](cell.md) work.
+
+Everything is magic out of our control.
+
+The natural sciences allow us peek, with huge concentrated effort, into tiny little bits a little of those unknowns, and [blow our minds](brain.md#mind-blown) as we notice that we don't know anything.
+
+For all practical purposes in life, there is a huge macro micro gap. We are only able to directly perceive and influence the macro events. And through those we try to affect micro events. Because for good or bad, micro events reflect in the macro world.
+
+It is as if we live in a different plane of existence above molecules, and below galaxies. The hierarchy of [Figure "xkcd 435: Fields arranged by purity"](physics.md#image-xkcd-435-fields-arranged-by-purity) puts that nicely into perspective, shame it only starts at the economical level, not going up to [astronomy](astronomy.md).
+
+The great beauty of science is that it allows us to puncture through some of the layers of reality, either up or down, away from our daily experience.
+
+And the great beauty of [artificial intelligence](artificial-intelligence.md) research is that it allows to peer deeper into exactly our layer of existence.
+
+Every one or two weeks [Ciro Santilli](ciro-santilli.md) remembers that he and everything he touches are just a bunch of atoms, and that is an amazing feeling. This is Ciro's preferred source of [Great doubt](religion.md#great-doubt). Another concept that comes to mind is [when you see it, you'll shit bricks](brain.md#when-you-see-it-you-ll-shit-bricks).
+
+Perhaps, the feeling of [physics and the illusion of life](#physics-and-the-illusion-of-life) reaches its peak in [molecular biology](molecular-biology.md).
+
+Just look at your [fucking](biology.md#sexual-intercourse) hand right now.
+
+Do you have any idea of each of the cells in it work? Isn't is at least 100 times more complex than the materials of the table you hand is currently resting on?
+
+This is the non-science fiction version of the [lotus-Eater Machine](literature.md#lotus-eater-machine).
+
+[Alan Watts](religion.md#alan-watts)'s ["Philosopher" talk](#video-alan-watts-philosopher-talk-1973) mentions related ideas:
+
+> The origin of a person who is defined as a philosopher, is one who finds that existence itself is exceedingly odd.
+
+The toddler of a friend of [Ciro Santilli's wife](ciro-santilli.md#ciro-santilli-s-wife) asked her mum:
+
+> Why doesn't my tiger doll close its eyes when we sleep?
+
+Our perception of the macroscopic world is so magic that children have to learn the difference between living and non-living things.
+
+[James Somers](software.md#james-somers) put it very well as well in his article [I should have loved biology by James Somers](software.md#i-should-have-loved-biology-by-james-somers), this quote was brought to Ciro's attention by [Bert Hubert](systems-programming.md#bert-hubert)'s website[https://berthub.eu/dna-book/](https://berthub.eu/dna-book/).<a id="quote-i-should-have-loved-biology-by-james-somers-intro"></a>
+
+
+> I should have loved biology but I found it to be a lifeless recitation of names: the Golgi apparatus and the Krebs cycle; [mitosis](cell.md#mitosis), [meiosis](cell.md#meiosis); [DNA](dna.md), [RNA](dna.md#rna), [mRNA](dna.md#messenger-rna), [tRNA](cell.md#transfer-rna).
+> 
+> In the textbooks, astonishing facts were presented without astonishment. Someone probably told me that every cell in my body has the same [DNA](dna.md). But no one shook me by the shoulders, saying how crazy that was. I needed [Lewis Thomas](https://en.wikipedia.org/wiki/Lewis_Thomas), who wrote in [The Medusa and the Snail](https://en.wikipedia.org/wiki/The_Medusa_and_the_Snail):
+> 
+> > For the real amazement, if you wish to be amazed, is this process. You start out as a single cell derived from the coupling of a sperm and an egg; this divides in two, then four, then eight, and so on, and at a certain stage there emerges a single cell which has as all its progeny the human brain. The mere existence of such a cell should be one of the great astonishments of the earth. People ought to be walking around all day, all through their waking hours calling to each other in endless wonderment, talking of nothing except that cell.
+
+The same applies to other [natural sciences](#natural-science).
+
+<a id="video-alan-watts-philosopher-talk-1973"></a>
+**[Video 1](#video-alan-watts-philosopher-talk-1973). Alan Watts' "Philosopher" talk (1973)** [Source](https://www.youtube.com/watch?v=CDtQI1EsC-Q). Lecture given at [UCLA](university.md#university-of-california-los-angeles) on 1973-02-21. Some key quotes from the talk:> The origin of a person who is defined as a philosopher, is one who finds that existence itself is exceedingly odd.
+
+A transcript at: [https://www.organism.earth/library/document/clarity-of-mind](https://www.organism.earth/library/document/clarity-of-mind)
+
+---
+
+<a id="video-universe-size-comparison-cosmic-eye"></a>
+**[Video 2](#video-universe-size-comparison-cosmic-eye). Universe Size Comparison | Cosmic Eye.** [Source](https://www.youtube.com/watch?v=8Are9dDbW24).
+
+#### Animation of molecular biology processes
+
+↑ **Parent:** [Physics and the illusion of life](#physics-and-the-illusion-of-life)
+
+Nothing makes the fact that [your life is an illusion](#physics-and-the-illusion-of-life) clearer than [animations of molecular biology processes](#animation-of-molecular-biology-processes). You just have no idea what is going on inside your own body right now!
+
+And don't get [Ciro Santilli](ciro-santilli.md) started on [the brain](brain.md) and the impossibility of [free will](religion.md#free-will).
+
+And yet, we live, oblivious to all of it.
+
+Amazing creators:
+- [WEHImovies](research-institute.md#wehimovies), notably [Drew Berry](research-institute.md#drew-berry)
+- [XVIVO Scientific Animation](#xvivo-scientific-animation)
+
+<a id="video-atp-synthase-in-action-by-harvardx-2017-animations"></a>
+**[Video 3](#video-atp-synthase-in-action-by-harvardx-2017-animations). ATP synthase in action by HarvardX (2017)** [Source](https://www.youtube.com/watch?v=kXpzp4RDGJI).
+
+<a id="video-electron-transport-chain-by-harvardx-2017"></a>
+**[Video 4](#video-electron-transport-chain-by-harvardx-2017). Electron transport chain by HarvardX (2017)** [Source](https://www.youtube.com/watch?v=LQmTKxI4Wn4). This actually explains how [mitochondrions](cell.md#mitochondrion) use [sugar derivatives and oxygen to transform ADP into ATP](cell.md#cellular-respiration).
+
+<a id="video-the-inner-life-of-the-cell-by-xvivo-scientific-animation-2011"></a>
+**[Video 5](#video-the-inner-life-of-the-cell-by-xvivo-scientific-animation-2011). The Inner Life of the Cell by XVIVO Scientific Animation (2011)** [Source](https://youtube.com/watch?v=wJyUtbn0O5Y). Also created for BioVisions from [Harvard University](university.md#harvard-university) apparently like other amazing videos. It also has the best music.
+
+<a id="video-dna-animations-by-wehi-tv-for-science-art-exhibition-by-wehimovies-2018"></a>
+**[Video 6](#video-dna-animations-by-wehi-tv-for-science-art-exhibition-by-wehimovies-2018). DNA animations by wehi.tv for Science-Art exhibition by WEHImovies (2018)** [Source](https://youtube.com/watch?v=7Hk9jct2ozY).
+
+<a id="video-dengue-virus-invades-a-cell-by-xvivo-scientific-animation-2008"></a>
+**[Video 7](#video-dengue-virus-invades-a-cell-by-xvivo-scientific-animation-2008). Dengue virus Invades a Cell by XVIVO Scientific Animation (2008)** [Source](https://www.youtube.com/watch?v=nN1xJxXAptc). Reupload by the [MRC Laboratory of Molecular Biology](research-institute.md#mrc-laboratory-of-molecular-biology), which was reuploaded from [https://www.pbslearningmedia.org/resource/den08.sci.life.stru.dengue/dengue-virus-invades-a-cell/](https://www.pbslearningmedia.org/resource/den08.sci.life.stru.dengue/dengue-virus-invades-a-cell/) which was reuploaded from wherever crazy place XVIVO put it.
+
+##### XVIVO Scientific Animation
+
+↑ **Parent:** [Animation of molecular biology processes](#animation-of-molecular-biology-processes)  
+🏷️ **Tags:** [The best scientific YouTube channels](website.md#the-best-scientific-youtube-channels)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/XVIVO_Scientific_Animation)
+
+[https://www.youtube.com/c/XVIVOScientificAnimation](https://www.youtube.com/c/XVIVOScientificAnimation)
+
+##### Art of the cell
+
+↑ **Parent:** [Animation of molecular biology processes](#animation-of-molecular-biology-processes)
+
+- [https://www.artofthecell.com/](https://www.artofthecell.com/)
+- [https://www.youtube.com/@WaimuWaimu](https://www.youtube.com/@WaimuWaimu)
+
+TODO are they related to [XVIVO](#xvivo-scientific-animation)?
+
+##### HybridMedical
+
+↑ **Parent:** [Animation of molecular biology processes](#animation-of-molecular-biology-processes)
+
+[https://www.youtube.com/@HybridMedical](https://www.youtube.com/@HybridMedical)
+
+Must be closely related to [XVIVO](#xvivo-scientific-animation) et al.
+
+##### How to make animations of molecular biology processes
+
+↑ **Parent:** [Animation of molecular biology processes](#animation-of-molecular-biology-processes)
+
+[Drew Berry](research-institute.md#drew-berry) recommends having a look at [clarafi](#clarafi).
+
+##### David Goodsell
+
+↑ **Parent:** [Animation of molecular biology processes](#animation-of-molecular-biology-processes)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/David_Goodsell)
+
+- [https://twitter.com/dsgoodsell](https://twitter.com/dsgoodsell)
+
+Uses [CC BY-SA](law.md#cc-by-sa), what a hero.
+
+##### Clarafi
+
+↑ **Parent:** [Animation of molecular biology processes](#animation-of-molecular-biology-processes)
+
+- [https://clarafi.com/](https://clarafi.com/)
+- [https://www.youtube.com/channel/UCzMGCwxWcHYfh8SeG1ZY5Vw](https://www.youtube.com/channel/UCzMGCwxWcHYfh8SeG1ZY5Vw)
+- [https://twitter.com/clarafiSciViz](https://twitter.com/clarafiSciViz)
+
+#### Alan Watts controlled dream of life talk
+
+↑ **Parent:** [Physics and the illusion of life](#physics-and-the-illusion-of-life)  
+🏷️ **Tags:** [Alan Watts](religion.md#alan-watts), [Dream argument](#dream-argument)
+
+Goes along: if you could control your life multiple times to be perfect, you would eventually get tired of paradise, and you would go further and further into creating uncertain worlds with some suffering, until you would reach the current real world.
+
+Very similar to [The Matrix (1999)](film.md#the-matrix-1999) when Agent Smith talks about the failed [Paradise Matrix](https://matrix.fandom.com/wiki/Paradise_Matrix) shown at [https://www.youtube.com/watch?v=9Qs3GlNZMhY](https://www.youtube.com/watch?v=9Qs3GlNZMhY):
+
+> Did you know that the first Matrix was designed to be a perfect human world where none suffered, where everyone would be happy? It was a disaster. No one would accept the program. Entire crops were lost. Some believed that we lacked the programming language to describe your "perfect world". But I believe that, as a species, human beings define their reality through misery and suffering. So the perfect world was a dream that your primitive cerebrum kept trying to wake up from.
+
+<a id="video-alan-watts-the-dream-of-life-talk"></a>
+**[Video 8](#video-alan-watts-the-dream-of-life-talk). Alan Watts' "The dream of life" talk.** [Source](https://youtube.com/watch?v=XlCZm-mz20M).
+
+#### Rick and Morty A Life Well Lived
+
+↑ **Parent:** [Physics and the illusion of life](#physics-and-the-illusion-of-life)
+
+From episode "Mortynight Run"
+- [https://rickandmorty.fandom.com/wiki/Mortynight_Run](https://rickandmorty.fandom.com/wiki/Mortynight_Run)
+- [https://rickandmorty.fandom.com/wiki/Roy:_A_Life_Well_Lived](https://rickandmorty.fandom.com/wiki/Roy:_A_Life_Well_Lived)
+
+> Look at this. You beat [cancer](biology.md#cancer), and then you went back to work at the carpet store? Booooh.
+
+<a id="video-roy-a-life-well-lived-rick-and-morty-adult-swim-by-adult-swim-2015"></a>
+**[Video 9](#video-roy-a-life-well-lived-rick-and-morty-adult-swim-by-adult-swim-2015). Roy: A Life Well Lived | Rick and Morty | Adult Swim by Adult Swim (2015)** [Source](http://youtube.com/watch?v=szzVlQ653as).
+
+### Reductionism
+
+↑ **Parent:** [Philosophy of Science](#philosophy-of-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Reductionism)
+
+[Figure "xkcd 435: Fields arranged by purity"](physics.md#image-xkcd-435-fields-arranged-by-purity) must again be cited.
+
+#### First principle
+
+↑ **Parent:** [Reductionism](#reductionism)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/First_principle)
+
+##### From first principles
+
+↑ **Parent:** [First principle](#first-principle)
+
+##### Empirical formula
+
+↑ **Parent:** [First principle](#first-principle)
+
+The opposite of [from first principles](#from-first-principles).
+
+#### Emergence
+
+↑ **Parent:** [Reductionism](#reductionism)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Emergence)
+
+Basically the opposite of [reductionism](#reductionism).
+
+[Figure "xkcd 435: Fields arranged by purity"](physics.md#image-xkcd-435-fields-arranged-by-purity) must again be cited.
+
+## Natural science
+
+↑ **Parent:** [Science](science.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Natural_science)
+
+[Ciro Santilli](ciro-santilli.md) often wonders to himself, how much of the natural sciences can one learn in a lifetime? Certainly, a very strong basis, with concrete experimental and [physics](physics.md), [chemistry](chemistry.md) and [biology](biology.md) should be attainable to all? How much Ciro manages to learning and teach in those areas is a kind of success metric of Ciro's life.
+
+### Physics
+
+↑ **Parent:** [Natural science](#natural-science)
+
+[This section is present in another page, follow this link to view it.](physics.md)
+
+### Chemistry
+
+↑ **Parent:** [Natural science](#natural-science)
+
+[This section is present in another page, follow this link to view it.](chemistry.md)
+
+### Biology
+
+↑ **Parent:** [Natural science](#natural-science)
+
+[This section is present in another page, follow this link to view it.](biology.md)
+
+### Astronomy
+
+↑ **Parent:** [Natural science](#natural-science)
+
+[This section is present in another page, follow this link to view it.](astronomy.md)
+
+### Laboratory
+
+↑ **Parent:** [Natural science](#natural-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Laboratory)
+
+#### Cleanroom
+
+↑ **Parent:** [Laboratory](#laboratory)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Cleanroom)
+
+##### ISO cleanroom level
+
+↑ **Parent:** [Cleanroom](#cleanroom)
+
+#### Laboratory simulation
+
+↑ **Parent:** [Laboratory](#laboratory)
+
+- [http://star.mit.edu/CellBio/index.html](http://star.mit.edu/CellBio/index.html) StarCellBio from [MIT](university.md#massachusetts-institute-of-technology)
+
+#### Laboratory equipment manufacturer
+
+↑ **Parent:** [Laboratory](#laboratory)
+
+##### Thermo Fisher Scientific
+
+↑ **Parent:** [Laboratory equipment manufacturer](#laboratory-equipment-manufacturer)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific)
+
+###### Fisher Scientific
+
+↑ **Parent:** [Thermo Fisher Scientific](#thermo-fisher-scientific)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Fisher_Scientific)
+
+###### Fisher Scientific product
+
+↑ **Parent:** [Fisher Scientific](#fisher-scientific)
+
+###### Thermo Electron
+
+↑ **Parent:** [Thermo Fisher Scientific](#thermo-fisher-scientific)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Thermo_Electron)
+
+### Natural science YouTube channel
+
+↑ **Parent:** [Natural science](#natural-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Natural_science_YouTube_channel)
+
+#### The Thought Emporium
+
+↑ **Parent:** [Natural science YouTube channel](#natural-science-youtube-channel)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/The_Thought_Emporium)
+
+[https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ](https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ)
+
+[https://www.youtube.com/watch?v=H_H_TF5Kxks](https://www.youtube.com/watch?v=H_H_TF5Kxks) This Lab is RIDICULOUS (2021) gives an overview of their new laboratory, and hints of the types of projects they want to carry out.
+
+## Linguistics
+
+↑ **Parent:** [Science](science.md)
+
+[This section is present in another page, follow this link to view it.](linguistics.md)
+
+## Scientific method
+
+↑ **Parent:** [Science](science.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Scientific_method)
+
+### Experiment
+
+↑ **Parent:** [Scientific method](#scientific-method)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Experiment)
+
+#### Thought experiment
+
+↑ **Parent:** [Experiment](#experiment)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Thought_experiment)
+
+### Conceptual model
+
+↑ **Parent:** [Scientific method](#scientific-method)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Conceptual_model)
+
+#### Simulation
+
+↑ **Parent:** [Conceptual model](#conceptual-model)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Simulation)
+
+##### Numerical simulation
+
+↑ **Parent:** [Simulation](#simulation)
+
+##### Simulation software
+
+↑ **Parent:** [Simulation](#simulation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Simulation_software)
+
+###### Physics engine
+
+↑ **Parent:** [Simulation software](#simulation-software)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Physics_engine)
+
+There is no clear distinction between "serious simulations" and "physics engines", it's just that "physics engine" have a "for [video game](video-game.md)" connotation.
+
+And especially, in the context of gaming, it usually means "[rigid body dynamics](mechanics.md#rigid-body-dynamics) simulation" in particular.
+
+### Social science
+
+↑ **Parent:** [Scientific method](#scientific-method)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Social_science)
+
+#### Country
+
+↑ **Parent:** [Social science](#social-science)  
+🏷️ **Tags:** [Evil](cirism.md#evil)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Country)
+
+We shouldn't have countries.
+
+We should have one big global government, with [one global language that everyone can speak](cirism.md#having-more-than-one-natural-language-is-bad-for-the-world), and slightly different local [laws](law.md), so you can choose where to live based on the laws you approve of the most.
+
+##### Settlement
+
+↑ **Parent:** [Country](#country)
+
+We use Settlement as a generic term for [city](#city) or [town](#town) or [village](#village) but without specifying its size.
+
+###### City
+
+↑ **Parent:** [Settlement](#settlement)
+
+###### Town
+
+↑ **Parent:** [Settlement](#settlement)
+
+###### Town with a [funny](brain.md#funny) name
+
+↑ **Parent:** [Town](#town)
+
+###### Village
+
+↑ **Parent:** [Settlement](#settlement)
+
+##### Immigration
+
+↑ **Parent:** [Country](#country)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Immigration)
+
+###### Immigrant generation
+
+↑ **Parent:** [Immigration](#immigration)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Immigrant generation)
+
+###### First generation immigrant
+
+↑ **Parent:** [Immigrant generation](#immigrant-generation)
+
+###### Second generation immigrant
+
+↑ **Parent:** [Immigrant generation](#immigrant-generation)
+
+Our definition: first generation to be born in country parent immigrated to.
+
+<a id="image-we-go-forward-by-owlturd"></a>
+![](https://web.archive.org/web/20170611062614if_/https://i.imgur.com/WSFUgVe.png)
+
+**[Figure 1](#image-we-go-forward-by-owlturd). We go forward by Owlturd**. [Source](http://owlturd.com/post/91042216689/we-go-forward-image-twitter-facebook). Being a [first generation immigrant](#first-generation-immigrant), this cartoon does make Ciro think about the future of his children.
+
+Immigrating is incredibly time consuming and direclty limits what you can do in life later on. One can only hope that their children will take advantage of the new opportunities provided to them.
+
+The author apparently self deleted his site at some point unfortnately: [https://www.reddit.com/r/OutOfTheLoop/comments/7dyslp/apparently_shen_from_owlturd_is_going_on_hiatus/](https://www.reddit.com/r/OutOfTheLoop/comments/7dyslp/apparently_shen_from_owlturd_is_going_on_hiatus/)
+
+---
+
+##### First World
+
+↑ **Parent:** [Country](#country)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/First_World)
+
+##### Micronation
+
+↑ **Parent:** [Country](#country)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Micronation)
+
+<a id="video-how-do-you-start-a-new-country-by-jay-foreman-2021"></a>
+**[Video 10](#video-how-do-you-start-a-new-country-by-jay-foreman-2021). How do you start a new country? by Jay Foreman (2021)** [Source](https://www.youtube.com/watch?v=hX4s1ZLW_PI).
+
+#### Globalization
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Globalization)
+
+##### Internationalism
+
+↑ **Parent:** [Globalization](#globalization)  
+🏷️ **Tags:** [Cirism](cirism.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Internationalism)
+
+##### Globalization reduces the power of governments
+
+↑ **Parent:** [Globalization](#globalization)
+
+While [Ciro Santilli](ciro-santilli.md) is a big fan of having "one global country" ([and language](cirism.md#having-more-than-one-natural-language-is-bad-for-the-world)), which is somewhat approximated by globalization, he has come to believe that there is one serious downside to globalization as it stands in 2020: it allows companies to pressure [governments](social-technology.md#government) to reduce [taxes](social-technology.md#tax), and thus [reduces the power of government](film.md#governments-have-lost-all-power-to-companies), which in turn increases [social inequality](economy.md#social-inequality). This idea is very well highlighted in [Can't get you out of my head by Adam Curtis (2021)](film.md#can-t-get-you-out-of-my-head-by-adam-curtis-2021).
+
+The only solution seems to be for governments to get together, and make deals to have fair taxation across each other. Which might never happen.
+
+#### History
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/History)
+
+##### Middle Ages
+
+↑ **Parent:** [History](#history)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Middle_Ages)
+
+##### Age of Enlightenment
+
+↑ **Parent:** [History](#history)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+
+##### Museum
+
+↑ **Parent:** [History](#history)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Museum)
+
+###### Computer museum
+
+↑ **Parent:** [Museum](#museum)
+
+###### Computer History Museum
+
+↑ **Parent:** [Computer museum](#computer-museum)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Computer_History_Museum)
+
+###### The Centre for Computing History
+
+↑ **Parent:** [Computer museum](#computer-museum)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/The_Centre_for_Computing_History)
+
+#### Meme
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Meme)
+
+The best way to learn about them as of 2020 is to [Google](google.md) into [Know Your Meme](website.md#know-your-meme).
+
+##### Porn meme
+
+↑ **Parent:** [Meme](#meme)  
+🏷️ **Tags:** [Pornography](art.md#pornography)
+
+###### Work-safe porn
+
+↑ **Parent:** [Porn meme](#porn-meme)
+
+[https://knowyourmeme.com/memes/work-safe-porn](https://knowyourmeme.com/memes/work-safe-porn)
+
+![](https://web.archive.org/web/20241217073636im_/https://i.kym-cdn.com/entries/icons/facebook/000/000/986/worksafe.jpg)
+
+**[Figure 2](#_115)** [Source](https://knowyourmeme.com/memes/work-safe-porn).
+
+![](https://web.archive.org/web/20241217073636im_/https://i.kym-cdn.com/photos/images/newsfeed/000/020/356/sfw-porn-1225101702-97208.jpg?1253736537)
+
+**[Figure 3](#_116)** [Source](https://knowyourmeme.com/memes/work-safe-porn).
+
+![](https://web.archive.org/web/20241217073636im_/https://i.kym-cdn.com/photos/images/newsfeed/000/039/485/RoughRider_pianist.gif?1265902475)
+
+**[Figure 4](#_117)** [Source](https://knowyourmeme.com/memes/work-safe-porn).
+
+###### Gay porn meme
+
+↑ **Parent:** [Work-safe porn](#work-safe-porn)  
+🏷️ **Tags:** [Gay porn](art.md#gay-porn)
+
+- [https://www.reddit.com/r/notgayporn/](https://www.reddit.com/r/notgayporn/) the [subreddit](website.md#reddit)
+- [https://knowyourmeme.com/memes/gay-porn-as-reaction-images/photos](https://knowyourmeme.com/memes/gay-porn-as-reaction-images/photos)
+- [https://runt-of-the-web.com/gay-porn-reaction-gifs](https://runt-of-the-web.com/gay-porn-reaction-gifs) some of these are a bit too heavy
+- [https://www.buzzfeed.com/pablovaldivia/gay-porn-memes](https://www.buzzfeed.com/pablovaldivia/gay-porn-memes)
+
+Best ones:
+- Change in your couch
+- Put ketchup on fries
+
+##### List of memes
+
+↑ **Parent:** [Meme](#meme)
+
+<h6 id="ain-t-nobody-got-time-for-that">Ain't Nobody Got Time For That</h6>
+
+↑ **Parent:** [List of memes](#list-of-memes)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Ain't_Nobody_Got_Time_For_That)
+
+<a id="video-ain-t-nobody-got-time-for-that"></a>
+**[Video 11](#video-ain-t-nobody-got-time-for-that). Ain't Nobody Got Time For That.** [Source](https://www.youtube.com/watch?v=waEC-8GFTP4).
+
+###### Dmitriy Khaladzhi carrying a horse over his shoulders
+
+↑ **Parent:** [List of memes](#list-of-memes)
+
+![](https://web.archive.org/web/20221016113926im_/https://static.toiimg.com/thumb/msid-67570033,imgsize-1015985,width-400,resizemode-4/67570033.jpg)
+
+**[Figure 5](#_128)** [Source](https://timesofindia.indiatimes.com/times-fact-check/news/fact-check-man-carried-horse-on-his-back-after-it-was-bitten-by-a-snake/articleshow/67568660.cms).
+
+###### Thug life meme
+
+↑ **Parent:** [List of memes](#list-of-memes)
+
+[https://knowyourmeme.com/memes/thug-life](https://knowyourmeme.com/memes/thug-life)
+
+###### Pepe the Frog
+
+↑ **Parent:** [List of memes](#list-of-memes)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Pepe_the_Frog)
+
+###### Rickrolling
+
+↑ **Parent:** [List of memes](#list-of-memes)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Rickrolling)
+
+[https://knowyourmeme.com/memes/rickroll](https://knowyourmeme.com/memes/rickroll)
+
+###### Welcome Aboard!
+
+↑ **Parent:** [List of memes](#list-of-memes)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Welcome_Aboard!)
+
+[https://knowyourmeme.com/memes/welcome-aboard](https://knowyourmeme.com/memes/welcome-aboard)
+
+![](https://web.archive.org/web/20240320080419im_/https://i.kym-cdn.com/photos/images/newsfeed/000/303/748/65c.png)
+
+**[Figure 6](#_132)** [Source](https://knowyourmeme.com/memes/welcome-aboard).
+
+#### Politics
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Politics)
+
+##### Politician
+
+↑ **Parent:** [Politics](#politics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Politician)
+
+###### The artist and the politician
+
+↑ **Parent:** [Politician](#politician)  
+🏷️ **Tags:** [Essays by Ciro Santilli](ciro-santilli.md#essays-by-ciro-santilli)
+
+Once upon a time in the 2010's, [Ciro Santilli](ciro-santilli.md) went to an artsy theatre venue in the suburbia of [Paris](continent.md#paris), dragged by his [wife then girlfriend](ciro-santilli.md#ciro-santilli-s-wife) of course.
+
+In the venue, there was a politician, who was doing his best to show how much they supported the arts, and there were of course the artists, involved in the play.
+
+The politician would see a political power score on top of every person's head, and would spend an amount of time talking to each person exactly proportional to that score. This meant basically one sentence to us. The words themselves didn't really matter of course, only the time spent, they just have to produce nice sounds.
+
+One of the artists however, and he seemed quite important in the production, for some reason spent a huge amount of time speaking to us. The score the artist saw on our heads was of love, or how interested we were in the art.
+
+##### Political party
+
+↑ **Parent:** [Politics](#politics)
+
+###### Joke party
+
+↑ **Parent:** [Political party](#political-party)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/List_of_frivolous_political_parties)
+
+###### Political donation
+
+↑ **Parent:** [Political party](#political-party)
+
+###### Ban political donations
+
+↑ **Parent:** [Political party](#political-party)
+
+For similar reasons as [Section "Regulate the fuck out of advertising"](social-technology.md#regulate-the-fuck-out-of-advertising).
+- [https://petition.parliament.uk/archived/petitions/25994](https://petition.parliament.uk/archived/petitions/25994)
+
+##### Activism
+
+↑ **Parent:** [Politics](#politics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Activism)
+
+###### Slacktivism
+
+↑ **Parent:** [Activism](#activism)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Slacktivism)
+
+Related:
+- [https://cirosantilli.com/china-dictatorship/slacktivism](https://cirosantilli.com/china-dictatorship/slacktivism)
+
+##### Politics of Europe
+
+↑ **Parent:** [Politics](#politics)
+
+###### Politics of France
+
+↑ **Parent:** [Politics of Europe](#politics-of-europe)
+
+###### French politician
+
+↑ **Parent:** [Politics of France](#politics-of-france)
+
+###### Napoleon
+
+↑ **Parent:** [French politician](#french-politician)
+
+##### Politics of the United States
+
+↑ **Parent:** [Politics](#politics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Politics_of_the_United_States)
+
+###### American politician
+
+↑ **Parent:** [Politics of the United States](#politics-of-the-united-states)
+
+###### Barack Obama
+
+↑ **Parent:** [American politician](#american-politician)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Barack_Obama)
+
+###### Donald Trump
+
+↑ **Parent:** [American politician](#american-politician)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Donald_Trump)
+
+Trump's election was an act of protest by the people, because they felt, and rightly so, that the promises by the [democrats](#democratic-party-united-states) to decrease [social inequality](economy.md#social-inequality) were just full of [shit](molecular-biology.md#feces).
+
+So instead, the old voice of [nationalism](#nationalism) spoke louder.
+
+Ciro agrees with analysis of [Can't get you out of my head by Adam Curtis (2021)](film.md#can-t-get-you-out-of-my-head-by-adam-curtis-2021) that this is largely because [government is losing all power to do anything meaningful](film.md#governments-have-lost-all-power-to-companies). So the only thing left to do is to speak empty words to calm, or exacerbate, people's fears and hopes.
+
+Ciro believes it is important not hate Trump and his believers, no matter how disgusting Trump might seem, a large part of which is likely theater. We have to try and understand them instead.
+
+Trump's election shows clearly how the [democrats](#democratic-party-united-states) let down the poor. This understanding is a good thing. It shows that we all have to make greater efforts to help the poor. Just voting for some random democrat candidate who doesn't really care every four years is not enough.
+
+Another positive point of Trump's election is that it further highlighted the power of [social media](social-technology.md#social-media) even further: it now feels more likely than ever before that anyone can run for office, since a president without any previous political office was elected (of course, being filthy reach helps a lot still, which is a problem). And this further highlights the need for regulate [social media](social-technology.md#social-media), to prevent events such as [the deplatforming of Donald Trump](#the-deplatforming-of-donald-trump)
+
+We should calmly analyze and understand how someone that tries their best to appear disgusting managed to win. Some interesting analyses of Trump's character:
+- [https://www.theatlantic.com/magazine/archive/2016/06/the-mind-of-donald-trump/480771/](https://www.theatlantic.com/magazine/archive/2016/06/the-mind-of-donald-trump/480771/) The Mind of Donald Trump by Dan P. McAdams (2016):> It was as if the golden-haired guest sitting across the table were an actor playing a part on the London stage.
+  > 
+  > "It was Donald Trump playing Donald Trump," Griffin observed. There was something unreal about it.
+
+  and the author comments:> My aim is to develop a dispassionate and analytical perspective on Trump, drawing upon some of the most important ideas and research findings in psychological science today.
+
+  which is exactly the right way to approach things.
+
+[Falun Gong](religion.md#falun-gong)'s support for Trump is described at: [https://cirosantilli.com/china-dictatorship/flg-trump](https://cirosantilli.com/china-dictatorship/flg-trump) at [github.com/cirosantilli/china-dictatorship](the-most-important-projects-done-by-ciro-santilli.md#ciro-santilli-s-campaign-for-freedom-of-speech-in-china).
+
+[https://cirosantilli.com/china-dictatorship/stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping](https://cirosantilli.com/china-dictatorship/stack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping)
+
+Most damning moments:
+- about women:
+  - [https://en.wikipedia.org/w/index.php?title=Donald_Trump_Access_Hollywood_tape&oldid=1001865204#Trump's_responses](https://en.wikipedia.org/w/index.php?title=Donald_Trump_Access_Hollywood_tape&oldid=1001865204#Trump's_responses) "Grab'em by the pussy" admissions, and later unadmissions
+  - [https://www.theatlantic.com/magazine/archive/2016/06/the-mind-of-donald-trump/480771/](https://www.theatlantic.com/magazine/archive/2016/06/the-mind-of-donald-trump/480771/) quotes an interview by Mark Singer from 1990's:> "O.K., I guess I'm asking, do you consider yourself [ideal](#idealism) company?"
+    > 
+    > You really want to know what I consider ideal company?," Trump replied. "A total piece of ass."
+- corruption
+  - This was a beautiful comment, since it highlights not only that Trump is corrupt, but also that highlights that the others are corrupt, which is why the people elected him. TODO find video [https://www.vox.com/2015/8/6/9114565/donald-trump-debate-money](https://www.vox.com/2015/8/6/9114565/donald-trump-debate-money):> Q: You've also supported a host of other liberal policies, you've also donated to several Democratic candidates, Hillary Clinton included, Nancy Pelosi. You explained away those donations saying you did that to get business related favors. And you said recently, quote, when you give, they do whatever the hell you want them to do.
+
+  TRUMP: You better believe it... I will tell you that our system is broken. I gave to many people. Before this, before two months ago, I was a businessman. I give to everybody. When they call, I give. And you know what? When I need something from them, two years later, three years later, I call them. They are there for me. And that's a broken system.
+
+<a id="video-fifth-republican-primary-debate-main-stage-december-15-2015-on-cnn"></a>
+**[Video 12](#video-fifth-republican-primary-debate-main-stage-december-15-2015-on-cnn). Fifth Republican Primary Debate - Main Stage - December 15 2015 on CNN.** [Source](https://www.youtube.com/watch?v=YHYk0K7iszo). This perfectly summarizes the spectrum of [republican](#republican-party-united-states) politics. The only candidate who said anything decent were the two least popular ones, notably:
+- Rand Paul, saying that interventionism in the Middle East was a failure (Jeb notably still wants to repeat his brother's mistakes!), and supporting [freedom of speech](law.md#freedom-of-speech) rather than censorship and violation of privacy
+- Carly Fiorina, saying that the people must take the country back
+
+The others are mostly fear-mongering and saying "we will destroy ISIS", to avoid actually dealing with the more important questions: the people have no power anymore.
+
+---
+
+<a id="video-small-loan-of-a-million-dollars-remix-compilation-by-twinkieman-2015"></a>
+**[Video 13](#video-small-loan-of-a-million-dollars-remix-compilation-by-twinkieman-2015). SMALL LOAN OF A MILLION DOLLARS - Remix Compilation by TwinkieMan (2015)** [Source](https://www.youtube.com/watch?v=BuXlf7oTfLE). Nothing synthesizes better how bad the democrats have failed to help the poor. This is who got elected.
+
+###### The deplatforming of [Donald Trump](#donald-trump)
+
+↑ **Parent:** [Donald Trump](#donald-trump)
+
+[Ciro Santilli](ciro-santilli.md) believes that the [Donald Trump](#donald-trump) bans were extremely unfair, and highlight the need for [government](social-technology.md#government) to ensure greater [freedom of speech](law.md#freedom-of-speech) in [social media](social-technology.md#social-media), more information at: [https://cirosantilli.com/china-dictatorship/unjust-social-media-censorship-in-the-west](https://cirosantilli.com/china-dictatorship/unjust-social-media-censorship-in-the-west), related: [globalization reduces the power of governments](#globalization-reduces-the-power-of-governments).
+
+Related:
+- [https://techcrunch.com/2021/05/24/floridas-ban-on-bans-will-test-first-amendment-rights-of-social-media-companies/](https://techcrunch.com/2021/05/24/floridas-ban-on-bans-will-test-first-amendment-rights-of-social-media-companies/)
+
+###### Political parties in the [United States](united-states.md)
+
+↑ **Parent:** [Politics of the United States](#politics-of-the-united-states)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Political_parties_in_the_United_States)
+
+###### Democratic Party (United States)
+
+↑ **Parent:** [Political parties in the United States](#political-parties-in-the-united-states)
+
+###### Republican Party (United States)
+
+↑ **Parent:** [Political parties in the United States](#political-parties-in-the-united-states)
+
+##### Nationalism
+
+↑ **Parent:** [Politics](#politics)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Nationalism)
+
+#### Philosophy
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Philosophy)
+
+##### Simulation hypothesis
+
+↑ **Parent:** [Philosophy](#philosophy)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+
+The central theme of [The Matrix (1999)](film.md#the-matrix-1999).
+
+###### Story about the simulation hypothesis
+
+↑ **Parent:** [Simulation hypothesis](#simulation-hypothesis)
+
+###### World on a Wire
+
+↑ **Parent:** [Story about the simulation hypothesis](#story-about-the-simulation-hypothesis)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/World_on_a_Wire)
+
+###### [Evil](cirism.md#evil) demon
+
+↑ **Parent:** [Simulation hypothesis](#simulation-hypothesis)  
+🏷️ **Tags:** [René Descartes](mathematics.md#rene-descartes)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Evil_demon)
+
+###### Dream argument
+
+↑ **Parent:** [Simulation hypothesis](#simulation-hypothesis)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Dream_argument)
+
+##### Philosopher
+
+↑ **Parent:** [Philosophy](#philosophy)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Philosopher)
+
+###### Eratosthenes
+
+↑ **Parent:** [Philosopher](#philosopher)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Eratosthenes)
+
+#### Idealism
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Idealism)
+
+Related:
+- [effortless effort](ciro-santilli-s-psychology-and-physiology.md#effortless-effort)
+
+##### Idealist
+
+↑ **Parent:** [Idealism](#idealism)
+
+A few of the "I'd rather starve and do what I love than work some bullshit job people":
+- [https://www.youtube.com/watch?v=dD5hYCN-tmU&t](https://www.youtube.com/watch?v=dD5hYCN-tmU&t) Worldyman, German skater. [Ciro Santilli](ciro-santilli.md) said hi at: [https://www.youtube.com/watch?v=dD5hYCN-tmU&lc=Ugz_QQOwrRG5Wjm52hp4AaABAg](https://www.youtube.com/watch?v=dD5hYCN-tmU&lc=Ugz_QQOwrRG5Wjm52hp4AaABAg) His reply suggests mental illness unfortunately:> Whenever I go viral, maybe in 5 years, maybe in 15, millions will arrive and cry their eyes out (i will be broken or dead). But it's alright, it's all here! 
+
+<h6 id="i-d-rather-starve">I'd rather starve</h6>
+
+↑ **Parent:** [Idealist](#idealist)
+
+This section is about [idealists](#idealist) who would rather starve doing what they love or believe in rather than do shitty jobs to survive. [Artists](art.md#artist) for the most part you may call them.
+
+#### Religion
+
+↑ **Parent:** [Social science](#social-science)
+
+[This section is present in another page, follow this link to view it.](religion.md)
+
+##### Pragmatism
+
+↑ **Parent:** [Idealism](#idealism)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Pragmatism)
+
+The opposite of [idealism](#idealism).
+
+#### Social norm
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Social_norm)
+
+##### Shibboleth
+
+↑ **Parent:** [Social norm](#social-norm)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Shibboleth)
+
+##### Political correctness
+
+↑ **Parent:** [Social norm](#social-norm)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Political_correctness)
+
+[Ciro Santilli](ciro-santilli.md) believes it generally hurts more than it helps.
+
+Especially when you can't even mention censored things to criticize them. You have to pretend they never existed. So people will forget about them, and do them again in the future.
+
+And when companies do it just to look good, even though it has absolutely no real impact on the lives of those who are discriminated against.
+
+See: [https://cirosantilli.com/china-dictatorship/censorship-of-politically-incorrect-speech](https://cirosantilli.com/china-dictatorship/censorship-of-politically-incorrect-speech)
+
+###### Ridiculous cases of political correctness [censorship](law.md#censorship)
+
+↑ **Parent:** [Political correctness](#political-correctness)
+
+- [Stack Exchange](stack-overflow.md#stack-exchange)'s censorship of "I think [Trump](#donald-trump) is disgusting as a person" from [Ciro Santilli](ciro-santilli.md)'s profile: [https://cirosantilli.com/china-dictatorship/sstack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping](https://cirosantilli.com/china-dictatorship/sstack-overflow-forbids-criticizing-the-character-of-genocidal-political-leaders-like-xi-jinping)
+
+###### Replacement of master and slave terminology from technology
+
+↑ **Parent:** [Ridiculous cases of political correctness censorship](#ridiculous-cases-of-political-correctness-censorship)
+
+The IETF was a notable one: [https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html](https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html)
+
+- [https://developers.google.com/style/word-list](https://developers.google.com/style/word-list) ([archive](https://web.archive.org/web/20210419143604/https://developers.google.com/style/word-list)) [Google](google.md)'s avoid word list is a masterclass in 2020's [political correctness](#political-correctness)
+
+<h6 id="github-s-replacement-of-master-branch-with-main-2020">GitHub's replacement of <code>master</code> branch with <code>main</code> (2020)</h6>
+
+↑ **Parent:** [Replacement of master and slave terminology from technology](#replacement-of-master-and-slave-terminology-from-technology)  
+🏷️ **Tags:** [GitHub](software.md#github)
+
+By [GitHub](software.md#github) around [Black Lives Matter](https://ourbigbook.com/go/topic/black-lives-matter), due to a possible ludicrous relationship with slavery of black people:
+- [https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/](https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/)
+- [https://github.com/github/renaming](https://github.com/github/renaming)
+For the love of [God](religion.md#god), the word "master" is much more general than black slavery. If you are going to ban it, you might as well ban the word "evil".
+
+Several software projects followed the purge from their codebases, maybe GitHub followed someone else's lead, it's hard to say.
+
+The words "whitelist" and "blacklist" were also targeted.
+
+<h6 id="magic-the-gathering-s-banning-of-7-cards-due-to-racism-2020">Magic the gathering's banning of 7 cards due to "racism" (2020)</h6>
+
+↑ **Parent:** [Ridiculous cases of political correctness censorship](#ridiculous-cases-of-political-correctness-censorship)  
+🏷️ **Tags:** [Magic: The Gathering](magic-the-gathering.md)
+
+Official announcement: [https://magic.wizards.com/en/articles/archive/news/depictions-racism-magic-2020-06-10](https://magic.wizards.com/en/articles/archive/news/depictions-racism-magic-2020-06-10)
+
+List of cards with images: [https://www.hipstersofthecoast.com/2020/06/wizards-bans-7-cards-that-depict-racism-including-invoke-prejudice/](https://www.hipstersofthecoast.com/2020/06/wizards-bans-7-cards-that-depict-racism-including-invoke-prejudice/)
+
+- Invoke prejudice: depicts the Ku Klux Klan. Card's title clearly criticizes them "prejudice".
+- Stone-Throwing Devils: not sure about this one: [https://boardgames.stackexchange.com/questions/54341/what-is-offensive-about-the-card-stone-throwing-devils](https://boardgames.stackexchange.com/questions/54341/what-is-offensive-about-the-card-stone-throwing-devils)
+- Cleanse: it does not seem to have any reference to black people, image depicts fantastic animals. There are hundreds of cards that talk about black since it is one of the 5 colors of magic.
+- Pradesh Gypsies: does not appear to suggest any bad things about gypsies, on the contrary
+- Jihad: does not appear to suggest any bad things about Islam, on the contrary
+- Imprison: depicts a black slave. Let's pretend it never happened.
+- Crusade: pretend it never happened
+
+By [Wizards of the Coast](magic-the-gathering.md#wizards-of-the-coast), parent company of [Magic: The Gathering](magic-the-gathering.md).
+
+[Reddit](website.md#reddit) discussion: [https://www.reddit.com/r/mtgfinance/comments/h0kb84/depictions_of_racism_in_magic_aka_invoke/](https://www.reddit.com/r/mtgfinance/comments/h0kb84/depictions_of_racism_in_magic_aka_invoke/)
+
+#### Society
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Society)
+
+##### Military-industrial complex
+
+↑ **Parent:** [Society](#society)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Military–industrial_complex)
+
+This is notably what the [United States](united-states.md) emerged to be after [World War II](#world-war-ii). But it was likely what [Nazi Germany](continent.md#nazi-germany) also was, and many other superpowers.
+
+[Ciro Santilli](ciro-santilli.md) feels that much more relevant would be to also include academia as in "military-industrial-academic" complex, the [Wikipedia](website.md#wikipedia) page actually mentions precedents to this idea.
+
+The addition of congress/[politicians](#politician) is also relevant.
+
+But hey, the name wouldn't sound so slick with three parts.
+
+It is basically in this context that [American](united-states.md) science and technology flourished after [World War II](#world-war-ii), including notably the development of [quantum electrodynamics](quantum-field-theory.md#quantum-electrodynamics), [Richard Feynman](richard-feynman.md) being a prototypical example, having previously worked on the [Manhattan Project](nuclear-weapon.md#manhattan-project).
+
+##### Marriage
+
+↑ **Parent:** [Society](#society)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Marriage)
+
+###### Legitimacy (family law)
+
+↑ **Parent:** [Marriage](#marriage)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Legitimacy_(family_law))
+
+##### Social generation
+
+↑ **Parent:** [Society](#society)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki//GenerationSocial_generation)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Generation_timeline.svg/langen-simple-960px-Generation_timeline.svg.png)
+
+**[Figure 7](#_234)** [Source](https://commons.wikimedia.org/wiki/File:langen-simple-960px-Generation_timeline.svg.png).
+
+###### Generation Z
+
+↑ **Parent:** [Social generation](#social-generation)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Generation_Z)
+
+#### War
+
+↑ **Parent:** [Social science](#social-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/War)
+
+##### A Small Talent for War
+
+↑ **Parent:** [War](#war)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/A_Small_Talent_for_War)
+
+##### Military technology
+
+↑ **Parent:** [War](#war)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Military_technology)
+
+###### Concertina wire
+
+↑ **Parent:** [Military technology](#military-technology)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Concertina_wire)
+
+###### Electronic warfare
+
+↑ **Parent:** [Military technology](#military-technology)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Electronic_warfare)
+
+##### Cold War
+
+↑ **Parent:** [War](#war)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Cold_War)
+
+##### Espionage
+
+↑ **Parent:** [War](#war)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Espionage)
+
+###### Spy
+
+↑ **Parent:** [Espionage](#espionage)
+
+###### Jack Barsky
+
+↑ **Parent:** [Spy](#spy)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Jack_Barsky)
+
+###### Counterintelligence
+
+↑ **Parent:** [Espionage](#espionage)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Counterintelligence)
+
+###### Mole (espionage)
+
+↑ **Parent:** [Espionage](#espionage)
+
+###### Spycraft
+
+↑ **Parent:** [Espionage](#espionage)
+
+###### Cutout (espionage)
+
+↑ **Parent:** [Spycraft](#spycraft)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Cutout_(espionage))
+
+###### Five Eyes
+
+↑ **Parent:** [Espionage](#espionage)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Five_Eyes)
+
+###### Intelligence leak
+
+↑ **Parent:** [Espionage](#espionage)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Intelligence_leak)
+
+###### Vault 7
+
+↑ **Parent:** [Intelligence leak](#intelligence-leak)  
+🏷️ **Tags:** [CIA](#central-intelligence-agency)
+
+<a id="video-when-a-cia-hacker-goes-rogue-by-tyfrom99"></a>
+**[Video 14](#video-when-a-cia-hacker-goes-rogue-by-tyfrom99). When a CIA Hacker Goes Rogue by TyFrom99.** [Source](https://www.youtube.com/watch?v=c1Brqr_hCgg).
+
+###### Hive (CIA)
+
+↑ **Parent:** [Vault 7](#vault-7)
+
+A public analysis by the Chinese: [https://www.cverc.org.cn/head/zhaiyao/HIVE.pdf](https://www.cverc.org.cn/head/zhaiyao/HIVE.pdf)
+
+###### Intelligence Gathering
+
+↑ **Parent:** [Espionage](#espionage)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Intelligence_Gathering)
+
+###### Open-source intelligence
+
+↑ **Parent:** [Intelligence Gathering](#intelligence-gathering)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Open-source_intelligence)
+
+###### Intelligence analysis
+
+↑ **Parent:** [Intelligence Gathering](#intelligence-gathering)
+
+###### Secret service
+
+↑ **Parent:** [Espionage](#espionage)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Secret_service)
+
+A memorable quote from [Tinker Tailor Soldier Spy](literature.md#tinker-tailor-soldier-spy):
+
+> [Haydon](literature.md#bill-haydon) \[the [Soviet](continent.md#soviet-union) [mole](#mole-espionage)\] also took it for granted that [secret services](#secret-service) were the only real measure of a nation's political health, the only real expression of its subconscious.
+
+###### Intelligence community
+
+↑ **Parent:** [Secret service](#secret-service)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Intelligence_community)
+
+###### Intelligence agency
+
+↑ **Parent:** [Intelligence community](#intelligence-community)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Intelligence_agency)
+
+###### GCHQ
+
+↑ **Parent:** [Intelligence agency](#intelligence-agency)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/GCHQ)
+
+The [British](united-kingdom.md) [NSA](#national-security-agency).
+
+Fun fact: you can see they "No [photography](technology.md#photography)" signs on [GCHQ](#gchq)'s gates from [Google Street View](software.md#google-street-view), but super low resolution, making them unreadable. They must have made a deal: Google gives its Street View data with uncensored plate numbers/faces, and GCGQ allows them to film in front of their building at low resolution! The sign actually shows up on their first [Instagram](social-technology.md#instagram) post when they created one in 2018 [https://www.gchq.gov.uk/news/gchq-joins-instagram](https://www.gchq.gov.uk/news/gchq-joins-instagram) | [https://inews.co.uk/news/uk/gchq-instagram-puzzles-photography-hobbies-216444](https://inews.co.uk/news/uk/gchq-instagram-puzzles-photography-hobbies-216444) Just passing in front of the damn place with [Google Maps](software.md#google-maps) on must increase your "interest score"!
+
+###### United States Intelligence Community
+
+↑ **Parent:** [Intelligence community](#intelligence-community)  
+🏷️ **Tags:** [United States](united-states.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
+
+###### American intelligence agency
+
+↑ **Parent:** [United States Intelligence Community](#united-states-intelligence-community)
+
+###### Central Intelligence Agency
+
+↑ **Parent:** [American intelligence agency](#american-intelligence-agency)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)
+
+###### CIA 2010 covert communication websites
+
+↑ **Parent:** [Central Intelligence Agency](#central-intelligence-agency)
+
+[This section is present in another page, follow this link to view it.](cia-2010-covert-communication-websites.md)
+
+###### CIA employee
+
+↑ **Parent:** [Central Intelligence Agency](#central-intelligence-agency)
+
+If you're one this list, something likely went very wrong!
+
+###### Jerry Chun Shing Lee
+
+↑ **Parent:** [CIA employee](#cia-employee)
+
+Involved in the [CIA 2010 covert communication websites](cia-2010-covert-communication-websites.md) affair.
+
+- 2018-01-16
+  - [https://www.nbcnews.com/news/us-news/ex-cia-officer-jerry-chun-shing-lee-suspected-spying-china-n838186](https://www.nbcnews.com/news/us-news/ex-cia-officer-jerry-chun-shing-lee-suspected-spying-china-n838186) Ex-CIA officer Jerry Chun Shing Lee suspected of spying for China - NBC News 
+  - [https://www.politico.com/f/?id=00000161-05bd-dcd4-a96b-35bda0f10001](https://www.politico.com/f/?id=00000161-05bd-dcd4-a96b-35bda0f10001) Affidavit for Jerry Chun Shin Lee
+- 2018-01-20 [https://www.nbcnews.com/news/china/cia-china-turncoat-lee-may-have-compromised-u-s-spies-n839316](https://www.nbcnews.com/news/china/cia-china-turncoat-lee-may-have-compromised-u-s-spies-n839316) Alleged CIA China turncoat Lee may have compromised U.S. spies in Russia too
+- 2019-11-22 [https://www.justice.gov/archives/opa/pr/former-cia-officer-sentenced-conspiracy-commit-espionage](https://www.justice.gov/archives/opa/pr/former-cia-officer-sentenced-conspiracy-commit-espionage) Former CIA Officer Sentenced for Conspiracy to Commit Espionage - US Dept of Justice 
+
+<a id="image-jerry-chun-shing-lee-in-blue-tie-at-the-unveiling-of-leonardo-da-vinci-s-salvator-mundi-painting-at-the-christie-s-showroom-in-hong-kong-on-oct-13-2017"></a>
+![](https://web.archive.org/web/20250504165941im_/https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/newscms/2019_18/2299056/180119-jerry-chun-shing-lee-ew-651p.jpg)
+
+**[Figure 8](#image-jerry-chun-shing-lee-in-blue-tie-at-the-unveiling-of-leonardo-da-vinci-s-salvator-mundi-painting-at-the-christie-s-showroom-in-hong-kong-on-oct-13-2017). Jerry Chun Shing Lee in blue tie at the unveiling of Leonardo da Vinci's 'Salvator Mundi' painting at the Christie's showroom in Hong Kong on Oct. 13, 2017**. [Source](https://www.nbcnews.com/news/china/cia-china-turncoat-lee-may-have-compromised-u-s-spies-n839316).
+
+###### John Kiriakou
+
+↑ **Parent:** [CIA employee](#cia-employee)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/John_Kiriakou)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Kiriakou_%28CC_Thomas_Schmidt%29_Disruptionlab_Prisoners_2017-05-12_-_2_%28cropped%29.jpg/500px-John_Kiriakou_%28CC_Thomas_Schmidt%29_Disruptionlab_Prisoners_2017-05-12_-_2_%28cropped%29.jpg)
+
+**[Figure 9](#_259)** [Source](https://commons.wikimedia.org/wiki/File:John_Kiriakou_%28CC_Thomas_Schmidt%29_Disruptionlab_Prisoners_2017-05-12_-_2_%28cropped%29.jpg).
+
+<a id="video-john-kiriakou-interview-part-1-by-dalton-fischer-podcast"></a>
+**[Video 15](#video-john-kiriakou-interview-part-1-by-dalton-fischer-podcast). John Kiriakou interview part 1 by Dalton Fischer Podcast.** [Source](https://www.youtube.com/watch?v=P1kOwRMd3o8).
+
+<a id="video-john-kiriakou-interview-part-2-by-dalton-fischer-podcast"></a>
+**[Video 16](#video-john-kiriakou-interview-part-2-by-dalton-fischer-podcast). John Kiriakou interview part 2 by Dalton Fischer Podcast.** [Source](https://www.youtube.com/watch?v=ynMg7-QfL10).
+
+###### Organizational structure of the Central Intelligence Agency
+
+↑ **Parent:** [Central Intelligence Agency](#central-intelligence-agency)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Organizational_structure_of_the_Central_Intelligence_Agency)
+
+Official website: [https://www.cia.gov/about/organization/](https://www.cia.gov/about/organization/)
+
+###### Directorate of the CIA
+
+↑ **Parent:** [Organizational structure of the Central Intelligence Agency](#organizational-structure-of-the-central-intelligence-agency)
+
+<h6 id="central-intelligence-agency-directorate-of-science-and-technology">Central Intelligence Agency Directorate of Science &amp; Technology</h6>
+
+↑ **Parent:** [Directorate of the CIA](#directorate-of-the-cia)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Central_Intelligence_Agency_Directorate_of_Science_&_Technology)
+
+###### Directorate of Digital Innovation (CIA)
+
+↑ **Parent:** [Directorate of the CIA](#directorate-of-the-cia)
+
+[Ciro Santilli](ciro-santilli.md) believes that this recent directorate was likely created as a result of the massive failure of the [CIA 2010 covert communication websites](cia-2010-covert-communication-websites.md)
+
+###### Directorate of Operations (CIA)
+
+↑ **Parent:** [Directorate of the CIA](#directorate-of-the-cia)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Directorate_of_Operations_(CIA))
+
+###### National Security Agency
+
+↑ **Parent:** [American intelligence agency](#american-intelligence-agency)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/National_Security_Agency)
+
+###### National Security Agency employee
+
+↑ **Parent:** [National Security Agency](#national-security-agency)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/National_Security_Agency_employee)
+
+###### Reality Winner
+
+↑ **Parent:** [National Security Agency employee](#national-security-agency-employee)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Reality_Winner)
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/44/Reality_Winner.jpg)
+
+**[Figure 10](#_265)** [Source](https://commons.wikimedia.org/wiki/File:Reality_Winner.jpg).
+
+###### Reality (2023 film)
+
+↑ **Parent:** [Reality Winner](#reality-winner)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Reality_(2023_film))
+
+###### Sources and methods
+
+↑ **Parent:** [Reality Winner](#reality-winner)
+
+"Sources and methods" seems to be an official [CIA](#central-intelligence-agency)/[NSA](#national-security-agency) terminology to talk about the main categories things that whistleblowers were not supposed to whistleblow.
+
+It came to [Ciro Santilli](ciro-santilli.md)'s attention in the [Reality](#reality-2023-film) film about [Reality Winner](#reality-winner), and are words she apparently used extensively and which are quoted e.g. at [https://www.theguardian.com/us-news/2022/jul/25/reality-winner-leaked-file-on-russia-election-hacking-because-public-was-being-lied-to](https://www.theguardian.com/us-news/2022/jul/25/reality-winner-leaked-file-on-russia-election-hacking-because-public-was-being-lied-to)
+
+The term is more broadly used however outside of the [NSA](#national-security-agency), e.g. it is also present on [this website](https://responsiblestatecraft.org/2022/10/18/the-cias-hypocrisy-on-sources-and-methods/) which talks about the [CIA 2010 covert communication websites](cia-2010-covert-communication-websites.md) fiasco.
+
+###### Edward Snowden
+
+↑ **Parent:** [National Security Agency employee](#national-security-agency-employee)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Edward_Snowden)
+
+See also: [https://cirosantilli.com/china-dictatorship/snowden](https://cirosantilli.com/china-dictatorship/snowden)
+
+<a id="image-edward-snowden-in-2013"></a>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edward_Snowden-2.jpg/500px-Edward_Snowden-2.jpg)
+
+**[Figure 11](#image-edward-snowden-in-2013). Edward Snowden in 2013**. [Source](https://commons.wikimedia.org/wiki/File:Edward_Snowden-2.jpg). From the film Prism, during interview with reporter [Glenn Greenwald](https://ourbigbook.com/go/topic/glenn-greenwald).
+
+<a id="video-edward-snowden-original-interview-cut-by-the-guardian-2013"></a>
+**[Video 17](#video-edward-snowden-original-interview-cut-by-the-guardian-2013). Edward Snowden original interview cut by The Guardian (2013)** [Source](https://www.youtube.com/watch?v=0hLjuVyIIrs).
+
+###### Snowden Snowbot
+
+↑ **Parent:** [Edward Snowden](#edward-snowden)
+
+![](https://web.archive.org/web/20240804161721/https://i.guim.co.uk/img/media/04b50097f4a51ac8ec70a4eaf86f4d010af7ab6e/0_0_3000_2108/master/3000.jpg?width=1900&amp;dpr=1&amp;s=none)
+
+**[Figure 12](#_270)** [Source](https://www.theguardian.com/us-news/shortcuts/2016/jun/27/snowbot-edward-snowden-telepresence-robot).
+
+###### Lindsay Mills
+
+↑ **Parent:** [Edward Snowden](#edward-snowden)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Lindsay_Mills)
+
+<a id="video-snowden-opens-up-about-his-girlfriend"></a>
+**[Video 18](#video-snowden-opens-up-about-his-girlfriend). Snowden Opens Up About His Girlfriend.** [Source](https://www.youtube.com/watch?v=zlv7x-z3reg). TODO interviewed by.
+
+<a id="video-citizenfour-winning-best-documentary-feature-by-oscars-2014"></a>
+**[Video 19](#video-citizenfour-winning-best-documentary-feature-by-oscars-2014). "Citizenfour" winning Best Documentary Feature by Oscars (2014)** [Source](https://www.youtube.com/watch?v=AeERpE-S7fs). Lindsay attended.
+
+###### Snowden (film)
+
+↑ **Parent:** [Edward Snowden](#edward-snowden)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Snowden_(film))
+
+<a id="video-aptitude-test-scene-from-the-snowden-2016-film"></a>
+**[Video 20](#video-aptitude-test-scene-from-the-snowden-2016-film). Aptitude test scene from the Snowden 2016 film.** [Source](https://www.youtube.com/watch?v=rbGwnS338MQ).
+
+<a id="video-fisa-court-order-the-guardian-discussion-scene-from-the-snowden-2016-film"></a>
+**[Video 21](#video-fisa-court-order-the-guardian-discussion-scene-from-the-snowden-2016-film). FISA Court Order The Guardian discussion scene from the Snowden 2016 film.** [Source](https://www.youtube.com/watch?v=K8eNgW-22hA).
+
+<a id="video-how-is-this-possible-scene-from-the-snowden-2016-film"></a>
+**[Video 22](#video-how-is-this-possible-scene-from-the-snowden-2016-film). How is this Possible? scene from the Snowden 2016 film.** [Source](https://www.youtube.com/watch?v=1tMNssI56Hc).
+
+<a id="video-fresh-brains-for-you-scene-from-the-snowden-2016-film"></a>
+**[Video 23](#video-fresh-brains-for-you-scene-from-the-snowden-2016-film). Fresh Brains for You scene from the Snowden 2016 film.** [Source](https://www.youtube.com/watch?v=g4grO7um4d0).
+
+##### Asymmetric warfare
+
+↑ **Parent:** [War](#war)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Asymmetric_warfare)
+
+###### Terrorism
+
+↑ **Parent:** [Asymmetric warfare](#asymmetric-warfare)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Terrorism)
+
+###### Terrorist attack
+
+↑ **Parent:** [Terrorism](#terrorism)
+
+Related:
+- [https://en.wikipedia.org/wiki/List_of_terrorist_incidents](https://en.wikipedia.org/wiki/List_of_terrorist_incidents)
+
+###### Boston Marathon bombing
+
+↑ **Parent:** [Terrorist attack](#terrorist-attack)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Boston_Marathon_bombing)
+
+##### List of wars
+
+↑ **Parent:** [War](#war)
+
+###### World War I
+
+↑ **Parent:** [List of wars](#list-of-wars)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/World_War_I)
+
+###### World War II
+
+↑ **Parent:** [List of wars](#list-of-wars)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/World_War_II)
+
+###### Russian invasion of Ukraine
+
+↑ **Parent:** [List of wars](#list-of-wars)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)
+
+## Popular science
+
+↑ **Parent:** [Science](science.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Popular_science)
+
+On one hand, yes, we need knowledge at all levels, and it is fine to start [top-to-bottom](cirism.md#backward-design) with an overview.
+
+The problem is, however, that there is a huge knowledge gap between the one liner "this is the truth" and the much more important "this is how we know it, these are the experiments" as mentioned at [how to teach and learn physics](physics.md#how-to-teach-and-learn-physics).
+
+Therefore, if you have that extremely rare knowledge, you should be writing that in addition to the dumbed down version with an [open knowledge](software.md#open-knowledge) license. It takes time, but that's what really changes the world.
+
+[Ciro Santilli](ciro-santilli.md) has always felt that there is a huge gap between "the very basic" and "the very advanced", as mentioned at: [Section "The missing link between basic and advanced"](ciro-santilli.md#the-missing-link-between-basic-and-advanced), which existing scientific vulgarization is not doing enough to address. In a sense, filling out this "[middle path](software.md#the-correlation-between-software-engineers-and-buddhism)" is the main goal of [OurBigBook.com](ourbigbook-com.md).
+
+Ciro really enjoyed the description of the "Arindam Kumar Chatterjee" [YouTube channel](website.md#youtube-channel):
+
+> Theoretical/mathematical physics at the graduate level and above. This is NOT a popular science channel. Here you find real theoretical physicists doing real theoretical physics. We think it is important for people to get a taste of the real deal, and for aspiring theoretical physicists to see what they are working towards, i.e., to provide the public with something beyond the ubiquitous Michio Kaku and Brian Cox.
+
+One thing must be said however: there seems to be an actual bias against researchers tho try to create vulgarization material: [How To Get Tenure at a Major Research University by Sean Carroll (2011)](physicist.md#how-to-get-tenure-at-a-major-research-university-by-sean-carroll-2011), and that is terrible.
+
+There is often [more value in a tutorial by a beginner who is trying to fully learn and explain a subject](cirism.md#there-is-value-in-tutorials-written-by-beginners), than by an expert who is trying to "dumb it down" too much.
+
+<a id="video-pop-science-and-the-limitations-of-infotainment-by-coffee-break-2019"></a>
+**[Video 24](#video-pop-science-and-the-limitations-of-infotainment-by-coffee-break-2019). Pop Science And The Limitations Of Infotainment by Coffee Break (2019)** [Source](https://www.youtube.com/watch?v=AZ2aSCH3zjY).
+
+### Crank (person)
+
+↑ **Parent:** [Popular science](#popular-science)
+
+Yet, all breakthroughs, comes from them, because [the people who are crazy enough to believe they can change the world are the ones who actually do](apple-inc.md#here-s-to-the-crazy-ones) ;-)
+
+How to deal articles:
+- [http://web.mst.edu/~lmhall/WhatToDoWhenTrisectorComes.pdf](http://web.mst.edu/~lmhall/WhatToDoWhenTrisectorComes.pdf) What To Do When The Trisector Comes by Underwood Dudley (1983)
+- [https://academia.stackexchange.com/questions/111413/what-is-the-best-way-to-deal-with-cranks/111414](https://academia.stackexchange.com/questions/111413/what-is-the-best-way-to-deal-with-cranks/111414)
+- [https://www.laphamsquarterly.org/roundtable/beware-cranks](https://www.laphamsquarterly.org/roundtable/beware-cranks)
+
+### Royal Institution
+
+↑ **Parent:** [Popular science](#popular-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Royal_Institution)
+
+Basically the [Royal Society](education.md#royal-society)'s [scientific vulgarization](#popular-science) cousin.
+
+#### Davy Faraday Research Laboratory
+
+↑ **Parent:** [Royal Institution](#royal-institution)
+
+### Science communication
+
+↑ **Parent:** [Popular science](#popular-science)
+
+#### Science communicator
+
+↑ **Parent:** [Science communication](#science-communication)
+
+##### Bill Nye
+
+↑ **Parent:** [Science communicator](#science-communicator)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Bill_Nye)
+
+Maybe we need these people, maybe we do.
+
+The problem as with many well known [science communicators](#science-communicator) is that he falls too much on the basic side of the [the missing link between basic and advanced](ciro-santilli.md#the-missing-link-between-basic-and-advanced).
+
+<a id="video-bill-nye-isn-t-really-a-scientist-and-why-that-shouldn-t-matter-by-bobbybroccoli-2017"></a>
+**[Video 25](#video-bill-nye-isn-t-really-a-scientist-and-why-that-shouldn-t-matter-by-bobbybroccoli-2017). Bill Nye isn't really a Scientist (& why that shouldn't matter) by BobbyBroccoli (2017)** [Source](https://www.youtube.com/watch?v=ZfQDY3N_1NY). Bobby's personal overview of Bill's carrier.
+
+##### Jim Baggott
+
+↑ **Parent:** [Science communicator](#science-communicator)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Jim_Baggott)
+
+###### Jim Baggott selects the topics for his books by writing about things he wants to know more about
+
+↑ **Parent:** [Jim Baggott](#jim-baggott)
+
+Mentinoned at [https://en.wikipedia.org/wiki/Jim_Baggott](https://en.wikipedia.org/wiki/Jim_Baggott) quoting [https://popsciencebooks.blogspot.com/2012/09/jim-baggott-four-way-interview.html](https://popsciencebooks.blogspot.com/2012/09/jim-baggott-four-way-interview.html)
+
+[Ciro Santilli](ciro-santilli.md) and Jim would get along mighty well: [there is value in tutorials written by beginners](cirism.md#there-is-value-in-tutorials-written-by-beginners).
+
+##### Jim Al-Khalili
+
+↑ **Parent:** [Science communicator](#science-communicator)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Jim_Al-Khalili)
+
+His documentary style is mostly "travel to places" and "show equations without explaining them". But there is some value to that as well.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Jim_Al-Khalili_Royal_Society.jpg" alt="" height="600">
+
+**[Figure 13](#_302)** [Source](https://commons.wikimedia.org/wiki/File:Jim_Al-Khalili_Royal_Society.jpg).
+
+###### Show hosted by Jim Al-Khalili
+
+↑ **Parent:** [Jim Al-Khalili](#jim-al-khalili)
+
+###### Atom (2007 Mini Series)
+
+↑ **Parent:** [Show hosted by Jim Al-Khalili](#show-hosted-by-jim-al-khalili)
+
+[IMDb](film.md#imdb) entry: [https://www.imdb.com/title/tt1173021/](https://www.imdb.com/title/tt1173021/)
+
+Official homepage: [https://www.bbc.co.uk/programmes/b007x243/episodes/guide](https://www.bbc.co.uk/programmes/b007x243/episodes/guide)
+
+###### Atom 2007 Mini Series episode
+
+↑ **Parent:** [Atom (2007 Mini Series)](#atom-2007-mini-series)
+
+###### Atom 2007 Mini Series episode 3
+
+↑ **Parent:** [Atom 2007 Mini Series episode](#atom-2007-mini-series-episode)
+
+- [Dirac equation](relativistic-quantum-mechanics.md#dirac-equation), [antimatter](relativistic-quantum-mechanics.md#antimatter)
+- [Quantum electrodynamics](quantum-field-theory.md#quantum-electrodynamics)
+
+##### Suzie Sheehy
+
+↑ **Parent:** [Science communicator](#science-communicator)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Suzie_Sheehy)
+
+### To talk about something without giving the real name to not scare off the audience
+
+↑ **Parent:** [Popular science](#popular-science)  
+🏷️ **Tags:** [Evil](cirism.md#evil)
+
+[Ciro Santilli](ciro-santilli.md) hates it when an expert does this!!!
+
+If you estimate that the audience won't know the name of the concept, that's fine, do explain it as well.
+
+But you must also give the name!!!
+
+This also manifests itself when news outlets omit foreign names from headlines, [notably Chinese](the-most-important-projects-done-by-ciro-santilli.md#ciro-santilli-s-campaign-for-freedom-of-speech-in-china), but likely happens to all non-european languages too.
+
+### Popular science publication
+
+↑ **Parent:** [Popular science](#popular-science)
+
+#### Quanta Magazine
+
+↑ **Parent:** [Popular science publication](#popular-science-publication)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Quanta_Magazine)
+
+This is actually pretty good! Makes a small first step into [The missing link between basic and advanced](ciro-santilli.md#the-missing-link-between-basic-and-advanced).
+
+By the [Simons Foundation](social-technology.md#simons-foundation).
+
+Unfortunately does not use a [free license](law.md#free-license) for content.
+
+#### Scientific American
+
+↑ **Parent:** [Popular science publication](#popular-science-publication)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Scientific_American)
+
+## Scientific documentary
+
+↑ **Parent:** [Science](science.md)
+
+### Cosmos: A Personal Voyage (1980)
+
+↑ **Parent:** [Scientific documentary](#scientific-documentary)  
+🏷️ **Tags:** [Good film](film.md#good-film), [Work by Carl Sagan](physicist.md#work-by-carl-sagan)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage_(1980))
+
+You can feel the [marijuana](biology.md#marijuana) flowing out of this one, it's just great.
+
+### 100 Greatest Discoveries by the Discovery Channel (2004-2005)
+
+↑ **Parent:** [Scientific documentary](#scientific-documentary)
+
+[https://www.imdb.com/title/tt0442715/](https://www.imdb.com/title/tt0442715/) on [IMDb](film.md#imdb)
+
+Hosted by [Bill Nye](#bill-nye).
+
+[Physics](physics.md) topics:
+- [Galileo](physicist.md#galileo-galilei): objects of different masses fall at the same speed, hammer and feather experiment
+- [Newton](physicist.md#isaac-newton): [gravity](relativity.md#gravity), linking locally observed falls and the movement of celestial bodies
+- TODO a few more
+- [superconductivity](condensed-matter-physics.md#superconductivity), talk only at [Fermilab](research-institute.md#fermilab) accelerator, no re-enactment even...
+- [quark](quantum-field-theory.md#quark), interview with [Murray Gell-Mann](physicist.md#murray-gell-mann), mentions it was "an off-beat field, one wasn't encouraged to work on that". High level blablabla obviously.
+- [fundamental interactions](standard-model.md#fundamental-interaction), notably [weak interaction](quantum-field-theory.md#weak-interaction) and [strong interaction](quantum-field-theory.md#strong-interaction), interview with [Michio Kaku](physicist.md#michio-kaku). When asked "How do we know that the weak force is there?" the answer is: "We observe [radioactive decay](particle-physics.md#radioactive-decay) with a [Geiger counter](system-of-units.md#geiger-counter)". Oh, come on!
+
+[biology](biology.md) topics:
+- [Leeuwenhoek microscope](microscopy.md#leeuwenhoek-microscope) and the discovery of [microorganisms](taxonomy.md#microorganism), and how pond water is not dead, but teeming with life. No sample of course.
+- 1831 Robert Brown [cell nucleus](cell.md#cell-nucleus) in plants, and later [Theodor Schwann](https://en.wikipedia.org/wiki/Theodor_Schwann) in tadpoles. This prepared the path for the idea that "all cells come from other cells", and the there seemed to be an unifying theme to all life: the precursor to [DNA](dna.md) discoveries. Re-enactment, yay.
+- 1971 [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) and the discovery of [archaea](taxonomy.md#archaea)
+
+[Genetics](dna.md#genetics):
+- Mendel. Reenactment.
+- 1909 [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan) with [Drosophila melanogaster](taxonomy.md#drosophila-melanogaster). Reenactment. Genes are in [Chromosomes](dna.md#chromosome). He observed that a trait was linked to sex, and it was already known that sex was related to chromosomes.
+- 1935 [George Beadle](https://en.wikipedia.org/wiki/George_Beadle) and the [one gene one enzyme hypothesis](https://en.wikipedia.org/wiki/One_gene–one_enzyme_hypothesis) by shooting X-rays at bread mold
+- 1942 [Barbara McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock), at [Cold Spring Harbor Laboratory](research-institute.md#cold-spring-harbor-laboratory)
+- 1952 [Hershey–Chase experiment](https://en.wikipedia.org/wiki/Hershey–Chase_experiment). Determined that [DNA](dna.md) is what transmits genetic information, not [protein](protein.md), by [radioactive](particle-physics.md#radioactive-decay) labelling both protein and DNA in two sets of [bacteriophages](taxonomy.md#bacteriophage). They observed that only the DNA radioactive material was passed forward.
+- Crick Watson
+- [messenger RNA](dna.md#messenger-rna), no specific scientist, too many people worked on it, done partially with [bacteriophage](taxonomy.md#bacteriophage) experiments
+- 1968 Nirenberg [genetic code](dna.md#genetic-code)
+- 1972 [Hamilton O. Smith](https://en.wikipedia.org/wiki/Hamilton_O._Smith) and the discovery of [restriction enzymes](protein.md#restriction-enzyme) by observing that they were part of anti [bacteriophage](taxonomy.md#bacteriophage) immune-system present in [bacteria](taxonomy.md#bacteria)
+- [alternative splicing](dna.md#alternative-splicing)
+- RNA interference
+- [Human Genome Project](human.md#human-genome-project), interview with [Craig Venter](biology.md#craig-venter).
+
+Medicine:
+- blood circulation
+- anesthesia
+- [X-ray](photon.md#x-ray)
+- [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease), with examples from Ignaz Semmelweis and Pasteur
+- 1796 Edward Jenner discovery of vaccination by noticing that [cowpox](https://en.wikipedia.org/wiki/Cowpox) cowpox infected subjects were immune
+- [vitamin](vitamin.md) by observing scurvy and beriberi in sailors, confirmed by Frederick Gowland Hopkins on mice experiments
+- Fleming, Florey and Chain and the discovery of penicillin
+- [Prontosil](https://en.wikipedia.org/wiki/Prontosil)
+- diabetes and insulin
+
+## History of science
+
+↑ **Parent:** [Science](science.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/History_of_science)
+
+If there is one thing that makes [Ciro Santilli](ciro-santilli.md) learn [German](linguistics.md#german-language), this is it (the [Romance language](linguistics.md#romance-language) are all the same, so reading them is basically covered for Ciro already).
+
+### Period of the history of science
+
+↑ **Parent:** [History of science](#history-of-science)
+
+#### Information Age
+
+↑ **Parent:** [Period of the history of science](#period-of-the-history-of-science)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Information_Age)
+
+### Science makes progress funeral by funeral
+
+↑ **Parent:** [History of science](#history-of-science)
+
+[https://quoteinvestigator.com/2017/09/25/progress/](https://quoteinvestigator.com/2017/09/25/progress/) on [Quote Investigator](art.md#quote-investigator).
+
+From [Scientific Autobiography by Max Planck translated by Frank Gaynor (1949)](physicist.md#scientific-autobiography-by-max-planck-translated-by-frank-gaynor-1949):
+
+> A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.
+
+<a id="image-how-math-works-by-smbc-comics"></a>
+![](https://web.archive.org/web/20220409192934im_/https://www.smbc-comics.com/comics/1449330284-20151205.png)
+
+**[Figure 14](#image-how-math-works-by-smbc-comics). How Math works by SMBC Comics**. [Source](https://www.smbc-comics.com/comic/progress). An amazing representation of [Science makes progress funeral by funeral](#science-makes-progress-funeral-by-funeral). Steps:
+- Step 1: Insight
+- Step 2: Resistance
+- Step 3: Debate
+- Step 4: Additional decades of debate
+- Step 5: Changing of the guard
+- Step 6: Transmission to students
+
+---
+
+<h4 id="planck-s-principle">Planck's principle</h4>
+
+↑ **Parent:** [Science makes progress funeral by funeral](#science-makes-progress-funeral-by-funeral)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Planck's_principle)
+
+Synonym to [science makes progress funeral by funeral](#science-makes-progress-funeral-by-funeral).
+
+### Web of Stories
+
+↑ **Parent:** [History of science](#history-of-science)  
+🏷️ **Tags:** [The best YouTube channels](website.md#the-best-youtube-channels)
+
+[https://www.youtube.com/user/webofstories](https://www.youtube.com/user/webofstories)
+
+Full channel title: "Web of Stories - Life Stories of Remarkable People".
+
+1-2 to hour long interviews, the number of [Nobel Prize](nobel-prize.md) winners is off-the-charts. The videos have transcripts on the description!
+
+TODO what is their affiliation/who is behind it? There is nothing on the website.
+
+[https://en.wikipedia.org/wiki/Web_of_Stories](https://en.wikipedia.org/wiki/Web_of_Stories) small wiki with almost no citations.
+
+## Pseudoscience
+
+↑ **Parent:** [Science](science.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Pseudoscience)
+
+### Faraday Institute for Science and Religion
+
+↑ **Parent:** [Pseudoscience](#pseudoscience)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Faraday_Institute_for_Science_and_Religion)
+
+## Science bibliography
+
+↑ **Parent:** [Science](science.md)
+
+### Nova (American TV program)
+
+↑ **Parent:** [Science bibliography](#science-bibliography)  
+🏷️ **Tags:** [Documentary film](film.md#documentary-film)
+
+They suffer extremely from [Section "To talk about something without giving the real name to not scare off the audience"](#to-talk-about-something-without-giving-the-real-name-to-not-scare-off-the-audience). But they also have merits.
+
+#### Nova episode
+
+↑ **Parent:** [Nova (American TV program)](#nova-american-tv-program)
+
+Good ones:
+- Moving Still (1980); development of [film](film.md) technology
+- Race for the [Superconductor](condensed-matter-physics.md#superconductivity) (1988): recounts the feeding frenzy for [high-temperature superconductivity](condensed-matter-physics.md#high-temperature-superconductivity) after the Swiss found a ceramic superconductor.
+- The Proof (1997): [Fermat's last theorem](formalization-of-mathematics.md#fermat-s-last-theorem) 
+- Absolute Zero: The Conquest of Cold (2008): [cryogenics](technology.md#cryogenics)
+
+Best one lists:
+- [https://www.reddit.com/r/Documentaries/comments/17ygzq/what_are_some_of_the_bestyour_favorite_nova/](https://www.reddit.com/r/Documentaries/comments/17ygzq/what_are_some_of_the_bestyour_favorite_nova/)
+- [https://www.reddit.com/r/askscience/comments/flced/what_are_the_best_episodes_or_seasons_of_nova_to/](https://www.reddit.com/r/askscience/comments/flced/what_are_the_best_episodes_or_seasons_of_nova_to/)
+
+##### The Race for the Double Helix (Nova)
+
+↑ **Parent:** [Nova episode](#nova-episode)
+
+## ↑ Ancestors (1)
+
+1. [Ciro Santilli's Homepage](README.md)
+
+## ← Incoming links (8)
+
+- [Agnosticism](religion.md#agnosticism)
+- [Cell biology (field)](cell.md#cell-biology-field)
+- [Explain how to make money with the lesson](how-to-teach.md#explain-how-to-make-money-with-the-lesson)
+- [Optics](photon.md#optics)
+- [Photonics](photon.md#photonics)
+- [Physics](physics.md)
+- [Veritasium](physics.md#veritasium)
+- [Videos of all key physics experiments](todo.md#videos-of-all-key-physics-experiments)
