@@ -1,0 +1,14 @@
+# Semantics
+
+↑ **Parent:** [Linguistics](linguistics-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Semantics)
+
+**Table of contents**
+
+- [Synonym](synonym.md)
+
+## ↑ Ancestors (3)
+
+1. [Linguistics](linguistics-split.md)
+2. [Science](science-split.md)
+3. [Ciro Santilli's Homepage](split.md)

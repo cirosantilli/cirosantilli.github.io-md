@@ -1,0 +1,52 @@
+# Sport
+
+↑ **Parent:** [Art](art-split.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Sport)
+
+See also [Ciro Santilli](ciro-santilli-split.md)'s critique of [rooting for sport teams](rooting-for-sport-teams-is-stupid.md).
+
+**Table of contents**
+
+- [Athlete](athlete.md)
+  - [Muhammad Ali](muhammad-ali.md)
+- [Type of sport](type-of-sport.md)
+  - [Martial art](martial-art.md)
+    - [Capoeira](capoeira.md)
+    - [Dojo](dojo.md)
+- [List of sports](list-of-sports.md)
+  - [Football](football.md)
+    - [Association football](association-football.md)
+    - [Football variant](football-variant.md)
+  - [Biathlon](biathlon.md)
+  - [Climbing](climbing.md)
+    - [Bouldering](bouldering.md)
+    - [Rock climbing](rock-climbing.md)
+    - [Beta (climbing)](beta-climbing.md)
+  - [Cycling](cycling.md)
+    - [Street reclamation](cycling.md#street-reclamation)
+      - [Cycling lobbying entity](cycling.md#cycling-lobbying-entity)
+        - [Not Just Bikes](cycling.md#not-just-bikes)
+        - [Cycling lobbying group](cycling.md#cycling-lobbying-group)
+          - [Critical mass (cycling)](cycling.md#critical-mass-cycling)
+          - [Reclaim the Streets](cycling.md#reclaim-the-streets)
+      - [Idaho stop](cycling.md#idaho-stop)
+  - [Cave diving](cave-diving.md)
+    - [Sidemount diving](sidemount-diving.md)
+    - [Rebreather diving](rebreather-diving.md)
+    - [Cave diver](cave-diver.md)
+      - [Edd Sorenson](edd-sorenson.md)
+  - [Golf](golf.md)
+  - [Hunting](hunting.md)
+  - [Hunt](hunt.md)
+  - [Skiing](skiing.md)
+- [Endurance sport](endurance-sport.md)
+  - [Endurance sport show](endurance-sport-show.md)
+    - [Mediocre Amateur](mediocre-amateur.md)
+  - [Endurance athlete](endurance-athlete.md)
+    - [Alex Honnold](alex-honnold.md)
+    - [Kilian Jornet Burgada](kilian-jornet-burgada.md)
+
+## ↑ Ancestors (2)
+
+1. [Art](art-split.md)
+2. [Ciro Santilli's Homepage](split.md)

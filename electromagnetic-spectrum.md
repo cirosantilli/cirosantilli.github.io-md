@@ -1,0 +1,41 @@
+# Electromagnetic spectrum
+
+↑ **Parent:** [Light](light.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+
+**Table of contents**
+
+- [Ionizing and non-ionizing radiation](ionizing-and-non-ionizing-radiation.md)
+  - [Ionizing radiation](ionizing-radiation.md)
+    - [Ionization of air by radiation ](ionization-of-air-by-radiation.md)
+  - [Non-ionizing radiation](non-ionizing-radiation.md)
+- [Very low frequency](very-low-frequency.md)
+- [Radio wave](radio-wave.md)
+  - [Microwave](microwave.md)
+    - [Ultra High Frequency](ultra-high-frequency.md)
+    - [Microwave source](microwave-source.md)
+      - [Klystron](klystron.md)
+      - [Cavity magnetron](cavity-magnetron.md)
+    - [Microwave transmission](microwave-transmission.md)
+      - [Microwave transmission for trading](microwave-transmission-for-trading.md)
+      - [Microwave vs radio wave transmission](microwave-vs-radio-wave-transmission.md)
+    - [Microwave oven](microwave-oven.md)
+- [Infrared](infrared.md)
+- [Visible spectrum](visible-spectrum.md)
+- [Ultraviolet](ultraviolet.md)
+- [X-ray](x-ray.md)
+  - [X-ray source](x-ray-source.md)
+    - [X-ray tube](x-ray-tube.md)
+
+## ↑ Ancestors (10)
+
+1. [Light](light.md)
+2. [Photon](photon-split.md)
+3. [Elementary particle](elementary-particle.md)
+4. [Subatomic particle](subatomic-particle.md)
+5. [Standard Model](standard-model-split.md)
+6. [Particle physics](particle-physics-split.md)
+7. [Physics](physics-split.md)
+8. [Natural science](natural-science.md)
+9. [Science](science-split.md)
+10. [Ciro Santilli's Homepage](split.md)

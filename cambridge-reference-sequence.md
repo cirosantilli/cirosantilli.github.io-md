@@ -1,0 +1,63 @@
+# Cambridge Reference Sequence
+
+↑ **Parent:** [Human mtDNA](human-mtdna.md)  
+🏷️ **Tags:** [Human genome sequencing project](human-genome-sequencing-project.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Cambridge_Reference_Sequence)
+
+By [Fred Sanger](frederick-sanger.md)'s group.
+
+Published as: [sequence and organization of the human mitochondrial genome by Sanger et al. (1981)](sequence-and-organization-of-the-human-mitochondrial-genome-by-sanger-et-al-1981.md).
+
+**Table of contents**
+
+- [Sequence and organization of the human mitochondrial genome by Sanger et al. (1981)](sequence-and-organization-of-the-human-mitochondrial-genome-by-sanger-et-al-1981.md)
+
+## ↑ Ancestors (41)
+
+1. [Human mtDNA](human-mtdna.md)
+2. [Human genome](human-genome.md)
+3. [Human molecular biology](human-molecular-biology.md)
+4. [Human body](human-body.md)
+5. [Human](human-split.md)
+6. [Australopithecine](australopithecine.md)
+7. [Ape subclade](ape-subclade.md)
+8. [Ape](ape.md)
+9. [Simian subclade](simian-subclade.md)
+10. [Simian](simian.md)
+11. [Primate subclade](primate-subclade.md)
+12. [Primate](primate.md)
+13. [Euarchontoglires subclade](euarchontoglires-subclade.md)
+14. [Euarchontoglires](euarchontoglires.md)
+15. [Placentalia subclade](placentalia-subclade.md)
+16. [Placentalia](placentalia.md)
+17. [Theria subclade](theria-subclade.md)
+18. [Theria](theria.md)
+19. [Mammal subclade](mammal-subclade.md)
+20. [Mammal](mammal.md)
+21. [Synapsid subclade](synapsid-subclade.md)
+22. [Synapsid](synapsid.md)
+23. [Amniote subclade](amniote-subclade.md)
+24. [Amniote](amniote.md)
+25. [Tetrapod subclade](tetrapod-subclade.md)
+26. [Tetrapod](tetrapod.md)
+27. [Fish subclade](fish-subclade.md)
+28. [Fish](fish.md)
+29. [Vertebrate](vertebrate.md)
+30. [Chordate subclade](chordate-subclade.md)
+31. [Chordate](chordate.md)
+32. [Animal subclade](animal-subclade.md)
+33. [Animal](animal.md)
+34. [Eukarya subclade](eukarya-subclade.md)
+35. [Eukaryote](eukaryote.md)
+36. [Species](species.md)
+37. [Taxonomy](taxonomy-split.md)
+38. [Biology](biology-split.md)
+39. [Natural science](natural-science.md)
+40. [Science](science-split.md)
+41. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (3)
+
+- [DNA sequencing milestone](dna-sequencing-milestone.md)
+- [Human Genome Project](human-genome-project.md)
+- [Human mtDNA](human-mtdna.md)

@@ -1,0 +1,21 @@
+# Klystron
+
+↑ **Parent:** [Microwave source](microwave-source.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Klystron)
+
+## ↑ Ancestors (14)
+
+1. [Microwave source](microwave-source.md)
+2. [Microwave](microwave.md)
+3. [Radio wave](radio-wave.md)
+4. [Electromagnetic spectrum](electromagnetic-spectrum.md)
+5. [Light](light.md)
+6. [Photon](photon-split.md)
+7. [Elementary particle](elementary-particle.md)
+8. [Subatomic particle](subatomic-particle.md)
+9. [Standard Model](standard-model-split.md)
+10. [Particle physics](particle-physics-split.md)
+11. [Physics](physics-split.md)
+12. [Natural science](natural-science.md)
+13. [Science](science-split.md)
+14. [Ciro Santilli's Homepage](split.md)
