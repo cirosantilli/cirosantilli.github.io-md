@@ -1,0 +1,31 @@
+<h1 id="op-return">OP_RETURN</h1>
+
+↑ **Parent:** [Bitcoin script operator](bitcoin-script-operator.md)  
+🏷️ **Tags:** [Bitcoin inscription method](bitcoin-inscription-method.md)
+
+`OP_RETURN` HOWTO:
+- [https://bitcoin.stackexchange.com/questions/25224/what-is-a-step-by-step-way-to-insert-data-in-op-return](https://bitcoin.stackexchange.com/questions/25224/what-is-a-step-by-step-way-to-insert-data-in-op-return)
+
+## ↑ Ancestors (12)
+
+1. [Bitcoin script operator](bitcoin-script-operator.md)
+2. [Bitcoin script](bitcoin-script.md)
+3. [How Bitcoin works](how-bitcoin-works.md)
+4. [Bitcoin](bitcoin.md)
+5. [List of cryptocurrencies](list-of-cryptocurrencies.md)
+6. [Cryptocurrency](cryptocurrency-split.md)
+7. [Blockchain](blockchain.md)
+8. [Money](money.md)
+9. [Social technology](social-technology-split.md)
+10. [Area of technology](area-of-technology.md)
+11. [Technology](technology-split.md)
+12. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (6)
+
+- [5660d06bd69326c18ec63127b37fb3b32ea763c3846b3334c51beb6a800c57d3](5660d06bd69326c18ec63127b37fb3b32ea763c3846b3334c51beb6a800c57d3.md)
+- [ASCII art](cool-data-embedded-in-the-bitcoin-blockchain/ascii-art.md)
+- [Eternity Wall](cool-data-embedded-in-the-bitcoin-blockchain/eternity-wall.md)
+- [Raw images](cool-data-embedded-in-the-bitcoin-blockchain/raw-images.md)
+- [Rickrolling](cool-data-embedded-in-the-bitcoin-blockchain/rickrolling.md)
+- [History of Bitcoin](history-of-bitcoin.md)

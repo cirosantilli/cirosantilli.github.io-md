@@ -1,0 +1,27 @@
+# Global warming
+
+↑ **Parent:** [Climate change](climate-change.md)
+
+## ↑ Ancestors (17)
+
+1. [Climate change](climate-change.md)
+2. [Climatology](climatology.md)
+3. [Atmospheric science](atmospheric-science.md)
+4. [Earth science](earth-science.md)
+5. [Earth](earth.md)
+6. [Planet in the Solar System](planet-in-the-solar-system.md)
+7. [Solar System](solar-system.md)
+8. [Orion Arm](orion-arm.md)
+9. [Arm of the Milky Way](arm-of-the-milky-way.md)
+10. [Milky Way](milky-way.md)
+11. [Local group](local-group.md)
+12. [Virgo Supercluster](virgo-supercluster.md)
+13. [Universe](universe.md)
+14. [Astronomy](astronomy-split.md)
+15. [Natural science](natural-science.md)
+16. [Science](science-split.md)
+17. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Interesting AtomSea & EMBII uploads](cool-data-embedded-in-the-bitcoin-blockchain/interesting-atomsea-and-embii-uploads.md)

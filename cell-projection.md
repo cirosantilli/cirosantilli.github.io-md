@@ -1,0 +1,20 @@
+# Cell projection
+
+↑ **Parent:** [Organelle](organelle.md)
+
+One of several things that can stick out of a cell, e.g. [flagellum](flagellum.md) or an [axon](axon.md).
+
+## ↑ Ancestors (8)
+
+1. [Organelle](organelle.md)
+2. [Cell structure](cell-structure.md)
+3. [Cell](cell-split.md)
+4. [Level of organization of bodies](level-of-organization-of-bodies.md)
+5. [Biology](biology-split.md)
+6. [Natural science](natural-science.md)
+7. [Science](science-split.md)
+8. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (1)
+
+- [Source code overview](e-coli-whole-cell-model-by-covert-lab/source-code-overview.md)

@@ -1,0 +1,62 @@
+# Human Genome Project
+
+↑ **Parent:** [Human genome sequencing project](human-genome-sequencing-project.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Human_Genome_Project)
+
+As mentioned by [Craig Venter](craig-venter.md) in [100 Greatest Discoveries by the Discovery Channel (2004-2005)](100-greatest-discoveries-by-the-discovery-channel-2004-2005.md), the main outcomes of the project were:
+- it established the ballpark number of [human genes](human-genome.md)
+- showed that human genomes are very similar across individuals.
+
+Important predecessors:
+- 1981: [Cambridge Reference Sequence](cambridge-reference-sequence.md)
+
+## ↑ Ancestors (41)
+
+1. [Human genome sequencing project](human-genome-sequencing-project.md)
+2. [Human genome](human-genome.md)
+3. [Human molecular biology](human-molecular-biology.md)
+4. [Human body](human-body.md)
+5. [Human](human-split.md)
+6. [Australopithecine](australopithecine.md)
+7. [Ape subclade](ape-subclade.md)
+8. [Ape](ape.md)
+9. [Simian subclade](simian-subclade.md)
+10. [Simian](simian.md)
+11. [Primate subclade](primate-subclade.md)
+12. [Primate](primate.md)
+13. [Euarchontoglires subclade](euarchontoglires-subclade.md)
+14. [Euarchontoglires](euarchontoglires.md)
+15. [Placentalia subclade](placentalia-subclade.md)
+16. [Placentalia](placentalia.md)
+17. [Theria subclade](theria-subclade.md)
+18. [Theria](theria.md)
+19. [Mammal subclade](mammal-subclade.md)
+20. [Mammal](mammal.md)
+21. [Synapsid subclade](synapsid-subclade.md)
+22. [Synapsid](synapsid.md)
+23. [Amniote subclade](amniote-subclade.md)
+24. [Amniote](amniote.md)
+25. [Tetrapod subclade](tetrapod-subclade.md)
+26. [Tetrapod](tetrapod.md)
+27. [Fish subclade](fish-subclade.md)
+28. [Fish](fish.md)
+29. [Vertebrate](vertebrate.md)
+30. [Chordate subclade](chordate-subclade.md)
+31. [Chordate](chordate.md)
+32. [Animal subclade](animal-subclade.md)
+33. [Animal](animal.md)
+34. [Eukarya subclade](eukarya-subclade.md)
+35. [Eukaryote](eukaryote.md)
+36. [Species](species.md)
+37. [Taxonomy](taxonomy-split.md)
+38. [Biology](biology-split.md)
+39. [Natural science](natural-science.md)
+40. [Science](science-split.md)
+41. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (4)
+
+- [100 Greatest Discoveries by the Discovery Channel (2004-2005)](100-greatest-discoveries-by-the-discovery-channel-2004-2005.md)
+- [DNA sequencing milestone](dna-sequencing-milestone.md)
+- [Microscopy connectome extraction](microscopy-connectome-extraction.md)
+- [Transcendence (2014)](transcendence-2014.md)

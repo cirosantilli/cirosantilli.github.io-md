@@ -1,0 +1,50 @@
+# Free license
+
+↑ **Parent:** [License](license.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Free_license)
+
+**Table of contents**
+
+- [Open license](open-license.md)
+- [Creative Commons license](creative-commons-license.md)
+  - [CC0](cc0.md)
+  - [CC BY](cc-by.md)
+    - [CC BY version](cc-by-version.md)
+      - [CC BY 4.0](cc-by-4-0.md)
+      - [CC BY 3.0](cc-by-3-0.md)
+  - [CC BY-SA](cc-by-sa.md)
+    - [CC BY-SA 4.0](cc-by-sa-4-0.md)
+  - [CC BY-NC-SA](cc-by-nc-sa.md)
+    - [CC BY-NC-SA version](cc-by-nc-sa-version.md)
+      - [CC BY-NC-SA 2.0](cc-by-nc-sa-2-0.md)
+      - [CC BY-NC-SA 4.0](cc-by-nc-sa-4-0.md)
+    - [CC BY-NC-ND](cc-by-nc-nd.md)
+      - [CC BY-NC-ND 4.0](cc-by-nc-nd-4-0.md)
+        - [CC BY-NC-ND 4.0 table of contents](cc-by-nc-nd-4-0-table-of-contents.md)
+- [GNU Free Documentation License](gnu-free-documentation-license.md)
+- [Public domain](public-domain.md)
+  - [Public domain dedication](public-domain-dedication.md)
+    - [Unlicense](unlicense.md)
+  - [Public domain in the United States](public-domain-in-the-united-states.md)
+  - [Public domain by year](public-domain-by-year.md)
+    - [Public domain scientific paper by year](public-domain-scientific-paper-by-year.md)
+    - [Public Domain Day](public-domain-day.md)
+  - [Public domain archive](public-domain-archive.md)
+    - [Project Gutenberg](project-gutenberg.md)
+      - [Project Gutenberg remove line breaks](project-gutenberg-remove-line-breaks.md)
+    - [Wikisource](wikisource.md)
+
+## ↑ Ancestors (6)
+
+1. [License](license.md)
+2. [Law](law-split.md)
+3. [Social technology](social-technology-split.md)
+4. [Area of technology](area-of-technology.md)
+5. [Technology](technology-split.md)
+6. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (3)
+
+- [LibreTexts](libretexts.md)
+- [Existing data sources](ourbigbook-com/existing-data-sources.md)
+- [Quanta Magazine](quanta-magazine.md)

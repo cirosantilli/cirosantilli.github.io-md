@@ -1,0 +1,50 @@
+# Magnet
+
+↑ **Parent:** [Material property](material-property.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Magnet)
+
+**Table of contents**
+
+- [Permanent magnet](permanent-magnet.md)
+  - [Curie temperature](curie-temperature.md)
+  - [Ferromagnetism](ferromagnetism.md)
+    - [Magnetic hysteresis](magnetic-hysteresis.md)
+      - [Saturation magnetisation](saturation-magnetisation.md)
+- [Electromagnet](electromagnet.md)
+  - [Electromagnetic coil](electromagnetic-coil.md)
+  - [Solenoid](solenoid.md)
+  - [Lifting electromagnet](lifting-electromagnet.md)
+    - [Breaking Bad magnet scene](breaking-bad-magnet-scene.md)
+- [Ising model](ising-model.md)
+  - [Solution of the Ising model](solution-of-the-ising-model.md)
+  - [1D Ising model](1d-ising-model.md)
+  - [2D Ising model](2d-ising-model.md)
+  - [3D Ising model](3d-ising-model.md)
+- [Magnetic dipole](magnetic-dipole.md)
+  - [Magnetic dipole moment](magnetic-dipole-moment.md)
+  - [Interaction between a magnetic dipole and a magnetic field](interaction-between-a-magnetic-dipole-and-a-magnetic-field.md)
+    - [Interaction between a magnetic dipole and a homogenous magnetic field](interaction-between-a-magnetic-dipole-and-a-homogenous-magnetic-field.md)
+    - [Magnetic dipole in an inhomogenous magnetic field](magnetic-dipole-in-an-inhomogenous-magnetic-field.md)
+- [Compass](compass.md)
+  - [Water compass](water-compass.md)
+- [Superconducting magnet](superconducting-magnet.md)
+  - [Superconducting magnet vendor](superconducting-magnet-vendor.md)
+    - [Oxford Instruments](oxford-instruments.md)
+  - [High temperature superconductor superconducting magnet](high-temperature-superconductor-superconducting-magnet.md)
+
+## ↑ Ancestors (7)
+
+1. [Material property](material-property.md)
+2. [Materials science](materials-science.md)
+3. [Condensed matter physics](condensed-matter-physics-split.md)
+4. [Physics](physics-split.md)
+5. [Natural science](natural-science.md)
+6. [Science](science-split.md)
+7. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (4)
+
+- [Electromagnet](electromagnet.md)
+- [Ising model](ising-model.md)
+- [Magnetic dipole](magnetic-dipole.md)
+- [SQUID device](squid-device.md)

@@ -1,0 +1,19 @@
+# Internet culture
+
+↑ **Parent:** [Internet](internet.md)
+
+**Table of contents**
+
+- [Online poll](online-poll.md)
+  - [Online poll disaster](online-poll-disaster.md)
+    - [Boaty McBoatface](boaty-mcboatface.md)
+
+## ↑ Ancestors (7)
+
+1. [Internet](internet.md)
+2. [Computer network](computer-network.md)
+3. [Computer](computer-split.md)
+4. [Information technology](information-technology.md)
+5. [Area of technology](area-of-technology.md)
+6. [Technology](technology-split.md)
+7. [Ciro Santilli's Homepage](split.md)

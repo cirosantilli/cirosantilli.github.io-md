@@ -1,0 +1,43 @@
+# Sensor
+
+↑ **Parent:** [Area of technology](area-of-technology.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Sensor)
+
+**Table of contents**
+
+- [Microscopy](microscopy.md)
+  - [Diffraction limit](microscopy.md#diffraction-limit)
+  - [Type of microscopy](microscopy.md#type-of-microscopy)
+    - [Electron microscope](microscopy.md#electron-microscope)
+      - [TEM vs SEM](microscopy.md#tem-vs-sem)
+      - [Scanning electron microscope](microscopy.md#scanning-electron-microscope)
+      - [Scanning tunnelling microscope](microscopy.md#scanning-tunnelling-microscope)
+      - [Transmission electron microscopy](microscopy.md#transmission-electron-microscopy)
+        - [Scanning transmission electron microscopy](microscopy.md#scanning-transmission-electron-microscopy)
+        - [Electron holography](microscopy.md#electron-holography)
+      - [Cryogenic electron microscopy](microscopy.md#cryogenic-electron-microscopy)
+    - [Fluorescence microscope](microscopy.md#fluorescence-microscope)
+      - [Super-resolution microscopy](microscopy.md#super-resolution-microscopy)
+        - [STED microscopy](microscopy.md#sted-microscopy)
+    - [Optical microscope](microscopy.md#optical-microscope)
+      - [Leeuwenhoek microscope](microscopy.md#leeuwenhoek-microscope)
+    - [Phase-contrast microscopy](microscopy.md#phase-contrast-microscopy)
+    - [Two-photon excitation microscopy](microscopy.md#two-photon-excitation-microscopy)
+    - [X-ray crystallography](microscopy.md#x-ray-crystallography)
+      - [X-ray diffraction](microscopy.md#x-ray-diffraction)
+      - [Powder vs single crystal X-ray crystallography](microscopy.md#powder-vs-single-crystal-x-ray-crystallography)
+      - [Lab vs cyclotron X-ray crystallography](microscopy.md#lab-vs-cyclotron-x-ray-crystallography)
+      - [History of X-ray crystallography](microscopy.md#history-of-x-ray-crystallography)
+      - [Electron crystallography](microscopy.md#electron-crystallography)
+  - [Microscopy bibliography](microscopy.md#microscopy-bibliography)
+    - [Microscopy YouTube channel](microscopy.md#microscopy-youtube-channel)
+      - [Microscope Project (YouTube channel)](microscopy.md#microscope-project-youtube-channel)
+      - [Sci-Inspi (YouTube channel)](microscopy.md#sci-inspi-youtube-channel)
+- [Tomography](tomography.md)
+  - [Muon tomography](muon-tomography.md)
+
+## ↑ Ancestors (3)
+
+1. [Area of technology](area-of-technology.md)
+2. [Technology](technology-split.md)
+3. [Ciro Santilli's Homepage](split.md)

@@ -1,0 +1,12 @@
+# Theoretical physics
+
+↑ **Parent:** [Experimental physics](experimental-physics.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Theoretical_physics)
+
+## ↑ Ancestors (5)
+
+1. [Experimental physics](experimental-physics.md)
+2. [Physics](physics-split.md)
+3. [Natural science](natural-science.md)
+4. [Science](science-split.md)
+5. [Ciro Santilli's Homepage](split.md)

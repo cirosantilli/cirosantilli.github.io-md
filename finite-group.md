@@ -1,0 +1,48 @@
+# Finite group
+
+↑ **Parent:** [Group](group-split.md)  
+🏷️ **Tags:** [Finite algebraic structure](finite-algebraic-structure.md)
+
+**Table of contents**
+
+- [Classification of finite groups](classification-of-finite-groups.md)
+  - [List of finite groups](list-of-finite-groups.md)
+    - [GroupNames](groupnames.md)
+  - [Classification of finite simple groups](classification-of-finite-simple-groups.md)
+    - [Group of Lie type](group-of-lie-type.md)
+      - [Chevalley group](chevalley-group.md)
+        - [Chevalley groups $A_n(q)$](chevalley-groups-a-n-q.md)
+    - [Sporadic group](sporadic-group.md)
+      - [Mathieu group](mathieu-group.md)
+        - [k-transitive group](k-transitive-group.md)
+          - [Classification of k-transitive groups](classification-of-k-transitive-groups.md)
+            - [2-transitive group](2-transitive-group.md)
+              - [Classification of 2-transitive groups](classification-of-2-transitive-groups.md)
+            - [Classification of 3-transitive groups](classification-of-3-transitive-groups.md)
+            - [Classification of 4-transitive groups](classification-of-4-transitive-groups.md)
+            - [Classification of 5-transitive groups](classification-of-5-transitive-groups.md)
+            - [Classification of 6-transitive groups](classification-of-6-transitive-groups.md)
+        - [Mathieu group $M_{11}$](mathieu-group-m-11.md)
+        - [Mathieu group $M_{12}$](mathieu-group-m-12.md)
+        - [Mathieu group $M_{22}$](mathieu-group-m-22.md)
+        - [Mathieu group $M_{23}$](mathieu-group-m-23.md)
+        - [Mathieu group $M_{24}$](mathieu-group-m-24.md)
+      - [Janko group](janko-group.md)
+      - [Monster group](monster-group.md)
+        - [Monstrous moonshine](monstrous-moonshine.md)
+    - [Jordan-Holder Theorem](jordan-holder-theorem.md)
+    - [Composition series](composition-series.md)
+  - [Group extension problem](group-extension-problem.md)
+
+## ↑ Ancestors (5)
+
+1. [Group](group-split.md)
+2. [Algebra](algebra-split.md)
+3. [Area of mathematics](area-of-mathematics.md)
+4. [Mathematics](mathematics-split.md)
+5. [Ciro Santilli's Homepage](split.md)
+
+## ← Incoming links (2)
+
+- [Cycle of an element of a group](cycle-of-an-element-of-a-group.md)
+- [Finite algebraic structure](finite-algebraic-structure.md)

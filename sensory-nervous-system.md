@@ -1,0 +1,23 @@
+# Sensory nervous system
+
+↑ **Parent:** [Nervous system](nervous-system.md)  
+ⓦ [Wiki](https://en.wikipedia.org/wiki/Sensory_nervous_system)
+
+**Table of contents**
+
+- [Sense](sense.md)
+  - [Audition](audition.md)
+  - [Olfactory system](olfactory-system.md)
+    - [Smell](smell.md)
+  - [Vision](vision.md)
+
+## ↑ Ancestors (8)
+
+1. [Nervous system](nervous-system.md)
+2. [List of anatomical systems](list-of-anatomical-systems.md)
+3. [System (anatomy)](system-anatomy.md)
+4. [Level of organization of bodies](level-of-organization-of-bodies.md)
+5. [Biology](biology-split.md)
+6. [Natural science](natural-science.md)
+7. [Science](science-split.md)
+8. [Ciro Santilli's Homepage](split.md)
